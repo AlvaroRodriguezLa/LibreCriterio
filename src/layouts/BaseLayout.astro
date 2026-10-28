@@ -1,9 +1,11 @@
 ---
 import '../styles/global.css';
+import '../styles/reader.css';
+import BookManifest from '../components/BookManifest.astro';
 import { siteConfig } from '../config/site';
 import { sitePath } from '../lib/content';
-interface Props { title?:string; description?:string; canonical?:string; socialImage?:string; }
-const {title=siteConfig.name,description=siteConfig.description,canonical,socialImage}=Astro.props;
+interface Props { title?:string; description?:string; canonical?:string; socialImage?:string; reader?:boolean; }
+const {title=siteConfig.name,description=siteConfig.description,canonical,socialImage,reader=false}=Astro.props;
 const fullTitle=title===siteConfig.name?title:`${title} · ${siteConfig.name}`;
 const canonicalUrl=canonical||new URL(Astro.url.pathname,Astro.site||siteConfig.baseUrl).toString();
 const image=new URL(socialImage||sitePath('/social/home.png'),Astro.site||siteConfig.baseUrl).toString();
@@ -12,9 +14,12 @@ const image=new URL(socialImage||sitePath('/social/home.png'),Astro.site||siteCo
 <html lang="es"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width"/><meta name="theme-color" content="#ece9e1"/>
 <title>{fullTitle}</title><meta name="description" content={description}/><link rel="canonical" href={canonicalUrl}/>
 <meta property="og:type" content={Astro.url.pathname.includes('/articulos/')?'article':'website'}/><meta property="og:title" content={fullTitle}/><meta property="og:description" content={description}/><meta property="og:url" content={canonicalUrl}/><meta property="og:image" content={image}/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content={fullTitle}/><meta name="twitter:description" content={description}/><meta name="twitter:image" content={image}/>
-<link rel="icon" href={sitePath('/favicon.svg')} type="image/svg+xml"/><link rel="stylesheet" href={sitePath('/article-blocks.css')}/><link rel="alternate" type="application/rss+xml" title="Libre Criterio" href={sitePath('/rss.xml')}/><slot name="head"/></head>
-<body><a class="skip-link" href="#contenido">Ir al contenido</a>
-<header class="site-header wrapper"><a class="wordmark" href={sitePath('/')} aria-label="Libre Criterio, inicio"><span class="brand-icon" aria-hidden="true">↗</span> LIBRE CRITERIO<span class="brand-sub">CUADERNOS DE LIBERTAD</span></a><nav aria-label="Navegación principal"><a href={sitePath('/archivo/')}>Ensayos</a><a href={sitePath('/rutas/')}>Por dónde empezar</a><a href={sitePath('/biblioteca/')}>Biblioteca</a><a href={sitePath('/laboratorio/')}>Laboratorio</a></nav></header>
+<link rel="icon" href={sitePath('/favicon.svg')} type="image/svg+xml"/><link rel="stylesheet" href={sitePath('/article-blocks.css')}/><link rel="alternate" type="application/rss+xml" title="Libre Criterio" href={sitePath('/rss.xml')}/><script is:inline>
+try{const p=JSON.parse(localStorage.getItem('lc.reader.preferences.v1')||'{}')||{};if(['paper','light','dark'].includes(p.theme))document.documentElement.dataset.readerTheme=p.theme;if(['serif','sans'].includes(p.font))document.documentElement.dataset.readerFont=p.font;if([18,20,22,24].includes(Number(p.size)))document.documentElement.style.setProperty('--reader-font-size',Number(p.size)+'px');document.documentElement.dataset.readerFocus=p.focus===true?'true':'false';}catch{}
+</script><slot name="head"/></head>
+<body class:list={[{'reader-page':reader}]}><a class="skip-link" href="#contenido">Ir al contenido</a>
+<header class="site-header wrapper"><a class="wordmark" href={sitePath('/')} aria-label="Libre Criterio, inicio"><span class="brand-icon" aria-hidden="true">↗</span> LIBRE CRITERIO<span class="brand-sub">CUADERNOS DE LIBERTAD</span></a><nav aria-label="Navegación principal"><a href={sitePath('/archivo/')}>Por temas</a><a href={sitePath('/rutas/')}>El libro</a><a href={sitePath('/biblioteca/')}>Biblioteca</a><a href={sitePath('/laboratorio/')}>Laboratorio</a></nav></header>
 <main id="contenido"><slot/></main>
 <footer class="site-footer wrapper"><div><a class="wordmark" href={sitePath('/')}>LIBRE CRITERIO ↗</a><p>La libertad también se piensa.</p></div><div><a href={sitePath('/metodo/')}>Criterio editorial</a><a href={sitePath('/expedientes/')}>Memoria del poder</a><a href={sitePath('/glosario/')}>Glosario</a><a href={sitePath('/agenda/')}>Próximas preguntas</a><a href={sitePath('/rss.xml')}>RSS</a></div><p>Ensayo, interpretación y evidencia.<br/>© {new Date().getFullYear()} · Álvaro Rodríguez</p></footer>
-</body></html>
+<BookManifest/></body></html>
+<script>import '../scripts/reader';</script>

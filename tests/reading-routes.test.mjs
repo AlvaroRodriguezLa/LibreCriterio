@@ -1,23 +1,24 @@
 import assert from 'node:assert/strict';
-import {readFile} from 'node:fs/promises';
-import {getReadingSteps,selectReadingRoute} from '../src/lib/reading-routes.mjs';
-const routes=JSON.parse(await readFile('src/data/routes.json','utf8'));
-const ids=new Set();
-for(const route of routes){
- assert.ok(!ids.has(route.id),'Identificador de ruta duplicado');ids.add(route.id);
- assert.equal(new Set(route.slugs).size,route.slugs.length,'Paso duplicado');
- for(const [index,slug] of route.slugs.entries()){
-  const current=selectReadingRoute(getReadingSteps(routes,slug),route.id);
-  assert.equal(current.step,index+1);assert.equal(current.total,route.slugs.length);
-  assert.equal(current.previous,route.slugs[index-1]||null);
-  assert.equal(current.next,route.slugs[index+1]||null);
-  if(current.next){const next=selectReadingRoute(getReadingSteps(routes,current.next),route.id);assert.equal(next.previous,slug,'La ruta debe poder recorrerse en ambas direcciones');}
- }
+import {readFile,readdir} from 'node:fs/promises';
+import {buildBook,getBookChapter,readingWords,estimateReadingTime} from '../src/lib/reading-book.mjs';
+const parts=JSON.parse(await readFile('src/data/routes.json','utf8'));
+const bridges=JSON.parse(await readFile('src/data/chapter-bridges.json','utf8'));
+const chapters=buildBook(parts);
+assert.equal(parts.length,5);assert.equal(chapters.length,29);
+assert.equal(new Set(chapters.map(c=>c.slug)).size,chapters.length);
+assert.deepEqual(new Set(chapters.map(c=>c.slug+'.md')),new Set((await readdir('src/content/articles')).filter(f=>f.endsWith('.md'))),'Cada ensayo aparece exactamente una vez');
+for(const [index,chapter] of chapters.entries()){
+ assert.equal(chapter.number,index+1);assert.equal(chapter.total,29);
+ assert.equal(chapter.previous,chapters[index-1]?.slug||null);assert.equal(chapter.next,chapters[index+1]?.slug||null);
+ assert.equal(getBookChapter(parts,chapter.slug).number,index+1);
+ assert.ok(bridges[chapter.slug]?.length>40,'Falta transición hacia el siguiente capítulo');
+ if(chapter.next)assert.equal(getBookChapter(parts,chapter.next).previous,chapter.slug);
 }
-const first=getReadingSteps(routes,routes[0].slugs[0]);
-assert.equal(first[0].next,'un-contrato-que-nadie-puede-rechazar');
-assert.equal(selectReadingRoute(first,'ruta-inexistente'),first[0]);
-assert.equal(selectReadingRoute([],null),null);
-const shared=[{id:'01',title:'Una',slugs:['inicio','compartido','fin']},{id:'02',title:'Otra',slugs:['compartido','otro-final']}];
-assert.equal(selectReadingRoute(getReadingSteps(shared,'compartido'),'02').next,'otro-final','Una entrada compartida debe conservar el recorrido elegido');
-console.log('Rutas: avance, retroceso, final y contexto válido e inválido comprobados');
+assert.equal(getBookChapter(parts,'no-existe'),null);
+for(let i=0;i<parts.length-1;i++){assert.equal(getBookChapter(parts,parts[i].slugs.at(-1)).next,parts[i+1].slugs[0],'Continuidad entre partes');}
+const fence=String.fromCharCode(96).repeat(3);
+const prose='Un argumento en cinco palabras.';
+assert.equal(readingWords(prose),5);
+assert.equal(readingWords(prose+'\n'+fence+'oneshot\n'+JSON.stringify({many:'values with words'})+'\n'+fence+'\n## Lecturas y fuentes\nMuchísimas notas que no son parte del tiempo de lectura.'),5);
+assert.equal(estimateReadingTime('palabra '.repeat(401)),3);
+console.log('Libro: 29 capítulos únicos, cinco partes, continuidad global y tiempo sin notas ni JSON comprobados');

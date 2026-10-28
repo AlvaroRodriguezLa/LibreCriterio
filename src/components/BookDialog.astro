@@ -1,0 +1,7 @@
+---
+import parts from '../data/routes.json';
+import {buildBook} from '../lib/reading-book.mjs';
+import {articlePath} from '../lib/content';
+const {slug,articles}=Astro.props;const chapters=buildBook(parts);const current=chapters.find(c=>c.slug===slug);
+---
+<dialog id="book-dialog" class="book-dialog" aria-labelledby="book-dialog-title"><div class="book-dialog-header"><h2 id="book-dialog-title">El libro completo</h2><button type="button" data-close-book aria-label="Cerrar índice">Cerrar ×</button></div><nav aria-label="Índice completo del libro">{parts.map((part,i)=><details open={part.id===current?.partId}><summary><span>PARTE {i+1}</span><strong>{part.title}</strong></summary><ol>{chapters.filter(c=>c.partId===part.id).map(c=><li><a href={articlePath(c.slug)} aria-current={c.slug===slug?'page':undefined}><span>{String(c.number).padStart(2,'0')}</span>{articles.find((a:any)=>a.data.slug===c.slug)?.data.title}</a></li>)}</ol></details>)}</nav></dialog>

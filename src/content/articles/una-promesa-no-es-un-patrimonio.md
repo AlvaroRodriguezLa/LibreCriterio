@@ -7,7 +7,7 @@ image: "/images/una-promesa-no-es-un-patrimonio.svg"
 imageAlt: "Ilustración conceptual: Una promesa no es un patrimonio"
 category: "Fiscalidad"
 tags: ["Fiscalidad","libertad"]
-order: 20
+order: 21
 satellites: []
 thesis: "Una prestación prometida no equivale a un patrimonio que puedas decidir cómo utilizar."
 related: ["pensiones-el-puente-entre-generaciones","el-capital-que-no-llega-a-nacer","redistribuir-no-es-solo-repartir"]
@@ -20,9 +20,9 @@ imageFit: "contain"
 
 ## El futuro que no puedes elegir
 
-Una persona puede dedicar décadas a prepararse para la vejez y descubrir que no posee lo que creía haber acumulado. Ha pagado, pero el dinero ya se utilizó. Lo que conserva es una expectativa de prestación sometida a unas reglas que otras personas podrán cambiar.
+Has pagado durante décadas y necesitas dinero para una urgencia familiar. Descubres que no puedes retirar una parte de lo aportado: ya se utilizó para pagar prestaciones. Conservas un derecho conforme a unas reglas, no una cuenta a tu disposición.
 
-La diferencia entre una promesa y un patrimonio atraviesa mucho más que una técnica financiera. Un patrimonio puede ayudar a emprender, afrontar una emergencia, sostener a alguien cercano o dejar una herencia. Una prestación tiene condiciones, calendario y un pagador del que dependes.
+Una prestación tiene condiciones, calendario y un pagador. Un patrimonio permite también emprender, ayudar antes de la jubilación o dejar una herencia. La diferencia se nota cuando necesitas hacer algo distinto de esperar el próximo ingreso.
 
 **Proteger a alguien no debería exigir convertirlo en una persona permanentemente tutelada.** Una institución puede entregar una ayuda útil y, al mismo tiempo, restringir la posibilidad de organizar una vida distinta. El beneficio no hace desaparecer esa pérdida de elección.
 
@@ -40,7 +40,7 @@ Un margen de ahorro permite decir no a un mal empleo, afrontar una enfermedad o 
 
 Cuando las cargas obligatorias consumen ese margen, el perjuicio no se limita a una compra aplazada. Puede impedir que llegue a existir la reserva desde la que una persona habría ganado autonomía. El dinero extraído se ve en un presupuesto; la independencia que no llegó a construirse no tiene una casilla equivalente.
 
-La capacidad de ahorrar depende de ingresos, precios, necesidades y muchas otras condiciones. No todo hogar podrá sostener por sí solo una vejez digna. Reconocerlo invita a diseñar seguros, ayuda mutua y protección para situaciones concretas; no convierte automáticamente a toda la población en incapaz de elegir.
+No todos los hogares pueden reunir una reserva suficiente. Los seguros y la ayuda mutua deben atender esa dificultad sin convertirla en una incapacidad atribuida a toda la población.
 
 ## Dos relaciones distintas con el mañana
 
@@ -50,35 +50,13 @@ Ninguna fórmula elimina la necesidad de que en el futuro existan alimentos, viv
 
 Elegir exige conocer esa diferencia. Presentar una cotización como dinero guardado para ti confunde el pago realizado con el bien que podrás reclamar. Presentar una inversión como garantía absoluta de renta comete otro error: ningún nombre hace desaparecer los riesgos.
 
-## Seguir el documental, paso a paso
-
-La primera entrega de **«Ni es justicia ni es social»** (Value School, 2021) trata las pensiones. Los minutos enlazan al vídeo original.
-
-| Minuto | Paso del argumento |
-| --- | --- |
-| [0:35](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=35s) | La justicia social como legitimación del crecimiento del poder. |
-| [2:22](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=142s) | Las pensiones ocupan el centro de la promesa protectora. |
-| [3:17](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=197s) | Reparto y capitalización: pagar hoy o acumular activos. |
-| [4:28](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=268s) | Origen político de los seguros sociales y dependencia. |
-| [7:21](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=441s) | Cotizar no equivale a guardar dinero en una cuenta propia. |
-| [10:24](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=624s) | Historia española y sustitución de la capitalización. |
-| [12:58](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=778s) | La reserva y sus vínculos con las cuentas estatales. |
-| [15:02](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=902s) | Menos ahorro, menos capital y menor autonomía familiar. |
-| [18:55](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=1135s) | Coste de cotizar y ejemplo de ahorro alternativo. |
-| [24:07](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=1447s) | Analogía piramidal e incorporación obligatoria de nuevos pagadores. |
-| [26:24](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=1584s) | Envejecimiento y presión sobre la financiación. |
-| [29:28](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=1768s) | Conflicto electoral entre generaciones y dependencia. |
-| [32:40](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=1960s) | Propuesta de capitalización y libertad de elección. |
-| [34:28](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=2068s) | Coste de transición y salida parcial del reparto. |
-| [37:24](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=2244s) | Reforma bancaria propuesta para financiar la transición. |
-
 ## La historia exige distinguir etapas
 
 La historia de la protección social española no comienza con la dictadura: hubo un Instituto Nacional de Previsión en 1908 y Retiro Obrero Obligatorio en 1919. La ley de septiembre de 1939 sí sustituyó el régimen de capitalización del retiro obrero por pensiones fijas. Esa transformación importa sin borrar lo anterior.
 
 Tampoco conviene identificar sin más el seguro alemán del siglo XIX con un reparto puro idéntico al actual. Su diseño incluyó contribuciones y acumulación de reservas; la organización financiera cambió con el tiempo. Comparar la jubilación a los setenta con la esperanza de vida al nacer tampoco indica directamente cuántos trabajadores adultos llegarían a cobrar: para eso importa la supervivencia desde edades posteriores.
 
-Estas distinciones no resuelven el juicio moral sobre la obligatoriedad. Evitan apoyar ese juicio en una historia más sencilla que los hechos.
+La crítica a la obligación no necesita simplificar esa historia.
 
 ## Salir de una dependencia sin abandonar a quien ya depende
 
@@ -88,6 +66,8 @@ No basta con cambiar la etiqueta de la deuda o desplazarla a otro balance. Hay q
 
 La libertad para preparar el futuro es una dirección clara. El camino requiere cuidar a las personas reales que hoy están dentro del sistema, sin convertir su dependencia en una razón para perpetuar la de todos los que vienen después.
 
+La [guía de quince pasos del documental](#guia-del-documental) permite seguir el recorrido original sin interrumpir aquí el argumento.
+
 ## Lecturas y fuentes
 
 - [Documental original: Ni es justicia ni es social, el sistema público de pensiones](https://www.youtube.com/watch?v=_ngdSg4VPIM). La guía de quince pasos resume su secuencia; el resto del ensayo desarrolla una reflexión propia y contrastes históricos. La transcripción consultada es automática: no se reproducen como datos actuales sus cifras de 2021.
@@ -95,3 +75,30 @@ La libertad para preparar el futuro es una dirección clara. El camino requiere 
 - [Ley de 1 de septiembre de 1939](https://www.mites.gob.es/es/Guia/leyes/L010939.html), cambio del régimen de capitalización del retiro obrero.
 - [Banco Mundial, Pension Reform and the Development of Pension Systems, recuadro A.1](https://documents1.worldbank.org/curated/en/629861468166150111/pdf/355210Pension0reform01OFFICIAL0USE1.pdf), contribuciones y capitalización en el diseño alemán original.
 - [Social Security Administration, el precedente alemán](https://www.ssa.gov/history/age65.html), edad inicial de jubilación y cambio posterior.
+
+<span id="guia-del-documental"></span>
+
+### Guía del documental · quince pasos
+
+La primera entrega de **«Ni es justicia ni es social»** (Value School, 2021) trata las pensiones. Los minutos enlazan al vídeo original. Esta guía desarrolla su recorrido con palabras propias; los contrastes históricos del ensayo y las condiciones indicadas aquí permiten distinguir la propuesta de los hechos comprobados.
+
+| Minuto | Paso del argumento |
+| --- | --- |
+| [0:35](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=35s) | **La justicia social como legitimación del crecimiento del poder.** Prometer protección permite ampliar obligaciones y presupuestos. La cuestión moral permanece: una finalidad compartida no convierte a nadie en propietario del trabajo ajeno. |
+| [2:22](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=142s) | **Las pensiones ocupan el centro de la promesa protectora.** La jubilación vincula la seguridad futura a una institución. Cuanto más dependa de ella una familia, más difícil resulta discutir sus reglas sin miedo a perder su sustento. |
+| [3:17](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=197s) | **Reparto y capitalización: pagar hoy o acumular activos.** El reparto usa aportaciones actuales para prestaciones actuales. Capitalizar significa reunir activos cuyos rendimientos y venta puedan sostener consumos posteriores; no elimina el riesgo. |
+| [4:28](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=268s) | **Origen político de los seguros sociales y dependencia.** La protección también puede crear lealtad hacia quien la administra. Esto explica un incentivo político; no borra la ayuda recibida ni demuestra la intención de cada promotor histórico. |
+| [7:21](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=441s) | **Cotizar no equivale a guardar dinero en una cuenta propia.** Un derecho a cobrar según unas reglas no es un saldo que puedas retirar, invertir o transmitir libremente. La diferencia importa antes de comparar rentabilidades. |
+| [10:24](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=624s) | **Historia española y sustitución de la capitalización.** El cambio de 1939 modificó un régimen anterior, no creó toda la previsión desde cero. El ensayo identifica los antecedentes de 1908 y 1919 y enlaza la ley. |
+| [12:58](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=778s) | **La reserva y sus vínculos con las cuentas estatales.** Si un fondo presta al Estado comprando su deuda, posee un activo, pero el Estado conserva la obligación de devolverlo. Mirar ambos balances impide confundir ese préstamo con recursos externos nuevos para el conjunto. |
+| [15:02](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=902s) | **Menos ahorro, menos capital y menor autonomía familiar.** Lo destinado obligatoriamente al pago corriente deja de estar disponible para la reserva de esa persona. El efecto sobre el ahorro total depende también de qué hagan receptores y demás agentes. |
+| [18:55](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=1135s) | **Coste de cotizar y ejemplo de ahorro alternativo.** Para comparar, hay que seguir la misma aportación durante el mismo periodo, descontando inflación y comisiones. Una rentabilidad histórica o supuesta no garantiza la renta futura. |
+| [24:07](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=1447s) | **Analogía piramidal e incorporación obligatoria de nuevos pagadores.** La comparación señala que cobros presentes dependen de aportaciones posteriores. No equipara jurídicamente el reparto con una estafa: este declara sus reglas y puede cambiar contribuciones o prestaciones. La objeción moral es la incorporación forzosa. |
+| [26:24](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=1584s) | **Envejecimiento y presión sobre la financiación.** Más años de prestación y menos cotizantes por beneficiario tensan las cuentas. Empleo, salarios y productividad también cuentan; no basta con comparar edades o anunciar una fecha automática de quiebra. |
+| [29:28](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=1768s) | **Conflicto electoral entre generaciones y dependencia.** El beneficio presente tiene destinatarios identificables; parte del coste se aplaza a personas que aún no votan. Esa diferencia favorece promesas cuyo ajuste recaerá en otro momento. |
+| [32:40](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=1960s) | **Propuesta de capitalización y libertad de elección.** Acumular recursos propios permite diversificar pagadores y decidir sobre el futuro. Cambiar quién posee y controla los activos es distinto de cambiar solo el nombre de la cotización. |
+| [34:28](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=2068s) | **Coste de transición y salida parcial del reparto.** Si parte de las aportaciones empieza a ahorrarse, queda un pago corriente sin financiar. Una salida gradual debe mostrar qué parte sostiene los compromisos previos y cuándo disminuye esa carga. |
+| [37:24](https://www.youtube.com/watch?v=_ngdSg4VPIM&t=2244s) | **Reforma bancaria propuesta para financiar la transición.** Se propone respaldar íntegramente los depósitos a la vista con dinero base y emplear activos bancarios liberados para atender deuda y compromisos de pensiones. Es una propuesta de balance: debe resolver derechos de terceros, valoración y riesgos. No crea bienes reales ni acredita por sí sola una transición gratuita. |
+
+- [Presentación del proyecto, transcrita por su director](https://www.jesushuertadesoto.com/wp-content/uploads/2024/02/Cuaderno-13-ABRIL-2022-Ni-es-justicia-ni-es-social-WEB.pdf), contexto y relación con la conferencia de 2018.
+- [Desarrollo de la propuesta bancaria y de transición, Nuevos ensayos de economía política](https://www.jesushuertadesoto.com/wp-content/uploads/2024/01/NBL-65-Nuevos-Ensayos_web.pdf), páginas impresas 149–150 y 289–291. Se cita como propuesta de su autor, no como resultado establecido.

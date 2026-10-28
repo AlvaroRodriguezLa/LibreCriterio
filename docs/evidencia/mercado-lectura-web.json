@@ -1,0 +1,372 @@
+{
+  "checked": "2026-10-28",
+  "scope": "Lectura documental de páginas primarias y comparación de funciones observables en HTML o expresamente documentadas. No se ha utilizado CUA ni se han medido CSS, métricas de retención o comportamiento móvil de terceros.",
+  "legend": {
+    "observed": "Presente en el contenido servido o enlaces de navegación de la página",
+    "documented": "Descrito por el responsable del producto; no validado con interacción",
+    "unknown": "No verificado; no significa que la función no exista"
+  },
+  "benchmarks": [
+    {
+      "id": "butterick",
+      "name": "Butterick’s Practical Typography",
+      "url": "https://practicaltypography.com/typography-in-ten-minutes.html",
+      "kind": "Libro de consulta web",
+      "observed": [
+        "Capítulo con ruta anterior a inicio y siguiente a Summary of key rules",
+        "Enlace al índice y a inicio de página",
+        "Cuerpo redactado en unidades cortas y enlaces para ampliar términos"
+      ],
+      "documented": [
+        "Priorizar el cuerpo del texto antes de los adornos; consejo de 45–90 caracteres por línea y 15–25px en web"
+      ],
+      "unknown": [
+        "Guardado de posición",
+        "Preferencias persistentes",
+        "Medidas CSS móviles"
+      ],
+      "take": "Un siguiente inequívoco al final; cuerpo antes que portada; guía tipográfica como oficio, no como ensayo clínico.",
+      "avoid": "Copiar sin adaptación sus rangos de interlineado o la preferencia por fuentes de pago."
+    },
+    {
+      "id": "shape-design",
+      "name": "The Shape of Design",
+      "url": "https://shapeofdesignbook.com/chapters/01-how-and-why/",
+      "kind": "Libro narrativo de ensayo",
+      "observed": [
+        "Capítulos numerados y titulados por concepto",
+        "Siguiente capítulo al terminar",
+        "Índice completo repetido al pie",
+        "Notas finales separadas y opción de descarga"
+      ],
+      "documented": [],
+      "unknown": [
+        "Reanudación de posición",
+        "Tema nocturno",
+        "Ajustes de tamaño"
+      ],
+      "take": "Un índice de obra coherente y una continuación que sigue la narración; las notas tienen su propio lugar.",
+      "avoid": "Índice completo siempre desplegado en cada pantalla móvil; preferir acceso bajo demanda."
+    },
+    {
+      "id": "econlib",
+      "name": "Econlib · The Calculus of Consent",
+      "url": "https://www.econlib.org/library/Buchanan/buchCv3.html",
+      "kind": "Biblioteca liberal y libro dividido",
+      "observed": [
+        "Índice de capítulos y apéndices",
+        "Selección de capítulo por enlace y query chapter_num",
+        "Controles FIRST y LAST",
+        "Metadatos bibliográficos y notas enlazadas"
+      ],
+      "documented": [],
+      "unknown": [
+        "No se ha visto control próximo/anterior explícito en el HTML extraído",
+        "Preferencias de lectura",
+        "Guardado de progreso"
+      ],
+      "take": "Representar orden y contexto de la obra como datos estables; mantener fuentes accesibles.",
+      "avoid": "Copiar la gran navegación global y los metadatos largos antes de comenzar a leer."
+    },
+    {
+      "id": "oll",
+      "name": "Online Library of Liberty",
+      "url": "https://oll.libertyfund.org/titles/mill-on-liberty-and-the-subjection-of-women-1879-ed",
+      "kind": "Biblioteca de obras clásicas",
+      "observed": [
+        "Read Now separado de Downloads",
+        "EPUB, PDF de texto y facsímil diferenciados",
+        "Categorías, autores y grupos de lectura en la biblioteca"
+      ],
+      "documented": [],
+      "unknown": [
+        "El lector se activa mediante botón no disponible en web text extraction",
+        "Preferencias del lector",
+        "Reanudación automática"
+      ],
+      "take": "Distinguir leer ahora de consultar/descargar; no presentar la biblioteca como única puerta de entrada.",
+      "avoid": "Suponer que la página bibliográfica ya demuestra la comodidad del lector interior."
+    },
+    {
+      "id": "mises",
+      "name": "Mises Institute · Human Action",
+      "url": "https://mises.org/library/book/human-action",
+      "kind": "Editorial y biblioteca libertaria",
+      "observed": [
+        "HTML, EPUB, PDF y guía de estudio en la ficha",
+        "Opción español y navegación móvil nombrada",
+        "Versión HTML enlaza una acción Print"
+      ],
+      "documented": [],
+      "unknown": [
+        "La extracción de la versión HTML no expuso el cuerpo o índice; no se verificó continuidad de capítulos",
+        "Guardado de progreso",
+        "Tipografía del lector"
+      ],
+      "take": "Separar formatos; una guía de estudio puede vivir como satélite sin interrumpir la obra.",
+      "avoid": "Afirmar que un lector es bueno por la abundancia de formatos; su interior debe probarse."
+    },
+    {
+      "id": "fee",
+      "name": "FEE · Housing Reform Can Reduce Hawaii’s Poverty",
+      "url": "https://fee.org/articles/housing-reform-can-reduce-hawaiis-poverty/",
+      "kind": "Ensayo de actualidad/libertad",
+      "observed": [
+        "Título con una afirmación reconocible y subtítulo corto",
+        "Apertura va directamente a una tesis concreta",
+        "Fuentes dentro del argumento",
+        "Al final aparecen artículos del autor, no una secuencia de libro"
+      ],
+      "documented": [],
+      "unknown": [
+        "Preferencias y guardado",
+        "Navegación de obra no observada en este artículo aislado"
+      ],
+      "take": "Titular por la idea y comenzar con una proposición clara.",
+      "avoid": "Confundir más artículos del autor con el capítulo que continúa el argumento."
+    },
+    {
+      "id": "gwern",
+      "name": "Gwern.net · Design Of This Website",
+      "url": "https://gwern.net/design",
+      "kind": "Ensayos largos con investigación",
+      "observed": [
+        "Índice jerárquico explícito",
+        "Enlace a bibliografía y notas",
+        "Página de diseño explica su propia implementación"
+      ],
+      "documented": [
+        "Expansión progresiva y secciones colapsables",
+        "Sidenotes en pantallas anchas",
+        "Popups/popovers y previsualizaciones",
+        "Lectura principal funcional sin JavaScript"
+      ],
+      "unknown": [
+        "No se han accionado los popups en navegador",
+        "Medidas CSS y preferencias actuales"
+      ],
+      "take": "Texto principal corto en exposición, fuentes y ampliación disponibles a demanda; progressive enhancement.",
+      "avoid": "Recrear la complejidad del sistema de popups, que puede saturar el móvil y la implementación."
+    },
+    {
+      "id": "gutenberg",
+      "name": "Project Gutenberg · On Liberty",
+      "url": "https://www.gutenberg.org/cache/epub/34901/pg34901-images.html",
+      "kind": "Obra completa en una página",
+      "observed": [
+        "Índice de capítulos con anclas",
+        "Obra continua y notas enlazadas",
+        "Marcas de páginas de la edición original"
+      ],
+      "documented": [],
+      "unknown": [
+        "Reanudación y tema",
+        "Medidas CSS móviles"
+      ],
+      "take": "La lectura continua no necesita paginación artificial; las anclas permiten volver a un punto.",
+      "avoid": "Anteponer licencias, prólogos históricos y marcas editoriales al argumento principal de una edición de divulgación propia."
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe Press",
+      "url": "https://press.stripe.com/",
+      "kind": "Editorial y presentación de libros",
+      "observed": [
+        "Biblioteca de títulos con autores, descripciones y formatos",
+        "PDFs de algunas obras y acceso a experiencias Living cover",
+        "Página individual de Poor Charlie enlazada"
+      ],
+      "documented": [],
+      "unknown": [
+        "El lector Poor Charlie devolvió HTML sin texto; no se verifican sus funciones",
+        "Guardado, preferencias y navegación secuencial"
+      ],
+      "take": "Presentar cada parte con identidad editorial y una promesa clara de lectura.",
+      "avoid": "Copiar el escaparate comercial dentro de cada capítulo o afirmar funciones del lector no observadas."
+    },
+    {
+      "id": "standard-ebooks",
+      "name": "Standard Ebooks",
+      "url": "https://standardebooks.org/about/what-makes-standard-ebooks-different",
+      "kind": "Ediciones digitales cuidadas",
+      "observed": [
+        "La búsqueda sirvió la página oficial de principios; la apertura directa falló por XHTML"
+      ],
+      "documented": [
+        "Capítulos e índices semánticos para el ereader",
+        "Notas emergentes y tipografía cuidada",
+        "Marcado y estilos mínimos, consistentes entre obras"
+      ],
+      "unknown": [
+        "El lector web concreto no pudo abrirse con web tools",
+        "Funciones de reanudación pertenecen también al ereader, no demostradas para la web"
+      ],
+      "take": "Tratar la obra como una edición: orden canónico, divisiones semánticas, notas y consistencia.",
+      "avoid": "Atribuir a la web funciones que son del dispositivo o del EPUB."
+    },
+    {
+      "id": "crafting",
+      "name": "Crafting Interpreters",
+      "url": "https://craftinginterpreters.com/contents.html",
+      "kind": "Libro web técnico, útil como patrón de estructura",
+      "observed": [
+        "Búsqueda expuso índice oficial: partes numeradas, capítulos, notas de diseño y apéndices",
+        "Notas de diseño figuran como elementos secundarios enlazados"
+      ],
+      "documented": [],
+      "unknown": [
+        "La apertura directa de índice/capítulo falló; navegación interior y ajustes no verificados"
+      ],
+      "take": "Separar un recorrido principal de notas y apéndices; un único orden reconocible.",
+      "avoid": "Copiar el tono técnico o tratar cada inciso como otro capítulo obligatorio."
+    }
+  ],
+  "standards": [
+    {
+      "id": "visual-presentation",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/visual-presentation",
+      "level": "AAA",
+      "verified": "Mecanismo para alcanzar ancho no mayor de 80 caracteres, texto no justificado, elección de colores y separación. La página aclara que esos valores no tienen que ser el estilo predeterminado.",
+      "application": "Usar ancho de lectura con ch y ofrecer preferencias sencillas; no vender una certificación AAA por adoptar una cifra."
+    },
+    {
+      "id": "text-spacing",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html",
+      "level": "AA",
+      "verified": "No perder contenido o función si el usuario impone interlineado 1.5, separación tras párrafo 2em, tracking .12em y espacios .16em. No exige esos valores predeterminados ni controles propios.",
+      "application": "Evitar alturas fijas en texto, controles y tarjetas; permitir que el contenido crezca."
+    },
+    {
+      "id": "reflow",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/reflow.html",
+      "level": "AA",
+      "verified": "Lectura vertical a ancho equivalente a 320 CSSpx sin scroll de dos dimensiones, salvo contenido que lo exige como ciertas tablas o diagramas.",
+      "application": "Probar 320 y 390px, zoom y preferencias de texto; las tablas pueden ir en contenedor propio sin desbordar la página."
+    },
+    {
+      "id": "contrast",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+      "level": "AA",
+      "verified": "4.5:1 para texto normal y 3:1 para texto grande, con excepciones delimitadas.",
+      "application": "Calcular contrastes de cuerpo, texto secundario, acento y todos los temas; no comprobar solo el negro sobre papel."
+    },
+    {
+      "id": "target",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html",
+      "level": "AA",
+      "verified": "24x24 CSSpx mínimo o separación suficiente; excepciones para enlaces en texto, controles del agente y otras condiciones. Controles importantes pueden aspirar a tamaño mayor.",
+      "application": "Objetivo de diseño 44px para preferencias, índice y continuar; no afirmar que 44 sea el mínimo AA."
+    },
+    {
+      "id": "focus",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html",
+      "level": "AA",
+      "verified": "El control enfocado no debe quedar totalmente oculto por contenido del autor, con condiciones.",
+      "application": "Barras fijas y paneles no deben cubrir párrafos ni foco; scroll-padding y botones de cierre accesibles."
+    }
+  ],
+  "research": [
+    {
+      "id": "offloading",
+      "title": "Risko y Gilbert, Cognitive Offloading (2016)",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/1508770/",
+      "type": "Revisión académica primaria, abstract y repositorio de autores",
+      "finding": "Examina el uso de acciones y apoyos externos para reducir exigencias cognitivas y sus consecuencias; no estudia específicamente esta web.",
+      "inference": "Mostrar capítulo, parte y punto de reanudación reduce lo que el lector necesita recordar para volver. Es una aplicación editorial razonada, no un efecto cuantificado por ese artículo."
+    },
+    {
+      "id": "recognition",
+      "title": "NN/g, Memory Recognition and Recall in User Interfaces (2024)",
+      "url": "https://www.nngroup.com/articles/recognition-and-recall/",
+      "type": "Heurística y síntesis de investigación de usabilidad",
+      "finding": "Las pistas visibles, el contexto y los elementos visitados facilitan reconocer opciones y reanudar tareas frente a recordar nombres desde cero.",
+      "inference": "Índice contextual, título del siguiente capítulo y continuar lectura con un título reconocible."
+    }
+  ],
+  "repo_findings": [
+    {
+      "file": "src/pages/articulos/[slug].astro",
+      "issue": "La cabecera de cada ensayo muestra categoría, número de cuaderno, autor, fecha, tiempo y nivel; el lector no recibe de entrada una posición global en la obra.",
+      "recommendation": "Encabezar con Parte II · Capítulo 9 de 27; el resto de metadatos puede ser secundario."
+    },
+    {
+      "file": "src/pages/articulos/[slug].astro",
+      "issue": "Índice del ensayo y cubierta preceden al cuerpo en la estructura. En móvil el índice desplegado puede retrasar la primera frase, pero no se ha medido en CUA.",
+      "recommendation": "Índice del capítulo colapsable y cubiertas pequeñas/secundarias en modo lectura."
+    },
+    {
+      "file": "src/components/ReadingRouteNav.astro",
+      "issue": "La continuidad acaba al terminar cada ruta y ofrece elegir otro recorrido. El usuario pide una obra, no cuatro finales independientes.",
+      "recommendation": "Mantener rutas temáticas, pero introducir una lectura canónica que continúe de parte en parte sin perder contexto."
+    },
+    {
+      "file": "src/pages/articulos/[slug].astro",
+      "issue": "Fuentes y notas completas forman parte del cuerpo, y la barra de progreso actual usa el alto total del documento, incluidos relacionados y pie.",
+      "recommendation": "Calcular avance sobre el argumento principal; situar siguiente capítulo junto a la resolución; fuentes ampliables después o en bloque separado."
+    },
+    {
+      "file": "src/pages/articulos/[slug].astro",
+      "issue": "Los relacionados ofrecen tres destinos competidores después del capítulo.",
+      "recommendation": "Un siguiente principal; lecturas relacionadas bajo un control secundario, sin scroll infinito."
+    }
+  ],
+  "implementation": [
+    {
+      "priority": "P0",
+      "decision": "Un único spine de libro",
+      "details": "Datos de partes y capítulos como fuente única; todos los ensayos cuentan una vez. Las rutas siguen siendo exploración alternativa, no sustituyen ese orden."
+    },
+    {
+      "priority": "P0",
+      "decision": "Orientación visible y compacta",
+      "details": "Parte, capítulo y total; acceso Índice del libro siempre reconocible. En móvil índice del capítulo colapsado, no una lista larga antes de leer."
+    },
+    {
+      "priority": "P0",
+      "decision": "Continuación que explica el puente",
+      "details": "Al terminar, una frase breve conecta lo aprendido con la próxima pregunta y un botón con título del capítulo siguiente. No exigir elegir entre tres tarjetas."
+    },
+    {
+      "priority": "P0",
+      "decision": "Leer primero, documentarse cuando se quiera",
+      "details": "Mantener el argumento y sus cifras esenciales en el hilo; notas, bibliografía, metodología y dossier en ampliación accesible. No ocultar un dato necesario para entender la tesis."
+    },
+    {
+      "priority": "P1",
+      "decision": "Retomar sin sorpresa",
+      "details": "Guardar localmente slug, heading estable y avance; mostrar Retomar, sin saltar automáticamente ni sobrescribir un hash explícito. Validar que el capítulo todavía existe y tolerar storage bloqueado."
+    },
+    {
+      "priority": "P1",
+      "decision": "Preferencias pequeñas y persistentes",
+      "details": "Tamaño, ancho/espaciado y fondo en un panel compacto nativo, teclado accesible. Papel y tinta actuales como predeterminado; opción claro y noche con contraste calculado. Sin fuentes externas ni servicio de pago."
+    },
+    {
+      "priority": "P1",
+      "decision": "Tipografía centrada en el cuerpo",
+      "details": "Punto inicial de diseño: 20–21px, columna 60–70ch y line-height alrededor de1.65–1.75; probar con usuarios y móviles. Son decisiones de diseño, no umbrales demostrados universalmente."
+    },
+    {
+      "priority": "P1",
+      "decision": "No confundir fluidez con adicción",
+      "details": "Sin cuenta, popups de captación, rachas, scroll infinito, autoplay ni contadores que presionen. La continuidad debe conservar la capacidad de detenerse y volver."
+    }
+  ],
+  "qa": [
+    "Lectura principal sin JavaScript",
+    "320 y390CSSpx, zoom200%y400% sin pérdida de texto",
+    "Fuentes cerradas/abiertas y print legible",
+    "Teclado completo, foco visible, Escape/cierre de panel",
+    "Contrastes de cuerpo, secundarios y controles en todos los fondos",
+    "Preferencias de texto crecen sin alturas fijas",
+    "Retomar capítulo y sección válidos; storage bloqueado/corrupto; hash explícito prevalece",
+    "Final de capítulo continúa a la siguiente parte; último capítulo tiene cierre real",
+    "Progreso referido al argumento y no a tarjetas relacionadas o pie"
+  ],
+  "limits": [
+    "No hay pruebas con usuarios ni experimento A/B; no se promete mejora cuantificada de retención o comprensión.",
+    "Sin CUA no se ha verificado el comportamiento visual o móvil de competidores.",
+    "Las funciones no observadas se marcan desconocidas, no ausentes.",
+    "El objetivo de una web perfecta es aspiracional: requiere pruebas de lectura reales y revisión iterativa."
+  ]
+}

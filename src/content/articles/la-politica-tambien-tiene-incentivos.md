@@ -7,7 +7,7 @@ image: "/images/la-politica-tambien-tiene-incentivos.svg"
 imageAlt: "Ilustración conceptual: La política también tiene incentivos"
 category: "Poder"
 tags: ["Poder","libertad"]
-order: 4
+order: 10
 masterPages: "24–34"
 satellites: []
 thesis: "El poder separa decisiones y consecuencias, y puede premiar a quien acepta cruzar más límites para conservarlo."
@@ -21,67 +21,55 @@ imageFit: "contain"
 
 ## La cena que paga toda la mesa
 
-Diez personas van a cenar y acuerdan repartir la factura por igual. Cada una sabe que un postre de diez euros aumentará su propia parte solo en un euro. Disfrutará el postre entero y distribuirá nueve décimas del coste entre los demás. Si todos siguen ese razonamiento, la cuenta crecerá.
+Diez personas acuerdan repartir la factura por igual. Cada una sabe que pedir un postre de diez euros aumentará su parte solo en un euro. Disfrutará el postre entero y repartirá nueve décimas del coste. Si todos razonan así, la cuenta crecerá.
 
-No hace falta que alguien desee arruinar la cena. Basta con separar la decisión de su coste. Pagar cada uno lo suyo no elimina el deseo de consumir; hace que ese deseo encuentre antes el límite del bolsillo propio.
+Pagar cada cual lo suyo no elimina las ganas de consumir. Hace que ese deseo encuentre antes el límite del bolsillo propio. La escena es hipotética, pero muestra algo concreto: separar una decisión de su coste cambia el incentivo para tomarla.
 
-El ejemplo es hipotético, pero permite ver un problema del gasto público: **quien autoriza el desembolso no entrega normalmente su patrimonio y quien lo paga no puede rechazar individualmente la cuenta**. La prudencia necesita otros apoyos cuando desaparece esa relación directa.
+En el gasto público esa separación tiene un añadido. Quien autoriza el desembolso no entrega normalmente su patrimonio, y quien lo paga no puede rechazar individualmente la cuenta. La diferencia importa antes de averiguar si el responsable es generoso o egoísta.
 
-## Lo de todos necesita un responsable concreto
+## Lo de todos necesita un responsable
 
-La frase lo público es de todos puede ocultar una dificultad: ¿quién tiene capacidad e interés para cuidarlo, quién puede cambiar sus usos y quién pierde si se despilfarra? Una pertenencia difusa no produce por sí sola vigilancia efectiva.
+Decir que algo es de todos deja varias preguntas pendientes: quién puede cuidarlo, quién decide cambiar sus usos y quién pierde cuando se despilfarra.
 
-Un vecino puede detectar un gasto absurdo y carecer de una vía barata para detenerlo. Un responsable puede agotar su presupuesto para no recibir menos al año siguiente. Una oficina puede sobrevivir a un fracaso alegando que necesitaba más recursos. El coste se reparte; la continuidad del programa interesa especialmente a quien vive de él.
+Un ciudadano detecta una compra absurda, pero detenerla le exige horas de reclamaciones. El responsable que agota su presupuesto puede evitar que el año siguiente se lo reduzcan. Una oficina puede responder a su fracaso pidiendo más recursos. El que decide, el que paga y el que soporta el error no coinciden.
 
-No significa que ninguna persona cuide un bien compartido. Una cooperativa, una comunidad de riego o una asociación voluntaria pueden establecer aportaciones, vigilancia, sanciones pactadas y responsables identificables. El problema no es compartir, sino hacerlo sin decisión real, sin consecuencias claras y sin poder salir del acuerdo.
+Compartir no obliga a organizarse así. Una cooperativa o una comunidad de riego pueden pactar aportaciones, vigilancia, responsables y sanciones. El cuidado necesita que alguien tenga capacidad de actuar y consecuencias por hacerlo mal. La pertenencia difusa no sustituye esas relaciones.
 
-## Hacerlo mejor no siempre recibe un premio
+## Mejorar debe tener consecuencias
 
-En una actividad sometida a competencia, ahorrar recursos puede permitir cobrar menos, mejorar el producto y conservar clientes. Fallar puede provocar que esos clientes se marchen. Es un incentivo imperfecto, pero conecta parte del resultado con la supervivencia del proyecto.
+Un proveedor sometido a competencia puede conservar clientes si atiende mejor o reduce costes. Si falla, esos clientes pueden marcharse. La posibilidad de perderlos da un motivo para escuchar que no depende únicamente de su buena voluntad.
 
-En un servicio financiado obligatoriamente, el usuario descontento puede cambiar de proveedor y seguir pagando el que abandona. El organismo conserva su fuente de ingresos aunque pierda su preferencia. Si hacerlo más barato no mejora la situación de quien decide y hacerlo más caro tampoco pone su patrimonio en riesgo, la disciplina del coste se debilita.
+En un servicio financiado obligatoriamente puedes abandonarlo y seguir pagándolo. La organización pierde tu preferencia, pero conserva tu aportación. Ahorrar no siempre beneficia a quien decide; gastar más tampoco pone necesariamente en riesgo lo suyo.
 
-Hay profesionales públicos responsables y controles que frenan abusos. El argumento no depende de negar su existencia. Pregunta por qué el sistema debería descansar en su virtud cuando podría vincular mejor decisiones, costes y consecuencias. Un buen trabajador puede sostener una organización pese a sus incentivos, no gracias a ellos.
-
+Hay profesionales que trabajan con responsabilidad dentro de esas condiciones. Precisamente por eso conviene preguntar cuánto esfuerzo dedican a sostener una organización pese a sus incentivos. Un sistema de cuidado no debería exigir heroísmo cotidiano para corregir lo que sus reglas favorecen.
 
 ```oneshot
 {"type":"concept-flow","title":"La factura que se aleja de quien decide","steps":[{"title":"Decidir","text":"Un responsable autoriza el gasto."},{"title":"Repartir","text":"El coste llega a una multitud de contribuyentes."},{"title":"Diluir","text":"Cada pagador tiene poco margen individual para vigilar."},{"title":"Continuar","text":"El programa puede pedir más recursos aunque haya fallado."}],"note":"Mecanismo de riesgo institucional; no afirma que todo programa público despilfarre ni que toda empresa sea eficiente."}
 ```
 
-
 ## Un premio grande y una pérdida pequeña
 
-Imaginemos una ayuda de un millón de euros para cien beneficiarios financiada con un euro de un millón de personas. Cada beneficiario tiene mucho que ganar organizándose; cada pagador tiene poco incentivo individual para invertir horas en combatirla. Las cifras son inventadas para mostrar la asimetría.
+Imagina una ayuda de un millón de euros para cien beneficiarios, financiada con un euro de un millón de personas. Son cifras inventadas. Cada beneficiario tiene mucho que ganar organizándose; cada pagador perdería más tiempo reclamando que dinero recuperando.
 
-Así pueden prosperar privilegios que perjudican al conjunto. Quien recibe el premio conoce su nombre y tiene motivos para defenderlo. Quien paga apenas percibe una parte de la factura. El resultado puede presentarse como interés general aunque haya sido diseñado para un grupo concreto.
+Esa asimetría permite que un privilegio encuentre defensores intensos y una oposición dispersa. Quien recibe conoce el premio; quien paga apenas distingue su parte dentro de la factura.
 
-También las empresas participan en este juego. Conseguir una barrera contra un competidor puede ser más rentable que mejorar un producto. Eso no es cooperación libre: es contratar influencia para restringir las opciones de los demás.
+Una empresa puede preferir conseguir una barrera contra sus competidores a mejorar su producto. Ganar mediante influencia le evita convencer al cliente. La propiedad privada de la empresa no convierte ese privilegio en un intercambio libre.
 
 ## La presunción de saber vivir por otros
 
-El poder político exige algo más que proponer una idea. Aspira a convertirla en una obligación para personas que no la comparten. Ahí aparece una presunción de superioridad: creer que el propio juicio merece imponerse al de quienes vivirán sus consecuencias.
+Proponer una idea deja al otro la posibilidad de rechazarla. Aspirar a convertirla en una obligación reclama algo distinto: que el propio juicio se imponga al de quienes vivirán sus consecuencias.
 
-No hace falta atribuir a cada candidato un trastorno de ego. La superioridad está en la facultad reclamada, incluso cuando quien la solicita se presenta como humilde. Puedo creer sinceramente que sé qué educación te conviene o cuánto debes ahorrar; la sinceridad no me convierte en propietario de tu decisión.
+Ahí está la superioridad moral que importa, sin necesidad de diagnosticar el ego de cada candidato. Puede presentarse como humilde y seguir atribuyéndose el derecho a decidir qué educación te conviene, cuánto debes ahorrar o qué causas tienes que financiar.
 
-La ayuda voluntaria empieza preguntando qué necesita el otro y si acepta nuestra colaboración. El paternalismo comienza cuando su negativa se interpreta como una razón para obligarlo por su bien. El que manda conserva la satisfacción moral de proteger; el protegido pierde la posibilidad de rechazar esa tutela.
+La ayuda voluntaria pregunta si aceptas colaborar. El paternalismo interpreta tu negativa como un motivo para corregirte. Quien manda conserva la satisfacción de proteger; tú pierdes la posibilidad de decir que no.
 
-## Una selección que puede premiar lo peor
+## Una carrera que puede premiar lo peor
 
-La carrera por el poder filtra a quienes entran y ascienden. Si ganar exige prometer beneficios incompatibles, callar ante abusos propios, complacer al aparato o destruir la reputación de un rival, quien conserva escrúpulos paga un coste que el oportunista está dispuesto a evitar.
+El primer peldaño puede ser repetir una consigna que no se cree. El siguiente, callar ante una mentira útil. Después, tolerar un privilegio para mantener unido al grupo. Si cada ascenso exige aplazar un escrúpulo, quien se niega encuentra una barrera que el oportunista está dispuesto a cruzar.
 
-La primera renuncia puede parecer pequeña: repetir una consigna que no se cree. La siguiente, tolerar una mentira útil. Después, justificar un privilegio para mantener unido al grupo. Cada peldaño enseña que llegar requiere aplazar otra vez el límite moral. Cuando el cargo depende de continuar, reconocer el engaño amenaza también la carrera construida sobre él.
+Eso es la selección inversa: la carrera puede favorecer a quienes aceptan hacer más cosas para conseguir y conservar el poder, incluidas las que otros rechazarían. No demuestra que todos los que llegan sean las peores personas posibles. Muestra el coste de esperar que un mecanismo así elija siempre a los más íntegros.
 
-Esta es la selección inversa: el mecanismo puede favorecer a quien está dispuesto a hacer más cosas para conseguir y conservar el mando, incluidas las que una persona decente rechazaría. No demuestra que todos los que llegan sean las peores personas posibles. Explica por qué esperar que siempre asciendan los más íntegros contradice ciertos incentivos de la competición.
-
-La concentración de poder agrava el premio. Cuantas más vidas puedes dirigir y más recursos puedes asignar, más rentable resulta conquistar el puesto y más tentador se vuelve cruzar una línea para no perderlo.
-
-## La virtud no sustituye un límite
-
-Un sistema no queda bien organizado porque anuncie que elegirá personas extraordinarias. Hay que pensar qué hará cuando lo ocupe alguien ambicioso, leal a los suyos y capaz de justificar sus conveniencias como causas morales.
-
-La respuesta exige reducir privilegios, devolver capacidad de elección y hacer que quien decide responda por el daño que causa. También exige reconocer que un proveedor privado protegido por rescates, barreras o contratos cautivos puede escapar a la misma disciplina. Cambiar el nombre de la puerta no recompone una responsabilidad rota.
-
-La pregunta decisiva no es cuánta bondad declaran quienes quieren administrar la cuenta. Es quién puede rechazarla, quién la vigila y quién pierde cuando se gasta mal.
+Cuantas más vidas y recursos permite dirigir un puesto, mayor es el premio por conquistarlo. Cambiar al ocupante conserva ese premio. Devolver decisiones a quienes soportan sus consecuencias reduce lo que puede obtener quien venga después, sean cuales sean sus intenciones.
 
 ## Lecturas y fuentes
 

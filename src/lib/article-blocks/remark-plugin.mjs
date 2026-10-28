@@ -22,7 +22,13 @@ function visit(parent, file, options) {
 }
 
 export function createRemarkArticleBlocks(options = {}) {
-  return (tree, file) => visit(tree, file, { playerAssets, assetBase, ...options });
+  return (tree, file) => {
+ visit(tree,file,{playerAssets,assetBase,...options});
+ if(file.data?.astro?.frontmatter?.slug&&Array.isArray(tree.children)){
+  const index=tree.children.findIndex(node=>node.type==='heading'&&node.depth===2&&node.children?.map(child=>child.value||'').join('')==='Lecturas y fuentes');
+  if(index>=0){tree.children.splice(index,1,{type:'html',value:'<details class="chapter-sources" id="lecturas-y-fuentes"><summary>Fuentes y notas <span>Consultar datos, referencias y alcance</span></summary>'});tree.children.push({type:'html',value:'</details>'});}
+ }
+};
 }
 
 export default function remarkArticleBlocks() { return createRemarkArticleBlocks(); }

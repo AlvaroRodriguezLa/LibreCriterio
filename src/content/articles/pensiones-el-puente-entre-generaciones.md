@@ -7,7 +7,7 @@ image: "/images/pensiones-el-puente-entre-generaciones.svg"
 imageAlt: "Ilustración conceptual: Pensiones: el puente entre generaciones"
 category: "Fiscalidad"
 tags: ["Fiscalidad","libertad"]
-order: 9
+order: 20
 masterPages: "51–53"
 satellites: []
 thesis: "La edad no determina quién es rico: una obligación entre generaciones puede exigir a quien tiene menos que financie a quien tiene más."
@@ -25,7 +25,7 @@ Una persona joven cobra poco, paga alquiler y apenas logra reservar una parte de
 
 La escena deshace una identificación demasiado cómoda: trabajador no significa rico y pensionista no significa pobre. **Una transferencia entre edades no se convierte automáticamente en una transferencia desde quienes más tienen hacia quienes menos tienen.**
 
-La cuestión moral permanece incluso si el destinatario necesita ayuda. Querer sostenerlo no convierte el trabajo ajeno en propiedad de quien administra el sistema. Y cuando quien paga tiene menos recursos que quien recibe, la retórica de la redistribución añade una contradicción a la obligación.
+Ayudar no convierte el trabajo ajeno en propiedad de quien administra el sistema. Cuando el pagador tiene menos recursos que el receptor, la promesa de redistribuir hacia abajo tampoco describe esa relación.
 
 ## Puede ocurrir; no describe a todas las personas
 
@@ -45,9 +45,9 @@ Los importes son anuales y efectivos: incluyen empleos parciales o de parte del 
 
 En el reparto, las aportaciones actuales financian prestaciones actuales. El trabajador conserva derechos conforme a unas reglas, pero no acumula por ese solo hecho una cartera de activos a su nombre equivalente a todo lo aportado.
 
-La diferencia importa porque condiciona su independencia. No puede utilizar esa supuesta hucha para crear un negocio, responder a una urgencia o dejarla íntegra como herencia. Su prestación futura depende de empleo, ingresos y decisiones que todavía no se han producido.
+No puede usar esa supuesta hucha para abrir un negocio o dejarla íntegra como herencia. Su prestación depende de empleo, ingresos y decisiones futuras.
 
-Eso no significa que los derechos sean jurídicamente inexistentes. Significa que una expectativa regulada y un patrimonio propio son cosas distintas. Confundirlas facilita vender una obligación presente como si fuese una compra de seguridad sin riesgo político.
+Los derechos existen conforme a unas reglas. Lo que no existe por ello es una cartera propia equivalente a lo aportado.
 
 ## La promesa encuentra una cuenta
 
@@ -63,11 +63,13 @@ El estudio de AIReF de mayo de 2026 proyecta, a políticas constantes, gasto en 
 ```
 
 
+El compromiso futuro tiene además un coste que no aparece igual que un bono en circulación. Estimar hoy las prestaciones prometidas exige supuestos sobre edades, empleo y crecimiento. Ese cálculo no es una deuda financiera negociable ni mide por sí solo la sostenibilidad. Las magnitudes no se suman como si fueran equivalentes: cuentan compromisos bajo bases distintas. Lo relevante es hacer visible quién sostendrá la promesa.
+
 ## El ahorro que deja de construirse
 
 Si una parte importante de la capacidad de reservar recursos se consume en pagos obligatorios, queda menos margen para preparar un patrimonio propio. La confianza en que el Estado proveerá puede reducir además el incentivo a construirlo.
 
-La pérdida afecta también a la inversión. El dinero que no se reserva para herramientas, instalaciones y aprendizaje puede representar una capacidad productiva que no llega a existir. El [panadero que quería un horno mayor](../el-capital-que-no-llega-a-nacer/) muestra ese recorrido: sin recursos para invertir, sigue produciendo con los medios anteriores.
+El [horno que no llega a comprarse](../el-capital-que-no-llega-a-nacer/) muestra el coste productivo: con menos recursos reservados pueden faltar las herramientas que permitirían producir más.
 
 El efecto agregado depende de muchas condiciones; no todo euro cotizado habría ido a una inversión productiva. Pero una promesa de prestación no reemplaza automáticamente el capital real que permite sostener un nivel de vida mayor.
 
@@ -83,7 +85,7 @@ Permitir alternativas exige una transición con calendario y financiación visib
 
 El conflicto no debe dirigirse contra una persona por ser mayor. Debe dirigirse a una estructura que puede enfrentar al joven que necesita construir su vida con quien teme perder su sustento, y utilizar ambos temores para conservar poder.
 
-El criterio es individual: qué recursos tiene cada cual, qué aceptó y qué compromisos deben atenderse. La solidaridad no se demuestra celebrando que quien tiene menos financie por obligación a quien tiene más. Se demuestra atendiendo necesidades sin convertirlas en un título de propiedad sobre otras vidas.
+El criterio es individual: qué recursos tiene cada cual, qué aceptó y qué compromisos deben atenderse. Atender una necesidad no convierte a su administrador en dueño del trabajo con el que pretende cubrirla.
 
 ## Lecturas y fuentes
 
@@ -91,3 +93,5 @@ El criterio es individual: qué recursos tiene cada cual, qué aceptó y qué co
 - [AEAT, metodología](https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2024/docs/mtp/markoff_metod_mtp2024.pdf), cobertura y límites de los promedios.
 - [AIReF, evaluación de la regla de gasto de pensiones, mayo de 2026](https://www.airef.es/wp-content/uploads/2026/05/Pensiones/AIReF.-Estudio-de-evaluacion-de-la-regla-de-gasto-de-pensiones.pdf), escenario condicionado. No se presenta una proyección como dato observado.
 - [Una promesa no es un patrimonio](../una-promesa-no-es-un-patrimonio/), guía de quince pasos del documental sobre pensiones y desarrollo de sus cuestiones filosóficas.
+
+- [Eurostat, pensiones en las cuentas nacionales](https://ec.europa.eu/eurostat/cache/metadata/en/nasa_10_pens_esms.htm), derechos devengados y diferencia respecto a la deuda pública.

@@ -7,7 +7,7 @@ image: "/images/un-arbitro-no-necesita-ser-un-soberano.svg"
 imageAlt: "Ilustración conceptual: Un árbitro no necesita ser un soberano"
 category: "Instituciones"
 tags: ["Instituciones","libertad"]
-order: 26
+order: 25
 satellites: []
 thesis: "Encargar protección o arbitraje no concede a su proveedor un derecho ilimitado sobre la persona protegida."
 related: ["un-contrato-que-nadie-puede-rechazar","las-objeciones-que-hay-que-responder","cooperar-sin-un-director-unico"]
@@ -20,65 +20,63 @@ imageFit: "contain"
 
 ## Un partido necesita reglas, no un dueño de los jugadores
 
-Dos equipos quieren disputar un partido. Ninguno acepta que el capitán rival decida las faltas. Pueden acordar un reglamento y elegir a una persona independiente para aplicarlo. También pueden decidir cómo se revisa un error y qué ocurre si alguien incumple.
+Dos equipos quieren jugar un partido. Ninguno acepta que el capitán rival decida las faltas. Pueden acordar un reglamento, elegir un árbitro independiente y fijar cómo revisar un error o responder a un incumplimiento.
 
-La autoridad de ese árbitro es limitada: nace del acuerdo y sirve para una función. No le permite ordenar dónde trabajarán los jugadores, qué causas financiarán o cuánto deberán pagarle cuando ya no quieran jugar. **Necesitar arbitraje no equivale a necesitar un soberano.**
+El árbitro recibe una función limitada. No puede ordenar dónde trabajarán los jugadores, qué causas financiarán o cuánto le pagarán cuando dejen de jugar. **Necesitar arbitraje no equivale a necesitar un soberano.**
 
-La comparación no pretende convertir toda agresión en un encuentro deportivo pactado. Abre una pregunta distinta de quién debe mandar: qué acuerdos permiten resolver disputas sin apropiarse del resto de la vida de los participantes.
+Una agresión no es un partido al que todos han aceptado entrar. La comparación muestra algo más acotado: encargar a alguien que resuelva una disputa no le entrega el resto de nuestra vida. A partir de ahí hay que resolver también los conflictos que nadie eligió tener.
 
 ## Tres servicios que no tienen por qué ser uno
 
-Proteger frente a una agresión, decidir si hubo un daño y asegurar su reparación son funciones relacionadas, pero diferentes. Una sociedad puede encargar vigilancia a una organización, arbitraje a otra y cobertura de responsabilidad a una mutualidad o aseguradora.
+Proteger de una agresión, decidir si hubo un daño y asegurar su reparación son tareas distintas. Podríamos contratar vigilancia con una organización, arbitraje con otra y cobertura de responsabilidad con una mutualidad o aseguradora.
 
-Separarlas evita que el mismo proveedor sea siempre quien acusa, juzga y decide cuánto debe cobrarse. Los contratos pueden fijar procedimientos, peritos, plazos y vías de revisión. Quien presta protección no adquiere por eso la facultad de inventar cualquier obligación para sus clientes.
+Separarlas evita que el mismo proveedor acuse, juzgue y decida siempre cuánto debe cobrarse. Los contratos pueden fijar procedimientos, peritos, plazos y revisión. Quien protege no adquiere el derecho a inventar obligaciones para sus clientes.
 
-El arbitraje contractual ya existe. La ley española reconoce acuerdos para someter determinadas controversias a árbitros y permite a las partes decidir su número y designación. Su funcionamiento actual cuenta con apoyo y ejecución judicial estatal. Ese ejemplo prueba que se puede elegir a un tercero; no demuestra por sí solo una sociedad completa sin Estado.
+El arbitraje contractual ya existe. La ley española permite someter determinadas controversias a árbitros y acordar su número y designación. Hoy cuenta con apoyo y ejecución judicial estatal. Demuestra que podemos elegir a un tercero para resolver ciertas disputas; no que ya exista una sociedad completa sin Estado.
 
 ## Qué pasaría entre dos agencias distintas
 
-Imaginemos que Ana contrata protección con una entidad y Bruno con otra. Antes de que haya una disputa, ambas pueden acordar cómo intercambiar pruebas, qué árbitros aceptarán y qué fondo responderá por un daño acreditado.
+Imaginemos que Ana contrata protección con una entidad y Bruno con otra. Antes de una disputa, ambas podrían acordar cómo intercambiar pruebas, qué árbitros aceptarían y qué fondo respondería por un daño acreditado.
 
-Si alguien denuncia un robo, las agencias tendrían que presentar pruebas ante el procedimiento pactado. Una decisión daría lugar a restitución o reparación conforme a reglas conocidas. El asegurador podría adelantar la compensación cubierta y reclamar después al responsable por los cauces admitidos.
+Ante una denuncia de robo, las agencias tendrían que presentar pruebas mediante ese procedimiento. La decisión podría exigir restitución o reparación conforme a reglas conocidas. El asegurador adelantaría la compensación cubierta y reclamaría después al responsable por los cauces admitidos.
 
-La utilidad del acuerdo es evitar que cada diferencia se convierta en una guerra entre proveedores. Litigar tiene costes; enfrentarse violentamente también, y puede destruir clientes, patrimonio y reputación. Esos incentivos favorecen acuerdos, aunque no garantizan que siempre prevalezcan.
-
+Llegar a esos acuerdos evitaría que cada conflicto entre clientes acabara en una guerra entre proveedores. La violencia cuesta dinero, puede destruir patrimonio y ahuyenta a los clientes. Hay motivos para pactar; no una garantía de que todos lo harán siempre.
 
 ```oneshot
 {"type":"concept-flow","title":"Una propuesta de protección con funciones separadas","steps":[{"title":"Prevenir","text":"Proveedores elegidos cuidan personas y bienes."},{"title":"Investigar","text":"Pruebas y peritajes permiten formular una reclamación."},{"title":"Arbitrar","text":"Un tercero independiente aplica reglas conocidas."},{"title":"Reparar","text":"Se compensa el daño y responde quien lo causó."}],"note":"Propuesta conceptual. La ejecución, los terceros y la colusión requieren soluciones adicionales; el acuerdo no autoriza agresiones."}
 ```
 
-
 ## El seguro paga por evitar el daño
 
-Una aseguradora que deba afrontar el coste de una agresión o accidente tiene motivos para invertir en prevención. Puede ofrecer condiciones mejores a instalaciones seguras, financiar alertas y exigir formación a sus proveedores. Ahorrar un daño no solo protege al cliente: evita una obligación de pago.
+Una aseguradora que tenga que pagar por una agresión o un accidente tiene motivos para prevenirlos. Podría ofrecer mejores condiciones a instalaciones seguras, financiar alertas y exigir formación a sus proveedores. Evitar el daño protege al cliente y reduce las indemnizaciones.
 
-Eso puede alinear intereses que una financiación obligatoria y poco vinculada al resultado separa. Si conservar clientes depende de atenderlos y cumplir las coberturas, la calidad tiene consecuencias. Una mutualidad permite además organizar parte de esa prevención entre los propios miembros.
+Si conservar clientes depende de atenderlos y cumplir las coberturas, la calidad tiene consecuencias para quien presta el servicio. Una mutualidad permitiría organizar parte de la prevención entre sus miembros.
 
-No basta con confiar en una marca. Hacen falta reservas, auditorías, contratos comprensibles, garantías y procedimientos de reclamación. Un seguro insolvente no repara con una promesa. La competencia debe alcanzar también a quien certifica y resuelve el incumplimiento.
+Para que esa promesa sea creíble hacen falta reservas, auditorías, garantías y contratos comprensibles. También procedimientos de reclamación: un seguro insolvente no repara el daño. Los clientes deben poder sustituir tanto al proveedor como a quien lo certifica o juzga sus incumplimientos.
 
 ## El agresor que no firmó
 
-La víctima no necesita obtener el permiso del agresor para defenderse. Impedir una agresión y exigir reparación por un daño es distinto de obligar a una persona pacífica a financiar los fines de otro.
+La víctima no necesita permiso del agresor para defenderse. Impedir una agresión y exigir reparación por un daño es distinto de obligar a una persona pacífica a financiar fines ajenos.
 
-Una propuesta sin monopolio tiene que explicar cómo se identificará al responsable, qué límites tendrá la fuerza defensiva y cómo se reparará un error. El contrato entre dos agencias no puede otorgarles derechos sobre un tercero inocente ni convertir cualquier sospecha en permiso para castigarlo.
+Habría que identificar al responsable, limitar la fuerza defensiva y reparar los errores. Dos agencias no pueden concederse por contrato derechos sobre un tercero inocente. Tampoco basta una sospecha para castigar a alguien.
 
-Los procedimientos deben proteger también a quien carece de contrato: asistencia jurídica sostenida por asociaciones, fondos de reparación y representación para menores o personas sin capacidad de actuar. Son instituciones que hay que construir y financiar; no desaparecen los problemas por retirar el rótulo estatal.
+Los procedimientos tendrían que proteger a quienes no han contratado una cobertura: asistencia jurídica financiada por asociaciones, fondos de reparación y representación para menores o personas sin capacidad de actuar. Esos apoyos necesitarían recursos y responsables concretos. Retirar el monopolio no los crea por sí solo.
 
 ## El peligro de convertirse en una banda
 
-Una agencia podría intentar extorsionar, coludirse con otras o expulsar por la fuerza a competidores. Eso sería una agresión, no una expresión de libertad empresarial. El derecho a contratar protección no incluye comprar un derecho a dominar a otros.
+Una agencia podría extorsionar, pactar con sus rivales para cerrar el mercado o expulsarlos por la fuerza. Serían agresiones. Contratar protección no permite comprar un derecho a dominar a los demás.
 
-La propuesta debe prever cómo limitar concentración, cambiar proveedor, auditar actuaciones y coordinar defensa frente a quien incumple. Si una empresa cobra obligatoriamente en un territorio y prohíbe alternativas, ha reconstruido el problema del Estado con otra marca.
+Frente a ese riesgo harían falta salidas practicables, auditorías y acuerdos de defensa entre proveedores y clientes. Evitar la concentración y repartir funciones dificultaría que una sola entidad controlara la protección, el juicio y la reparación.
 
-No se responde a ese riesgo buscando una agencia gigantesca a la que confiar indefinidamente el juicio propio. Se responde distribuyendo funciones y medios de defensa, exigiendo responsabilidad y haciendo difícil cerrar las salidas.
+Si una empresa cobra obligatoriamente en un territorio y prohíbe alternativas, ha reconstruido el problema del Estado con otra marca. La respuesta no es confiar indefinidamente en una agencia gigantesca, sino conservar medios para reclamar, cambiar y defenderse de ella.
 
 ## La protección no adquiere a la persona protegida
 
-Ningún diseño promete que desaparecerá el abuso. La diferencia moral está en no conceder de antemano a una organización una facultad exclusiva de imponer fines sobre personas pacíficas.
+Ningún diseño elimina el abuso. El límite moral es no conceder de antemano a una organización el derecho exclusivo a imponer fines sobre personas pacíficas.
 
-Un árbitro puede resolver una disputa sin convertirse en propietario del partido. Un seguro puede cubrir un riesgo sin dirigir toda una vida. Una entidad puede proteger a alguien sin declarar que, por protegerlo, ha adquirido el derecho a cobrarle cualquier cosa para siempre.
+Un árbitro puede resolver una disputa sin convertirse en dueño de los jugadores. Un seguro puede cubrir un riesgo sin dirigir la vida del asegurado. Protegerte no da derecho a cobrarte cualquier cosa para siempre.
 
-La seguridad tiene que servir a la independencia de las personas. Cuando exige entregarla por completo, la protección empieza a confundirse con aquello de lo que debía defendernos.
+La seguridad debe preservar tu independencia. Cuando exige entregarla, empieza a confundirse con aquello de lo que debía defenderte.
 
 ## Lecturas y fuentes
 

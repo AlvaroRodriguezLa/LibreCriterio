@@ -1,0 +1,10 @@
+---
+import parts from '../data/routes.json';
+import bridges from '../data/chapter-bridges.json';
+import book from '../data/book.json';
+import {getBookChapter} from '../lib/reading-book.mjs';
+import {sitePath,articlePath} from '../lib/content';
+const {slug,articles}=Astro.props;const chapter=getBookChapter(parts,slug);const titleOf=(s:string)=>articles.find((a:any)=>a.data.slug===s)?.data.title||s;
+const bridge=(bridges as Record<string,string>)[slug];
+---
+{chapter&&<nav class="book-navigation" aria-label="Continuar el libro" data-book-navigation><div class="chapter-finish"><button type="button" data-finish-chapter hidden>Marcar capítulo como leído</button><span data-book-progress aria-live="polite"></span></div>{bridge&&<p class="chapter-bridge">{bridge}</p>}<div class="book-navigation-links">{chapter.previous&&<a class="book-previous" href={articlePath(chapter.previous)} rel="prev"><span>← Capítulo {chapter.number-1}</span><strong>{titleOf(chapter.previous)}</strong></a>}{chapter.next?<a class="book-next" data-book-next href={articlePath(chapter.next)} rel="next"><span>Continuar · Capítulo {chapter.number+1} de {chapter.total} →</span><strong>{titleOf(chapter.next)}</strong></a>:<div class="book-end"><h2>Has terminado el recorrido.</h2><p>{book.closing}</p></div>}</div><a class="book-back-index" href={sitePath('/rutas/')+'#capitulo-'+slug}>Ver mi lugar en el libro ↗</a></nav>}

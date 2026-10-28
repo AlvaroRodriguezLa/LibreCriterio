@@ -7,7 +7,7 @@ image: "/images/no-votar-tambien-es-una-decision.svg"
 imageAlt: "Ilustración conceptual: No votar también es una decisión"
 category: "Poder"
 tags: ["Poder","libertad"]
-order: 18
+order: 17
 satellites: []
 thesis: "Participar en una votación no es un deber evidente cuando el resultado autoriza a imponer fines a otros."
 related: ["la-mayoria-no-lo-puede-todo","el-poder-no-cambia-al-cambiar-de-bandera","tu-vida-no-es-un-proyecto-del-poder"]
@@ -18,53 +18,47 @@ draft: false
 imageFit: "contain"
 ---
 
-## La decisión que la urna no contiene
+## La decisión anterior a la papeleta
 
-Antes de elegir una papeleta hay una cuestión anterior: si quieres participar en una decisión que autorizará a otros a gobernar vidas ajenas. Rechazar ese papel puede ser una posición moral, no una falta de interés por los demás.
+Antes de elegir a quién votar hay otra decisión: si quieres participar en un procedimiento que permitirá gobernar vidas ajenas. Rechazar ese papel puede expresar una preocupación moral por los demás.
 
-La abstención consciente parte de una incomodidad: no basta con que un candidato prometa hacer cosas que te gustan. También importa por qué medios las hará y sobre quiénes recaerán. **Un programa puede coincidir con tus deseos y exigir obediencia a quienes no los comparten.**
+Un programa puede prometer cosas que te gustan y exigir obediencia a quienes no las comparten. La afinidad con el resultado no resuelve cómo se obtendrá. **Tu preferencia no se convierte por sí sola en un derecho a imponerla.**
 
-Esta crítica se dirige al acto de autorizar poder, no a la inteligencia o a la dignidad de los votantes. Quien participa puede tener razones sinceras. Precisamente por eso merece examinarse el acto sin convertirlo en un deber incuestionable.
+Quien vota puede tener razones sinceras para hacerlo. Examinar el acto exige algo distinto de juzgar su inteligencia o su dignidad: dejar de tratar la participación como un deber evidente.
 
-## Una influencia minúscula, una promesa inmensa
+## Una influencia minúscula
 
-En una elección con millones de votos, la capacidad de una papeleta para cambiar por sí sola el resultado suele ser extremadamente pequeña. No es matemáticamente imposible: importan la circunscripción, las reglas y lo ajustado del resultado. Pero la distancia entre la sensación de decidir y la influencia individual efectiva es enorme.
+En una elección con millones de votos, la capacidad de una papeleta para cambiar por sí sola el resultado suele ser extremadamente pequeña. No es imposible: depende de la circunscripción, las reglas y lo ajustado del recuento. Pero esa posibilidad queda muy lejos de la sensación de decidir el rumbo de un país.
 
-Es fácil confundir dos afirmaciones: que el conjunto de votos determina el resultado y que mi voto concreto suele determinarlo. La primera no demuestra la segunda. Cada gota forma parte del río; eso no significa que añadir una cambie su cauce.
+El conjunto de votos determina el resultado. De ahí no se sigue que mi voto concreto vaya a determinarlo. Cada gota forma parte del río sin que añadir una cambie su cauce.
 
-De ahí una razón práctica para no votar: considerar que el tiempo, la atención y la esperanza puestos en esa acción rinden menos que otras formas de intervenir en la vida común. Ayudar a alguien, construir una asociación, sostener una iniciativa o explicar una idea puede producir consecuencias identificables sin esperar a que una papeleta sea decisiva.
+Esa distancia permite plantear una razón práctica para abstenerse: el tiempo y la atención pueden producir efectos más identificables en otra parte. Ayudar a alguien, sostener una asociación o construir un proyecto no exige esperar que una papeleta resulte decisiva.
 
-## El precio de un voto plenamente informado
+## El precio de saber lo que se elige
 
-Un programa electoral reúne cuestiones que ocupan carreras profesionales enteras. Evaluar sus consecuencias exigiría conocer las propuestas reales, sus costes, sus relaciones entre sí, las alternativas y la credibilidad de quienes prometen aplicarlas.
+Un programa reúne vivienda, sanidad, moneda, impuestos, educación y otras cuestiones que ocupan carreras profesionales enteras. Para evaluarlo habría que conocer propuestas, costes, alternativas, relaciones entre medidas y credibilidad de quien promete.
 
-Leer titulares o reconocer una afinidad no resuelve esa tarea. Tampoco basta con memorizar el programa: habría que saber si lo propuesto puede funcionar, qué sacrificios oculta y cómo responderá a circunstancias que todavía no conocemos. El ciudadano se enfrenta a una tarea inmensa para una influencia marginal diminuta.
+Reconocer una afinidad o leer titulares no completa esa tarea. Tampoco memorizar el programa permite saber si funcionará ni cómo responderá a circunstancias todavía desconocidas.
 
-Esa desproporción explica que informarse exhaustivamente no resulte rentable para muchos individuos, aunque colectivamente desearíamos decisiones bien informadas. No se sigue que nadie estudie o que toda preferencia carezca de fundamento. Se sigue que el mecanismo pide un grado de conocimiento que ofrece muy pocos incentivos individuales para adquirir.
+La desproporción es clara: comprender bien todo el paquete exige un esfuerzo enorme para una influencia individual muy pequeña. Eso explica por qué informarse exhaustivamente puede no compensar a una persona, aunque todos deseáramos un resultado bien informado.
 
-La salida no es atribuir omnisciencia al gobernante. Él también se equivoca y carece de buena parte del conocimiento disperso de la sociedad. La pregunta es por qué concentrar tantas decisiones hasta volver imposible comprender el paquete que se entrega a las urnas.
+No significa que nadie estudie ni que toda preferencia carezca de fundamento. Significa que el procedimiento concentra tantas decisiones que vuelve muy costoso comprender lo que invita a autorizar. El gobernante tampoco posee todo ese conocimiento por recibir el cargo.
 
 ## Votar también es decidir sobre otros
 
-Comprar algo afecta a otras personas, pero un intercambio voluntario necesita que acepten. Una votación política puede producir obligaciones para quien la rechaza. Esa diferencia sitúa una responsabilidad moral sobre el entusiasmo electoral.
+Un intercambio voluntario necesita la aceptación de quienes participan. Una decisión política puede obligar a quien la rechaza. La diferencia permanece aunque la ejecución ocurra lejos de la cabina electoral.
 
-Si apoyas una prohibición, no solo expresas tu preferencia: contribuyes a que alguien pueda impedir por la fuerza una conducta. Si apoyas un gasto obligatorio, también respaldarás que se cobre a personas que no aceptaron financiarlo. La distancia entre la cabina y la ejecución no borra a quienes soportan el resultado.
+Si apoyas una prohibición, contribuyes a que alguien pueda impedir una conducta por la fuerza. Si apoyas un gasto obligatorio, también respaldarás que se cobre a personas que no aceptaron financiarlo. Desear el resultado no borra a quienes lo soportarán.
 
-Quien rechaza votar por esta razón no afirma que dejar una papeleta en blanco vaya a detener al Estado. Expresa que no desea convertir su preferencia en un título para dirigir vidas ajenas. La coherencia le exige aplicar el mismo límite a las políticas que le gustan.
+Rechazar ese papel puede ser una razón para no votar. No hace falta creer que la abstención detendrá por sí sola al Estado. La posición expresa que uno no quiere convertir su preferencia en un permiso para dirigir a otros, y exige aplicar el límite también a las políticas que le gustan.
 
-## Legitimidad y consecuencias son preguntas diferentes
+## Negar adhesión no equivale a cambiar el resultado
 
-No votar puede negar una adhesión personal al mecanismo. No anula legalmente una elección, no retira automáticamente las competencias de nadie y no significa que todos los abstencionistas compartan una misma postura. Apropiarse políticamente de su silencio sería repetir la ficción que se critica.
+Abstenerse no anula legalmente una elección ni retira automáticamente competencias. Tampoco todos los abstencionistas comparten una postura. Atribuir a su silencio un único mandato repetiría la ficción que se critica.
 
-Existe también el voto defensivo: alguien puede votar para reducir un daño que considera inminente sin reconocer por ello una autoridad moral ilimitada al vencedor. Esa es una razón estratégica distinta, que no resuelve la cuestión del consentimiento individual.
+Existe además el voto defensivo: alguien puede participar para reducir un daño que considera inminente sin reconocer una autoridad moral ilimitada al vencedor. Esa estrategia y el consentimiento son cuestiones distintas. Calcular qué acción reducirá un perjuicio no convierte el resultado electoral en un contrato de todos.
 
-La objeción a votar reúne así tres planos: poca influencia marginal, un coste de información desproporcionado y el rechazo a decidir coercitivamente por otros. No necesita prometer que la abstención por sí sola cambiará las instituciones. Necesita mostrar por qué participar no es una obligación moral evidente.
-
-## No entregar la vida común a la política
-
-Preocuparse por la sociedad no obliga a identificarla con el Estado. Hay cooperación fuera del gobierno: trabajo, amistad, aprendizaje, ayuda mutua y proyectos compartidos. En esas relaciones puedes ofrecer algo concreto y dejar a los demás aceptar o rechazar.
-
-La vida política invita a preguntar quién debería mandar. La libertad añade otra posibilidad: cuántas cosas podemos dejar de someter a un mando. Tal vez una parte de la responsabilidad cívica consista en ampliar ese espacio.
+La poca influencia marginal, el coste de información y el rechazo a imponer fines permiten cuestionar que votar sea una obligación moral. Preocuparse por la vida común no obliga a identificarla con el gobierno. También puedes ofrecer trabajo, ayuda, aprendizaje y proyectos que los demás sean libres de aceptar.
 
 ## Lecturas y fuentes
 

@@ -7,10 +7,10 @@ image: "/images/la-nomina-que-no-ves.svg"
 imageAlt: "Ilustración conceptual: La nómina que no ves"
 category: "Fiscalidad"
 tags: ["Fiscalidad","libertad"]
-order: 7
+order: 18
 masterPages: "46–47, 52"
 satellites: []
-thesis: "Entender las bases de cálculo es el primer paso para discutir la carga fiscal."
+thesis: "Ver la carga completa del trabajo permite medir sus efectos; la utilidad de lo financiado no sustituye el consentimiento."
 related: ["redistribuir-no-es-solo-repartir","pensiones-el-puente-entre-generaciones","inflacion-el-reloj-del-ahorro"]
 level: "Iniciación"
 featured: false
@@ -19,53 +19,61 @@ draft: false
 imageFit: "contain"
 ---
 
-## Tres cifras y una sola relación laboral
+## Lo que cuesta contratarte y lo que recibes
 
-Una persona mira el ingreso mensual de su nómina. Su empresa mira el coste de contratarla. Entre ambas cantidades aparecen cotizaciones e impuestos, repartidos en casillas diferentes y con nombres distintos. Esa fragmentación vuelve difícil hacerse una imagen del conjunto.
+Miras el ingreso de tu nómina. Tu empresa mira cuánto le cuesta contratarte. No estáis viendo la misma cantidad: entre ambas aparecen impuestos y cotizaciones repartidos en casillas diferentes.
 
-La crítica liberal empieza aquí con una exigencia sencilla: **el ciudadano debe poder ver el coste completo de las decisiones públicas.** Después podrá discutir si lo que recibe a cambio compensa ese coste. Antes necesita conocer qué se está comparando.
+El coste laboral incluye las cotizaciones a cargo de la empresa. El salario bruto es otra cifra. Después de las retenciones correspondientes queda el neto que llega a tu cuenta. Separarlas permite ver qué parte de los recursos vinculados al trabajo queda disponible para tus planes.
 
-No todos los importes que paga formalmente la empresa recaen económicamente sobre el trabajador de manera automática. La incidencia depende del mercado laboral, la negociación, la productividad y el horizonte temporal. Llamarlos salario oculto expresa una intuición sobre el coste total; no demuestra que suprimirlos se trasladaría íntegramente a la nómina mañana.
+**Hacer visible esa cuenta no convierte el cobro obligatorio en un acuerdo.** Un servicio útil no produce el consentimiento que falta. La cuenta responde cuánto se detrae; la utilidad no autoriza a tomarlo de quien no aceptó entregarlo.
 
-## Qué mide la cuña fiscal
+## Quién paga en el papel y quién soporta el coste
 
-La OCDE compara el coste laboral total con la renta neta del trabajador, incluyendo el impuesto sobre la renta y las cotizaciones de empleado y empleador, y descontando las prestaciones monetarias familiares que corresponden al caso. La métrica permite comparar perfiles homogéneos.
+Una cotización puede figurar a nombre de la empresa y afectar también a salarios, empleo o precios. Su carga económica depende de la negociación, la productividad, la competencia y del tiempo del que dispongan las partes para ajustar sus decisiones.
 
-Su trabajador de referencia no es cualquier trabajador ni el conjunto de los hogares. Para evitar una generalización engañosa, las cifras siguientes se refieren a una persona soltera, sin hijos, que cobra el salario medio.
+Por eso conviene conocer el coste completo sin prometer que eliminar una partida elevaría mañana el sueldo por ese mismo importe. La cantidad pagada formalmente y su efecto final no son necesariamente idénticos.
 
+Ver ambas cosas mejora la discusión: impide que una casilla oculte una carga y que una consigna prometa una devolución que no ha calculado.
+
+## Una comparación con el mismo perfil
+
+La cuña fiscal compara el coste laboral total con la renta neta. Incluye el impuesto sobre la renta y las cotizaciones de empleado y empleador, descontando las prestaciones monetarias familiares que correspondan.
+
+Para comparar países hace falta mantener el perfil. Los datos siguientes describen a una persona soltera, sin hijos, que cobra el salario medio. No describen cualquier nómina ni todos los impuestos de un hogar. El año de los datos es 2025; la edición del informe es de 2026.
 
 ```oneshot
 {"type":"stat-cards","title":"Un perfil comparable · año 2025","stats":[{"value":"41,4 %","label":"Cuña fiscal en España","description":"Persona soltera, sin hijos, con salario medio. Porcentaje del coste laboral total.","source":"OCDE · Taxing Wages 2026"},{"value":"35,1 %","label":"Media OCDE","description":"Mismo perfil de trabajador y misma métrica.","source":"OCDE · Taxing Wages 2026"},{"value":"58,6 €","label":"Neto de cada 100 € de coste","description":"Complemento aritmético de la cuña española; antes de gravar el consumo.","source":"Cálculo: 100 − 41,4"}],"note":"No es una estimación de tu nómina ni incluye todos los impuestos de un hogar."}
 ```
 
+## Seguir cien euros
 
-## Cien euros para ordenar la conversación
+Normalicemos ese coste laboral en cien euros. Con la cuña española del perfil elegido, 41,4 corresponden a impuestos y cotizaciones netos de las prestaciones consideradas. Quedan 58,6 de renta neta antes de consumir o ahorrar.
 
-Tomemos cien euros de coste laboral total. Aplicando esa cuña, 41,4 corresponden a impuestos y cotizaciones netos de las prestaciones consideradas; 58,6 quedan como renta neta. Es una normalización de la estadística, no el desglose exacto de un contrato particular.
+Supongamos ahora que se gastan íntegramente en bienes al 21 % de IVA. Su valor antes de IVA sería 58,6 dividido entre 1,21: aproximadamente 48,43 euros. El IVA incluido sería 10,17 euros.
 
-Si después se gastaran esos 58,6 íntegramente en bienes al 21 % de IVA, el valor antes de IVA sería 58,6 dividido entre 1,21: aproximadamente 48,43. El IVA incluido sería 10,17. No se resta el 21 % del precio final: eso aplicaría incorrectamente la base del impuesto.
+La operación importa: restar el 21 % del precio final daría una cifra incorrecta, porque el tipo se aplica al precio antes del impuesto. Tampoco se pueden sumar sin más porcentajes calculados sobre bases distintas.
 
-La hipótesis tampoco representa una cesta real. Parte del consumo puede estar exenta, tributar a tipos distintos o no producirse porque la renta se ahorra. Tampoco representa todos los impuestos posibles. Es una escena pedagógica con supuestos expresos, que puedes modificar en el laboratorio.
-
+Este ejemplo aísla un recorrido. Una cesta real puede incluir tipos diferentes, bienes exentos o renta que se ahorra. No representa todos los impuestos ni un contrato concreto. Esos supuestos deben acompañar a la cifra, para que el ejemplo explique en lugar de exagerar.
 
 ```oneshot
 {"type":"concept-flow","title":"No son tres bases iguales","steps":[{"title":"Coste laboral","text":"Incluye las cotizaciones empresariales."},{"title":"Salario bruto","text":"Es la base visible de buena parte de la nómina."},{"title":"Salario neto","text":"La renta disponible antes de consumir o ahorrar."}],"note":"Esquema conceptual: las flechas describen un mecanismo, no una prueba causal universal."}
 ```
 
+## La cuenta y la finalidad
 
-## La pregunta moral viene después de la cuenta
+Lo recaudado financia servicios, seguros y transferencias. Parte vuelve a hogares y parte paga a trabajadores o proveedores. Conocer el destino es necesario para evaluar sus efectos. No hace que cada persona haya aceptado entregarlo.
 
-La fiscalidad financia servicios, seguros y transferencias. Omitirlos produciría una comparación incompleta. Pero su existencia tampoco demuestra que cada euro recaudado sea necesario, que la estructura sea la mejor posible o que sus beneficios se repartan justamente.
+La distinción evita dos atajos. Ni todo el dinero desaparece dentro de una oficina ni el valor de una prestación convierte en consentida la apropiación que la financia. Se puede describir una mejora material y mantener la objeción al cobro forzoso.
 
-La objeción liberal mira autonomía, transparencia e incentivos. Cuanto mayor sea la distancia entre el coste generado y la renta disponible, más decisiones pasan por mecanismos colectivos. Eso exige justificar resultados y alternativas, además de exhibir finalidades.
+Además, cuanto menos puede reservar una persona para sus propios fines, más depende de las decisiones de quien administra los recursos detraídos. La carga tiene efectos sobre consumo y ahorro, y también sobre la posibilidad de construir una vida independiente.
 
-La objeción al liberalismo es también relevante: reducir ingresos sin especificar cómo se financian compromisos existentes traslada costes a otros. Una reforma debe identificar qué cambia, quién gana, quién pierde y en qué plazo.
+## Reformar sin esconder otra factura
 
-## Transparencia sin aritmética teatral
+Hay compromisos existentes y personas que dependen de ellos. Una propuesta de cambio debe explicar qué modifica, qué recursos utiliza y cómo atiende la transición. Prometer una rebaja mientras se desplaza el coste a otros dejaría incompleta la cuenta.
 
-Presentar una cuña de referencia como si todas las personas trabajaran exactamente los mismos meses para el Estado convierte una estadística útil en una afirmación excesiva. También lo hace sumar tipos calculados sobre bases diferentes.
+La misma claridad se exige al sistema actual. Una nómina comprensible y un presupuesto trazable permiten reconocer quién aporta, quién recibe y qué se ha decidido. No hace falta inflar una estadística para mostrar la magnitud de la obligación.
 
-El mejor argumento no necesita inflar la cifra. Puede exigir una nómina más comprensible, comparaciones consistentes y un presupuesto que deje ver la relación entre financiación y resultados. Ver el coste no obliga a una conclusión única; permite que la conclusión sea propia.
+El neto que ves en la cuenta es solo una parte del recorrido. Conocer el resto permite juzgarlo con cifras que significan algo y sin confundir una relación impuesta con una compra.
 
 ## Lecturas y fuentes
 

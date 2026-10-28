@@ -9,7 +9,7 @@
     "check": "astro check",
     "prebuild": "node scripts/generate-social-cards.mjs",
     "build": "astro build",
-    "test": "node tests/article-blocks.test.mjs && node tests/auth-email-otp.test.mjs && node tests/article-publisher.test.mjs && node tests/content.test.mjs && node tests/reading-routes.test.mjs && node tests/political-cases.test.mjs",
+    "test": "node tests/article-blocks.test.mjs && node tests/auth-email-otp.test.mjs && node tests/article-publisher.test.mjs && node tests/content.test.mjs && node tests/reading-routes.test.mjs && node tests/political-cases.test.mjs && node tests/reader-state.test.mjs",
     "preview": "astro preview --host 127.0.0.1 --port 4331"
   },
   "dependencies": {

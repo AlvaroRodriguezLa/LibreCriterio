@@ -2,12 +2,12 @@
 title: "Sin precios, la fábrica pierde su brújula"
 slug: "sin-precios-no-hay-brujula"
 date: "2026-10-28"
-excerpt: "Contar acero no permite saber qué merece construirse con él. El cálculo económico distingue la posibilidad técnica del valor de una decisión."
+excerpt: "Con cien toneladas de acero puedes construir varias cosas. La cuestión es qué tendrás que dejar sin hacer al elegir una."
 image: "/images/sin-precios-no-hay-brujula.svg"
 imageAlt: "Ilustración conceptual: Sin precios, la fábrica pierde su brújula"
 category: "Mercados"
 tags: ["Mercados","libertad"]
-order: 3
+order: 6
 masterPages: "17–20, 57–59"
 satellites: []
 thesis: "Una posibilidad técnica no demuestra que una inversión compense lo que desplaza."
@@ -19,56 +19,66 @@ draft: false
 imageFit: "contain"
 ---
 
-## Un almacén no es una economía
+## Qué hacer con cien toneladas de acero
 
-Un ingeniero recibe cien toneladas de acero. Puede destinarlas a un puente, a maquinaria agrícola o a una nave. Conoce pesos, resistencias y horas de trabajo. Su problema empieza precisamente cuando ha resuelto esas cuentas: las tres opciones son técnicamente posibles, pero no pueden realizarse a la vez.
+Un ingeniero dispone de cien toneladas de acero. Puede usarlas para un puente, para maquinaria agrícola o para una nave. Calcula resistencias, materiales y horas de trabajo. Las tres opciones son posibles, pero elegir una deja las otras sin esos recursos.
 
-**La pregunta económica es qué sacrificamos cuando elegimos.** Una obra puede quedar impecable y emplear recursos que otras personas necesitaban para un uso más valioso. La escasez obliga a comparar, incluso cuando el presupuesto permite pagar.
+La dificultad ya no es técnica. **Hace falta comparar lo que cada proyecto ofrece con lo que impide realizar.** Tener medios para construir algo no demuestra que ese sea su uso más valioso.
 
-Cuando nadie puede intercambiar medios de producción, se pierde una forma de comparar sus usos alternativos. La dificultad se vuelve especialmente profunda si todos esos medios quedan bajo un solo mando. Un servicio público que compra en mercados existentes no está en la misma situación: utiliza señales que no ha tenido que producir por sí solo.
+Las cantidades físicas no responden por sí solas. Un inventario dice cuánto acero hay. No reúne las necesidades, los planes y las renuncias de todas las personas que podrían utilizarlo.
 
-## Lo que un precio añade a una cantidad
+## Lo que añade un precio
 
-Cien toneladas describen una existencia física. Un precio relaciona ese recurso con ofertas, demandas y alternativas. Cuando los bienes de capital pueden intercambiarse, las decisiones empresariales se confrontan con otras valoraciones y con presupuestos que no son ilimitados.
+Cuando se intercambian materiales y bienes de capital, distintos proyectos compiten por obtenerlos. Sus ofertas forman precios. Quien necesita acero tiene que contar con lo que otras personas están dispuestas a entregar por él.
 
-La relación puede resumirse así: propiedad e intercambio permiten formar precios; esos precios ayudan a comparar costes; beneficios y pérdidas ofrecen información sobre decisiones anteriores. Cada eslabón tiene condiciones y limitaciones. Un precio distorsionado por privilegios, rescates o costes impuestos a terceros transmite señales defectuosas.
+Esos precios permiten comparar costes monetarios, incluso entre recursos muy diferentes. Después, los ingresos y las pérdidas dan información sobre el resultado. El cálculo relaciona una decisión con alternativas que el ingeniero quizá nunca llegó a conocer.
 
+Funciona peor cuando se ocultan costes o se protege al que falla. Un rescate puede trasladar pérdidas al contribuyente. Una licencia exclusiva puede impedir ofertas rivales. La contaminación puede dejar una parte de la factura en alguien que no participó. En esos casos, la cuenta del productor no recoge todo lo que su decisión cuesta.
 
 ```oneshot
 {"type":"concept-flow","title":"Del recurso al cálculo","steps":[{"title":"Intercambio","text":"Distintos proyectos compiten por recursos."},{"title":"Precios","text":"Se comparan costes monetarios de alternativas."},{"title":"Resultados","text":"Ingresos y pérdidas obligan a revisar planes."}],"note":"Esquema conceptual: las flechas describen un mecanismo, no una prueba causal universal."}
 ```
 
+## El puente y lo que quedó sin construir
 
-## El puente que se ve y la máquina que falta
+Imaginemos un puente vistoso que apenas se utiliza. Para valorarlo hay que conocer demanda, acceso, seguridad, mantenimiento y usos futuros. La fotografía de la inauguración no contiene esa comparación.
 
-Imaginemos una obra pública muy vistosa que apenas se utiliza. Su existencia no demuestra por sí sola que fuera un error: quizá genera seguridad, acceso o beneficios difíciles de cobrar a cada usuario. Pero la inauguración tampoco demuestra que mereciera la inversión.
+Tampoco contiene la máquina que no se compró, la reparación aplazada o la deuda que habrá que atender. Ese conjunto de alternativas sacrificadas es el coste de oportunidad: lo que ya no puede hacerse con los mismos recursos.
 
-Hay que contrastarla con alternativas, demanda prevista, costes de mantenimiento y escenarios de uso. La máquina no comprada, el mantenimiento aplazado y la deuda futura forman parte de la comparación. El coste de oportunidad es la obra que no sale en la fotografía.
+Una obra puede generar beneficios difíciles de cobrar a cada usuario. Eso merece entrar en su evaluación, junto con los costes. No convierte en voluntaria su financiación si se cobró por la fuerza. La comparación económica ayuda a decidir entre proyectos; no concede derecho a disponer del dinero de quienes tendrán que pagarlos.
 
-La crítica liberal resulta más persuasiva cuando exige ese examen que cuando sustituye evaluación por desprecio genérico. Si una inversión pública puede superar una comparación exigente, su defensor debe mostrarla. Si fracasa, una finalidad noble no debería blindarla indefinidamente.
+## Cuando un solo mando sustituye los intercambios
 
-## La respuesta de la planificación simulada
+Si nadie puede comprar y vender los medios de producción porque todos pertenecen a un único mando, desaparece una fuente de precios con los que compararlos. El problema alcanza entonces al conjunto de decisiones sobre qué producir y cómo.
 
-Los defensores de modelos de socialismo de mercado han propuesto precios administrativos ajustados por prueba y error. Esta controversia importa porque intenta responder al argumento, en vez de ignorarlo. La discusión pasa a ser si esos ajustes reproducen la información y la disciplina del intercambio o si presuponen aquello que deberían explicar.
+No es la misma situación que la de una administración que compra en mercados existentes. Esta utiliza señales producidas por intercambios externos. La distinción permite precisar qué información utiliza cada organización.
 
-La réplica austriaca insiste en el descubrimiento de alternativas y en la responsabilidad sobre resultados. Un algoritmo puede resolver muy bien una optimización si se conocen objetivos y restricciones. Pero esos elementos cambian, y algunas oportunidades se descubren únicamente cuando alguien puede probarlas con recursos propios.
+Se han propuesto precios administrativos que subirían o bajarían por prueba y error. La pregunta es si ese procedimiento reproduce el descubrimiento y las consecuencias de intercambiar, o si necesita recibir desde fuera la información que pretende generar.
 
-Esto deja preguntas abiertas sobre diseño institucional, no un veto a toda herramienta matemática. Empresas y administraciones deben usar mejores métodos de evaluación. La controversia comienza cuando se pretende sustituir el proceso de elección descentralizada por una solución que presupone sus datos.
+## El algoritmo necesita saber qué está resolviendo
 
-## Beneficio y necesidad no son sinónimos
+Una herramienta matemática puede comparar muchas opciones cuando dispone de objetivos y restricciones. Pero los objetivos de las personas cambian, aparecen recursos nuevos y algunas alternativas solo se descubren al intentar llevarlas a cabo.
 
-Los precios responden a demanda respaldada por capacidad de pago. No agotan las necesidades humanas ni las obligaciones morales. La disposición a pagar por un tratamiento y la necesidad de recibirlo pueden separarse mucho. Además, monopolios, fraude y externalidades debilitan la lectura del resultado empresarial.
+Un presupuesto calculado no sustituye la libertad de hacer esa prueba. Tampoco reemplaza la responsabilidad de quien decide. Si el proyecto falla y otro paga sin poder rechazarlo, falta una consecuencia que el cálculo numérico no crea.
 
-Una defensa rigurosa del cálculo monetario reconoce esos límites. Después compara correctivos posibles: responsabilidad por daños, apertura de competencia, financiación focalizada, evaluación pública o reglas para bienes comunes. La alternativa relevante suele ser entre instituciones imperfectas, con distintos errores y mecanismos de reparación.
+El algoritmo puede ampliar las opciones que se comparan. No crea los objetivos ni las alternativas todavía sin descubrir.
 
-## Calcular para poder rectificar
+## Lo que la rentabilidad no mide
 
-La tesis que merece conservarse es una exigencia de humildad: disponer de poder para construir no equivale a saber qué conviene construir. Toda institución necesita información sobre alternativas y una forma de corregirse cuando sus promesas no se cumplen.
+La demanda depende también del dinero disponible. Alguien puede necesitar mucho un tratamiento y no poder pagarlo. El beneficio de una empresa no agota, por tanto, las necesidades humanas ni dice por sí solo qué ayuda merece una persona.
 
-La brújula no decide el destino de quienes viajan. Les ayuda a reconocer por dónde están yendo y qué rutas han dejado atrás.
+Esa dificultad requiere formas de cooperación: seguros, mutualidades, donaciones o acuerdos para sostener recursos compartidos. También exige reclamar reparación por daños, perseguir el fraude y permitir que entren competidores. Cada respuesta debe mostrar qué hace y con qué recursos cuenta.
+
+El cálculo sirve para que esas decisiones no ignoren lo que desplazan. Una organización solidaria tiene recursos limitados igual que una empresa. Conocer sus costes le permite ayudar con más continuidad; no decide por ella qué fines elegir.
+
+## Poder reconocer un error
+
+Una inversión necesita información sobre las alternativas y una forma de rectificar. Si se juzga solo por haber sido construida, cualquier gasto puede presentarse como éxito.
+
+Contar el acero permite saber si el puente se sostendrá. Comparar lo que se sacrifica permite preguntar si conviene construirlo. Ninguna de las dos respuestas autoriza a utilizar a otras personas sin su consentimiento.
 
 ## Lecturas y fuentes
 
 - [Ludwig von Mises, Socialism (1922)](https://www.econlib.org/library/Mises/msS.html), desarrollo del debate sobre cálculo.
-- Jesús Huerta de Soto, *Socialismo, cálculo económico y función empresarial* (1992), parte del corpus maestro.
+- Jesús Huerta de Soto, *Socialismo, cálculo económico y función empresarial* (1992).
 - Oskar Lange, *On the Economic Theory of Socialism* (1936–1937), interlocutor que debe leerse antes de dar el debate por cerrado.

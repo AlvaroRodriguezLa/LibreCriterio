@@ -7,7 +7,7 @@ image: "/images/el-estado-siempre-encuentra-un-culpable.svg"
 imageAlt: "Ilustración conceptual: El Estado siempre encuentra un culpable"
 category: "Poder"
 tags: ["Poder","libertad"]
-order: 19
+order: 14
 satellites: []
 thesis: "Cambiar al gobernante no basta si las reglas permiten repetir el daño sin perder poder."
 related: ["la-politica-tambien-tiene-incentivos","la-mayoria-no-lo-puede-todo","un-derecho-no-es-un-proveedor"]
@@ -20,53 +20,47 @@ imageFit: "contain"
 
 ## Cambiar el rostro, conservar la facultad
 
-Un servicio falla durante años. Llega un escándalo, comparece un ministro, se reclama su dimisión y aparece un sustituto que promete una etapa nueva. El desenlace puede dejar intacto el presupuesto, el monopolio, los procedimientos y la obligación de seguir pagando.
+Un servicio falla durante años. Estalla un escándalo, comparece un ministro y se exige su dimisión. Llega un sustituto que promete hacerlo mejor. Pueden seguir intactos el presupuesto, el monopolio, los procedimientos y la obligación de pagarlos.
 
-Algo se ha movido: una persona abandona el cargo. Algo más profundo puede no haberse discutido: por qué esa organización conserva la facultad de exigir recursos y obediencia aunque repita los errores.
+Ha cambiado una persona. Sigue pendiente otra pregunta: ¿qué impide repetir el mismo daño? Si nadie la plantea, la dimisión permite terminar la discusión justo donde empezaba a ser incómoda para la organización.
 
-**La responsabilidad personal puede convertirse en un cortafuegos de la responsabilidad institucional.** Culpar a quien ocupaba el despacho permite cerrar la conversación antes de preguntar por el diseño del despacho mismo.
+**La responsabilidad del político puede proteger al aparato cuando toda la explicación se agota en su nombre.** Investigar su conducta y examinar las facultades del cargo son tareas distintas. La primera no sustituye a la segunda.
 
-## Un reparto de méritos muy conveniente
+## Una forma muy cómoda de no perder
 
-Cuando una política da buenos resultados, el éxito se presenta como demostración de que necesitamos una intervención fuerte. Cuando fracasa, puede atribuirse a un gobernante incompetente, un equipo desleal o una ejecución defectuosa. La institución aparece como autora de las virtudes y víctima de sus administradores cuando llegan los defectos.
+Cuando una política funciona, su éxito puede presentarse como prueba de que la institución es necesaria. Cuando fracasa, la explicación se concentra en el gobernante incompetente, el equipo desleal o la mala ejecución.
 
-La regla tiene una ventaja evidente para el aparato: casi nunca pierde. Si acierta, necesita recursos para continuar. Si falla, necesita recursos para corregirlo y una persona nueva que restaure la confianza. El fracaso no reduce necesariamente su ámbito; a veces se convierte en el argumento para ampliarlo.
+Con esa regla, los méritos pertenecen al aparato y los defectos a sus ocupantes. El remedio siempre puede ser otro administrador. La organización conserva las facultades mientras renueva la promesa de que esta vez se utilizarán bien.
 
-No hace falta que exista una mente única llamada Estado organizando ese relato. Hay organizaciones, carreras, presupuestos y hábitos que favorecen su continuidad. Muchas personas pueden reproducir el mecanismo sin haberse puesto de acuerdo para diseñarlo.
+No hace falta imaginar una mente única llamada Estado que haya diseñado el relato. Hay carreras, presupuestos y hábitos que favorecen su continuidad. Quienes participan pueden reproducir esa defensa sin haberse coordinado para hacerlo.
 
 ## La culpa que se agota en una biografía
 
-Imaginemos una oficina que concede ayudas mediante reglas opacas. Un responsable favorece a sus allegados y el caso se descubre. Sancionarlo responde a su conducta. Pero si el siguiente conserva la misma discrecionalidad, el mismo acceso privilegiado y la misma falta de vigilancia, la oportunidad de repetirla permanece.
+Imagina una oficina que concede ayudas mediante reglas opacas. Su responsable favorece a allegados y se descubre el caso. Sancionarlo responde a su conducta. Si el siguiente conserva la misma discrecionalidad y la misma falta de vigilancia, conserva también la oportunidad de repetirla.
 
-El ejemplo es hipotético. Su pregunta vale más allá de la corrupción: ¿se ha eliminado el incentivo o solo se ha cambiado a quien podía aprovecharlo? Un nombre nuevo no modifica automáticamente la relación entre quien decide, quien paga y quien recibe.
+El ejemplo es hipotético. Permite distinguir castigar un abuso de retirar una facultad abusiva. Un nombre nuevo no cambia por sí solo la relación entre quien decide, quien recibe y quien paga.
 
-A veces ni siquiera llega la responsabilidad personal. Los daños pueden repartirse entre numerosos cargos, perderse en expedientes o atribuirse a circunstancias generales. Cuanto más difícil es identificar una decisión y su consecuencia, más fácil resulta que todos aleguen haber cumplido su función.
-
+A veces ni siquiera llega la responsabilidad personal. Las decisiones se reparten entre cargos, se pierden en expedientes o se atribuyen a circunstancias generales. Cada responsable puede alegar que cumplió una parte del procedimiento mientras nadie responde por el resultado.
 
 ```oneshot
 {"type":"concept-flow","title":"Cómo un fracaso puede dejar intacto al aparato","steps":[{"title":"Fallo","text":"Un servicio o una decisión causa un daño."},{"title":"Personalización","text":"Toda la explicación se concentra en un cargo."},{"title":"Sustitución","text":"Otro ocupante promete una etapa distinta."},{"title":"Continuidad","text":"Las facultades y los incentivos permanecen si no se revisan."}],"note":"Esquema de un posible mecanismo de inmunización institucional; no descripción de un caso concreto."}
 ```
 
+## También hay que responder por las reglas
 
-## Responsabilizar también a las reglas
+Una rendición de cuentas debe identificar qué decisión produjo el daño, qué información se ignoró y qué consecuencias soporta quien decidió. Después debe preguntar qué ocurrirá con las facultades que lo hicieron posible.
 
-Una crítica completa pregunta qué decisión produjo el daño, qué información se ignoró y qué consecuencias soporta quien decidió. Después pregunta qué facultades hicieron posible el problema y por qué se conservarán.
+Si el usuario no puede salir, el pagador no puede rechazar la financiación y el organismo conserva ingresos con independencia del resultado, el cambio de director deja lo esencial en pie. La institución sigue disponiendo de las personas a las que debía servir.
 
-Si el usuario no puede salir, si el pagador no puede rechazar la financiación y si el organismo recibe ingresos con independencia del resultado, sustituir a su director deja pendiente una parte esencial de la rendición de cuentas. La institución necesita exponerse también a perder funciones, recursos o la exclusividad que posee.
+Examinar esa relación no absuelve al funcionario ni atribuye una culpa personal a una regla. Impide que una condena o una dimisión cierren automáticamente el debate sobre el sistema.
 
-Eso no absuelve al funcionario ni convierte una regla en una persona culpable. Permite distinguir la responsabilidad por un acto de la revisión del sistema que lo facilita. Castigar un abuso y conservar una facultad abusiva son decisiones compatibles; por eso la primera no garantiza que se haya hecho la segunda.
+## La clientela que no puede marcharse
 
-## La mala comparación que protege al poder
+Un proveedor que pierde clientes puede verse obligado a cambiar o desaparecer. Otro protegido por barreras, contratos cautivos o rescates puede evitarlo. El criterio alcanza a ambos: fallar no da derecho a renovar indefinidamente la obligación ajena de sostenerlos.
 
-Una empresa que pierde clientes puede reducirse o desaparecer. Una protegida por barreras, contratos cautivos o rescates puede eludir esa consecuencia. El criterio debe aplicarse a ambas: que quien falla no pueda renovar indefinidamente la obligación ajena de sostenerlo.
+Si ante un mal servicio solo se permite reclamar un mejor administrador, la salida del usuario queda aplazada para siempre. Tendrá que seguir pagando mientras espera que el próximo sea distinto. La continuidad del aparato se trata como una certeza; la libertad del afectado, como una esperanza.
 
-Si ante cualquier mal servicio solo se admite pedir un mejor administrador, la libertad del usuario queda aplazada para siempre. Su única salida sería esperar a que el próximo ocupante fuese distinto. El aparato conservaría una clientela obligatoria mientras ensaya con ella.
-
-## Una dimisión puede ser el principio
-
-Exigir la dimisión de un responsable puede tener sentido y quedarse corto. Después del cambio de nombre debe seguir la pregunta incómoda: ¿por qué necesitamos que alguien tenga esa facultad sobre los demás?
-
-La confianza no debería renovarse automáticamente con cada fotografía oficial. Una institución ha de poder ser examinada por lo que hace posible, por lo que impide y por las consecuencias que asume al fallar. De lo contrario, cada político será reemplazable y el poder que causa el daño resultará intocable.
+Exigir una dimisión puede ser el principio de una respuesta. Debe poder seguirle la pregunta que un relevo no contesta: por qué alguien conservará esa facultad sobre los demás. De lo contrario, el político será reemplazable y el poder que permite el daño seguirá fuera de discusión.
 
 ## Lecturas y fuentes
 

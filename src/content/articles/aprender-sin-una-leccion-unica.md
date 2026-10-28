@@ -7,7 +7,7 @@ image: "/images/aprender-sin-una-leccion-unica.svg"
 imageAlt: "Ilustración conceptual: Aprender sin una lección única"
 category: "Instituciones"
 tags: ["Instituciones","libertad"]
-order: 25
+order: 24
 satellites: []
 thesis: "La importancia de educar no concede a una autoridad la propiedad del futuro de todos los alumnos."
 related: ["cuidar-sin-pedir-permiso-al-monopolio","el-permiso-de-quien-ya-ha-entrado","cooperar-sin-un-director-unico"]
@@ -20,67 +20,65 @@ imageFit: "contain"
 
 ## Una vida no cabe en un programa único
 
-Hay alumnos que aprenden haciendo, otros que necesitan explicaciones más pausadas y otros que avanzan deprisa en una materia y con dificultad en otra. Las familias pueden valorar de manera distinta idiomas, disciplina, oficios, artes, religión o formación científica.
+Un alumno entiende una idea al ponerla en práctica. Otro necesita una explicación más pausada. Uno avanza deprisa en matemáticas y se atasca al leer; otro vive la experiencia contraria. Enseñarles igual no garantiza enseñarles bien.
 
-Esa diversidad no exige que una autoridad decida de una vez qué combinación merece cada vida. **Querer educar no concede el derecho a imponer una única idea de cómo debe ser la persona que aprende.** La enseñanza transmite conocimientos y también prioridades; quien concentra su definición concentra una parte del futuro.
+Las familias también valoran de distinta manera idiomas, disciplina, oficios, artes, religión o ciencia. **Querer educar no concede el derecho a imponer una única idea de cómo debe vivir quien aprende.**
 
-La libertad educativa empieza por admitir esa pluralidad. Una familia puede preferir un centro y otra rechazarlo sin que ninguna necesite conquistar primero el ministerio que decide por ambas.
+Una familia debe poder elegir un proyecto y otra rechazarlo sin conquistar primero el ministerio que decide por ambas. La libertad educativa empieza por permitir esa diferencia.
 
 ## Quién elige lo que merece aprenderse
 
-Un currículo selecciona contenidos y deja otros fuera. La selección nunca surge de un lugar sin valores. Presentar el programa estatal como si careciera por definición de sesgo confunde una decisión institucional con una mirada neutral sobre el mundo.
+Un currículo incluye unos contenidos y deja otros fuera. Esa selección expresa prioridades. Un programa no se vuelve neutral porque lo haya aprobado el Estado.
 
-Tampoco un centro privado es neutral por ser privado. La ventaja de la pluralidad es que permite conocer su proyecto, compararlo y escoger otro. Las decisiones no dejan de existir: se acercan a quienes vivirán sus consecuencias y se abren a alternativas.
+Un centro privado tampoco es neutral por ser privado. La pluralidad permite conocer su proyecto, compararlo y buscar otro. Quienes van a vivir sus consecuencias pueden elegir entre propuestas explícitas, en vez de recibir una selección presentada como la única posible.
 
-La educación necesita herramientas comunes para comprender y discutir: lectura, cálculo, razonamiento y acceso a distintas ideas. Dar a un menor medios para juzgar por sí mismo es distinto de formarlo para que obedezca toda su vida al criterio de sus padres, de un proveedor o del Estado.
+Leer, calcular, razonar y conocer ideas distintas da al alumno herramientas para juzgar. La enseñanza debe prepararlo para pensar por sí mismo, también cuando eso lo lleve a discrepar de sus padres, del centro o del Estado.
 
 ## Comparar exige poder hacer algo diferente
 
-No llevamos treinta años con una ley invariable ni con todas las escuelas funcionando exactamente igual. Ha habido reformas y existen diferencias entre centros, comunidades y países. Negarlo borraría comparaciones que ya se pueden hacer.
+El sistema ha cambiado: no llevamos treinta años con una ley invariable ni con todas las escuelas funcionando igual. Existen diferencias entre centros, comunidades y países que ya permiten comparar.
 
-El problema aparece cuando una parte importante de las decisiones queda fijada desde arriba y experimentar con otra organización exige encajar primero en ese molde. Si las alternativas solo pueden variar lo accesorio, averiguar qué métodos funcionan mejor se vuelve más difícil.
+La dificultad aparece cuando probar otra organización exige encajar primero en un molde obligatorio. Si solo se puede variar lo accesorio, cuesta descubrir qué ocurriría con otros ritmos, métodos y prioridades.
 
-Además, no hay una única medida de buena educación. Dos familias pueden valorar resultados distintos. Las pruebas comparables aportan información; no deciden por sí solas qué proyecto debe elegir cada una ni convierten una tabla en una orden de vivir.
+Tampoco todas las familias buscan exactamente el mismo resultado. Las pruebas comparables pueden informar sobre el aprendizaje; no deciden qué vida merece cada alumno. Una clasificación ayuda a elegir cuando muestra lo que mide y deja espacio para valorar otras cosas.
 
 ## La puerta que tiene que cruzar una escuela nueva
 
-Abrir un centro privado no consiste solo en reunir docentes y encontrar familias interesadas. El marco español exige autorización y requisitos de instalaciones, profesorado, ratios y puestos escolares, entre otros. Esas condiciones generan costes antes de atender al primer alumno.
+En España no basta con reunir docentes y familias interesadas. Abrir un centro privado exige autorización y cumplir condiciones de instalaciones, profesorado, ratios y puestos escolares, entre otras. Hay que asumir esos costes antes de atender al primer alumno.
 
-Parte de las exigencias se presenta como protección de estudiantes. Cada una merece examinarse: qué daño evita, si obliga a un único formato y si podría acreditarse por vías diferentes. Una condición formal puede favorecer al centro ya instalado sin demostrar que el proyecto nuevo enseñaría peor.
+Para evaluar cada requisito hay que preguntar qué daño evita y si permite acreditar la protección de otra manera. Exigir un formato único puede favorecer a los centros instalados sin demostrar que un proyecto diferente enseñaría peor.
 
-En universidades, el texto actualizado del Real Decreto 640/2021 exige una previsión de más de 4.500 estudiantes a los seis años de iniciar actividad, además de otras condiciones académicas y de viabilidad. La cifra plantea una cuestión concreta: ¿por qué una institución pequeña y especializada debería crecer hasta ese tamaño para poder ofrecer formación?
+En universidades, el texto actualizado del Real Decreto 640/2021 exige una previsión de más de 4.500 estudiantes a los seis años de iniciar actividad, además de otras condiciones académicas y de viabilidad. ¿Por qué una institución pequeña y especializada debería alcanzar ese tamaño para ofrecer formación?
 
-Una escala mínima obligatoria puede impedir que compitan proyectos que no quieren ser grandes universidades generalistas. La seguridad de un edificio y la obligación de alcanzar una determinada dimensión no son exigencias equivalentes.
+Una escala mínima puede impedir la entrada de proyectos que no quieren ser grandes universidades generalistas. Comprobar la seguridad de un edificio y obligar a crecer hasta una dimensión determinada son exigencias distintas.
 
 ## Qué abriría un mercado educativo
 
-Podrían coexistir escuelas de distintos tamaños, ritmos y métodos; centros especializados; cooperativas de profesores; proyectos de familias y formación ligada a oficios. Los contratos deberían explicar contenidos, costes, compromisos y formas de resolver desacuerdos.
+Podrían coexistir escuelas de distintos tamaños, ritmos y métodos; centros especializados; cooperativas de profesores; proyectos de familias y formación ligada a oficios. Sus contratos deberían explicar contenidos, costes, compromisos y cómo resolver desacuerdos.
 
-Las familias podrían apoyarse en acreditadores independientes, información de antiguos alumnos, visitas y evaluaciones de aprendizaje. Un proveedor tendría motivos para explicar lo que hace y mejorar cuando pierde confianza. La entrada de otro proyecto haría que el desacuerdo no tuviera como única salida resignarse.
+Acreditadores independientes, antiguos alumnos, visitas y evaluaciones podrían ayudar a comparar. Perder la confianza de las familias tendría consecuencias para el centro. La entrada de otro proyecto permitiría que el desacuerdo llevara a un cambio, no a la resignación.
 
-La comparación exige cuidar el contexto. No basta con atribuir buenos resultados al método si el centro solo admite a quienes partían con ventaja. El apoyo a dificultades de aprendizaje y las condiciones de admisión deben ser visibles para que elegir no consista en seguir una publicidad imposible de comprobar.
-
+Los resultados necesitan contexto. Un centro que solo admite alumnos que ya partían con ventaja no puede atribuir todo su éxito al método. Deben ser visibles las condiciones de admisión y el apoyo a dificultades de aprendizaje. La publicidad no sustituye esa información.
 
 ```oneshot
 {"type":"concept-flow","title":"Aprender también como sociedad","steps":[{"title":"Diversidad","text":"Se pueden crear proyectos educativos distintos."},{"title":"Información","text":"Métodos, costes y resultados se hacen comprensibles."},{"title":"Elección","text":"Familias y alumnos encuentran alternativas reales."},{"title":"Aprendizaje","text":"Los proyectos revisan lo que falla y otros pueden imitarlos."}],"note":"Esquema conceptual de una propuesta, no una estimación de resultados."}
 ```
 
-
 ## Que la renta no cierre todas las puertas
 
-Una educación elegible necesita financiación. Becas de fundaciones, mutualidades, cooperativas, aportaciones de antiguos alumnos y cuotas adaptadas pueden ampliar el acceso. Ninguna fórmula debe darse por suficiente sin examinar a quién llega y durante cuánto tiempo.
+Para elegir también hacen falta recursos. Becas de fundaciones, mutualidades, cooperativas, aportaciones de antiguos alumnos y cuotas adaptadas podrían ampliar el acceso. Habría que comprobar a quién llegan, qué cubren y durante cuánto tiempo.
 
-Un cheque financiado obligatoriamente puede ampliar elección dentro del sistema existente, pero no equivale a una organización plenamente voluntaria. Conviene distinguir una apertura parcial de la propuesta de dejar a las personas decidir sobre sus aportaciones y sus proyectos.
+Un cheque financiado obligatoriamente puede ampliar la elección dentro del sistema actual. Sigue sin ser una organización plenamente voluntaria: elegir proveedor no equivale a poder decidir sobre las aportaciones exigidas. Una apertura parcial y ese ideal son cosas distintas.
 
-La pobreza educativa no se resuelve declarando una oferta universal si la única plaza disponible no responde a las necesidades del alumno. La ayuda debe medirse también por las opciones que abre, no solo por el número de personas adscritas a un proveedor.
+Declarar universal la oferta no basta si la única plaza disponible no responde a las necesidades del alumno. La ayuda debe abrir opciones reales, además de permitir matricularse.
 
 ## El alumno no es propiedad de nadie
 
-Defender la elección de los padres no significa atribuirles un dominio ilimitado sobre sus hijos. El menor tiene una vida propia que todavía está formando. Protegerlo frente al abuso y darle herramientas para elegir en el futuro forma parte del problema educativo.
+La elección de los padres no les concede un dominio ilimitado sobre sus hijos. El menor tiene una vida propia en formación. Necesita protección frente al abuso y herramientas para decidir en el futuro.
 
-La pluralidad debe abrir perspectivas, no encerrar a una persona sin posibilidad de conocer otras. A medida que crece, su voz debe contar cada vez más. El objetivo no es sustituir un adoctrinamiento obligatorio por múltiples cautiverios familiares.
+La diversidad debe permitir conocer otras perspectivas, no encerrar al alumno en un único horizonte. A medida que crece, su voz tiene que contar más. Sustituir el adoctrinamiento obligatorio por el encierro familiar tampoco lo hace libre.
 
-Una educación libre acepta que aprender puede llevarte a discrepar de quienes te enseñaron. Esa posibilidad es una señal de que se han transmitido herramientas, no únicamente obediencia. La sociedad no necesita una lección única: necesita personas capaces de pensar y espacios donde puedan aprender de maneras distintas.
+Una educación libre acepta que aprender te lleve a discrepar de quienes te enseñaron. Cuando puedes examinar sus ideas y formar las tuyas, te han dado algo más valioso que obediencia.
 
 ## Lecturas y fuentes
 

@@ -1,0 +1,9 @@
+---
+import {getCollection} from 'astro:content';
+import parts from '../data/routes.json';
+import {buildBook} from '../lib/reading-book.mjs';
+import {articlePath} from '../lib/content';
+const articles=await getCollection('articles',({data})=>!data.draft);
+const manifest=buildBook(parts).map(chapter=>({slug:chapter.slug,title:articles.find(a=>a.data.slug===chapter.slug)?.data.title||chapter.slug,number:chapter.number,url:articlePath(chapter.slug),partId:chapter.partId}));
+---
+<script type="application/json" id="book-manifest" set:html={JSON.stringify(manifest).replaceAll('<','\u003c')}/>

@@ -7,7 +7,7 @@ image: "/images/el-permiso-de-quien-ya-ha-entrado.svg"
 imageAlt: "Ilustración conceptual: El permiso de quien ya ha entrado"
 category: "Mercados"
 tags: ["Mercados","libertad"]
-order: 27
+order: 8
 satellites: []
 thesis: "Poder intentar una alternativa pacífica no debería depender de la comodidad de quienes ya ocupan el mercado."
 related: ["el-capital-que-no-llega-a-nacer","aprender-sin-una-leccion-unica","el-precio-del-alquiler-y-la-puerta-de-entrada"]
@@ -36,9 +36,9 @@ Si además los instalados participan en definir las condiciones de acceso, surge
 
 ## La protección que protege a un proveedor
 
-Imaginemos que una escuela pequeña puede enseñar bien, pero se le exige el edificio y la organización de un centro mucho mayor. O que una institución especializada debe crecer hasta cierto número de alumnos para ser reconocida. Antes de discutir la calidad se ha impuesto un formato.
+Imaginemos que un taller pequeño puede entregar un buen producto, pero debe adquirir antes instalaciones previstas para una fábrica mucho mayor. La primera venta tendrá que sostener el coste de un formato que quizá no necesita.
 
-La educación ofrece un caso verificable: la normativa universitaria española exige una previsión de más de 4.500 estudiantes a los seis años de inicio. Ese umbral merece una pregunta sobre la relación entre tamaño y calidad; la mera dimensión no demuestra que un proyecto pequeño no pueda aportar valor.
+Quien ya trabaja a esa escala cumple la condición con facilidad. El nuevo puede quedar fuera antes de demostrar qué sabe hacer. La norma ha seleccionado un tamaño sin comprobar la calidad del trabajo ofrecido.
 
 La seguridad física, la solvencia de una promesa y la obligación de parecerse al proveedor instalado son cuestiones diferentes. Si se mezclan, rechazar un modelo único puede presentarse como rechazar toda protección del usuario.
 
@@ -46,7 +46,7 @@ La seguridad física, la solvencia de una promesa y la obligación de parecerse 
 
 Un precio máximo puede modificar el incentivo para ofrecer un bien. Una licencia limitada puede convertir el acceso en un patrimonio que conviene defender contra nuevos entrantes. Una subvención selectiva puede hacer más rentable buscar una ventanilla que mejorar el producto.
 
-Son mecanismos, no porcentajes universales de daño. Para estimar un resultado concreto hay que estudiar la medida, el sector y las otras condiciones. La crítica se debilita si atribuye todo problema económico a una única norma o inventa las empresas que habrían nacido.
+El efecto depende de la medida y del sector. Un permiso limitado no actúa igual que una obligación de informar. Para saber cuánto se pierde hay que estudiar el caso; no podemos contar como reales las empresas que imaginamos.
 
 La pregunta que sí puede mantenerse es qué posibilidades cierra la decisión y quién obtiene una ventaja al cerrarlas. El coste no termina en la tasa: incluye los ensayos, los precios y el aprendizaje que no llegan a aparecer.
 
@@ -62,7 +62,7 @@ El fraude, la agresión y el incumplimiento dañan la cooperación. La respuesta
 
 Un certificador puede explicar qué comprueba y responder por un sello engañoso. Una aseguradora puede inspeccionar aquello cuyo daño tendrá que pagar. Una asociación profesional puede ofrecer garantías y perder confianza si protege al que incumple. Los usuarios pueden exigir acreditaciones sin que una sola institución monopolice todas.
 
-También pueden fallar o coludirse esas organizaciones. Por eso importan la entrada de acreditadores rivales, la información verificable y la posibilidad de reclamar. La autorregulación no es una promesa de perfección automática: es permitir que los acuerdos y las consecuencias formen parte de la corrección.
+También pueden fallar o coludirse esas organizaciones. Por eso importan la entrada de acreditadores rivales, la información verificable y la posibilidad de reclamar. La autorregulación permite que acuerdos y consecuencias corrijan errores; no los hace imposibles.
 
 ## Abrir la puerta sin ocultar el daño
 
@@ -81,5 +81,5 @@ No todos los proyectos acertarán. La libertad de intentar incluye descubrir un 
 ## Lecturas y fuentes
 
 - [CNMC, manual para pymes y administraciones, 4 de marzo de 2026](https://blog.cnmc.es/2026/03/04/manual-de-instrucciones-para-pymes-y-administraciones-principales-creacion-crecimiento/), propuestas de simplificación y entrada. Son recomendaciones, no reformas que se den por aprobadas.
-- [Real Decreto 640/2021, texto consolidado](https://www.boe.es/buscar/act.php?id=BOE-A-2021-12613), umbral de estudiantes y requisitos universitarios.
+- El capítulo de educación examina un caso de escala mínima: [requisitos universitarios del Real Decreto 640/2021](https://www.boe.es/buscar/act.php?id=BOE-A-2021-12613).
 - Los ejemplos de proyectos que no nacen describen costes de oportunidad. No se les asigna una cifra agregada sin una estimación causal.

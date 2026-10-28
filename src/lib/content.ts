@@ -1,5 +1,6 @@
 import { getCollection } from 'astro:content';
 import { categorySlug } from '../config/site';
+import {estimateReadingTime} from './reading-book.mjs';
 
 export function sitePath(path: string) {
   if (!path.startsWith('/')) return path;
@@ -21,7 +22,4 @@ export function categoryPath(category: string) {
   return sitePath(`/categorias/${categorySlug(category)}/`);
 }
 
-export function readingTime(markdown: string) {
-  const words = markdown.trim().split(/\s+/).filter(Boolean).length;
-  return Math.max(1, Math.ceil(words / 220));
-}
+export function readingTime(markdown: string) { return estimateReadingTime(markdown); }

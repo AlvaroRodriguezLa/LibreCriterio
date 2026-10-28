@@ -21,57 +21,47 @@ imageFit: "contain"
 
 ## Tu vida te pertenece
 
-Hay personas que quieren formar una familia y otras que prefieren vivir solas. Hay quien busca una vida tranquila, quien quiere emprender algo arriesgado y quien está dispuesto a ganar menos para disponer de más tiempo. No necesitan que un tercero ordene esas vidas de mejor a peor. Necesitan poder vivirlas.
+Quieres dedicarte a un oficio que otros consideran inútil. Prefieres vivir solo, formar una familia, cambiar de país o quedarte donde naciste. Tal vez tus decisiones decepcionen a quienes esperaban otra cosa de ti. Pueden decírtelo. Pueden intentar convencerte. Tu vida sigue siendo tuya.
 
-**Nadie tiene derecho a obligar a una persona pacífica a poner su vida al servicio de un fin ajeno.** Que ese fin parezca noble, urgente o beneficioso para muchos no convierte la imposición en consentimiento. Una buena causa puede convencerte. No puede convertirse en tu dueño.
+**Nadie adquiere el derecho a dirigirla por creer que conoce un destino mejor.** Ni una tradición, ni una mayoría, ni una buena causa convierten tu tiempo y tu trabajo en materiales disponibles para un plan ajeno. No necesitas demostrar que tu manera de vivir producirá el mayor beneficio para todos.
 
-La libertad comienza en ese límite. No depende de demostrar que elegirás mejor que un gobernante, que producirás más o que tu forma de vivir resultará útil a otros. Incluso cuando te equivocas, tu vida sigue siendo tuya. Si solo pudieras decidir mientras alguien aprobase tus decisiones, tendrías permiso, no libertad.
+La libertad empieza en ese límite: no eres una tarea que otro deba completar. Puedes aprender de sus razones sin entregarle la decisión. También puedes equivocarte sin que tu error le conceda el mando.
 
-## Vivir a tu manera también obliga a dejar vivir
+## Dejar vivir es la otra mitad
 
-Esa misma afirmación vale para quien tienes delante. Tu libertad no te concede el derecho a invadir su casa, apropiarte de su trabajo, engañarlo o dañarlo. No eres una excepción a la regla que invocas para ti.
+La misma libertad corresponde a quien vive de una manera que te disgusta. Puedes rechazar su religión, sus costumbres o sus prioridades. No puedes tratar ese desacuerdo como una agresión y disponer de su vida para corregirlo.
 
-Respetar a los demás no significa admirar sus elecciones. Puedes considerar una vida triste, equivocada o extravagante y reconocer que no te corresponde dirigirla. La tolerancia empieza precisamente donde termina la afinidad: cuando el otro elige algo que tú no habrías elegido y aun así no intentas someterlo.
+Convivir exige respetar a personas cuyas elecciones no harías tuyas. Si alguien te roba, te amenaza o daña lo que es tuyo, puedes defenderte y reclamar reparación. Si simplemente elige una vida que no apruebas, no se ha convertido por ello en tu deudor.
 
-Impedir una agresión o exigir la reparación de un daño protege ese límite recíproco. No es lo mismo que utilizar a alguien que no ha agredido a nadie para realizar un proyecto colectivo. La convivencia requiere distinguir ambas cosas; de lo contrario, cualquier deseo de mandar podría presentarse como defensa.
+Esta diferencia impide esconder cualquier deseo de mandar detrás de la palabra protección. Defender a una víctima frente a un daño y obligar a una persona pacífica a cumplir tus ideales son actos distintos.
+
+## Por tu bien también puede ser una imposición
+
+Un adulto decide practicar un deporte arriesgado. Otro prefiere gastar en un viaje lo que tú guardarías para el futuro. Alguien come mal, fuma o abandona una carrera que parecía prometedora. Puedes advertirles de las consecuencias y ofrecer ayuda. No puedes sustituir su negativa por tu orden.
+
+Que después lamenten su decisión no te convierte retrospectivamente en dueño de ella. Tampoco su libertad obliga a los demás a financiar cualquier consecuencia: pueden pactarse seguros, ayudas y responsabilidades. Elegir por cuenta propia incluye reconocer que otras personas también deciden sobre su colaboración.
+
+El paternalismo aparece cuando la frase «sé lo que te conviene» deja de ser un consejo y se convierte en una facultad para obligar. La preocupación puede ser sincera. El consentimiento sigue faltando.
 
 ## Si necesitas a otro, tendrás que convencerlo
 
-La vida en sociedad no elimina la independencia de las personas. Abre la posibilidad de relacionar sus proyectos. Quieres pan, alguien sabe hacerlo. Quieres aprender, alguien puede enseñarte. Quieres levantar una casa, necesitas el trabajo y los materiales de otros.
+Vivir en sociedad no significa vivir sin necesitar a nadie. Significa encontrar maneras de contar con los demás sin adquirirlos. Si quieres su trabajo, tendrás que ofrecer condiciones que acepten. Si buscas apoyo para un proyecto, tendrás que explicar por qué merece su tiempo o sus recursos.
 
-El camino de la cooperación consiste en **ofrecer algo que el otro acepte libremente**: dinero, trabajo, un intercambio, una participación en el proyecto. Tu necesidad puede ser muy intensa; eso no transforma el esfuerzo ajeno en una pertenencia tuya. Necesitar no es poseer a quien puede ayudarte.
-
-También puedes pedir ayuda y recibirla como regalo. Una amistad, el cuidado de un familiar o una donación no necesitan precio para ser voluntarios. Lo decisivo no es que todas las relaciones sean comerciales. Es que ninguna persona sea tratada como una herramienta disponible sin su consentimiento.
-
+Lo que ofreces puede ser dinero, otro servicio, compañía o la satisfacción de sostener una causa compartida. También se puede regalar y ayudar sin pedir una devolución. Lo decisivo es que cada persona pueda aceptar, negociar o rechazar.
 
 ```oneshot
 {"type":"concept-flow","title":"Convivir sin apropiarse de otra vida","steps":[{"title":"Decidir","text":"Cada persona elige sus fines."},{"title":"Respetar","text":"Reconoce el mismo espacio a los demás."},{"title":"Proponer","text":"Si necesita su colaboración, ofrece un acuerdo."},{"title":"Aceptar o rechazar","text":"La cooperación nace cuando ambas partes pueden decir sí o no."}],"note":"Esquema del argumento; no representa una estimación estadística."}
 ```
 
+Este límite cambia la relación. Ya no basta con declarar que tu finalidad es noble: necesitas que alguien quiera acompañarte. La cooperación deja de ser una orden pronunciada en plural.
 
-## El no también forma parte del acuerdo
+## El no forma parte del acuerdo
 
-Un sí tiene valor porque podría haber sido un no. Si rechazar una propuesta trae una sanción impuesta por quien la ofrece, la relación ha cambiado de naturaleza. Puede conservar formularios, nombres amables y ceremonias; ya no descansa en una aceptación libre.
+Una propuesta solo es voluntaria si rechazarla es una posibilidad real. Si puedes elegir entre aceptar y recibir un castigo por no aceptar, no estás ante una oferta.
 
-Por eso el acuerdo exige algo más que una firma. El fraude oculta lo que se está aceptando. La amenaza sustituye la elección. Quien incumple lo que prometió voluntariamente tampoco puede invocar después su libertad para quedarse con lo recibido sin cumplir su parte.
+Eso no borra las obligaciones que sí has contraído. Quien promete una prestación debe cumplir lo acordado o responder por su incumplimiento. La distinción está entre exigir un compromiso aceptado y atribuirte uno que nunca asumiste.
 
-La cooperación permite pactar obligaciones precisamente porque nadie nace obligado a servir los fines de otro. Cumplir una promesa propia y obedecer una finalidad impuesta son cosas diferentes.
-
-## Tener una causa no concede una vida ajena
-
-La tentación del poder empieza con una frase aparentemente generosa: sé cómo deberíamos vivir. El salto peligroso llega después: por tanto, puedo obligarte a hacerlo.
-
-Entre ambas frases no aparece un derecho nuevo. Puede aparecer entusiasmo, una mayoría, una bandera o un programa magníficamente escrito. Ninguno transforma a las personas en material para realizarlo. Quien desea una biblioteca puede reunir apoyos; quien quiere sostener una tradición puede practicarla y difundirla; quien quiere ayudar puede ofrecer su tiempo y sus recursos e invitar a otros. Convencer exige esfuerzo. Mandar permite trasladar ese esfuerzo a quien se resiste.
-
-El respeto no se mide por lo bien que administras la vida de otra persona. Se mide por tu disposición a reconocer que no te pertenece, incluso cuando estás convencido de saber qué le conviene.
-
-## La dignidad de no ser un instrumento
-
-Una sociedad libre no promete que todos estaremos de acuerdo, que nadie fracasará o que cada deseo encontrará quien lo satisfaga. Propone una forma de encontrarnos: personas con fines propios que colaboran sin adquirirse unas a otras.
-
-Puedo ofrecerte un camino, explicarte mis razones y acompañarte si lo eliges. Tú puedes hacer lo mismo conmigo. Lo que ninguno puede reclamar es la propiedad de la vida del otro.
-
-No hace falta que todos queramos vivir igual para convivir. Hace falta que ninguno se atribuya el derecho a imponer a los demás cómo deben hacerlo.
+Una biblioteca, una tradición o una causa solidaria pueden merecer apoyo. Ninguna recibe por ello la propiedad de quienes prefieren dedicar su vida a otra cosa. El que ayuda y el que se niega conservan la misma dignidad: la de ser personas capaces de decidir, también cuando su decisión nos decepciona.
 
 ## Lecturas y fuentes
 

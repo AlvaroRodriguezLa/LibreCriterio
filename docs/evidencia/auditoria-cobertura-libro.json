@@ -1,0 +1,1489 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-28",
+  "kind": "baseline previo a la reestructuración editorial en curso",
+  "scope": {
+    "master": "research/maestro-pdf.txt",
+    "masterPages": 75,
+    "substantivePages": "1–66",
+    "referencePages": "66–75",
+    "articles": 27,
+    "articleDirectory": "src/content/articles",
+    "alsoRead": [
+      "docs/ESTUDIO_EDITORIAL.md",
+      "docs/REVISION_AMPLIADA.md"
+    ],
+    "method": "Lectura íntegra del texto sustantivo extraído del PDF y de los cuerpos completos de los27ensayos. Encabezados y búsquedas verifican ubicaciones. Las fichas políticas se comprueban como presencia y alcance, no como nueva verificación externa de hechos."
+  },
+  "statusDefinitions": {
+    "desarrollado": "Explica mecanismo, consecuencia y al menos una escena o aplicación; no mera aparición de palabra.",
+    "parcial": "Existe una pieza del argumento, pero no se desarrolla el mecanismo o distinción solicitados.",
+    "ausente": "No se localiza desarrollo en el cuerpo de27ensayos.",
+    "no_aplicable": "No se traslada literalmente por petición posterior del usuario, porque es solo referencia o porque el PDF no desarrolla el supuesto tema."
+  },
+  "coverage": [
+    {
+      "id": "01",
+      "masterSections": "2.0.1;27",
+      "topic": "Autonomía personal y fines propios",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "tu-vida-no-es-un-proyecto-del-poder"
+        }
+      ],
+      "sections": [
+        "Tu vida te pertenece",
+        "Tener una causa no concede una vida ajena"
+      ],
+      "evidence": "El cuerpo, el trabajo y la vida no son medios de un proyecto ajeno.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "02",
+      "masterSections": "2.0.1;2.0.3",
+      "topic": "No agresión recíproca, defensa y reparación",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "tu-vida-no-es-un-proyecto-del-poder"
+        },
+        {
+          "slug": "un-arbitro-no-necesita-ser-un-soberano"
+        }
+      ],
+      "sections": [
+        "Vivir a tu manera también obliga a dejar vivir",
+        "El agresor que no firmó"
+      ],
+      "evidence": "Distingue impedir agresión de imponer una finalidad a una persona pacífica.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "03",
+      "masterSections": "2.0.1;2.0.3",
+      "topic": "Paternalismo sobre elecciones adultas",
+      "status": "parcial",
+      "locations": [
+        {
+          "slug": "la-politica-tambien-tiene-incentivos"
+        },
+        {
+          "slug": "tu-vida-no-es-un-proyecto-del-poder"
+        }
+      ],
+      "sections": [
+        "La presunción de saber vivir por otros"
+      ],
+      "evidence": "Explica tutelar al otro por su bien, pero no concreta decisiones adultas de riesgo sin víctima.",
+      "action": "Añadir un ejemplo cotidiano de riesgo aceptado que nadie tiene derecho a prohibir por el bien del adulto.",
+      "priority": "alta"
+    },
+    {
+      "id": "04",
+      "masterSections": "2.0.2",
+      "topic": "Propiedad como autonomía material",
+      "status": "ausente",
+      "locations": [
+        {
+          "slug": "tu-vida-no-es-un-proyecto-del-poder"
+        },
+        {
+          "slug": "una-promesa-no-es-un-patrimonio"
+        }
+      ],
+      "sections": [
+        "Tu vida te pertenece",
+        "El ahorro también es independencia"
+      ],
+      "evidence": "Hay alusiones al trabajo, patrimonio y ahorro; no una explicación de por qué disponer de medios propios permite discrepar y decir no.",
+      "action": "Desarrollo propio: una habitación, unas herramientas o una reserva no dependen del permiso de quien discrepa.",
+      "priority": "alta"
+    },
+    {
+      "id": "05",
+      "masterSections": "2.0.2",
+      "topic": "Adquisición, transferencia y rectificación de propiedad",
+      "status": "ausente",
+      "locations": [],
+      "sections": [],
+      "evidence": "Se presupone propiedad legítima sin separar adquisición, intercambio y restitución de lo robado o privilegiado.",
+      "action": "Explicar que defender propiedad no blinda expolio previo; el título se examina y el daño se repara.",
+      "priority": "alta"
+    },
+    {
+      "id": "06",
+      "masterSections": "2.0.2;3",
+      "topic": "Contrato, negativa efectiva y consentimiento ficticio",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "tu-vida-no-es-un-proyecto-del-poder"
+        },
+        {
+          "slug": "un-contrato-que-nadie-puede-rechazar"
+        }
+      ],
+      "sections": [
+        "El no también forma parte del acuerdo",
+        "La gratitud no firma contratos"
+      ],
+      "evidence": "Residencia, beneficios recibidos y salida costosa no equivalen a firmar.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "07",
+      "masterSections": "2.0.2",
+      "topic": "Asociación libre frente a afiliación y servicio obligatorios",
+      "status": "parcial",
+      "locations": [
+        {
+          "slug": "cooperar-sin-un-director-unico"
+        }
+      ],
+      "sections": [
+        "Un pluralismo de instituciones"
+      ],
+      "evidence": "Se desarrolla asociarse; no se explica el reverso de no afiliarse, colegiarse obligatoriamente o servir por imposición.",
+      "action": "Integrar dos frases sobre el derecho a no pertenecer, sin catálogo legal.",
+      "priority": "media"
+    },
+    {
+      "id": "08",
+      "masterSections": "2.0.3",
+      "topic": "Reglas generales, previsibles e iguales; restitución",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "un-arbitro-no-necesita-ser-un-soberano"
+        },
+        {
+          "slug": "quien-puede-perdonar-a-sus-aliados"
+        }
+      ],
+      "sections": [
+        "Tres servicios que no tienen por qué ser uno",
+        "Que la corrección no dependa de la gratitud"
+      ],
+      "evidence": "Reglas conocidas, imparcialidad y reparación frente a favor personal.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "09",
+      "masterSections": "2.0.3;14.7",
+      "topic": "Paz, comercio y cooperación entre extraños",
+      "status": "parcial",
+      "locations": [
+        {
+          "slug": "cooperar-sin-un-director-unico"
+        },
+        {
+          "slug": "muchos-centros-mejores-salidas"
+        }
+      ],
+      "sections": [
+        "La sociedad civil no es un residuo",
+        "Las reglas comunes pueden abrir"
+      ],
+      "evidence": "Cooperación y comercio aparecen, pero el mecanismo paz/interdependencia/interés por conservar al otro no está desarrollado.",
+      "action": "Añadir ejemplo donde comerciar hace más valiosa la continuidad del vecino que su sometimiento.",
+      "priority": "media"
+    },
+    {
+      "id": "10",
+      "masterSections": "3",
+      "topic": "Autoridad sin consentimiento y contrato social",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "un-contrato-que-nadie-puede-rechazar"
+        }
+      ],
+      "sections": [
+        "Una factura antes de haber dicho sí",
+        "Un contrato necesita partes, límites y una negativa posible"
+      ],
+      "evidence": "Analogía cámaras, factura posterior, residencia y beneficios impuestos.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "11",
+      "masterSections": "4",
+      "topic": "Mafia, extracción y bandido estacionario",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "un-contrato-que-nadie-puede-rechazar"
+        }
+      ],
+      "sections": [
+        "La mafia y la protección obligatoria",
+        "Los ladrones que aprendieron a esperar"
+      ],
+      "evidence": "Expone la parábola completa y distingue analogía moral de afirmación histórica sobre todos los Estados.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "12",
+      "masterSections": "4.1;19",
+      "topic": "Necesidad de función no demuestra monopolio",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "un-derecho-no-es-un-proveedor"
+        },
+        {
+          "slug": "un-arbitro-no-necesita-ser-un-soberano"
+        }
+      ],
+      "sections": [
+        "Quién paga, quién presta y quién responde",
+        "Tres servicios que no tienen por qué ser uno"
+      ],
+      "evidence": "Separa pagar, prestar, verificar y resolver disputas.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "13",
+      "masterSections": "5",
+      "topic": "Conocimiento disperso, tácito y descubierto",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "el-conocimiento-no-cabe-en-un-despacho"
+        }
+      ],
+      "sections": [
+        "La panadería y el mapa",
+        "El precio como aviso comprimido",
+        "Descubrir exige poder probar"
+      ],
+      "evidence": "No solo falta información central: parte surge al actuar, probar y corregir.",
+      "action": "Revisar cierre que parece legitimar centralización impuesta si aporta razones proporcionales.",
+      "priority": "alta"
+    },
+    {
+      "id": "14",
+      "masterSections": "5.4;6.6",
+      "topic": "Inteligencia artificial, datos y límites del plan",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "el-conocimiento-no-cabe-en-un-despacho"
+        },
+        {
+          "slug": "sin-precios-no-hay-brujula"
+        }
+      ],
+      "sections": [
+        "La inteligencia artificial mejora el mapa",
+        "La respuesta de la planificación simulada"
+      ],
+      "evidence": "Distingue optimizar datos existentes, descubrir fines/alternativas y derecho a decidir.",
+      "action": "Quitar etiqueta escolar «réplica austriaca» del cuerpo para mantener voz filosófica.",
+      "priority": "media"
+    },
+    {
+      "id": "15",
+      "masterSections": "6",
+      "topic": "Cálculo: precios de capital y coste de oportunidad",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "sin-precios-no-hay-brujula"
+        }
+      ],
+      "sections": [
+        "Un almacén no es una economía",
+        "Lo que un precio añade a una cantidad"
+      ],
+      "evidence": "Distingue ingeniería de cálculo, propiedad/intercambio/precios y empresa pública que usa precios externos.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "16",
+      "masterSections": "6.3;6.4;6.5",
+      "topic": "Resultados, pérdidas y obra visible frente a alternativa ausente",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "sin-precios-no-hay-brujula"
+        },
+        {
+          "slug": "el-capital-que-no-llega-a-nacer"
+        }
+      ],
+      "sections": [
+        "El puente que se ve y la máquina que falta",
+        "La parte del impuesto que no vemos"
+      ],
+      "evidence": "Costes de oportunidad, mantenimiento, demanda y futuras pérdidas.",
+      "action": "Reformular la comparación como evaluación de resultados, nunca como autorización moral para obtener recursos por coacción.",
+      "priority": "alta"
+    },
+    {
+      "id": "17",
+      "masterSections": "7",
+      "topic": "Uniformidad central, diversidad y alcance del error",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "muchos-centros-mejores-salidas"
+        },
+        {
+          "slug": "aprender-sin-una-leccion-unica"
+        }
+      ],
+      "sections": [
+        "El barco y los compartimentos",
+        "Comparar exige diversidad real"
+      ],
+      "evidence": "Separa pluralidad efectiva de duplicar oficinas y de localismo autoritario.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "18",
+      "masterSections": "8",
+      "topic": "Salida, elección informada y costes de movilidad",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "muchos-centros-mejores-salidas"
+        }
+      ],
+      "sections": [
+        "Votar con los pies",
+        "Lo pequeño no es una fórmula de prosperidad"
+      ],
+      "evidence": "Incluye costes familiares/laborales y evita inferir prosperidad por tamaño.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "19",
+      "masterSections": "9;10",
+      "topic": "Costes dispersos, beneficios concentrados y restaurante",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "la-politica-tambien-tiene-incentivos"
+        }
+      ],
+      "sections": [
+        "La cena que paga toda la mesa",
+        "Lo de todos necesita un responsable concreto",
+        "Un premio grande y una pérdida pequeña"
+      ],
+      "evidence": "Desarrolla la asimetría y distingue bienes compartidos voluntarios de financiación cautiva.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "20",
+      "masterSections": "9.6;14.3",
+      "topic": "Corto plazo electoral, deuda y factura futura",
+      "status": "parcial",
+      "locations": [
+        {
+          "slug": "pensiones-el-puente-entre-generaciones"
+        },
+        {
+          "slug": "sin-precios-no-hay-brujula"
+        }
+      ],
+      "sections": [
+        "La promesa encuentra una cuenta",
+        "El puente que se ve y la máquina que falta"
+      ],
+      "evidence": "Hay deuda/desplazamiento del coste; falta conectar elección cercana, inauguración visible, reforma postergada y pagador futuro.",
+      "action": "Integrar en crecimiento del Estado una escena de promesa presente financiada por quien aún no puede decidir.",
+      "priority": "alta"
+    },
+    {
+      "id": "21",
+      "masterSections": "9.7",
+      "topic": "Superioridad moral y selección inversa",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "la-politica-tambien-tiene-incentivos"
+        }
+      ],
+      "sections": [
+        "La presunción de saber vivir por otros",
+        "Una selección que puede premiar lo peor"
+      ],
+      "evidence": "Mecanismo de carrera paso a paso, sin afirmar que todos los políticos sean literalmente los peores individuos.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "22",
+      "masterSections": "9.8;10",
+      "topic": "Promesas, corrupción y responsabilidad contrastable",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "cuando-el-partido-sustituye-a-la-conciencia"
+        },
+        {
+          "slug": "el-estado-siempre-encuentra-un-culpable"
+        }
+      ],
+      "sections": [
+        "La palabra y lo que ocurre después",
+        "No todos los expedientes dicen lo mismo",
+        "Responsabilizar también a las reglas"
+      ],
+      "evidence": "Cuerpo conceptual y expediente de 17 casos, 6 contrastes, 10 hitos Ceuta.",
+      "action": "La presente auditoría acredita presencia y distinción de estados; no revalida externamente los hechos del expediente.",
+      "priority": "alta"
+    },
+    {
+      "id": "23",
+      "masterSections": "9.9;10;23",
+      "topic": "Captura, privilegios empresariales y búsqueda de rentas",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "la-politica-tambien-tiene-incentivos"
+        },
+        {
+          "slug": "el-permiso-de-quien-ya-ha-entrado"
+        }
+      ],
+      "sections": [
+        "Un premio grande y una pérdida pequeña",
+        "La misma regla pesa distinto"
+      ],
+      "evidence": "Barrera rentable, escala instalada, influencia y rescates se separan de mercado libre.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "24",
+      "masterSections": "9.9;10",
+      "topic": "Subvenciones a sindicatos, patronales y medios; publicidad institucional",
+      "status": "ausente",
+      "locations": [],
+      "sections": [],
+      "evidence": "No hay desarrollo específico de financiación de intermediarios, representación privilegiada o dependencia editorial de una ventanilla.",
+      "action": "Añadir ejemplo no partidista de organización que dice representar a otros mientras sus ingresos dependen del decisor; no inferir compra de línea editorial sin pruebas.",
+      "priority": "alta"
+    },
+    {
+      "id": "25",
+      "masterSections": "11",
+      "topic": "Mayoría no produce derechos; 51/49 y afectados sin voto",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "la-mayoria-no-lo-puede-todo"
+        }
+      ],
+      "sections": [
+        "Un recuento no fabrica derechos",
+        "La crueldad de poder decidirlo todo",
+        "Un país partido casi por la mitad"
+      ],
+      "evidence": "Distingue votos, electores, habitantes, coaliciones y dignidad de una sola persona.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "26",
+      "masterSections": "11.2;13.2",
+      "topic": "Voluntad popular dependiente de agenda y reglas electorales",
+      "status": "parcial",
+      "locations": [
+        {
+          "slug": "la-mayoria-no-lo-puede-todo"
+        }
+      ],
+      "sections": [
+        "Un país partido casi por la mitad",
+        "El paquete que nadie ha elegido entero"
+      ],
+      "evidence": "Alude a reglas, circunscripciones y paquetes. No demuestra con un caso que mismas preferencias pueden dar resultados distintos según orden o conversión a escaños.",
+      "action": "Ejemplo breve de tres opciones y votación por parejas o mismo voto/distinta regla; sin nombres de teoremas.",
+      "priority": "alta"
+    },
+    {
+      "id": "27",
+      "masterSections": "12",
+      "topic": "Ignorancia racional, voto marginal y coste informativo",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "no-votar-tambien-es-una-decision"
+        }
+      ],
+      "sections": [
+        "Una influencia minúscula, una promesa inmensa",
+        "El precio de un voto plenamente informado"
+      ],
+      "evidence": "Tres razones morales/prácticas y distinción entre abstención, legitimidad y resultado jurídico.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "28",
+      "masterSections": "12",
+      "topic": "Voto expresivo y sesgos que persisten aun informado",
+      "status": "parcial",
+      "locations": [
+        {
+          "slug": "cuando-el-partido-sustituye-a-la-conciencia"
+        },
+        {
+          "slug": "no-votar-tambien-es-una-decision"
+        }
+      ],
+      "sections": [
+        "El error propio siempre tiene contexto",
+        "El precio de un voto plenamente informado"
+      ],
+      "evidence": "Identidad/fanatismo están bien explicados. Falta la diferencia entre no saber y preferir una explicación intuitiva cómoda aun cuando se dispone de información.",
+      "action": "Un párrafo sobre comprar convicciones sin afrontar personalmente su coste; un ejemplo anti-comercio o de confundir más empleo con más producción.",
+      "priority": "media"
+    },
+    {
+      "id": "29",
+      "masterSections": "13.1",
+      "topic": "Partidos, listas y disciplina frente a muchos escaños",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "la-mayoria-no-lo-puede-todo"
+        }
+      ],
+      "sections": [
+        "Muchos escaños, pocas voluntades"
+      ],
+      "evidence": "Carrera, listas, sanciones y expulsión; distingue mandato imperativo prohibido de incentivos políticos.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "30",
+      "masterSections": "14.1–14.4",
+      "topic": "Crecimiento estatal y trinquete de emergencias",
+      "status": "ausente",
+      "locations": [
+        {
+          "slug": "el-estado-siempre-encuentra-un-culpable"
+        },
+        {
+          "slug": "la-politica-tambien-tiene-incentivos"
+        }
+      ],
+      "sections": [
+        "Un reparto de méritos muy conveniente",
+        "Lo de todos necesita un responsable concreto"
+      ],
+      "evidence": "Hay continuidad y pedir más presupuesto tras fallar; no secuencia crisis→facultad nueva→organismo→beneficiarios→resistencia a retirarla.",
+      "action": "Capítulo propio con mecanismo completo, sin presentar tendencia como ley física universal ni atribuir cada crisis a conspiración.",
+      "priority": "alta"
+    },
+    {
+      "id": "31",
+      "masterSections": "14.7",
+      "topic": "Dependencia del proveedor y círculo de necesidad estatal",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "el-estado-siempre-encuentra-un-culpable"
+        },
+        {
+          "slug": "una-promesa-no-es-un-patrimonio"
+        },
+        {
+          "slug": "un-contrato-que-nadie-puede-rechazar"
+        }
+      ],
+      "sections": [
+        "La mala comparación que protege al poder",
+        "El ahorro también es independencia",
+        "Romper las piernas y ofrecer las muletas"
+      ],
+      "evidence": "Conecta dependencia inducida, ausencia de alternativas y promesa como prueba de necesidad.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "32",
+      "masterSections": "15",
+      "topic": "Coste laboral, cuña, neto e IVA sobre bases correctas",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "la-nomina-que-no-ves"
+        }
+      ],
+      "sections": [
+        "Tres cifras y una sola relación laboral",
+        "Cien euros para ordenar la conversación"
+      ],
+      "evidence": "Diferencia incidencia económica de pagador formal, perfil OCDE e IVA incluido.",
+      "action": "Reescribir «si compensa ese coste» y «exige justificar resultados» para que describir prestaciones no aparezca como moral de consentimiento.",
+      "priority": "alta"
+    },
+    {
+      "id": "33",
+      "masterSections": "16",
+      "topic": "Redistribución real, horizontal y poder de asignación",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "redistribuir-no-es-solo-repartir"
+        }
+      ],
+      "sections": [
+        "La ayuda no autoriza la apropiación",
+        "Un resultado no es una autorización",
+        "Recibir no equivale a recibir gratis"
+      ],
+      "evidence": "No confunde crítica moral con afirmación falsa de que nunca llega dinero a hogares.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "34",
+      "masterSections": "17",
+      "topic": "Pobreza, ayudas y trampas de retirada",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "redistribuir-no-es-solo-repartir"
+        },
+        {
+          "slug": "un-derecho-no-es-un-proveedor"
+        }
+      ],
+      "sections": [
+        "La pobreza no se resuelve borrando a las personas",
+        "Ayudar sin fabricar una trampa",
+        "La persona a la que le falta dinero"
+      ],
+      "evidence": "Necesidades heterogéneas, no tributar no permite beneficiarse de cualquier rebaja, redes sin vínculos.",
+      "action": "Mantener la corrección de mediana/media; trasladar detalle metodológico a nota si frena la lectura.",
+      "priority": "media"
+    },
+    {
+      "id": "35",
+      "masterSections": "17.1",
+      "topic": "Mutualidades y provisión histórica anterior al monopolio",
+      "status": "parcial",
+      "locations": [
+        {
+          "slug": "cooperar-sin-un-director-unico"
+        }
+      ],
+      "sections": [
+        "La historia abre posibilidades, no garantías"
+      ],
+      "evidence": "Enumera mutualidades, carreteras y formas asociativas sin un ejemplo histórico desarrollado.",
+      "action": "Una nota histórica breve con caso, fechas, alcance y límite; no prueba total de sociedad sin Estado.",
+      "priority": "media"
+    },
+    {
+      "id": "36",
+      "masterSections": "17.1",
+      "topic": "Jornada de ocho horas, productividad y negociación",
+      "status": "ausente",
+      "locations": [],
+      "sections": [],
+      "evidence": "El PDF matiza el papel de ley de 1919 frente a mejoras de productividad y pactos; no aparece en ensayos.",
+      "action": "Nota opcional en capital sobre condiciones laborales sostenibles; verificar historia si se incorpora.",
+      "priority": "baja"
+    },
+    {
+      "id": "37",
+      "masterSections": "18;18.1",
+      "topic": "Pensiones: reparto, demografía, jóvenes con menos renta y ahorro",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "pensiones-el-puente-entre-generaciones"
+        },
+        {
+          "slug": "una-promesa-no-es-un-patrimonio"
+        }
+      ],
+      "sections": [
+        "Puede ocurrir",
+        "no describe a todas las personas",
+        "Lo que cotizas no se guarda necesariamente para ti",
+        "El ahorro que deja de construirse"
+      ],
+      "evidence": "Ejemplo comparativo anual, escenario AIReF, patrimonio vs promesa, transición y riesgos.",
+      "action": "Evitar presentar presión financiera como fecha automática de quiebra.",
+      "priority": "alta"
+    },
+    {
+      "id": "38",
+      "masterSections": "18",
+      "topic": "Pasivo implícito y compromiso fuera de deuda visible",
+      "status": "ausente",
+      "locations": [],
+      "sections": [],
+      "evidence": "Se menciona deuda corriente, no diferencia entre deuda financiera cotizada y cálculo actuarial de promesas futuras.",
+      "action": "Solo si aporta claridad: una caja de nota sin cifra sensacionalista; no sumar magnitudes no comparables.",
+      "priority": "baja"
+    },
+    {
+      "id": "39",
+      "masterSections": "19",
+      "topic": "Sanidad: financiación/provisión, Corea, esperas y competencia",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "cuidar-sin-pedir-permiso-al-monopolio"
+        }
+      ],
+      "sections": [
+        "Una cola es también una forma de pagar",
+        "Qué enseña Corea del Sur",
+        "Cómo podría organizarse una alternativa",
+        "Cuando no puedes comparar"
+      ],
+      "evidence": "Describe seguro coreano público obligatorio y proveedores privados, prevención de selección de enfermos, seguros y continuidad.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "40",
+      "masterSections": "19",
+      "topic": "Educación: diversidad, currículo, elección y entrada",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "aprender-sin-una-leccion-unica"
+        }
+      ],
+      "sections": [
+        "Quién elige lo que merece aprenderse",
+        "Comparar exige poder hacer algo diferente",
+        "La puerta que tiene que cruzar una escuela nueva",
+        "El alumno no es propiedad de nadie"
+      ],
+      "evidence": "Aborda sesgo, no mismo sistema invariable30años, umbral universitario, menores y financiación voluntaria.",
+      "action": "El ejemplo de4500estudiantes se repite en barreras; desarrollar dato una sola vez y enlazar desde el otro.",
+      "priority": "alta"
+    },
+    {
+      "id": "41",
+      "masterSections": "20",
+      "topic": "Creación monetaria, primeros receptores y erosión del ahorro",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "inflacion-el-reloj-del-ahorro"
+        }
+      ],
+      "sections": [
+        "El dinero nuevo entra por alguna puerta",
+        "Llegar antes de que cambien los precios",
+        "Cuando la puerta tiene contactos",
+        "De dónde sale la pérdida del ahorrador"
+      ],
+      "evidence": "Mecanismos BCE/bancos y contactos condicionados a evidencia, no mandato directo imaginario del político español al BCE.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "42",
+      "masterSections": "20.1",
+      "topic": "Progresividad en frío e inflación fiscal",
+      "status": "ausente",
+      "locations": [
+        {
+          "slug": "inflacion-el-reloj-del-ahorro"
+        },
+        {
+          "slug": "la-nomina-que-no-ves"
+        }
+      ],
+      "sections": [],
+      "evidence": "No explica que subir nominalmente el sueldo puede elevar la carga real si tramos/deducciones no acompañan precios.",
+      "action": "Ejemplo nominal sencillo sin tipos fiscales inventados como dato real.",
+      "priority": "alta"
+    },
+    {
+      "id": "43",
+      "masterSections": "20",
+      "topic": "Interés, crédito y ahorro real; descoordinación temporal",
+      "status": "ausente",
+      "locations": [
+        {
+          "slug": "inflacion-el-reloj-del-ahorro"
+        },
+        {
+          "slug": "el-capital-que-no-llega-a-nacer"
+        }
+      ],
+      "sections": [],
+      "evidence": "Crédito figura como canal, pero no señal de interés ni diferencia entre prometer financiación y disponer de recursos para concluir proyectos.",
+      "action": "Integrar ejemplo de demasiados hornos que compiten por recursos no liberados; presentar hipótesis causal y condiciones, no explicación única de toda crisis.",
+      "priority": "alta"
+    },
+    {
+      "id": "44",
+      "masterSections": "20",
+      "topic": "Reglas monetarias y posibilidad de alternativas",
+      "status": "parcial",
+      "locations": [
+        {
+          "slug": "inflacion-el-reloj-del-ahorro"
+        }
+      ],
+      "sections": [
+        "Poder elegir sin correr detrás del dinero"
+      ],
+      "evidence": "Exige límites a discrecionalidad pero no describe alternativas institucionales concretas.",
+      "action": "Un cierre breve sobre elegir medio/contrato, reservas o reglas explícitas, sin prometer oro o banca libre infalibles.",
+      "priority": "media"
+    },
+    {
+      "id": "45",
+      "masterSections": "21",
+      "topic": "Ahorro→inversión→productividad→poder de compra",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "el-capital-que-no-llega-a-nacer"
+        }
+      ],
+      "sections": [
+        "El panadero y el horno que todavía no existe",
+        "Antes de invertir, alguien tiene que reservar recursos",
+        "El estancamiento que sí conviene nombrar"
+      ],
+      "evidence": "100→1000 hipotético, financiación externa, demanda, salarios reales y productividad frente a PIB total.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "46",
+      "masterSections": "22",
+      "topic": "Vivienda y restricciones de oferta",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "el-precio-del-alquiler-y-la-puerta-de-entrada"
+        }
+      ],
+      "sections": [
+        "Dos efectos pueden coexistir",
+        "El corto y el largo plazo hablan distinto",
+        "La ciudad también restringe por otras vías"
+      ],
+      "evidence": "El PDF solo tiene encabezado22; el sitio añade desarrollo sustentado y contraparte de urgencia.",
+      "action": "No atribuir esta extensión a un argumento detallado inexistente en el PDF.",
+      "priority": "media"
+    },
+    {
+      "id": "47",
+      "masterSections": "23",
+      "topic": "Regulación, burocracia, costes fijos y autorregulación",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "el-permiso-de-quien-ya-ha-entrado"
+        }
+      ],
+      "sections": [
+        "La persiana que nunca llega a levantarse",
+        "La misma regla pesa distinto",
+        "Un mercado libre no es un lugar sin reglas"
+      ],
+      "evidence": "Mecanismos, acreditación, responsabilidad, entrada y pérdidas invisibles.",
+      "action": "",
+      "priority": "alta"
+    },
+    {
+      "id": "48",
+      "masterSections": "24",
+      "topic": "Izquierda/derecha: fines diferentes, instrumento compartido",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "el-poder-no-cambia-al-cambiar-de-bandera"
+        }
+      ],
+      "sections": [
+        "La máquina y su nuevo conductor",
+        "Fines distintos, una pregunta común",
+        "Límites que no dependen de ganar"
+      ],
+      "evidence": "Aplica límite también a causas admiradas y tradiciones/nación.",
+      "action": "Retirar fórmulas que invitan a justificar imposición por identificación del daño/alternativas.",
+      "priority": "alta"
+    },
+    {
+      "id": "49",
+      "masterSections": "25",
+      "topic": "Sacralización, interés general y desmitificación política",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "el-cargo-no-convierte-a-nadie-en-sagrado"
+        }
+      ],
+      "sections": [
+        "La solemnidad no es una respuesta",
+        "El aula con un presupuesto enorme",
+        "Desacralizar también las palabras"
+      ],
+      "evidence": "Cargo como persona corriente, Parlament2017 y Milei bajo el mismo criterio antiídolos.",
+      "action": "Recortar duplicación con banderas y conservar este capítulo como sede del argumento.",
+      "priority": "alta"
+    },
+    {
+      "id": "50",
+      "masterSections": "24;25;27",
+      "topic": "Colectivismo y nación: grupo no absorbe vidas",
+      "status": "parcial",
+      "locations": [
+        {
+          "slug": "el-poder-no-cambia-al-cambiar-de-bandera"
+        },
+        {
+          "slug": "el-cargo-no-convierte-a-nadie-en-sagrado"
+        },
+        {
+          "slug": "la-mayoria-no-lo-puede-todo"
+        }
+      ],
+      "sections": [
+        "La libertad de quien no se parece a ti",
+        "Cuando la ceremonia suplanta a los ausentes",
+        "Un país partido casi por la mitad"
+      ],
+      "evidence": "El principio está distribuido en varias formulaciones, sin una escena concreta de nación/tradición que reclame sacrificio de una persona.",
+      "action": "Unir en banderas un ejemplo de pertenecer a una comunidad sin deberle obediencia ilimitada; no hace falta teoría técnica del nacionalismo.",
+      "priority": "media"
+    },
+    {
+      "id": "51",
+      "masterSections": "12;25;referencias",
+      "topic": "Populismo como tema autónomo",
+      "status": "no_aplicable",
+      "locations": [],
+      "sections": [],
+      "evidence": "El término no tiene capítulo sustantivo en el PDF; aparece en una URL bibliográfica. Fanatismo, pueblo homogéneo y líder sí tienen tratamiento conceptual.",
+      "action": "Puede ampliarse si sirve, pero no declarar hueco del PDF ni crear capítulo por una palabra de bibliografía.",
+      "priority": "baja"
+    },
+    {
+      "id": "52",
+      "masterSections": "26;28",
+      "topic": "Objeciones: daño a terceros, bienes comunes y redes de ayuda",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "las-objeciones-que-hay-que-responder"
+        }
+      ],
+      "sections": [
+        "El humo que nadie aceptó respirar",
+        "El camino compartido",
+        "La ayuda que no deja sola a una persona",
+        "Que una empresa no se convierta en otro Estado"
+      ],
+      "evidence": "El PDF26 es solo encabezado. El ensayo sí organiza función, acuerdo, reparación y límites privados.",
+      "action": "Evitar volver a explicar entero el árbitro de fútbol ya desarrollado en seguridad.",
+      "priority": "alta"
+    },
+    {
+      "id": "53",
+      "masterSections": "27;28",
+      "topic": "Transición sin abandono de compromisos",
+      "status": "desarrollado",
+      "locations": [
+        {
+          "slug": "las-objeciones-que-hay-que-responder"
+        },
+        {
+          "slug": "pensiones-el-puente-entre-generaciones"
+        },
+        {
+          "slug": "cuidar-sin-pedir-permiso-al-monopolio"
+        }
+      ],
+      "sections": [
+        "Cambiar sin volver a utilizar a los demás",
+        "Preparar la vejez sin entregar el futuro",
+        "Cuando no puedes comparar"
+      ],
+      "evidence": "Compromisos, continuidad, coste real y ausencia de transición gratuita.",
+      "action": "Centralizar criterio general al final y dejar en servicios solo consecuencias específicas.",
+      "priority": "alta"
+    },
+    {
+      "id": "54",
+      "masterSections": "1;1.1;1.2;1.3;29–34",
+      "topic": "Taxonomía de autores, escuelas y bibliografía",
+      "status": "no_aplicable",
+      "locations": [
+        {
+          "slug": "src/data/library.json"
+        }
+      ],
+      "sections": [
+        "Biblioteca fuera del recorrido"
+      ],
+      "evidence": "El usuario rechaza comparación explícita de escuelas y autores en cuerpo; las fuentes pueden conservarse como apoyo consultable.",
+      "action": "No reintroducir tablas clásico/minarquismo/anarcocapitalismo; no mencionar documento maestro públicamente.",
+      "priority": "alta"
+    },
+    {
+      "id": "55",
+      "masterSections": "14.6;27.2",
+      "topic": "Programa presupuestario de Estado mínimo y porcentajes objetivo",
+      "status": "no_aplicable",
+      "locations": [],
+      "sections": [],
+      "evidence": "Secciones del PDF exponen una propuesta de Estado reducido, no una obligación editorial superior a la corrección posterior del usuario.",
+      "action": "Mantener fuera del argumento principal: el usuario pide visión filosófica anticoacción, no defensa técnica de un tamaño estatal objetivo.",
+      "priority": "alta"
+    }
+  ],
+  "summary": {
+    "totalTopics": 55,
+    "statusCounts": {
+      "desarrollado": 35,
+      "parcial": 9,
+      "ausente": 8,
+      "no_aplicable": 3
+    },
+    "priorityGaps": [
+      "Propiedad como autonomía, adquisición y rectificación",
+      "Crecimiento estatal y trinquete",
+      "Progresividad en frío",
+      "Interés, crédito y ahorro real",
+      "Reglas electorales y agenda",
+      "Subvenciones a mediadores, sindicatos/patronales y medios",
+      "Corto plazo electoral y deuda futura"
+    ],
+    "secondaryGaps": [
+      "No afiliación y asociación negativa",
+      "Comercio y paz",
+      "Sesgos electorales aun informado",
+      "Alternativas monetarias concretas",
+      "Ejemplo histórico de ayuda mutua",
+      "Colectivismo y nación con escena concreta"
+    ],
+    "notEvidenceOfCompleteness": "La matriz de revisión anterior asocia grandes capítulos con ensayos de forma demasiado amplia. No basta asignar páginas1–11a la apertura para dar por explicadas propiedad, adquisición o rectificación."
+  },
+  "recentRequests": [
+    {
+      "request": "No justificar la imposición por utilidad; vida propia y colaboración voluntaria",
+      "status": "parcial",
+      "coveredBy": [
+        "tu-vida-no-es-un-proyecto-del-poder",
+        "un-contrato-que-nadie-puede-rechazar",
+        "redistribuir-no-es-solo-repartir"
+      ],
+      "remaining": "Hay frases residuales en banderas, cálculo, conocimiento, nómina y cooperación; ver voiceConflicts."
+    },
+    {
+      "request": "Eliminar jardín ambiguo, tres preguntas, documento maestro y taxonomía escolar en cuerpo",
+      "status": "parcial",
+      "coveredBy": [
+        "tu-vida-no-es-un-proyecto-del-poder",
+        "src/data/library.json"
+      ],
+      "remaining": "Jardín sustituido y tesis directa. En cálculo aún figura «réplica austriaca»; quitar etiqueta. La biblioteca puede seguir con autores."
+    },
+    {
+      "request": "Mafia/Estado, ladrones periódicos, bocadillo, piernas y muletas",
+      "status": "desarrollado",
+      "coveredBy": [
+        "un-contrato-que-nadie-puede-rechazar"
+      ]
+    },
+    {
+      "request": "Disciplina de partido y muchos escaños que reproducen una orden",
+      "status": "desarrollado",
+      "coveredBy": [
+        "la-mayoria-no-lo-puede-todo"
+      ]
+    },
+    {
+      "request": "El político como cortafuegos y el Estado que no pierde",
+      "status": "desarrollado",
+      "coveredBy": [
+        "el-estado-siempre-encuentra-un-culpable",
+        "cuando-el-partido-sustituye-a-la-conciencia"
+      ]
+    },
+    {
+      "request": "Ego/superioridad y selección inversa",
+      "status": "desarrollado",
+      "coveredBy": [
+        "la-politica-tambien-tiene-incentivos"
+      ]
+    },
+    {
+      "request": "No votar: influencia minúscula, coste informativo, decidir coercitivamente y legitimidad",
+      "status": "desarrollado",
+      "coveredBy": [
+        "no-votar-tambien-es-una-decision"
+      ]
+    },
+    {
+      "request": "Despilfarro público y restaurante",
+      "status": "desarrollado",
+      "coveredBy": [
+        "la-politica-tambien-tiene-incentivos"
+      ]
+    },
+    {
+      "request": "Documental paso a paso",
+      "status": "parcial",
+      "coveredBy": [
+        "una-promesa-no-es-un-patrimonio"
+      ],
+      "remaining": "La tabla sigue15pasos y enlaces temporales de la primera entrega, sobre pensiones. No equivale a auditar una eventual serie completa ni valida todas sus afirmaciones. Si el usuario hablaba de toda la serie, falta fijar ese alcance."
+    },
+    {
+      "request": "Panadero100→1000; impuestos/ahorro/inversión/productividad/salarios",
+      "status": "desarrollado",
+      "coveredBy": [
+        "el-capital-que-no-llega-a-nacer"
+      ],
+      "remaining": "Mantener corrección: débil productividad, no PIB español inmóvil30años."
+    },
+    {
+      "request": "Dinero creado, primeros receptores, contactos y pérdida del ahorro",
+      "status": "desarrollado",
+      "coveredBy": [
+        "inflacion-el-reloj-del-ahorro"
+      ],
+      "remaining": "Los canales reales se distinguen de favoritismo específico, que exige pruebas."
+    },
+    {
+      "request": "Tiranía de mayoría y país dividido",
+      "status": "desarrollado",
+      "coveredBy": [
+        "la-mayoria-no-lo-puede-todo"
+      ]
+    },
+    {
+      "request": "Desacralizar políticos, Congreso, Parlament y Milei",
+      "status": "desarrollado",
+      "coveredBy": [
+        "el-cargo-no-convierte-a-nadie-en-sagrado"
+      ]
+    },
+    {
+      "request": "Fanatismo, promesas Sánchez y todos los episodios nombrados",
+      "status": "parcial",
+      "coveredBy": [
+        "cuando-el-partido-sustituye-a-la-conciencia",
+        "src/data/political-cases.json",
+        "src/pages/expedientes/index.astro"
+      ],
+      "remaining": "Hay17fichas y6contrastes, con episodios nombrados y cronologíaCeuta. No demuestra «todas las mentiras» ni una conspiración para taparlas; no puede prometerse exhaustividad ilimitada. Debe mantenerse fecha y estado de cada expediente."
+    },
+    {
+      "request": "Indultos, favor e interferencia entre poderes",
+      "status": "desarrollado",
+      "coveredBy": [
+        "quien-puede-perdonar-a-sus-aliados"
+      ],
+      "remaining": "Distingue indulto/amnistía, petición/concesión y fallo/cumplimiento; no afirma ausencia total de separación por existir esta excepción."
+    },
+    {
+      "request": "Pensiones y transferencias de jóvenes con menos a mayores con más",
+      "status": "desarrollado",
+      "coveredBy": [
+        "pensiones-el-puente-entre-generaciones",
+        "una-promesa-no-es-un-patrimonio"
+      ]
+    },
+    {
+      "request": "Sanidad privada/Corea/incentivos/esperas",
+      "status": "desarrollado",
+      "coveredBy": [
+        "cuidar-sin-pedir-permiso-al-monopolio"
+      ]
+    },
+    {
+      "request": "Educación diversa, currículo, barreras, padres y comparación",
+      "status": "desarrollado",
+      "coveredBy": [
+        "aprender-sin-una-leccion-unica"
+      ]
+    },
+    {
+      "request": "Seguridad, seguros y árbitro sin Estado",
+      "status": "desarrollado",
+      "coveredBy": [
+        "un-arbitro-no-necesita-ser-un-soberano",
+        "las-objeciones-que-hay-que-responder"
+      ]
+    },
+    {
+      "request": "Intervencionismo, burocracia, regulación y barreras",
+      "status": "desarrollado",
+      "coveredBy": [
+        "el-permiso-de-quien-ya-ha-entrado"
+      ]
+    },
+    {
+      "request": "Lectura siguiente01-1→01-2ycontinuidad global",
+      "status": "pendiente_verificacion_interfaz",
+      "coveredBy": [],
+      "remaining": "Esta auditoría es de contenido. El agente principal debe probar final de capítulo, orden único, retroceso y continuación móvil."
+    }
+  ],
+  "voiceConflicts": [
+    {
+      "slug": "cooperar-sin-un-director-unico",
+      "quote": "No se deduce que toda comunidad vaya a cooperar ni que nunca haga falta una autoridad pública.",
+      "reason": "Deja abierta imposición pública por necesidad en lugar de separar dificultad práctica y consentimiento.",
+      "direction": "Reconocer fracaso de acuerdos y buscar otras formas voluntarias; no convertir problema en facultad general."
+    },
+    {
+      "slug": "cooperar-sin-un-director-unico",
+      "quote": "Algunas propuestas conservan ayuda pública residual; otras buscan estructuras enteramente voluntarias.",
+      "reason": "Presenta impuesto residual como opción editorial equivalente tras la instrucción explícita del usuario.",
+      "direction": "Describir fondos, federaciones de ayuda y riesgos; si se menciona marco existente, señalar que no es horizonte moral."
+    },
+    {
+      "slug": "cooperar-sin-un-director-unico",
+      "quote": "Lo que debe justificar es cuándo ese común necesita convertirse en monopolio obligatorio",
+      "reason": "Acepta premisa de que bastaría justificar necesidad.",
+      "direction": "El común puede tener reglas pactadas sin adquirir a quien no participa."
+    },
+    {
+      "slug": "el-poder-no-cambia-al-cambiar-de-bandera",
+      "quote": "por qué la autoridad puede imponer esa medida",
+      "reason": "Plantea permiso para imponer, rechazado por usuario.",
+      "direction": "Preguntar qué personas aceptaron y si existe daño que reparar; finalidad no fabrica consentimiento."
+    },
+    {
+      "slug": "el-poder-no-cambia-al-cambiar-de-bandera",
+      "quote": "Una medida debe identificar el daño, explicar el instrumento, mostrar alternativas y limitar sus facultades",
+      "reason": "Suena a checklist que autoriza una medida por buena evaluación.",
+      "direction": "Daño real y defensa recíproca no equivalen a imponer una buena vida a pacíficos."
+    },
+    {
+      "slug": "sin-precios-no-hay-brujula",
+      "quote": "Si una inversión pública puede superar una comparación exigente, su defensor debe mostrarla.",
+      "reason": "Vuelve utilidad comparada centro de defensa de inversión forzosa.",
+      "direction": "Separar evaluación de obra y ausencia de consentimiento de quien la financia."
+    },
+    {
+      "slug": "sin-precios-no-hay-brujula",
+      "quote": "financiación focalizada, evaluación pública",
+      "reason": "Aparecen como correctivos normativos sin distinción de organización voluntaria.",
+      "direction": "Concretar ayuda y verificación financiadas por acuerdos; o describir marco existente como tal."
+    },
+    {
+      "slug": "el-conocimiento-no-cabe-en-un-despacho",
+      "quote": "Centralizar una respuesta debería requerir razones proporcionales al tamaño del error que puede propagar.",
+      "reason": "No distingue empresa centralizada por contrato de mando político obligatorio.",
+      "direction": "Centralizar tareas pactadas sí; imponer fines no lo legitima conocer más."
+    },
+    {
+      "slug": "la-nomina-que-no-ves",
+      "quote": "Después podrá discutir si lo que recibe a cambio compensa ese coste.",
+      "reason": "Sugiere que compensación basta para resolver objeción.",
+      "direction": "Conocer contraprestación permite describir resultado; no equivale a haberla comprado."
+    },
+    {
+      "slug": "la-nomina-que-no-ves",
+      "quote": "Eso exige justificar resultados y alternativas, además de exhibir finalidades.",
+      "reason": "Justificación utilitaria sustituye criterio explícito de consentimiento.",
+      "direction": "Resultados cuentan al elegir una colaboración; no producen el sí que falta."
+    }
+  ],
+  "duplicates": [
+    {
+      "slugs": [
+        "el-poder-no-cambia-al-cambiar-de-bandera",
+        "el-cargo-no-convierte-a-nadie-en-sagrado",
+        "cuando-el-partido-sustituye-a-la-conciencia"
+      ],
+      "overlap": "Sacralización, propia bandera y necesidad de criticar al líder admirado.",
+      "keepIn": "Cargo: ceremonia; partido: identidad; banderas: misma regla moral aplicada a fines distintos.",
+      "action": "Evitar tres cierres casi equivalentes sobre no tener nuevos ídolos."
+    },
+    {
+      "slugs": [
+        "un-arbitro-no-necesita-ser-un-soberano",
+        "las-objeciones-que-hay-que-responder"
+      ],
+      "overlap": "Dos equipos de fútbol y arbitraje limitado.",
+      "keepIn": "Arbitraje.",
+      "action": "En cierre recordar en una frase y enlazar; dedicar espacio a daño a terceros y objeción más fuerte."
+    },
+    {
+      "slugs": [
+        "pensiones-el-puente-entre-generaciones",
+        "una-promesa-no-es-un-patrimonio"
+      ],
+      "overlap": "Reparto no acumula cartera propia; transición no gratuita.",
+      "keepIn": "Pensiones como argumento; guía del documental como material complementario.",
+      "action": "Capítulo de promesa debe centrarse en autonomía material; tabla de15minutos fuera del flujo principal."
+    },
+    {
+      "slugs": [
+        "el-permiso-de-quien-ya-ha-entrado",
+        "aprender-sin-una-leccion-unica"
+      ],
+      "overlap": "Exigencia universitaria de4500estudiantes.",
+      "keepIn": "Educación.",
+      "action": "Barreras usa ejemplo breve genérico y enlace."
+    },
+    {
+      "slugs": [
+        "un-derecho-no-es-un-proveedor",
+        "cuidar-sin-pedir-permiso-al-monopolio",
+        "aprender-sin-una-leccion-unica",
+        "un-arbitro-no-necesita-ser-un-soberano"
+      ],
+      "overlap": "Separar función/proveedor, no garantizar toda empresa, salida efectiva y ayuda a quien no puede pagar.",
+      "keepIn": "Introducción de servicios establece principio; capítulos concretan cada riesgo.",
+      "action": "Acortar apertura de bloque o convertirla en introducción breve; no repetir siete veces advertencia de que privado no es perfecto."
+    },
+    {
+      "slugs": [
+        "el-capital-que-no-llega-a-nacer",
+        "pensiones-el-puente-entre-generaciones",
+        "una-promesa-no-es-un-patrimonio"
+      ],
+      "overlap": "Menos margen obligatorio→menos ahorro→menos autonomía/inversión.",
+      "keepIn": "Capital explica mecanismo productivo; pensiones lo aplica; patrimonio explica decir no.",
+      "action": "Conservar funciones distintas y usar remisión discreta."
+    },
+    {
+      "slugs": [
+        "cooperar-sin-un-director-unico",
+        "las-objeciones-que-hay-que-responder",
+        "un-derecho-no-es-un-proveedor"
+      ],
+      "overlap": "Red de quien no tiene familia solvente y necesidad de construir financiación.",
+      "keepIn": "Cooperación: arquitectura de red; servicios: accesibilidad; final: pregunta abierta y compromiso.",
+      "action": "Una limitación concreta por ámbito, no catálogo reiterado de incertidumbres."
+    }
+  ],
+  "proposedBook": {
+    "criterion": "Cada parte contesta una pregunta nacida de la anterior. Las categorías de procedencia del contenido no deben determinar el recorrido.",
+    "parts": [
+      {
+        "title": "Una vida propia",
+        "question": "¿Quién puede decidir sobre tu vida?",
+        "chapters": [
+          "tu-vida-no-es-un-proyecto-del-poder",
+          "NUEVO: propiedad, adquisición y rectificación",
+          "un-contrato-que-nadie-puede-rechazar",
+          "el-poder-no-cambia-al-cambiar-de-bandera"
+        ]
+      },
+      {
+        "title": "Cooperar sin reunir todas las decisiones",
+        "question": "¿Cómo encajan planes diferentes?",
+        "chapters": [
+          "el-conocimiento-no-cabe-en-un-despacho",
+          "sin-precios-no-hay-brujula",
+          "el-capital-que-no-llega-a-nacer",
+          "inflacion-el-reloj-del-ahorro",
+          "el-permiso-de-quien-ya-ha-entrado"
+        ]
+      },
+      {
+        "title": "La cuenta del poder",
+        "question": "¿Qué cambia cuando se puede imponer la cuenta?",
+        "chapters": [
+          "la-politica-tambien-tiene-incentivos",
+          "NUEVO: crecimiento y trinquete",
+          "la-mayoria-no-lo-puede-todo",
+          "no-votar-tambien-es-una-decision",
+          "el-cargo-no-convierte-a-nadie-en-sagrado",
+          "cuando-el-partido-sustituye-a-la-conciencia",
+          "el-estado-siempre-encuentra-un-culpable",
+          "quien-puede-perdonar-a-sus-aliados"
+        ]
+      },
+      {
+        "title": "Lo que cuesta depender",
+        "question": "¿Qué posibilidades desaparecen detrás del beneficio visible?",
+        "chapters": [
+          "la-nomina-que-no-ves",
+          "redistribuir-no-es-solo-repartir",
+          "pensiones-el-puente-entre-generaciones",
+          "una-promesa-no-es-un-patrimonio",
+          "el-precio-del-alquiler-y-la-puerta-de-entrada"
+        ]
+      },
+      {
+        "title": "Instituciones que sirven sin adquirirte",
+        "question": "¿Cómo prestar servicios conservando la posibilidad de elegir?",
+        "chapters": [
+          "un-derecho-no-es-un-proveedor",
+          "cuidar-sin-pedir-permiso-al-monopolio",
+          "aprender-sin-una-leccion-unica",
+          "un-arbitro-no-necesita-ser-un-soberano",
+          "cooperar-sin-un-director-unico",
+          "muchos-centros-mejores-salidas",
+          "las-objeciones-que-hay-que-responder"
+        ]
+      }
+    ],
+    "appendices": [
+      "Expediente de casos políticos con fecha y estados procesales",
+      "Guía temporal del documental y verificación de sus afirmaciones",
+      "Bibliografía/autores/escuelas consultables fuera de la prosa",
+      "Notas históricas y metodológicas de cifras"
+    ],
+    "implementationNote": "Propuesta editorial, no orden aplicado. El agente principal puede optar por menos partes; importa continuidad y funciones distintas."
+  },
+  "bridges": [
+    {
+      "from": "Autonomía",
+      "to": "Propiedad",
+      "text": "Poder decir que no exige algo más que palabras: también necesitas medios que nadie pueda retirarte por discrepar. Ahí entra la propiedad."
+    },
+    {
+      "from": "Consentimiento",
+      "to": "Conocimiento",
+      "text": "Hasta aquí importa quién decide. Ahora aparece otra pregunta: ¿cómo llegan a encajar millones de decisiones sin que alguien las reúna todas?"
+    },
+    {
+      "from": "Precios",
+      "to": "Capital",
+      "text": "El precio ayuda a escoger qué hacer. Pero para hacerlo mañana hacen falta herramientas que alguien tendrá que preparar hoy."
+    },
+    {
+      "from": "Incentivos",
+      "to": "Crecimiento estatal",
+      "text": "Si cada programa tiene quien lo defiende y la cuenta se reparte entre todos, aparece una asimetría: crear una obligación resulta más fácil que retirarla."
+    },
+    {
+      "from": "Crítica institucional",
+      "to": "Alternativas",
+      "text": "Hemos visto qué ocurre cuando no puedes rechazar al proveedor. Falta la parte más importante: cómo organizar el cuidado, la enseñanza y la protección conservando esa posibilidad."
+    }
+  ],
+  "evidenceLimits": [
+    "La fecha del expediente político es28/10/2026. Presencia de una ficha no acredita verdad de cada afirmación; una nueva revisión externa corresponde al agente principal.",
+    "Que el artículo mencione una historia no demuestra la interpretación causal completa del PDF.",
+    "Nombres de autores y diferencias de escuelas son material de apoyo por instrucción expresa posterior del usuario.",
+    "El PDF contiene secciones22y26sin desarrollo; no se inventa una cobertura maestra inexistente.",
+    "No prometer exhaustividad de toda corrupción o todas las mentiras. Sí se puede verificar cada caso nombrado y enumerar claramente el alcance.",
+    "Esta es línea base de27artículos; el agente principal ha anunciado nuevas incorporaciones. Repetir comprobación dirigida tras cambios, conservando esta matriz como evidencia previa."
+  ]
+}

@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import {createMarkdownProcessor} from '@astrojs/markdown-remark';
 import {demoArticle} from '../src/lib/article-blocks/demo.mjs';
-import remark from '../src/lib/article-blocks/remark-plugin.mjs';
+import remark,{createRemarkArticleBlocks} from '../src/lib/article-blocks/remark-plugin.mjs';
 import {validateArticleBlocks,renderArticleBlock,stripArticleBlocks,decodeArticleBlock} from '../public/article-blocks.mjs';
 const blocks=validateArticleBlocks(demoArticle.text);
 assert.deepEqual(blocks.map(b=>b.block.type),['concept-flow','editorial-callout']);
@@ -17,3 +17,11 @@ assert.throws(()=>renderArticleBlock({type:'source-note',url:'https://user:pass@
 assert.throws(()=>decodeArticleBlock('{bad'),/JSON no válido/);
 assert.throws(()=>validateArticleBlocks('```oneshot\n{"type":"editorial-callout","text":"abierto"}'),/falta cerrar/);
 console.log('Bloques: renderizado Astro, validación y escape correctos');
+
+const notesProcessor=await createMarkdownProcessor({remarkPlugins:[()=>((tree,file)=>{file.data.astro={frontmatter:{slug:'prueba'}};createRemarkArticleBlocks()(tree,file);})]});
+const notesHtml=(await notesProcessor.render('## Argumento\n\nTexto principal.\n\n## Lecturas y fuentes\n\n- [Referencia](https://example.org)\n\n### Ampliación\n\nUna nota.')).code;
+assert.ok(notesHtml.indexOf('Texto principal.')<notesHtml.indexOf('<details'));
+assert.ok(notesHtml.indexOf('class="chapter-sources"')<notesHtml.indexOf('Referencia'));
+assert.ok(notesHtml.indexOf('Una nota.')<notesHtml.lastIndexOf('</details>'));
+assert.doesNotMatch(notesHtml,/<details[^>]+open/);
+console.log('Fuentes: argumento fuera del desplegable y notas completas dentro, cerrado inicialmente');

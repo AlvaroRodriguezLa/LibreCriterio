@@ -7,7 +7,7 @@ image: "/images/las-objeciones-que-hay-que-responder.svg"
 imageAlt: "Ilustración conceptual: Las objeciones que hay que responder"
 category: "Debates"
 tags: ["Debates","libertad"]
-order: 17
+order: 29
 masterPages: "63–66; desarrollo del capítulo 26"
 satellites: []
 thesis: "Resolver problemas requiere acuerdos y responsabilidad; la dificultad de resolverlos no concede un derecho a dirigir vidas pacíficas."
@@ -25,15 +25,13 @@ Hay personas que no pueden pagar cuidados, vecinos que discrepan sobre un camino
 
 Pero de que haya una necesidad no se deduce que alguien adquiera la vida de los demás para resolverla. **La falta de una solución perfecta no crea un derecho a imponer fines a personas pacíficas.** Una defensa de la cooperación voluntaria debe buscar respuestas; no tiene que aceptar que toda dificultad sea un cheque en blanco para el poder.
 
-El trabajo empieza al preguntar qué función hace falta y cómo pueden acordarla quienes la necesitan. Resolver disputas no exige que su árbitro gobierne todos los demás aspectos de la vida. Compartir un gasto no exige aceptar una cuenta ilimitada. Ayudar no exige convertir al ayudado en un menor permanente.
+El trabajo consiste en identificar la necesidad, reunir compromisos y decidir cómo responder si fallan. Un contrato no puede dar a sus firmantes derechos sobre quien no participó.
 
-## Dos equipos pueden buscar un árbitro
+## Cuando no hubo un acuerdo previo
 
-Dos equipos de fútbol quieren jugar. Cada uno desconfía de que el otro decida las faltas. Pueden acordar un reglamento y elegir a un tercero independiente antes de empezar. La autoridad del árbitro procede de ese encargo y tiene un alcance: juzgar el partido.
+El árbitro elegido por dos equipos resuelve un conflicto dentro de un pacto. Una agresión entre desconocidos plantea otra dificultad: la víctima no ha contratado con quien la daña. Aquí la respuesta debe identificar al responsable y reparar el perjuicio sin entregar a una agencia un poder ilimitado sobre terceros.
 
-Si decide qué libros deben leer los jugadores o pretende cobrarles todos los años aunque dejen de competir, ha abandonado el acuerdo. La utilidad de arbitrar no le entrega la propiedad de los participantes.
-
-La intuición sirve para pensar contratos de arbitraje, mediación y seguros: separar una función necesaria de la pretensión de monopolizarla territorialmente. Un partido pactado no resuelve por sí solo una agresión entre desconocidos; señala cómo empezar a construir reglas y procedimientos sin fabricar un soberano.
+El acuerdo sirve para organizar la protección y el procedimiento. No permite a sus participantes inventar derechos sobre una persona inocente que nunca se incorporó a él.
 
 ## El humo que nadie aceptó respirar
 
@@ -61,9 +59,9 @@ Los beneficios que alcanzan a no contribuyentes plantean otra dificultad. Se pue
 
 Los seguros sirven para compartir riesgos; las mutualidades permiten organizar esa protección entre sus miembros. La ayuda voluntaria puede atender a quien ya sufre un daño o no pudo asegurarse. Asociaciones, familias y fundaciones pueden especializarse y coordinarse para dar continuidad al apoyo.
 
-No conviene fingir que toda persona dispone de una familia solvente. Una propuesta debe mostrar cómo llegará a quien carece de recursos y vínculos, cómo evitará abandonos y qué información permitirá detectar un fallo. La respuesta es construir redes de apoyo más capaces, no atribuir incapacidad general a todos para justificar su tutela.
+No conviene fingir que toda persona dispone de una familia solvente. Una propuesta debe mostrar cómo llegará a quien carece de recursos y vínculos, cómo evitará abandonos y qué información permitirá detectar un fallo. Una red debe poder detectar a quien queda fuera y sostener el apoyo cuando el problema dura.
 
-La necesidad del otro nos interpela como personas. No nos convierte automáticamente en propietarios del trabajo de un tercero.
+Necesitar ayuda no convierte a nadie en dueño de quien puede ofrecerla.
 
 ## Que una empresa no se convierta en otro Estado
 
@@ -79,7 +77,7 @@ Hay personas que dependen hoy de prestaciones y servicios existentes. Abrir alte
 
 Una transición debe explicar qué patrimonio puede utilizar, qué contratos necesita y qué costes reales aparecen. No sería coherente defender la elección mientras se oculta a quién se está imponiendo la factura del cambio.
 
-El objetivo sigue siendo reconocible: que resolver una necesidad no obligue a entregar el resto de la vida a quien la administra. La cooperación tiene que hacerse concreta, y el poder no adquiere un derecho nuevo cada vez que encontramos una dificultad.
+El recorrido no elimina el conflicto ni promete que nunca necesitaremos ayuda. Deja una exigencia para cualquier respuesta: resolver una dificultad sin utilizar como material disponible la vida de quien no la ha causado.
 
 ## Lecturas y fuentes
 

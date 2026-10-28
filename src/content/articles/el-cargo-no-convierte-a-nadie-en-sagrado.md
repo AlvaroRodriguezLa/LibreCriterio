@@ -7,7 +7,7 @@ image: "/images/el-cargo-no-convierte-a-nadie-en-sagrado.svg"
 imageAlt: "Ilustración conceptual: El cargo no convierte a nadie en sagrado"
 category: "Poder"
 tags: ["Poder","libertad"]
-order: 21
+order: 11
 satellites: []
 thesis: "La dignidad de la persona no se convierte en superioridad moral por ocupar un cargo."
 related: ["el-poder-no-cambia-al-cambiar-de-bandera","la-mayoria-no-lo-puede-todo","cuando-el-partido-sustituye-a-la-conciencia"]
@@ -20,51 +20,43 @@ imageFit: "contain"
 
 ## La solemnidad no es una respuesta
 
-Un edificio imponente, una fórmula de tratamiento, una tribuna y un silencio ceremonial pueden crear la sensación de que dentro ocurre algo moralmente superior a la vida corriente. El escenario ayuda a confundir una función con una dignidad especial de quien la ocupa.
+Un edificio imponente, una tribuna y un tratamiento especial pueden hacer que quien ocupa un cargo parezca moralmente superior a quienes están fuera. El decorado invita a confundir una función con una dignidad añadida.
 
-Pero un cargo no añade derechos sobre otras personas. Quien recibe un despacho sigue pudiendo equivocarse, perseguir su interés, mentir o comportarse con mezquindad. La ceremonia no mejora automáticamente su juicio ni transforma sus decisiones en obligaciones morales.
+Pero el despacho no mejora su juicio. Sigue pudiendo equivocarse, mentir, perseguir su interés o comportarse con mezquindad. Tampoco recibe derechos sobre otras personas al sentarse en una silla reservada.
 
-**Respetar a una persona no exige reverenciar su facultad de mandar.** Podemos rechazar el insulto y la amenaza sin conceder inmunidad al cargo frente a la crítica, la sátira o una pregunta incómoda. La autoridad que solo soporta el lenguaje de la obediencia ya está pidiendo más que respeto.
+**Respetar a una persona no obliga a reverenciar su facultad de mandar.** Puedes rechazar una amenaza y conservar la sátira, la crítica y la pregunta incómoda. Exigir obediencia como prueba de respeto reclama mucho más que convivencia.
 
 ## El aula con un presupuesto enorme
 
-En un parlamento puede haber interrupciones, gritos y descalificaciones. Sus diarios de sesiones registran llamadas al orden, protestas y peticiones de silencio. La escena puede parecerse menos al lugar de una sabiduría superior que a un aula donde cuesta respetar el turno de palabra.
+En un parlamento también hay interrupciones, gritos y descalificaciones. Sus diarios de sesiones recogen llamadas al orden y peticiones de silencio. Algunas escenas recuerdan a una clase de instituto donde cuesta respetar el turno de palabra, con una diferencia: allí se decide sobre recursos y vidas ajenas.
 
-El contraste importa: quienes exigen deferencia por representar a los demás pueden incumplir normas de convivencia que cualquiera pediría en una reunión de vecinos. No se sigue que todos se comporten igual ni que toda sesión carezca de trabajo. Se deshace la idea de que cruzar esa puerta convierte a alguien en una categoría distinta de persona.
+El contraste deshace una pretensión de superioridad. Quien pide deferencia por su cargo puede incumplir normas que cualquiera exigiría en una reunión de vecinos. No necesitas admirar dentro del hemiciclo una conducta que reprocharías fuera.
 
-El ciudadano no tiene por qué admirar una conducta que consideraría inaceptable fuera de allí. Tampoco debe confundir el protocolo con una prueba de que las decisiones tomadas merecen obediencia sin examen.
+Eso no describe toda sesión ni a todos sus miembros. Permite separar el trabajo que efectivamente realizan del aura que acompaña al puesto. El primero puede examinarse; la segunda pide que bajemos la voz antes de hacerlo.
 
 ## Cuando la ceremonia suplanta a los ausentes
 
-El 27 de octubre de 2017, la votación de la declaración en el Parlament catalán registró setenta votos favorables, diez contrarios y dos en blanco. La oposición de Ciudadanos, PSC y PP había abandonado el hemiciclo. El diario de sesiones permite comprobar el resultado.
+El 27 de octubre de 2017, la votación de la declaración en el Parlament catalán registró setenta votos favorables, diez contrarios y dos en blanco. La oposición de Ciudadanos, PSC y PP había abandonado el hemiciclo. Ese es el resultado que recoge el diario de sesiones.
 
-Una escena solemne puede presentarse como la voz de una comunidad entera mientras una parte sustancial de sus representantes ni siquiera participa en esa votación. Esa ausencia no se convierte en consentimiento por cantar después un himno o levantar una bandera.
+Una ceremonia puede presentarse como la voz de una comunidad entera mientras una parte sustancial de sus representantes no participa en la votación. Cantar un himno o levantar una bandera no convierte aquella ausencia en consentimiento.
 
-La objeción tampoco depende de preferir una bandera a otra. Una voluntad colectiva no es una persona que pueda absorber las vidas de quienes discrepan. El mismo límite vale para el poder central y para quien quiere sustituirlo por otro más cercano. Cambiar la escala del escenario no resuelve la propiedad de las decisiones ajenas.
+La misma regla vale para el poder central y para quien pretende sustituirlo por otro más cercano. La dignidad de quien discrepa no depende de la bandera que preside la sala. Una comunidad tiene historia y vínculos; no es una persona que posea a sus integrantes.
 
 ## La utilidad de perderles la reverencia
 
-El estilo irreverente de Javier Milei frente a la llamada casta política puede leerse como una ruptura de ese decorado. Su discurso de Davos de enero de 2024 contrapuso a los ciudadanos y empresarios con una clase política que busca conservar privilegios. Hablar de quienes mandan sin el vocabulario de lo sagrado puede facilitar que se los juzgue como a cualquier otra persona.
+El estilo irreverente de Javier Milei frente a la llamada casta política puede romper parte de ese decorado. En Davos, en enero de 2024, contrapuso a ciudadanos y empresarios con una clase política interesada en conservar privilegios. Hablar de quienes mandan sin tratarlos como figuras sagradas permite juzgarlos con menos ceremonia.
 
-Ese gesto tiene valor cuando reduce la distancia moral ficticia entre gobernante y gobernado. El cargo no merece una cortesía especial que impida señalar abusos o intereses. No hace falta aceptar la liturgia del poder para discutir con quien lo ejerce.
+Ese gesto vale cuando reduce la distancia moral ficticia entre gobernante y gobernado. El cargo no merece una cortesía especial que vuelva indecente señalar un abuso. Una crítica brusca no se vuelve más invasiva que una orden solo porque la orden haya sido pronunciada con educación.
 
-La coherencia exige aplicar la misma mirada al dirigente que resulta simpático. Si la irreverencia solo sirve para desmontar al adversario y levantar un altar al propio, el mecanismo permanece. Una defensa de la libertad no busca un político al que venerar de otra manera; busca que ninguno se sitúe por encima de las personas a las que afecta.
+La mirada debe alcanzar también al dirigente que nos gusta. Si la irreverencia desmonta al adversario y levanta un altar al propio, conserva la misma dependencia con otra fotografía. Perderles la reverencia significa poder exigir cuentas también al admirado.
 
-## Desacralizar también las palabras
+## Las palabras también levantan un pedestal
 
-Se dice que una ley expresa lo que queremos, que una institución nos protege o que una decisión se toma en nuestro nombre. Cada expresión puede ocultar quién quiso realmente, quién decidió y quién tendrá que pagar.
+«Lo hemos decidido». «La institución nos protege». «Se hace en nuestro nombre». Esas frases pueden borrar quién decidió realmente, quién lo rechazó y quién tendrá que pagar.
 
-Un ciudadano puede preferir otro servicio, otra ayuda o ninguna de las opciones ofrecidas. La palabra nosotros no elimina ese desacuerdo. Atribuirle una voluntad que no ha expresado permite presentar una orden como si fuese una decisión propia.
+Pedir nombres devuelve claridad. ¿Qué personas aceptaron la propuesta? ¿Quién puede abandonar el servicio? ¿Quién repara el daño? ¿Por qué conserva sus facultades quien vuelve a fallar? Son preguntas corrientes que la solemnidad no responde.
 
-Preguntar por personas concretas devuelve claridad: quién ha aprobado el gasto, quién puede rechazarlo, quién será reparado si hay daño y quién conservará su puesto aunque falle. El lenguaje deja de elevar la institución por encima de quienes la sostienen.
-
-## La crítica no necesita nuevos ídolos
-
-Desmitificar el poder no requiere imaginar que todos sus ocupantes son monstruos. Basta con reconocer que son personas corrientes que disponen de facultades extraordinarias sobre otras. Ahí está la desproporción que hay que examinar.
-
-Tampoco la amabilidad resuelve el problema. Un mandato pronunciado con educación puede invadir más vida que una crítica formulada con brusquedad. Las formas tienen valor en la convivencia; no sustituyen la pregunta por el derecho que alguien reclama a dirigirnos.
-
-El edificio puede seguir siendo bonito. La historia puede merecer estudio. Nada de eso obliga a inclinar el juicio. La dignidad que importa no está en el asiento: está en las personas cuyas vidas no deberían convertirse en propiedad de quien se sienta en él.
+El edificio puede ser hermoso y su historia merecer estudio. La persona que ocupa el asiento conserva toda su dignidad. Ninguna de las dos cosas exige que entreguemos el juicio propio a quien se sienta en él.
 
 ## Lecturas y fuentes
 

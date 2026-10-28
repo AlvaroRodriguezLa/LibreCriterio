@@ -1,0 +1,280 @@
+{
+  "checked": "2026-10-28",
+  "scope": "Teoría de escritura y lectura de ensayo filosófico divulgativo; solo investigación. Fuentes primarias públicas y un resumen académico institucional de un estudio empírico. No se afirma lectura integral de libros cuya ficha se cita.",
+  "editorial_position": "La claridad organiza la exposición de la tesis moral del usuario; no la sustituye por una justificación de la coacción basada en resultados. Necesidad, utilidad y consentimiento deben distinguirse.",
+  "sources": [
+    {
+      "id": "orwell",
+      "author": "George Orwell",
+      "title": "Politics and the English Language",
+      "published": "1946",
+      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/",
+      "access": "Ensayo original completo",
+      "evidence": "Consejo de oficio y crítica retórica; no experimento de lectura",
+      "finding": "El lenguaje político puede ocultar responsables y acciones mediante abstracciones, fórmulas gastadas y palabras con significados cambiantes. Recomienda revisar la expresión a partir de lo que se quiere decir y recortar lo prescindible.",
+      "application": "Sustituir nominalizaciones por personas que hacen algo; concretar quién decide, cobra o impide. No repetir metáforas distintas para una misma conclusión.",
+      "limit": "Sus reglas no son leyes universales del español ni una garantía de verdad o persuasión."
+    },
+    {
+      "id": "zinsser",
+      "author": "William Zinsser",
+      "title": "Writing English as a Second Language",
+      "published": "2009-12-01; charla 2009-08-11",
+      "url": "https://theamericanscholar.org/writing-english-as-a-second-language/",
+      "access": "Charla del autor publicada completa",
+      "evidence": "Consejo de oficio",
+      "finding": "Defiende lenguaje sencillo, verbos activos y una progresión que permita asimilar una idea antes de añadir la siguiente. La narración conserva una voz humana en lugar de esconderse tras términos profesionales.",
+      "application": "Leer los párrafos en voz alta. Dividir una oración cuando dos acciones o inferencias compiten. Usar palabras corrientes sin hablar al adulto como a un niño.",
+      "limit": "Es una charla sobre escribir en inglés; sus preferencias léxicas no se trasladan literalmente al español."
+    },
+    {
+      "id": "pinker",
+      "author": "Steven Pinker",
+      "title": "Why Academics Stink at Writing",
+      "published": "2014-09-26",
+      "url": "https://stevenpinker.com/files/pinker/files/pinker_2014_why_academics_writing_stinks.pdf",
+      "access": "Artículo del autor alojado en su web; extractos y pasajes indexados consultados",
+      "evidence": "Explicación psicolingüística y consejo de estilo, no prueba específica de esta web",
+      "finding": "La maldición del conocimiento dificulta imaginar lo que ignora el lector. El estilo clásico muestra una situación y guía la mirada del lector; el exceso de reservas y referencias al proceso del autor interrumpe esa relación.",
+      "application": "Explicar cada término en su primer uso. Agrupar reservas empíricas con los datos a los que afectan; evitar un descargo después de cada frase. Mostrar decisiones antes de nombrar categorías.",
+      "limit": "No se declara lectura integral de The Sense of Style. Claridad no autoriza borrar límites materiales o incertidumbre relevante."
+    },
+    {
+      "id": "mcphee",
+      "author": "John McPhee",
+      "title": "Structure",
+      "published": "2013-01-06; edición impresa 2013-01-14",
+      "url": "https://www.newyorker.com/magazine/2013/01/14/structure",
+      "access": "Ensayo autobiográfico original",
+      "evidence": "Método de oficio",
+      "finding": "Ordenar notas en unidades temáticas y encontrar una estructura permite convertir materiales abundantes en una pieza coherente. Un hilo organizador puede unir componentes que antes parecían inconexos.",
+      "application": "Asignar a cada capítulo una función nueva dentro del libro y decidir qué debe dejar resuelto antes de enlazar el siguiente.",
+      "limit": "Relato de una práctica personal, no un formato obligatorio ni experimento."
+    },
+    {
+      "id": "heath",
+      "author": "Chip Heath y Dan Heath",
+      "title": "Made to Stick: resumen del modelo por los autores",
+      "published": "2008 (copyright del recurso)",
+      "url": "https://heathbrothers.com/wp-content/uploads/resources/mts-made-to-stick-model.pdf",
+      "access": "Hoja de síntesis oficial; no lectura integral del libro",
+      "evidence": "Modelo práctico de comunicación",
+      "finding": "Priorizar el núcleo, concretar y dar credibilidad a una idea ayuda a diseñar mensajes comprensibles y recordables. El recurso distingue simplicidad de empobrecimiento.",
+      "application": "Conservar un ejemplo dominante por capítulo y estadísticas con escala humana. Evitar convertir cada apartado en otra metáfora o una nueva pregunta sin resolver.",
+      "limit": "No demuestra que aplicar una fórmula persuada a toda audiencia. No se adoptan ganchos artificiales, sobresaltos ni presión emocional."
+    },
+    {
+      "id": "harvard-organizacion",
+      "author": "Harvard College Writing Center",
+      "title": "Tips for Organizing Your Essay",
+      "published": "s.f.; acceso 2026-10-28",
+      "url": "https://writingcenter.fas.harvard.edu/tips-organizing-your-essay",
+      "access": "Guía institucional completa",
+      "evidence": "Pedagogía de escritura",
+      "finding": "Descomponer la tesis en afirmaciones necesarias y realizar un esquema inverso del borrador permite detectar huecos, duplicaciones y orden inadecuado. Los subtítulos pueden ayudar a ver esa estructura.",
+      "application": "Etiquetar cada párrafo con su aportación: escena, tesis, mecanismo, evidencia, objeción, respuesta o enlace. Fusionar los que no añaden una función.",
+      "limit": "El esquema sirve para revisar; no tiene que aparecer como plantilla visible ni imponer cinco párrafos."
+    },
+    {
+      "id": "harvard-transiciones",
+      "author": "Harvard College Writing Center",
+      "title": "Transitions",
+      "published": "s.f.; acceso 2026-10-28",
+      "url": "https://writingcenter.fas.harvard.edu/transitions",
+      "access": "Guía institucional",
+      "evidence": "Pedagogía de escritura",
+      "finding": "Las transiciones muestran relaciones lógicas entre ideas; comenzar por información familiar y avanzar a la nueva ayuda a conservar el hilo. Un conector aislado no repara un salto lógico.",
+      "application": "El cierre recupera lo aprendido y nombra el problema siguiente. La apertura del capítulo siguiente retoma ese objeto, sin recapitular todo el libro.",
+      "limit": "No todas las frases necesitan un conector ni una recapitulación."
+    },
+    {
+      "id": "harvard-objecion",
+      "author": "Harvard College Writing Center",
+      "title": "Counterargument",
+      "published": "s.f.; acceso 2026-10-28",
+      "url": "https://writingcenter.fas.harvard.edu/counterargument",
+      "access": "Guía institucional",
+      "evidence": "Pedagogía de argumentación",
+      "finding": "Las objeciones relevantes se consideran durante la construcción del argumento. Se formula su razón y se responde donde ayuda a aclarar una inferencia; no hace falta añadir todas las objeciones imaginables.",
+      "application": "Una objeción principal por mecanismo cuando sea necesaria. Distinguir la objeción a una tesis moral de un límite a una predicción económica, sin hacer pasar la segunda por refutación de la primera.",
+      "limit": "No usar una batería ritual de cautelas ni dejar al final una objeción importante sin respuesta."
+    },
+    {
+      "id": "harvard-cierre",
+      "author": "Harvard College Writing Center",
+      "title": "Conclusions",
+      "published": "s.f.; acceso 2026-10-28",
+      "url": "https://writingcenter.fas.harvard.edu/conclusions",
+      "access": "Guía institucional",
+      "evidence": "Pedagogía de escritura",
+      "finding": "El cierre puede mostrar qué comprende ahora el lector y qué se sigue del argumento. La guía desaconseja repetir íntegramente lo anterior, introducir una gran objeción nueva o usar una fórmula vacía de conclusión.",
+      "application": "Terminar cada capítulo con una consecuencia específica y un puente al siguiente, no con otra versión de la misma consigna moral.",
+      "limit": "La longitud del cierre depende del recorrido de la pieza; no existe una cifra universal."
+    },
+    {
+      "id": "unc-parrafo",
+      "author": "The Writing Center, University of North Carolina at Chapel Hill",
+      "title": "Paragraphs",
+      "published": "s.f.; acceso 2026-10-28",
+      "url": "https://writingcenter.unc.edu/tips-and-tools/paragraphs/",
+      "access": "Guía institucional completa",
+      "evidence": "Pedagogía de escritura",
+      "finding": "La unidad de un párrafo depende de su idea rectora y de la cohesión, no de un número de frases. Los ejemplos necesitan explicación de cómo apoyan la idea, no basta con insertarlos.",
+      "application": "Un párrafo desarrolla una acción o inferencia. Tras el panadero o el árbitro, explicar exactamente qué ilustra y continuar el argumento, sin dejar al lector deducir el puente.",
+      "limit": "No reducir todos los párrafos a una frase ni fijar un mínimo de cinco."
+    },
+    {
+      "id": "lorch",
+      "author": "Robert F. Lorch y Elizabeth Pugzles Lorch",
+      "title": "Effects of headings on text recall and summarization",
+      "published": "1996-07",
+      "url": "https://scholars.uky.edu/en/publications/effects-of-headings-on-text-recall-and-summarization/",
+      "doi": "https://doi.org/10.1006/ceps.1996.0022",
+      "access": "Resumen original en repositorio institucional de los autores; no texto íntegro",
+      "evidence": "Estudio empírico: dos experimentos",
+      "finding": "En sus tareas, los efectos de los encabezados dependieron de familiaridad y tipo de tarea. Ayudaron a recordar temas desconocidos; también influyeron en qué temas se recogían en resúmenes, en interacción con su desarrollo.",
+      "application": "Usar subtítulos que identifiquen el paso argumental y un mapa de capítulos comprensible para un lector nuevo.",
+      "limit": "No prueba un aumento universal de retención, tiempo en página o convicción; no se transfiere sin más de tareas educativas a ensayos políticos."
+    },
+    {
+      "id": "gopen-swan",
+      "author": "George D. Gopen y Judith A. Swan",
+      "title": "The Science of Scientific Writing",
+      "published": "1990-11/12",
+      "url": "https://courses.ems.psu.edu/styleforstudents/print/c10_p6.html",
+      "access": "Reimpresión íntegra autorizada del artículo original de American Scientist",
+      "evidence": "Método retórico basado en expectativas del lector",
+      "finding": "Acercar sujeto y verbo, articular acciones mediante verbos y situar el enlace hacia atrás al comienzo facilita la interpretación. Los autores insisten en que son principios de revisión y rechazan un límite universal de palabras por frase.",
+      "application": "Cambiar construcciones como la necesidad de la financiación por quién necesita qué y quién paga. Dar al final de la frase el énfasis que importa.",
+      "limit": "No trasladar mecánicamente sintaxis inglesa al español ni presentar el artículo como ensayo experimental de este corpus."
+    }
+  ],
+  "seven_decisions": [
+    {
+      "decision": "Un libro con una progresión principal",
+      "implementation": "Cada capítulo resuelve una pregunta y hace necesaria la siguiente. Las partes marcan pasos del argumento; las rutas temáticas quedan como otra manera de consultar.",
+      "sources": [
+        "harvard-organizacion",
+        "mcphee"
+      ]
+    },
+    {
+      "decision": "Entrar por una situación y llegar pronto a la tesis",
+      "implementation": "Persona, decisión y consecuencia concreta. Presentar la afirmación central sin introducción de manual. Variar el recurso: escena breve, afirmación directa o pregunta real, no otra parábola por obligación.",
+      "sources": [
+        "orwell",
+        "zinsser",
+        "pinker",
+        "heath"
+      ]
+    },
+    {
+      "decision": "Una aportación nueva por párrafo",
+      "implementation": "Esquema inverso y recorte de repeticiones. Conservar todos los argumentos, datos y límites necesarios; reducir el rodeo que los duplica.",
+      "sources": [
+        "unc-parrafo",
+        "harvard-organizacion",
+        "gopen-swan"
+      ]
+    },
+    {
+      "decision": "Separar mecanismo, dato y límite",
+      "implementation": "Exponer primero el recorrido comprensible. Situar junto a la cifra sus condiciones esenciales; los detalles largos van en notas/fuentes consultables. La tesis moral no se hace depender de que un cálculo resulte favorable.",
+      "sources": [
+        "pinker",
+        "gopen-swan",
+        "harvard-objecion"
+      ]
+    },
+    {
+      "decision": "Objeciones con función y respuesta",
+      "implementation": "Introducir la dificultad allí donde el lector razonable la encontraría. Evitar repetir en cada capítulo que ningún modelo es perfecto. Conservar un capítulo final que recoja los problemas transversales aún abiertos.",
+      "sources": [
+        "harvard-objecion"
+      ]
+    },
+    {
+      "decision": "Puentes concretos y cierres que avanzan",
+      "implementation": "El último párrafo dice qué puede entenderse ahora y qué problema se abre después. Evitar sucesiones de aforismos intercambiables y múltiples cierres del mismo argumento.",
+      "sources": [
+        "harvard-transiciones",
+        "harvard-cierre",
+        "mcphee"
+      ]
+    },
+    {
+      "decision": "Comprobar comprensión, no fabricar permanencia",
+      "implementation": "Leer en voz alta y hacer una prueba con lectores reales: qué afirma el capítulo, cómo lo sostiene, qué duda queda y dónde seguirían. No prometer una web perfecta ni usar trucos de urgencia, culpa o scroll infinito.",
+      "sources": [
+        "pinker",
+        "lorch",
+        "zinsser"
+      ]
+    }
+  ],
+  "reviewed_articles": [
+    {
+      "slug": "tu-vida-no-es-un-proyecto-del-poder",
+      "finding": "El comienzo ya es humano y la tesis aparece pronto. En lectura seguida, los apartados finales vuelven varias veces a la misma propiedad moral de la vida; conviene que el cierre abra el problema del cobro obligatorio.",
+      "before": "No hace falta que todos queramos vivir igual para convivir. Hace falta que ninguno se atribuya el derecho a imponer a los demás cómo deben hacerlo.",
+      "after_proposal": "Tu vida no necesita reunir votos para pertenecerte. El problema empieza cuando una organización te presenta obligaciones que nunca aceptaste. Eso es lo que vamos a mirar ahora.",
+      "preserve": "Reciprocidad, libertad de equivocarse, acuerdos, regalos, defensa frente a agresión y cumplimiento de promesas."
+    },
+    {
+      "slug": "el-capital-que-no-llega-a-nacer",
+      "finding": "El horno es un hilo concreto útil. La explicación del mecanismo se interrumpe con reservas macroeconómicas antes de llegar a su consecuencia; la cautela es correcta pero debe tener una ubicación más clara.",
+      "before": "La cadena es comprensible: menos ahorro disponible para ese proyecto, menos inversión, menos capacidad productiva de la que podría haberse alcanzado. No significa que un euro de impuestos destruya siempre un euro de inversión nacional.",
+      "after_proposal": "Si retiran el dinero que el panadero reservaba, el horno tarda más en llegar. Mientras tanto, seguirá haciendo cien panes con los medios anteriores. La inversión perdida es una posibilidad que desaparece antes de tener nombre.",
+      "scope_note_proposal": "El ejemplo explica una decisión privada. El efecto total de un impuesto depende también de cómo se gasta, de otros ahorradores y de los ajustes de hogares y empresas; no calcula una equivalencia de uno a uno.",
+      "preserve": "Hipótesis 100→1000, demanda y recursos complementarios, riesgo de inversión, productividad frente a producción total, datos españoles y fuentes."
+    },
+    {
+      "slug": "las-objeciones-que-hay-que-responder",
+      "finding": "La historia de los dos equipos repite casi completa la entrada del ensayo de seguridad. Un libro necesita usar este último para desarrollar el modelo y reservar el capítulo de objeciones a lo que todavía no resolvió.",
+      "before": "Dos equipos de fútbol quieren jugar. Cada uno desconfía de que el otro decida las faltas. Pueden acordar un reglamento y elegir a un tercero independiente antes de empezar.",
+      "after_proposal": "Elegir a un árbitro resuelve una disputa entre quienes aceptaron el procedimiento. Queda el caso difícil: qué ocurre cuando el agresor no acepta, cuando la víctima no puede pagar o cuando el árbitro se equivoca.",
+      "preserve": "No convertir un problema sin solución perfecta en autorización para imponer fines; conservar daño a terceros, cobertura, monopolios y transición."
+    },
+    {
+      "slug": "un-arbitro-no-necesita-ser-un-soberano",
+      "finding": "Buen modelo de introducción concreta→funciones→agencias→seguros→agresor→colusión. Conviene mantener aquí la historia del partido y acortar el descargo inicial, desplazando el límite al comienzo de la sección sobre el agresor.",
+      "preserve": "El arbitraje actual usa apoyo judicial; los contratos no atribuyen derechos sobre inocentes; la propuesta sin monopolio requiere ejecución, reparación y protección de terceros."
+    }
+  ],
+  "book_guidance": {
+    "principle": "La consulta por temas no debe competir con el único camino de lectura seguida.",
+    "suggested_progression": [
+      "Vida propia y límites recíprocos: saber qué se defiende antes de criticar aparatos.",
+      "Cooperación, conocimiento y producción: entender cómo pueden coordinarse personas distintas.",
+      "Cobro, gasto, dinero y promesas: ver qué se detrae, cómo se asigna y quién depende de quién.",
+      "Incentivos, voto, mayoría, banderas y fanatismo: examinar por qué el aparato sobrevive a sus ocupantes.",
+      "Alternativas y casos difíciles: concretar servicios y terminar con lo pendiente, sin concesión utilitarista de la tesis moral."
+    ],
+    "warning": "La política coyuntural es un apéndice verificable. Poner pronto una larga lista de escándalos puede convertir la obra en comentario de un gobierno antes de que el lector comprenda el argumento general."
+  },
+  "no_universal_rules": [
+    "No existe una cifra respaldada aquí de palabras ideal para todos los ensayos.",
+    "El vocabulario y la longitud de las frases son diagnósticos, no notas automáticas de calidad.",
+    "No hay evidencia consultada de que una misma plantilla en todos los capítulos aumente convicción.",
+    "Los consejos de autores y centros de escritura no son, por ello, experimentos causales."
+  ],
+  "validation": {
+    "before_publication": [
+      "Un esquema inverso por capítulo con función de cada párrafo.",
+      "Un mapa tema→capítulo para asegurar que el recorte no borra puntos solicitados.",
+      "Comprobar que cada transición apunta al capítulo que realmente sigue.",
+      "Leer aperturas, subtítulos y cierres de forma consecutiva para detectar monotonía.",
+      "Separar revisión de hechos de revisión del estilo; no simplificar estados judiciales hasta cambiar su significado."
+    ],
+    "after_publication": [
+      "Prueba con lectores reales nuevos al tema; pedir reconstrucción de tesis y mecanismo sin mostrar el texto.",
+      "Comprobar dónde se pierde el hilo y si sabe cómo continuar o retomar.",
+      "Interpretar resultados como observación de esa muestra, no validación universal."
+    ]
+  },
+  "limitations": [
+    "Solo se revisaron íntegramente cuatro ensayos para ejemplos de estilo; se inspeccionaron encabezados y cierres de una muestra adicional. La auditoría completa del PDF y la cobertura se delegó a otro bloque.",
+    "La consulta incluye artículos originales, guías públicas y recursos de autores; no se afirma lectura completa de los libros On Writing Well, The Sense of Style o Made to Stick.",
+    "El estudio de Lorch se consultó por su resumen académico institucional; se conservan sus límites y no se inventa tamaño muestral."
+  ]
+}

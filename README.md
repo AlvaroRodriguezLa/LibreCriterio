@@ -5,7 +5,7 @@ Publicación independiente sobre liberalismo, mercados y límites del poder, ada
 - Web pública: https://alvarorodriguezla.github.io/LibreCriterio/
 - Código: https://github.com/AlvaroRodriguezLa/LibreCriterio
 - Expediente con 17 casos documentados, seis contrastes de declaraciones y cronología de Ceuta.
-- 27 ensayos, 22 lecturas comentadas, 24 conceptos, cuatro rutas, cuatro modelos interactivos y una agenda de doce investigaciones.
+- 29 capítulos en cinco partes, 22 lecturas comentadas, 24 conceptos, cuatro modelos interactivos y una agenda de doce investigaciones.
 - Documento maestro: pptLIB.pdf, 75 páginas. Los Word son satélites; no se suben a Git ni a la web.
 
 ## Abrir el proyecto
@@ -30,7 +30,7 @@ En GitHub Pages no se ejecutan las API del Studio. La ruta /studio/ explica cóm
 
 ## Añadir y editar ensayos
 
-Los textos están en src/content/articles/*.md. Las portadas son SVG locales. La biblioteca, rutas, agenda y glosario se editan en src/data/.
+Los textos están en src/content/articles/*.md. Las portadas son SVG locales. La biblioteca, el orden del libro, la agenda y el glosario se editan en src/data/.
 
 Cada ensayo conserva masterPages, thesis, related, level y order. Al editar un artículo manualmente, mantén esos campos. La API remota preserva los campos de un artículo existente.
 
@@ -56,3 +56,12 @@ Fuente del alojamiento: [GitHub Pages](https://docs.github.com/en/pages/getting-
 - docs/ESTUDIO_EDITORIAL.md: análisis del maestro, satélites, mapa de artículos y correcciones.
 - docs/PUBLICACION.md: cómo trabajar con los bloques y el Studio.
 - docs/VERIFICACION.md: alcance de las comprobaciones y límites.
+
+## Libro web
+
+Una vida propia tiene un orden canónico en src/data/routes.json. El avance atraviesa las partes; chapter-bridges.json contiene el enlace narrativo entre capítulos. El lector ofrece tamaño, fuente, temas, concentración y posición local por sección. Las fuentes se despliegan al pie; su contenido se incluye al imprimir.
+
+- [Investigación de mercado, escritura y lectura](docs/INVESTIGACION_LECTURA.md).
+- [Auditoría de cobertura](docs/AUDITORIA_COBERTURA.md).
+
+Al añadir un capítulo al libro, incorpora su slug en routes.json y su transición en chapter-bridges.json, y ajusta la prueba de la edición si cambia el número previsto. La secuencia y el artículo se publican juntos para evitar capítulos sin lugar en el índice.

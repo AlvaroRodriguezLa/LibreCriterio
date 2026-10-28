@@ -7,7 +7,7 @@ image: "/images/un-derecho-no-es-un-proveedor.svg"
 imageAlt: "Ilustración conceptual: Un derecho no es un proveedor"
 category: "Instituciones"
 tags: ["Instituciones","libertad"]
-order: 11
+order: 22
 masterPages: "53–55"
 satellites: []
 thesis: "Las necesidades requieren cooperación y servicios concretos; no convierten a las personas en propiedad de una institución."
@@ -21,65 +21,63 @@ imageFit: "contain"
 
 ## Necesitar atención no obliga a pertenecer a una organización
 
-Una familia quiere que su hija aprenda. Un paciente necesita una intervención. Una persona amenazada quiere protección. En ninguno de esos casos el objetivo humano es mantener un organigrama: importa aprender, curarse o estar a salvo.
+Tu hija necesita aprender. Tú necesitas una operación. Un vecino necesita protección frente a una amenaza. Lo que buscáis es enseñanza, atención y seguridad; ninguno necesita sostener un organigrama por sí mismo.
 
-Sin embargo, la discusión suele dar un salto: como el servicio es importante, una organización debe tener la facultad de financiarlo obligatoriamente y decidir su forma para todos. La necesidad se presenta como una autorización que sus afectados no han dado.
+Sin embargo, la discusión suele dar un salto: como el servicio importa, una organización debe poder cobrarlo obligatoriamente y decidir su forma para todos. La necesidad del paciente o del alumno se convierte en una autorización que nadie ha dado.
 
-**La importancia de un servicio no concede la propiedad de quien podría prestarlo ni de quien tendrá que pagarlo.** Reconocer una necesidad invita a buscar cooperación. No transforma una finalidad ajena en una obligación aceptada.
+**Necesitar un servicio no convierte a nadie en propietario de quien lo presta ni de quien habrá de pagarlo.** Podemos pedir colaboración, ofrecer recursos y organizar ayuda. No podemos disponer de la vida o del trabajo ajenos porque nuestro objetivo sea valioso.
 
 ## El derecho y el medio no son la misma cosa
 
-Que una persona merezca ser atendida no demuestra que un proveedor concreto deba conservar usuarios cautivos. La calidad de sus profesionales tampoco convierte su forma de financiación en voluntaria.
+Que alguien necesite atención no obliga a conservar usuarios cautivos. Tampoco la calidad de los profesionales convierte una financiación impuesta en un acuerdo.
 
-Podemos reconocer una atención excelente y rechazar que se impida elegir otra. Podemos querer ayuda para alguien y ofrecer recursos propios o pedir colaboraciones sin atribuirnos una facultad general sobre las aportaciones de quienes no aceptan.
+Puedes reconocer que un centro te ha tratado bien y querer otro. Puedes ayudar a una familia y pedir aportaciones sin atribuirte el derecho a exigirlas a quienes no aceptan.
 
-La objeción de principio no consiste en prometer que todas las empresas serán mejores. Consiste en negar que una utilidad real produzca el consentimiento que falta. Los resultados importan para elegir entre servicios; no fabrican el derecho a imponer esa elección a los demás.
+Un servicio útil sigue sin producir el consentimiento que falta. Los resultados ayudan a decidir qué contratar; no dan derecho a imponer esa decisión a los demás. Rechazar la imposición tampoco exige prometer que toda empresa privada será mejor.
 
 ## Quién paga, quién presta y quién responde
 
-Una mutualidad puede reunir cuotas, un centro puede atender y un tercero puede verificar el cumplimiento de lo prometido. No hace falta que las tres funciones pertenezcan a la misma organización.
+Una mutualidad puede reunir cuotas, un centro prestar atención y un tercero verificar que se cumple lo prometido. Las tres funciones no tienen que pertenecer a una sola organización.
 
-Separarlas abre posibilidades de elección y de control. El financiador puede comparar proveedores. El usuario puede reclamar por una cobertura incumplida. Una certificación puede perder valor si encubre daños. La competencia necesita que los errores tengan consecuencias para quienes los producen.
+El financiador puede comparar proveedores; el usuario, reclamar por una cobertura incumplida. Quien certifica pierde confianza si encubre daños. La competencia exige que los errores tengan consecuencias para sus responsables.
 
-Nada de eso funciona por pronunciar privado. Una empresa que recibe clientes obligatorios, impide la entrada de rivales o traslada sus pérdidas a contribuyentes ajenos conserva privilegios incompatibles con un acuerdo libre.
-
+La palabra privado no garantiza nada de eso. Una empresa con clientes obligatorios, barreras contra sus rivales o pérdidas cargadas a contribuyentes ajenos conserva privilegios incompatibles con un acuerdo libre.
 
 ```oneshot
 {"type":"concept-flow","title":"Un servicio no tiene por qué absorber todas las decisiones","steps":[{"title":"Acordar aportaciones","text":"Cuotas, primas, donaciones o pagos aceptados."},{"title":"Elegir atención","text":"Proveedores distintos ofrecen servicios concretos."},{"title":"Verificar","text":"Información, auditoría y responsabilidad por lo prometido."},{"title":"Cambiar","text":"Se puede reclamar, salir y apoyar otra alternativa."}],"note":"Esquema conceptual de una propuesta, no una estimación de resultados."}
 ```
 
+## Elegir tiene que cambiar algo
 
-## La posibilidad de elegir tiene que existir
+No basta con marcar una casilla si todas llevan al mismo servicio. Tampoco si debes seguir pagando obligatoriamente al proveedor que abandonas. Salir tiene que modificar la relación.
 
-Un formulario con varias casillas no basta si todas conducen al mismo servicio o si cambiar implica seguir financiando obligatoriamente el que se abandona. La salida debe tener efectos sobre la relación, no ser solo una preferencia declarada.
+La distancia, el precio, la falta de información o de plazas también pueden dejarte sin alternativas. Abrir la entrada permite que aparezcan proyectos donde el proveedor instalado no responde. Tener permiso para elegir sirve de poco cuando no hay otra puerta.
 
-También hacen falta alternativas accesibles. La distancia, la información, el coste y las plazas disponibles pueden cerrar opciones. Abrir la entrada a nuevos proyectos permite responder a necesidades que el proveedor instalado no ha atendido.
-
-La libertad no garantiza un menú infinito ni elimina la escasez. Permite que quienes conocen un problema intenten resolverlo sin necesitar antes la aprobación de una autoridad que decide la misma respuesta para todos.
+La libertad no elimina la escasez ni asegura una oferta infinita. Permite que quienes conocen una necesidad intenten atenderla sin someter cada solución a una autoridad que impone la misma respuesta para todos.
 
 ## La persona a la que le falta dinero
 
-Una familia sin recursos necesita algo más que la frase puede elegir. La cooperación debe ofrecer apoyos concretos: becas, seguros, mutualidades, fondos de ayuda y asociaciones capaces de mantener compromisos.
+Decirle a una familia sin recursos que puede elegir no paga su atención. Necesita apoyos concretos: becas, seguros, mutualidades, fondos de ayuda o asociaciones que mantengan sus compromisos.
 
-Hay necesidades que aparecen antes de contratar un seguro y daños que superan la capacidad de una red pequeña. Hace falta coordinarlas, diversificar riesgos y describir quién responderá. La ayuda voluntaria no se vuelve suficiente por definición; tiene que construirse.
+Algunas necesidades aparecen antes de contratar un seguro. Algunos daños desbordan a una red pequeña. Los fondos tendrían que coordinarse, diversificar riesgos y establecer quién responde en cada caso. La ayuda voluntaria necesita recursos y organización; no se vuelve suficiente por llevar ese nombre.
 
-Tampoco una promesa política garantiza por sí sola atención real. Ambas afirmaciones pueden someterse a examen sin conceder que un problema de cobertura autorice a disponer de personas pacíficas. La ausencia de una solución perfecta no entrega el trabajo ajeno a quien prometa tenerla.
+Una promesa política tampoco garantiza atención efectiva. Hay que examinar la cobertura real de cada propuesta sin convertir sus carencias en un permiso para disponer de personas pacíficas. No tener una solución perfecta no entrega el trabajo ajeno a quien prometa tenerla.
 
-## Tres ámbitos para hacer concreta la propuesta
+## Cómo hacer concreta la propuesta
 
-En [sanidad](../cuidar-sin-pedir-permiso-al-monopolio/), la elección requiere información, seguros, continuidad y centros capaces de competir atendiendo mejor. El predominio de proveedores privados de Corea del Sur permite separar prestación y aseguramiento, sin confundir su seguro público obligatorio con un modelo voluntario.
+En [sanidad](../cuidar-sin-pedir-permiso-al-monopolio/), elegir exige información, seguros, continuidad y centros capaces de competir atendiendo mejor. Corea del Sur muestra una amplia prestación privada, pero mantiene un seguro público obligatorio. Separar ambas funciones no convierte automáticamente su financiación en voluntaria.
 
-En [educación](../aprender-sin-una-leccion-unica/), la diversidad permite a familias y alumnos buscar proyectos distintos. También exige abrir la entrada a métodos, centros y acreditaciones que no dependan de imitar un único formato.
+En [educación](../aprender-sin-una-leccion-unica/), abrir la entrada a métodos, centros y acreditaciones diferentes permitiría que familias y alumnos buscaran proyectos propios. La alternativa no puede depender de copiar un único formato.
 
-En [seguridad y justicia](../un-arbitro-no-necesita-ser-un-soberano/), proteger, arbitrar y reparar pueden organizarse como funciones separadas. Dos equipos pueden elegir a un árbitro sin entregarle el resto de sus vidas. Los conflictos con agresores y terceros requieren procedimientos adicionales, no un consentimiento ficticio.
+En [seguridad y justicia](../un-arbitro-no-necesita-ser-un-soberano/), proteger, arbitrar y reparar podrían encargarse a entidades distintas. Los conflictos con agresores y terceros necesitan procedimientos que protejan también a quien no contrató. No pueden resolverse inventándole un consentimiento.
 
 ## La finalidad sigue perteneciendo a las personas
 
-Un proveedor existe para servir una necesidad, no para adquirir a quienes la tienen. Una ayuda existe para ampliar posibilidades, no para convertir la dependencia en una prueba de que su administrador merece más poder.
+Un proveedor debe atender una necesidad, no adquirir a quienes la tienen. Una ayuda debe abrir posibilidades, no convertir la dependencia en un argumento para dar más poder a su administrador.
 
-Una organización puede ser útil, compleja y duradera sin tener facultades ilimitadas. Los acuerdos permiten repartir tareas y compromisos manteniendo un límite: ninguna persona pasa a ser material del proyecto porque el proyecto tenga un nombre noble.
+Podemos construir organizaciones complejas y duraderas mediante acuerdos. El límite sigue siendo el mismo: ninguna persona se vuelve material de un proyecto porque este lleve un nombre noble.
 
-La libertad exige imaginar instituciones que sirvan sin apropiarse. Esa es la tarea de las alternativas: que aprender, curarse y protegerse no signifique entregar la facultad de decidir sobre todo lo demás.
+Aprender, curarte o protegerte no debe costarte la facultad de decidir sobre el resto de tu vida.
 
 ## Lecturas y fuentes
 

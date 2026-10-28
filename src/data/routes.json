@@ -1,57 +1,71 @@
 [
   {
-    "title": "La intuición de la libertad",
-    "lead": "Empieza por autonomía, límites y desacuerdo. No requiere formación económica.",
+    "id": "01",
+    "title": "Tu vida y sus límites",
+    "lead": "Elegir, disponer de lo propio y convivir con quien discrepa.",
+    "opening": "Antes de decidir qué debería hacer una institución, hay una cuestión anterior: qué parte de tu vida puede reclamar otra persona. Empezamos por la libertad, la propiedad y el consentimiento.",
     "slugs": [
       "tu-vida-no-es-un-proyecto-del-poder",
+      "la-puerta-que-puedes-cerrar",
       "un-contrato-que-nadie-puede-rechazar",
-      "la-mayoria-no-lo-puede-todo",
-      "no-votar-tambien-es-una-decision",
-      "el-poder-no-cambia-al-cambiar-de-bandera",
-      "el-cargo-no-convierte-a-nadie-en-sagrado",
-      "cuando-el-partido-sustituye-a-la-conciencia"
-    ],
-    "id": "01"
+      "la-mayoria-no-lo-puede-todo"
+    ]
   },
   {
-    "title": "Cómo coordina una sociedad",
-    "lead": "Precios, información, inversión y el coste de impedir nuevos ensayos.",
+    "id": "02",
+    "title": "Cooperar sin un director",
+    "lead": "Cómo se encuentran los planes de personas que quieren cosas distintas.",
+    "opening": "Respetar vidas distintas deja una tarea: coordinar lo que cada cual sabe y necesita. Los precios, el ahorro y la posibilidad de ensayar hacen posible una cooperación que nadie tiene que dirigir entera.",
     "slugs": [
       "el-conocimiento-no-cabe-en-un-despacho",
       "sin-precios-no-hay-brujula",
       "el-capital-que-no-llega-a-nacer",
       "el-permiso-de-quien-ya-ha-entrado",
       "inflacion-el-reloj-del-ahorro"
-    ],
-    "id": "02"
+    ]
   },
   {
-    "title": "Seguir el recorrido del dinero",
-    "lead": "De la nómina a las prestaciones, con supuestos y bases de cálculo visibles.",
+    "id": "03",
+    "title": "Lo que el poder premia",
+    "lead": "Incentivos, lealtades y facultades que sobreviven a sus ocupantes.",
+    "opening": "Coordinar no es lo mismo que mandar. Ahora miramos qué cambia cuando una organización puede exigir recursos y obediencia, qué conductas premia y por qué sustituir a sus responsables puede dejar intacto el problema.",
+    "slugs": [
+      "la-politica-tambien-tiene-incentivos",
+      "el-cargo-no-convierte-a-nadie-en-sagrado",
+      "el-poder-no-cambia-al-cambiar-de-bandera",
+      "cuando-el-partido-sustituye-a-la-conciencia",
+      "el-estado-siempre-encuentra-un-culpable",
+      "lo-provisional-que-se-queda",
+      "quien-puede-perdonar-a-sus-aliados",
+      "no-votar-tambien-es-una-decision"
+    ]
+  },
+  {
+    "id": "04",
+    "title": "El precio de la tutela",
+    "lead": "De la nómina al reparto y de la promesa al patrimonio.",
+    "opening": "El poder necesita recursos. Seguimos su recorrido desde el trabajo y el ahorro hasta las prestaciones, para distinguir una ayuda, una obligación y una promesa sobre el futuro.",
     "slugs": [
       "la-nomina-que-no-ves",
       "redistribuir-no-es-solo-repartir",
       "pensiones-el-puente-entre-generaciones",
-      "una-promesa-no-es-un-patrimonio",
-      "la-politica-tambien-tiene-incentivos",
-      "el-estado-siempre-encuentra-un-culpable",
-      "quien-puede-perdonar-a-sus-aliados"
-    ],
-    "id": "03"
+      "una-promesa-no-es-un-patrimonio"
+    ]
   },
   {
-    "title": "Probar las alternativas",
-    "lead": "Servicios, cooperación y casos difíciles. Termina poniendo a prueba el argumento.",
+    "id": "05",
+    "title": "Hacer sitio a las alternativas",
+    "lead": "Cuidar, enseñar, proteger y resolver conflictos mediante acuerdos.",
+    "opening": "La crítica deja una tarea práctica: organizar servicios sin convertir a quien los necesita en una clientela cautiva. Empezamos por funciones concretas y terminamos con los casos que ponen a prueba cualquier propuesta.",
     "slugs": [
       "un-derecho-no-es-un-proveedor",
       "cuidar-sin-pedir-permiso-al-monopolio",
       "aprender-sin-una-leccion-unica",
       "un-arbitro-no-necesita-ser-un-soberano",
-      "muchos-centros-mejores-salidas",
       "cooperar-sin-un-director-unico",
+      "muchos-centros-mejores-salidas",
       "el-precio-del-alquiler-y-la-puerta-de-entrada",
       "las-objeciones-que-hay-que-responder"
-    ],
-    "id": "04"
+    ]
   }
 ]
