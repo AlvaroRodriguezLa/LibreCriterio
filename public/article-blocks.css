@@ -145,3 +145,6 @@
 }
 .player-asset-row { overflow-wrap: anywhere; }
 @media (max-width: 600px) { .player-asset-row { align-items: flex-start; flex-direction: column; } .player-asset-actions { width: 100%; } }
+
+/* Shared concept diagrams: publication and Studio preview. */
+.concept-flow{margin:2rem 0;padding:1.5rem;background:#dce0d5;font:13px/1.6 Arial,Helvetica,sans-serif}.concept-flow figcaption{font-size:11px;text-transform:uppercase;letter-spacing:.08em;margin-bottom:24px;color:#862d26}.concept-flow ol{list-style:none;margin:0;padding:0;display:flex;gap:28px}.concept-flow li{flex:1;position:relative;padding-top:14px;border-top:2px solid #242a26;min-width:0}.concept-flow li:not(:last-child):after{content:"→";position:absolute;right:-21px;top:12px}.concept-flow strong{display:block;font-size:14px;line-height:1.4;margin-bottom:7px}.concept-flow span{font-size:11px;color:#64685f;display:block}.concept-flow>p{font-size:11px;margin:20px 0 0}@media(max-width:450px){.concept-flow ol{flex-direction:column;gap:24px}.concept-flow li:not(:last-child):after{content:"↓";left:0;right:auto;top:auto;bottom:-24px}}
