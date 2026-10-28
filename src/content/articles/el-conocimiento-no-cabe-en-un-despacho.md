@@ -2,11 +2,11 @@
 title: "El conocimiento no cabe en un despacho"
 slug: "el-conocimiento-no-cabe-en-un-despacho"
 date: "2026-10-28"
-excerpt: "Los precios permiten que personas que nunca se conocerán ajusten sus planes. La intuición de Hayek es una defensa de la coordinación y una lección de modestia."
+excerpt: "Personas que nunca se conocerán pueden ajustar sus planes. Para cooperar no hace falta que una sola mente reúna todo lo que saben."
 image: "/images/el-conocimiento-no-cabe-en-un-despacho.svg"
 imageAlt: "Ilustración conceptual: El conocimiento no cabe en un despacho"
 category: "Mercados"
-tags: ["Mercados","Hayek"]
+tags: ["Mercados","conocimiento"]
 order: 2
 masterPages: "14–17, 19"
 satellites: ["el documento sobre conocimiento y cálculo"]
@@ -25,7 +25,7 @@ A las seis de la mañana, una panadera descubre que el barrio ha cambiado. Hay o
 
 Multiplica la escena por una lonja, una clínica, un taller y una empresa de software. La información económica vive en millones de encuentros con situaciones concretas. **Una parte puede registrarse; otra se descubre mientras se actúa.** El mapa resulta útil, pero nunca contiene toda la ciudad.
 
-El capítulo hayekiano del documento maestro parte de esa distancia. La dificultad de coordinar una economía no se reduce a repartir un inventario conocido. Hay que emplear conocimiento fragmentado y cambiante sin que nadie lo posea en su totalidad.
+La dificultad de coordinar una economía no se reduce a repartir un inventario conocido. Hay que relacionar conocimientos fragmentados y cambiantes que ninguna persona posee en su totalidad. La vida sigue ocurriendo mientras el despacho intenta describirla.
 
 ## El precio como aviso comprimido
 
@@ -49,7 +49,7 @@ Por eso la defensa liberal de los precios necesita una defensa igualmente seria 
 
 ## La inteligencia artificial mejora el mapa
 
-Un sistema informático puede anticipar demanda, descubrir patrones y reducir desperdicios. La objeción tecnológica merece atención: nuevas herramientas cambian qué decisiones pueden centralizarse con éxito. Sería absurdo sostener que una empresa debe renunciar a planificar su logística porque Hayek habló del conocimiento disperso.
+Un sistema informático puede anticipar demanda, descubrir patrones y reducir desperdicios. La objeción tecnológica merece atención: nuevas herramientas cambian qué decisiones pueden centralizarse con éxito. Una empresa puede planificar su logística y seguir necesitando los conocimientos, las decisiones y las señales que llegan de fuera de ella.
 
 El límite relevante aparece en otro sitio. Predecir comportamientos con datos existentes no equivale a determinar qué fines deberían perseguir todas las personas, qué innovaciones surgirán si cambia una regla o quién debe asumir el riesgo de una decisión. La capacidad de cálculo y el derecho a decidir son cuestiones diferentes.
 
@@ -69,7 +69,6 @@ La mejor imagen no es una sociedad sin planos. Es una ciudad donde el plano se c
 
 ## Lecturas y fuentes
 
-- Documento maestro: *pptLIB*, capítulos 5 y 6; refuerzo: el documento sobre conocimiento y cálculo.
 - [F. A. Hayek, The Use of Knowledge in Society (1945)](https://www.econlib.org/library/Essays/hykKnw.html).
 - [Leonard E. Read, I, Pencil (1958)](https://www.econlib.org/library/Essays/rdPncl.html), una metáfora clásica de cooperación entre desconocidos.
 - Ronald Coase, *The Nature of the Firm* (1937), contrapunto sobre por qué surgen organizaciones dentro del mercado.

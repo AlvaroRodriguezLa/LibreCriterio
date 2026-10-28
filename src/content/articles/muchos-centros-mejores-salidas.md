@@ -51,7 +51,7 @@ Vivienda, empleo, idioma, vínculos familiares y cuidados introducen costes de s
 
 ## Lo pequeño no es una fórmula de prosperidad
 
-El maestro menciona economías pequeñas y abiertas. Esos casos sirven para formular preguntas; no bastan para demostrar que reducir tamaño causa riqueza. Especialización, geografía, población, historia y acceso a mercados alteran las comparaciones.
+Las economías pequeñas y abiertas invitan a examinar la relación entre escala, salida y prosperidad. No basta con observar su tamaño: especialización, geografía, historia y acceso a mercados también influyen.
 
 Una ciudad financiera no puede tratarse como un país grande sin ajustar qué produce, quién reside en ella y qué servicios comparte con otros territorios. Tampoco un índice de libertad económica mide automáticamente todas las libertades civiles o políticas.
 
@@ -73,7 +73,6 @@ La promesa es modesta y valiosa: equivocarse con un alcance menor, corregirse an
 
 ## Lecturas y fuentes
 
-- Documento maestro: *pptLIB*, capítulos 7 y 8.
 - Ilya Somin, *Free to Move: Foot Voting, Migration, and Political Freedom* (2020).
 - Charles Tiebout, *A Pure Theory of Local Expenditures* (1956), modelo con supuestos exigentes sobre movilidad e información.
 - [Elinor Ostrom, Beyond Markets and States (2010)](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641), sobre gobernanza policéntrica.

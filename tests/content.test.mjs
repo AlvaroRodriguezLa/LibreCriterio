@@ -12,4 +12,5 @@ for(const {data,body} of entries){for(const slug of data.related||[])assert.ok(s
 const routes=JSON.parse(await readFile('src/data/routes.json','utf8'));for(const route of routes)for(const slug of route.slugs)assert.ok(slugs.has(slug),'Ruta inexistente '+slug);
 assert.ok(entries.some(e=>e.data.featured));
 assert.ok(Math.abs(58.6/1.21-48.429752)<.00001);assert.ok(Math.abs(100/1.03**10-74.409391)<.00001);
-console.log('Contenido: 17 ensayos, fuentes, portadas, rutas y relaciones coherentes');
+for(const {body} of entries){assert.doesNotMatch(body,/documento maestro|pptLIB|el maestro|texto satélite/i,'Referencia de trabajo expuesta');assert.ok(body.includes('## Lecturas y fuentes'),'Ensayo sin fuentes');assert.ok(body.split(/\s+/).length>500,'Ensayo demasiado breve');}
+console.log('Contenido: '+entries.length+' ensayos, fuentes, portadas, rutas y relaciones coherentes');

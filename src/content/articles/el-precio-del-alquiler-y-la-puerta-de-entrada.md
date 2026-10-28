@@ -25,7 +25,7 @@ Una ciudad tiene pocas viviendas disponibles donde muchas personas quieren vivir
 
 La intuición liberal mira la oferta y los incentivos para conservarla, ampliarla o retirarla. **El mismo cambio puede beneficiar a residentes protegidos y perjudicar a nuevos entrantes.** Para evaluarlo hay que seguir ambos recorridos y distinguir plazos.
 
-El maestro deja el capítulo sobre vivienda apenas enunciado. Este ensayo desarrolla la pregunta, incorporando evidencia externa sin convertir resultados de otra ciudad en una predicción automática para España.
+El acceso a la vivienda exige mirar lo que ocurre dentro y fuera del contrato: oferta, reglas, protección y posibilidades de construir. La evidencia de otra ciudad puede iluminar un mecanismo sin convertirse en una predicción automática para España.
 
 ## Dos efectos pueden coexistir
 
@@ -79,5 +79,4 @@ El derecho a buscar una vida en la ciudad no debería quedar dividido entre quie
 ```
 
 
-- Documento maestro: *pptLIB*, capítulos 21–23. El capítulo 22 sirve como pregunta de partida y se amplía aquí.
 - No se formula asesoramiento jurídico sobre contratos ni se describe como vigente una regulación local sin verificar.

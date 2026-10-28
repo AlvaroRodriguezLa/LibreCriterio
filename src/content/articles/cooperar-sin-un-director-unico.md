@@ -2,7 +2,7 @@
 title: "Cooperar sin un director único"
 slug: "cooperar-sin-un-director-unico"
 date: "2026-10-28"
-excerpt: "Entre el individuo aislado y el monopolio estatal hay asociaciones, mutualidades, cooperativas y reglas compartidas. Ostrom amplía el mapa de las alternativas."
+excerpt: "Entre el individuo aislado y el monopolio estatal hay asociaciones, mutualidades y cooperativas: personas que se dan reglas para cuidar algo juntas."
 image: "/images/cooperar-sin-un-director-unico.svg"
 imageAlt: "Ilustración conceptual: Cooperar sin un director único"
 category: "Instituciones"
@@ -25,7 +25,7 @@ Un grupo de vecinos comparte una acequia. Cada uno podría intentar sacar toda e
 
 La escena no prueba que todo recurso común pueda autogestionarse. Ilustra una posibilidad que la oposición entre privatización individual y administración central puede ocultar: **las personas también crean instituciones compartidas.**
 
-El documento maestro menciona mutualismo, asociaciones y provisión plural. Añadir a Elinor Ostrom permite profundizar esa vía sin convertirla en un simple ejemplo retórico de anarcocapitalismo. Su investigación obliga a mirar arreglos concretos y sus condiciones de funcionamiento.
+Una sociedad no tiene que elegir entre personas aisladas y un director único. Puede organizar ayuda, seguros y recursos compartidos mediante acuerdos cuyos participantes conocen, revisan y sostienen. La cuestión es cómo funciona cada acuerdo y qué opciones conserva quien participa.
 
 ## La sociedad civil no es un residuo
 
@@ -39,7 +39,7 @@ Eso exige proteger también a la persona dentro del grupo. Una asociación volun
 
 La cooperación necesita saber quién participa, qué se comparte y cómo se responden incumplimientos. La confianza ayuda, pero no sustituye siempre supervisión, sanciones proporcionadas y resolución de conflictos.
 
-Ostrom estudia formas de gobernanza policéntrica que desbordan el dilema de una autoridad única frente a ausencia de reglas. La lección metodológica es comparar instituciones con atención a su escala, a los incentivos y al conocimiento de quienes usan los recursos.
+Muchas comunidades han aprendido a cuidar recursos sin entregarlos a una autoridad única ni dejarlos sin reglas. El tamaño del grupo, la vigilancia y el conocimiento de quienes usan esos recursos importan más que una etiqueta general.
 
 No se deduce que toda comunidad vaya a cooperar ni que nunca haga falta una autoridad pública. Se deduce que esos extremos no deberían cerrarse antes de observar cómo se organizan las personas.
 
@@ -73,7 +73,6 @@ Una sociedad libre puede tener mucha vida en común. Lo que debe justificar es c
 
 ## Lecturas y fuentes
 
-- Documento maestro: *pptLIB*, capítulo 17.1; refuerzo: *Reconstrucción fuerte del argumento liberal y antiestatista*.
 - [Elinor Ostrom, Beyond Markets and States: Polycentric Governance of Complex Economic Systems (2010)](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641).
 - David T. Beito, *From Mutual Aid to the Welfare State* (2000), para la historia de sociedades fraternales estadounidenses.
 - La ampliación con Ostrom aporta un interlocutor institucional; no se la presenta como defensora de la abolición de todo Estado.

@@ -2,7 +2,7 @@
 title: "La mayoría no lo puede todo"
 slug: "la-mayoria-no-lo-puede-todo"
 date: "2026-10-28"
-excerpt: "Una votación permite tomar decisiones comunes. La libertad exige preguntar también qué cuestiones deberían quedar fuera de la votación."
+excerpt: "Ganar una votación no concede la propiedad de la vida del que la pierde. Una reflexión sobre mayorías ajustadas, obediencia de partido y representación."
 image: "/images/la-mayoria-no-lo-puede-todo.svg"
 imageAlt: "Ilustración conceptual: La mayoría no lo puede todo"
 category: "Poder"
@@ -10,7 +10,7 @@ tags: ["Poder","libertad"]
 order: 5
 masterPages: "34–44"
 satellites: ["la crítica de la democracia y del poder político"]
-thesis: "La legitimidad de un procedimiento no elimina los límites de lo que puede decidir."
+thesis: "El número de apoyos no transforma una imposición sobre personas pacíficas en un acuerdo voluntario."
 related: ["tu-vida-no-es-un-proyecto-del-poder","muchos-centros-mejores-salidas","un-contrato-que-nadie-puede-rechazar"]
 level: "Intermedio"
 featured: false
@@ -19,64 +19,62 @@ draft: false
 imageFit: "contain"
 ---
 
-## La llave que no abre todas las puertas
+## Un recuento no fabrica derechos
 
-Una comunidad necesita decidir cuándo reparar el tejado. Votar puede ser una solución razonable. Si esa misma comunidad pretende decidir qué libros puede leer cada vecino, el número de votos no basta para justificar la intromisión.
+Si tres vecinos deciden apropiarse del sueldo de un cuarto, el tres a uno describe su fuerza numérica. No demuestra que tengan derecho a hacerlo. Si ninguno poseía individualmente la vida o el trabajo del otro, reunir sus preferencias no crea esa propiedad.
 
-La distinción entre procedimiento y ámbito es central. Una mayoría puede tener autoridad para resolver ciertos asuntos y carecer de ella para otros. **Contar apoyos no convierte cualquier objeto de decisión en legítimo.** El constitucionalismo liberal intenta expresar esa idea mediante derechos y límites previos al poder.
+**La mayoría no convierte a una persona en instrumento de las demás.** Esa es la objeción moral a su dictadura: permitir que el número sustituya al consentimiento donde están en juego vidas que no pertenecen al grupo.
 
-Esta crítica no obliga a preferir una dictadura. Quien limita la mayoría puede defender con fuerza elecciones, alternancia y garantías. También debe recordar que una autoridad no electa puede concentrar más poder y ofrecer menos posibilidades de corrección.
+Votar puede servir para elegir el horario de una asociación cuyos miembros aceptaron decidirlo así. No significa que cualquier asunto pueda someterse al mismo procedimiento. Elegir entre opciones dentro de un acuerdo y decidir sobre personas que no lo han aceptado son actos distintos.
 
-## Cuando las preferencias forman un círculo
+## La crueldad de poder decidirlo todo
 
-Consideremos tres personas y tres proyectos. Ana prefiere A a B y B a C. Bruno prefiere B a C y C a A. Clara prefiere C a A y A a B. Cada uno ordena sus opciones de manera coherente.
+Imagina que tu religión, tu trabajo, tus ahorros o la educación de tus hijos dependieran de ganar una votación. Cada derrota podría convertirse en una invasión de tu vida. La preocupación ya no sería encontrar con quién colaborar, sino impedir que otros ocupasen la palanca que permite obligarte.
 
-| Persona | Primera opción | Segunda opción | Tercera opción |
-| --- | --- | --- | --- |
-| Ana | A | B | C |
-| Bruno | B | C | A |
-| Clara | C | A | B |
+Ese es el daño moral del poder sin límites: transforma diferencias entre personas en una lucha por quién podrá imponerlas. La pluralidad deja de ser una posibilidad de convivencia y se vuelve una amenaza. No basta con decir al perdedor que tendrá otra oportunidad dentro de unos años; la vida intervenida transcurre mientras espera.
 
-Si se vota por parejas, A gana a B por dos votos contra uno; B gana a C por el mismo margen; y C gana a A. Aparece un ciclo. Cambiar el orden de las comparaciones puede cambiar qué proyecto termina imponiéndose.
+Una minoría no tiene menos dignidad por ser minoría. Tampoco se vuelve aceptable la imposición cuando quienes la sufren caen por debajo de la mitad. La persona que discrepa sigue siendo alguien, aunque sea la única.
 
-El ejemplo de Condorcet muestra un resultado posible, no el funcionamiento de toda elección. Arrow estudia una imposibilidad más general bajo condiciones específicas de agregación de preferencias ordinales. Su teorema no demuestra que todo sistema democrático sea absurdo ni que todos los métodos sean equivalentes.
+## Un país partido casi por la mitad
 
-## La agenda también decide
+Pensemos en una elección hipotética con dos opciones: 51 % y 49 % de los votos. La diferencia basta para decidir quién gana bajo determinadas reglas. No permite afirmar que la población tenga un único proyecto ni que el 49 % haya consentido el programa vencedor.
 
-Si el resultado depende de qué opciones se presentan y en qué orden, el poder de formular la pregunta importa. La llamada voluntad popular no siempre espera intacta dentro de una urna. En parte se construye mediante distritos, candidaturas, reglas, umbrales y decisiones sobre la agenda.
+Además, votos emitidos, electores y habitantes no son la misma población. Hay abstenciones, menores y personas sin derecho a participar. Las coaliciones, las circunscripciones y el reparto de escaños introducen otras diferencias. Una mayoría parlamentaria no equivale necesariamente a una mayoría de votos, y menos aún a la aceptación de todos los afectados.
 
-Eso no invalida las elecciones. Obliga a evaluarlas como instituciones que permiten algunas cosas y dificultan otras. Un sistema puede favorecer proporcionalidad; otro, claridad para atribuir responsabilidades. Esos objetivos no coinciden necesariamente.
+La aritmética importa porque deshace una ficción: quien gobierna no se convierte en la voz de una persona colectiva llamada país. Hay millones de vidas distintas al otro lado del resultado. Cuanto más se permite decidir al vencedor, más cosas se obliga a perder a quienes no lo eligieron.
 
 
 ```oneshot
-{"type":"concept-flow","title":"Del voto al poder","steps":[{"title":"Preferencias","text":"Personas distintas quieren cosas distintas."},{"title":"Reglas","text":"Se decide qué se vota y cómo se agrega."},{"title":"Límites","text":"Los derechos restringen qué puede imponerse."}],"note":"Esquema conceptual: las flechas describen un mecanismo, no una prueba causal universal."}
+{"type":"concept-flow","title":"Lo que el recuento no puede sustituir","steps":[{"title":"Contar","text":"Se mide el apoyo a unas opciones."},{"title":"Ganar","text":"Unas reglas convierten apoyos en cargos o decisiones."},{"title":"Encontrar un límite","text":"La victoria no concede la propiedad de las vidas ajenas."}],"note":"Esquema del argumento; no representa una estimación estadística."}
 ```
 
 
-## Saber cuesta, influir poco también importa
+## Muchos escaños, pocas voluntades
 
-El documento maestro incorpora la ignorancia racional de Downs y las críticas de Caplan y Somin. En elecciones masivas, informarse a fondo puede exigir mucho tiempo mientras la probabilidad de que un voto cambie el resultado es muy pequeña. Eso ayuda a explicar por qué personas capaces saben relativamente poco sobre políticas complejas.
+La promesa de la representación es que numerosas personas deliberarán, examinarán leyes y controlarán al gobierno. Pero si cada grupo vota sistemáticamente lo que ordena su dirección, aparece una pregunta incómoda: ¿cuánto juicio independiente queda detrás de tantos asientos?
 
-No equivale a afirmar que los ciudadanos carecen de razones ni a entregar el mando a expertos. Los expertos también tienen intereses, errores y desacuerdos. Además, la gente utiliza información indirecta y puede votar por valores que no se reducen a una predicción económica.
+Cuando el futuro de un diputado depende de volver a una lista, recibir responsabilidades o conservar el respaldo del aparato, discrepar puede tener un coste de carrera. La posibilidad de sanciones internas, aislamiento o expulsión convierte la conciencia individual en una opción cara. No hace falta que exista una orden jurídicamente vinculante para que la obediencia resulte decisiva.
 
-La pregunta liberal es comparativa: qué decisiones conviene agregar, cuáles pueden descentralizarse y qué controles limitan el daño de errores compartidos. La respuesta no debe exigir omnisciencia al votante y concedérsela después al gobernante.
+En España la Constitución prohíbe el mandato imperativo de los parlamentarios. Eso no elimina por sí solo los incentivos de la disciplina de partido. Conviene distinguir la libertad jurídica del escaño de la dependencia política de quien lo ocupa.
 
-## Representación y dependencia del partido
+Si el resultado de una votación puede anticiparse leyendo la posición de unas pocas direcciones, la cantidad de manos levantadas no demuestra una deliberación equivalente. Los escaños tienen también tareas de comisión, control y representación territorial; su utilidad exige ejercerlas, no limitarse a multiplicar una orden. **La pregunta no es únicamente cuánto cuestan, sino a quién están respondiendo.**
 
-Un diputado puede deber su posición a los electores, al aparato que compone la candidatura y al grupo que asigna responsabilidades. Esa cadena introduce tensiones que no desaparecen con el recuento electoral. La disciplina puede facilitar programas coherentes; también puede debilitar deliberación y control.
+## El paquete que nadie ha elegido entero
 
-Una crítica rigurosa distingue ese problema de los mandatos jurídicos concretos de cada sistema. No hace falta afirmar que un representante es literalmente un empleado del partido para examinar qué incentivos tiene cuando su carrera depende de él.
+Una papeleta agrupa decisiones sobre vivienda, moneda, impuestos, sanidad, guerra o educación. Puedes compartir una propuesta y rechazar otras cinco. Aun así, cuando el partido gana suele presentar el conjunto como un mandato recibido.
 
-## Una regla que aceptarías perder
+La selección entre paquetes disponibles no expresa una aprobación individual de cada medida. Mucho menos la de quien votó para impedir una opción que consideraba peor. Convertir ese acto defensivo en autorización general ensancha el poder mediante una interpretación interesada del consentimiento.
 
-Una prueba útil consiste en imaginar al adversario aplicando mañana la facultad que hoy deseas para tu bloque. Si la sola idea resulta insoportable, quizá la protección adecuada sea limitar la facultad antes que confiar en ocuparla siempre.
+El desacuerdo necesita salidas que no obliguen a conquistar el gobierno. Elegir proveedores, asociarse, sostener proyectos propios y rechazar colaboraciones permite convivir con diferencias sin resolverlas todas mediante una orden.
 
-La democracia permite disputar el gobierno sin convertir cada sucesión en una guerra. La libertad añade una exigencia distinta: conservar espacios donde la derrota electoral no implique que otra persona pueda rehacer tu vida.
+## Una vida que no se pierde en las urnas
+
+La crítica a la dictadura de la mayoría no concede ningún derecho a una minoría para mandar todavía más. El problema está en la facultad de disponer de personas pacíficas, sea uno, un comité o una multitud quien la ejerza.
+
+La libertad requiere conservar decisiones que no dependan de vencer al vecino. Que pierda tu partido no debería significar que has perdido el derecho a vivir a tu manera. Y que gane tampoco debería darte derecho a rehacer la vida del que no te acompañó.
 
 ## Lecturas y fuentes
 
-- Documento maestro: *pptLIB*, capítulos 11–13; refuerzo: la crítica de la democracia y del poder político.
-- [Stanford Encyclopedia of Philosophy, Arrow’s Theorem](https://plato.stanford.edu/entries/arrows-theorem/), para el enunciado y sus supuestos.
-- Anthony Downs, *An Economic Theory of Democracy* (1957).
-- Bryan Caplan, *The Myth of the Rational Voter* (2007); Ilya Somin, *Democracy and Political Ignorance* (2013; segunda edición, 2016).
-- [Buchanan y Tullock, The Calculus of Consent](https://www.econlib.org/library/Buchanan/buchCv3.html), sobre reglas y costes de decisión colectiva.
+- [Sobre la libertad](https://oll.libertyfund.org/titles/mill-on-liberty-and-the-subjection-of-women-1879-ed), límites a la presión social y a la tiranía de la mayoría.
+- [Constitución española, artículos 66 y 67](https://www.senado.es/web/conocersenado/normas/constitucion/detalleconstitucioncompleta/index.html?lang=es_ES), funciones de las Cortes y prohibición del mandato imperativo.
+- El resultado 51–49 es un ejemplo hipotético, no el recuento de una elección concreta. La discusión de disciplina describe incentivos; no afirma que todos los diputados voten siempre igual ni que toda discrepancia termine en expulsión.

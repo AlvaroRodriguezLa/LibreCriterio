@@ -6,3 +6,20 @@ for(const file of files){const html=await readFile(file,'utf8');for(const match 
 console.log(files.length+' páginas HTML; '+checked+' enlaces y recursos locales comprobados');
 
 const robots=await readFile(path.join(root,'robots.txt'),'utf8');assert.ok(robots.includes(base+'/sitemap-index.xml'),'Sitemap con prefijo inválido en robots');
+
+const routes=JSON.parse(await readFile('src/data/routes.json','utf8'));
+const routeIndex=await readFile(path.join(root,'rutas/index.html'),'utf8');
+for(const route of routes){
+ assert.ok(routeIndex.includes('id="ruta-'+route.id+'"'),'Ancla de ruta ausente');
+ for(const [index,slug] of route.slugs.entries()){
+  const html=await readFile(path.join(root,'articulos',slug,'index.html'),'utf8');
+  assert.ok(html.includes('data-reading-route="'+route.id+'"'),'Navegación ausente en '+slug);
+  for(const neighbor of [route.slugs[index-1],route.slugs[index+1]].filter(Boolean)){
+   const href=base+'/articulos/'+neighbor+'/?ruta='+route.id;
+   assert.ok(html.includes('href="'+href+'"'),'Continuidad de ruta perdida: '+slug+' → '+neighbor);
+  }
+  if(index===route.slugs.length-1)assert.ok(html.includes('Has completado esta ruta.'),'Final de ruta ausente');
+  assert.doesNotMatch(html,/documento maestro|pptLIB/i,'Procedencia de trabajo expuesta');
+ }
+}
+console.log('Rutas publicadas: los 20 pasos mantienen avance, retroceso y prefijo de GitHub Pages');

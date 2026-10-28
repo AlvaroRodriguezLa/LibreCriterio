@@ -10,7 +10,7 @@ tags: ["Fiscalidad","libertad"]
 order: 8
 masterPages: "47–49"
 satellites: ["La falsa promesa de la redistribución"]
-thesis: "La crítica más fuerte reconoce la redistribución efectiva y exige evaluar sus destinos, resultados e incentivos."
+thesis: "Ayudar a una persona no concede el derecho a disponer de otra: los resultados y el consentimiento son cuestiones distintas."
 related: ["la-nomina-que-no-ves","la-politica-tambien-tiene-incentivos","cooperar-sin-un-director-unico"]
 level: "Intermedio"
 featured: false
@@ -47,9 +47,9 @@ La crítica liberal más fértil distingue varias preguntas. ¿Qué recursos lle
 
 La elección pública añade una hipótesis sobre incentivos: un programa puede sobrevivir por la intensidad organizativa de sus beneficiarios, además de por su impacto social. Comprobarla exige examinar programas concretos; no basta con que reciban financiación pública.
 
-## La falsa precisión de cerrar la pobreza con una multiplicación
+## La pobreza no se resuelve borrando a las personas
 
-El maestro ensaya una estimación usando personas bajo un umbral y una brecha mediana de ingresos. Ese cálculo no permite obtener el coste total de cerrar la pobreza. **La mediana no es la brecha media.** Además, las escalas de equivalencia, las unidades familiares y los cambios de conducta importan.
+Calcular cuántas personas están por debajo de un umbral y multiplicarlo por una brecha mediana de ingresos no permite saber cuánto costaría eliminar la pobreza. **La mediana no es la brecha media.** Detrás de cada cifra hay hogares con necesidades, capacidades y circunstancias distintas.
 
 Una estimación defendible necesitaría microdatos de hogares, definición de cobertura, interacción con prestaciones vigentes, administración y respuesta al empleo. También tendría que distinguir un ejercicio estático de un programa que modifica incentivos.
 
@@ -67,13 +67,13 @@ Una transferencia puede proteger a quien no tiene ingresos. Si desaparece de gol
 
 Bajar impuestos y transferir dinero tampoco son sustitutos perfectos. Una persona sin base imponible puede beneficiarse poco de una rebaja. Una propuesta liberal que pretenda proteger a los vulnerables debe explicar ese margen, además de defender la renta disponible de quienes sí tributan.
 
-La combinación de menos privilegios, menos barreras al empleo y una ayuda de última instancia es una posición posible dentro del liberalismo. La abolición de toda redistribución es otra, y tiene una carga de demostración mayor sobre cobertura y transición.
+La ayuda voluntaria necesita tiempo, organización y recursos. Eliminar privilegios y barreras al empleo puede ampliar esos recursos; sostener redes de apoyo permite dirigirlos hacia necesidades concretas. Una propuesta de cooperación tiene que explicar también cómo llegará a quien carece de ingresos y de una red cercana.
 
 ## El poder de administrar la ayuda
 
-La objeción normativa persiste incluso cuando se obtiene una mejora material. Una institución que puede decidir elegibilidad, condiciones y destinos concentra poder. Su legitimidad debe discutirse con las personas afectadas, sin presuponer que un buen fin cancela cualquier límite.
+La objeción moral persiste incluso cuando se obtiene una mejora material. Una institución que decide elegibilidad, condiciones y destinos concentra poder sobre quien paga y sobre quien recibe. Reducir una desigualdad no convierte a ninguna de esas personas en propiedad de quien organiza el reparto.
 
-La tesis más sólida, por tanto, es doble: el sistema redistribuye y puede reducir desigualdad; eso no resuelve si redistribuye bien, si protege al que más lo necesita o si concentra más poder del necesario. Las dos frases caben en el mismo argumento.
+Ayudar y respetar no son verbos intercambiables. Podemos reconocer que una transferencia mejora materialmente una vida y seguir rechazando que esa finalidad autorice a disponer por la fuerza de otras. La solidaridad encuentra su sentido en reconocer al otro como persona, también cuando se le pide colaborar.
 
 ## Lecturas y fuentes
 
@@ -81,7 +81,3 @@ La tesis más sólida, por tanto, es doble: el sistema redistribuye y puede redu
 ```oneshot
 {"type":"source-note","source":"FEDEA · Décimo informe del Observatorio fiscal","url":"https://fedea.net/decimo-informe-del-observatorio-sobre-el-reparto-de-los-impuestos-y-prestaciones-entre-los-hogares-espanoles/","date":"2026-10-28","description":"Publicado el 20 de abril de 2026, con datos de hogares de 2023.","methodology":"El 31,9 % es una reducción relativa de desigualdad atribuida al conjunto analizado; no equivale al efecto de cada programa."}
 ```
-
-
-- Documento maestro: *pptLIB*, capítulos 16 y 17.
-- Texto satélite: *La falsa promesa de la redistribución*. Su tesis absoluta se reformula para incorporar la evidencia y separar asignación política de retención presupuestaria.

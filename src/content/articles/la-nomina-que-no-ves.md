@@ -75,5 +75,4 @@ El mejor argumento no necesita inflar la cifra. Puede exigir una nómina más co
 ```
 
 
-- Documento maestro: *pptLIB*, capítulos 15 y 18.
 - Las cifras de este ensayo corresponden a 2025. La edición del informe es de 2026.

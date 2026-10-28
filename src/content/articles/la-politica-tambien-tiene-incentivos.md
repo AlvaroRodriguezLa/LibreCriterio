@@ -2,7 +2,7 @@
 title: "La política también tiene incentivos"
 slug: "la-politica-tambien-tiene-incentivos"
 date: "2026-10-28"
-excerpt: "Buchanan, Tullock y Olson enseñan a mirar más allá de las intenciones: cómo se reparten beneficios, costes y capacidad de influir."
+excerpt: "Cuando quien decide no paga su propia cuenta, el gasto pierde frenos. Y cuando llegar exige renunciar a los escrúpulos, la carrera por el poder puede premiar lo peor."
 image: "/images/la-politica-tambien-tiene-incentivos.svg"
 imageAlt: "Ilustración conceptual: La política también tiene incentivos"
 category: "Poder"
@@ -10,7 +10,7 @@ tags: ["Poder","libertad"]
 order: 4
 masterPages: "24–34"
 satellites: []
-thesis: "Un sistema político debe evaluarse por los incentivos que crea, además de por los fines que anuncia."
+thesis: "El poder separa decisiones y consecuencias, y puede premiar a quien acepta cruzar más límites para conservarlo."
 related: ["redistribuir-no-es-solo-repartir","la-mayoria-no-lo-puede-todo","el-capital-que-no-llega-a-nacer"]
 level: "Intermedio"
 featured: false
@@ -21,53 +21,72 @@ imageFit: "contain"
 
 ## La cena que paga toda la mesa
 
-En una cena, cada comensal pide por su cuenta y al final todos pagan a escote. Un postre adicional cuesta poco a quien lo solicita, porque comparte la factura con los demás. Si cada cual razona así, la cuenta crece incluso sin que nadie haya planeado aprovecharse.
+Diez personas van a cenar y acuerdan repartir la factura por igual. Cada una sabe que un postre de diez euros aumentará su propia parte solo en un euro. Disfrutará el postre entero y distribuirá nueve décimas del coste entre los demás. Si todos siguen ese razonamiento, la cuenta crecerá.
 
-El ejemplo no describe una sociedad entera, pero ilumina una separación decisiva: **quien decide no siempre soporta todo el coste de su decisión.** El análisis de la elección pública traslada esa pregunta a votantes, partidos, burocracias y grupos de interés.
+No hace falta que alguien desee arruinar la cena. Basta con separar la decisión de su coste. Pagar cada uno lo suyo no elimina el deseo de consumir; hace que ese deseo encuentre antes el límite del bolsillo propio.
 
-La política no deja de estar formada por personas cuando cambia el rótulo de la puerta. Prestigio, estabilidad laboral, convicciones, lealtades y deseo de ayudar pueden coexistir. Un diseño institucional prudente no debería necesitar que uno de esos motivos venza siempre a los demás.
+El ejemplo es hipotético, pero permite ver un problema del gasto público: **quien autoriza el desembolso no entrega normalmente su patrimonio y quien lo paga no puede rechazar individualmente la cuenta**. La prudencia necesita otros apoyos cuando desaparece esa relación directa.
 
-## Beneficios concentrados, costes repartidos
+## Lo de todos necesita un responsable concreto
 
-Supongamos una medida que entrega un millón de euros a cien beneficiarios y cuesta un euro a cada uno de un millón de contribuyentes. Es un ejemplo inventado. Cada beneficiario potencial tiene un interés intenso en organizarse. Cada pagador pierde poco y puede ignorar que la medida existe.
+La frase lo público es de todos puede ocultar una dificultad: ¿quién tiene capacidad e interés para cuidarlo, quién puede cambiar sus usos y quién pierde si se despilfarra? Una pertenencia difusa no produce por sí sola vigilancia efectiva.
 
-La asimetría ayuda a explicar por qué una política puede persistir aun cuando su coste total supere su beneficio. Enterarse, coordinarse e impugnarla tiene costes. El grupo pequeño puede encontrar rentable hacerlo; el público disperso quizá no.
+Un vecino puede detectar un gasto absurdo y carecer de una vía barata para detenerlo. Un responsable puede agotar su presupuesto para no recibir menos al año siguiente. Una oficina puede sobrevivir a un fracaso alegando que necesitaba más recursos. El coste se reparte; la continuidad del programa interesa especialmente a quien vive de él.
+
+No significa que ninguna persona cuide un bien compartido. Una cooperativa, una comunidad de riego o una asociación voluntaria pueden establecer aportaciones, vigilancia, sanciones pactadas y responsables identificables. El problema no es compartir, sino hacerlo sin decisión real, sin consecuencias claras y sin poder salir del acuerdo.
+
+## Hacerlo mejor no siempre recibe un premio
+
+En una actividad sometida a competencia, ahorrar recursos puede permitir cobrar menos, mejorar el producto y conservar clientes. Fallar puede provocar que esos clientes se marchen. Es un incentivo imperfecto, pero conecta parte del resultado con la supervivencia del proyecto.
+
+En un servicio financiado obligatoriamente, el usuario descontento puede cambiar de proveedor y seguir pagando el que abandona. El organismo conserva su fuente de ingresos aunque pierda su preferencia. Si hacerlo más barato no mejora la situación de quien decide y hacerlo más caro tampoco pone su patrimonio en riesgo, la disciplina del coste se debilita.
+
+Hay profesionales públicos responsables y controles que frenan abusos. El argumento no depende de negar su existencia. Pregunta por qué el sistema debería descansar en su virtud cuando podría vincular mejor decisiones, costes y consecuencias. Un buen trabajador puede sostener una organización pese a sus incentivos, no gracias a ellos.
 
 
 ```oneshot
-{"type":"concept-flow","title":"Cómo sobrevive un privilegio","steps":[{"title":"Premio concentrado","text":"Pocos actores tienen mucho que ganar."},{"title":"Organización","text":"Pueden dedicar recursos a influir."},{"title":"Coste disperso","text":"Cada afectado tiene menos incentivo a vigilar."}],"note":"Esquema conceptual: las flechas describen un mecanismo, no una prueba causal universal."}
+{"type":"concept-flow","title":"La factura que se aleja de quien decide","steps":[{"title":"Decidir","text":"Un responsable autoriza el gasto."},{"title":"Repartir","text":"El coste llega a una multitud de contribuyentes."},{"title":"Diluir","text":"Cada pagador tiene poco margen individual para vigilar."},{"title":"Continuar","text":"El programa puede pedir más recursos aunque haya fallado."}],"note":"Mecanismo de riesgo institucional; no afirma que todo programa público despilfarre ni que toda empresa sea eficiente."}
 ```
 
 
-## El talento que cambia de ventanilla
+## Un premio grande y una pérdida pequeña
 
-La búsqueda de rentas añade un coste adicional. Una empresa puede invertir en mejorar su producto o en conseguir que se prohíba competir con él. En el segundo caso, el gasto en influencia no produce necesariamente un servicio mejor: busca alterar quién puede ofrecerlo y en qué condiciones.
+Imaginemos una ayuda de un millón de euros para cien beneficiarios financiada con un euro de un millón de personas. Cada beneficiario tiene mucho que ganar organizándose; cada pagador tiene poco incentivo individual para invertir horas en combatirla. Las cifras son inventadas para mostrar la asimetría.
 
-La defensa liberal del mercado debería dirigir buena parte de su energía contra ese mecanismo. Un empresario protegido no representa automáticamente la competencia. Una subvención selectiva puede beneficiar a capital privado y, al mismo tiempo, trasladar riesgos a personas que no eligieron asumirlos.
+Así pueden prosperar privilegios que perjudican al conjunto. Quien recibe el premio conoce su nombre y tiene motivos para defenderlo. Quien paga apenas percibe una parte de la factura. El resultado puede presentarse como interés general aunque haya sido diseñado para un grupo concreto.
 
-Tampoco todo contacto entre empresas y administración es captura. Un regulador necesita información técnica, y los afectados tienen derecho a ser escuchados. El problema aparece cuando la consulta se convierte en acceso exclusivo, barrera injustificada o premio cuyo coste se oculta.
+También las empresas participan en este juego. Conseguir una barrera contra un competidor puede ser más rentable que mejorar un producto. Eso no es cooperación libre: es contratar influencia para restringir las opciones de los demás.
 
-## Una burocracia puede cumplir y fallar
+## La presunción de saber vivir por otros
 
-Una oficina responde a procedimientos porque administra recursos y facultades que requieren control. Sería ingenuo suprimir toda regla y esperar que la discrecionalidad produjera eficiencia. Pero también puede ocurrir que el cumplimiento del procedimiento sustituya al examen del resultado.
+El poder político exige algo más que proponer una idea. Aspira a convertirla en una obligación para personas que no la comparten. Ahí aparece una presunción de superioridad: creer que el propio juicio merece imponerse al de quienes vivirán sus consecuencias.
 
-Si un programa fracasa y su respuesta automática es pedir más presupuesto, hace falta preguntar qué evidencia permitiría reducirlo, reformarlo o cerrarlo. Esa pregunta no presupone que sus empleados sean incompetentes. Busca una regla de aprendizaje que no dependa exclusivamente del interés del propio programa en sobrevivir.
+No hace falta atribuir a cada candidato un trastorno de ego. La superioridad está en la facultad reclamada, incluso cuando quien la solicita se presenta como humilde. Puedo creer sinceramente que sé qué educación te conviene o cuánto debes ahorrar; la sinceridad no me convierte en propietario de tu decisión.
 
-## El sector privado no obtiene una absolución
+La ayuda voluntaria empieza preguntando qué necesita el otro y si acepta nuestra colaboración. El paternalismo comienza cuando su negativa se interpreta como una razón para obligarlo por su bien. El que manda conserva la satisfacción moral de proteger; el protegido pierde la posibilidad de rechazar esa tutela.
 
-La crítica comparativa debe preguntar también por los correctivos privados. ¿Puede entrar un rival? ¿Puede salir el cliente? ¿Recae el perjuicio en quien decide? ¿Se protege la empresa mediante un rescate? Una firma que bloquea esas vías puede parecerse a la organización rígida que el liberal critica.
+## Una selección que puede premiar lo peor
 
-El mercado competitivo exige algo más que titularidad privada. Necesita mecanismos que permitan discutir resultados con decisiones reales: comprar a otro, reclamar daños, invertir en una alternativa o dejar quebrar un proyecto inviable. Cuando faltan, la etiqueta privado dice menos de lo que parece.
+La carrera por el poder filtra a quienes entran y ascienden. Si ganar exige prometer beneficios incompatibles, callar ante abusos propios, complacer al aparato o destruir la reputación de un rival, quien conserva escrúpulos paga un coste que el oportunista está dispuesto a evitar.
 
-## Diseñar para personas corrientes
+La primera renuncia puede parecer pequeña: repetir una consigna que no se cree. La siguiente, tolerar una mentira útil. Después, justificar un privilegio para mantener unido al grupo. Cada peldaño enseña que llegar requiere aplazar otra vez el límite moral. Cuando el cargo depende de continuar, reconocer el engaño amenaza también la carrera construida sobre él.
 
-Una regla útil debe funcionar con personas razonablemente interesadas en sí mismas y capaces también de cooperación. Reglas generales, contratos abiertos, evaluaciones independientes y límites a privilegios reducen la rentabilidad de capturar el poder. Ninguna medida elimina por completo el problema.
+Esta es la selección inversa: el mecanismo puede favorecer a quien está dispuesto a hacer más cosas para conseguir y conservar el mando, incluidas las que una persona decente rechazaría. No demuestra que todos los que llegan sean las peores personas posibles. Explica por qué esperar que siempre asciendan los más íntegros contradice ciertos incentivos de la competición.
 
-La conclusión liberal no necesita afirmar que todos los políticos son corruptos. Le basta con recordar que un sistema no queda bien diseñado porque esperemos que sus ocupantes sean mejores que los demás.
+La concentración de poder agrava el premio. Cuantas más vidas puedes dirigir y más recursos puedes asignar, más rentable resulta conquistar el puesto y más tentador se vuelve cruzar una línea para no perderlo.
+
+## La virtud no sustituye un límite
+
+Un sistema no queda bien organizado porque anuncie que elegirá personas extraordinarias. Hay que pensar qué hará cuando lo ocupe alguien ambicioso, leal a los suyos y capaz de justificar sus conveniencias como causas morales.
+
+La respuesta exige reducir privilegios, devolver capacidad de elección y hacer que quien decide responda por el daño que causa. También exige reconocer que un proveedor privado protegido por rescates, barreras o contratos cautivos puede escapar a la misma disciplina. Cambiar el nombre de la puerta no recompone una responsabilidad rota.
+
+La pregunta decisiva no es cuánta bondad declaran quienes quieren administrar la cuenta. Es quién puede rechazarla, quién la vigila y quién pierde cuando se gasta mal.
 
 ## Lecturas y fuentes
 
-- Documento maestro: *pptLIB*, capítulos 9 y 10; refuerzo: la crítica de la democracia y del poder político.
-- [James Buchanan y Gordon Tullock, The Calculus of Consent (1962)](https://www.econlib.org/library/Buchanan/buchCv3.html).
-- Mancur Olson, *The Logic of Collective Action* (1965), sobre organización e intereses de grupo.
-- Gordon Tullock, *The Welfare Costs of Tariffs, Monopolies, and Theft* (1967), y Anne Krueger, *The Political Economy of the Rent-Seeking Society* (1974).
+- [The Calculus of Consent](https://www.econlib.org/library/Buchanan/buchCv3.html), costes de las decisiones colectivas y límites institucionales.
+- *The Logic of Collective Action* (1965), intereses concentrados y costes dispersos.
+- *The Road to Serfdom* (1944), capítulo 10, sobre selección de dirigentes bajo la concentración de poder. Su contexto es el totalitarismo; aquí se desarrolla un argumento sobre incentivos sin equiparar todos los regímenes.
+- [Beyond Markets and States](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641), instituciones concretas para cuidar recursos compartidos.
+- Los ejemplos de la cena y la subvención son hipotéticos. Los mecanismos descritos no son un diagnóstico psicológico individual de los políticos.

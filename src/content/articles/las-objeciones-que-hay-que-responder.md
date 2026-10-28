@@ -23,7 +23,7 @@ imageFit: "contain"
 
 Una teoría puede parecer impecable cuando todos cumplen contratos, comprenden los riesgos y tienen alternativas. La evaluación importante llega cuando una fábrica contamina, una familia no puede pagar cuidados o una empresa controla la única vía de acceso.
 
-El capítulo de objeciones del documento maestro aparece como una tarea abierta. Completarlo no consiste en añadir una lista ceremonial de críticas para descartarlas enseguida. **Una respuesta fuerte debe describir qué institución se hace cargo del problema y cómo se corrige si falla.**
+La libertad también tiene que responder a situaciones difíciles: el daño, la dependencia y el conflicto no desaparecen por desear acuerdos voluntarios. **Una respuesta fuerte debe describir quién se hace cargo del problema y cómo se corrige si falla.**
 
 El criterio liberal conserva su punto de partida: toda coacción necesita justificación, y la concentración de poder puede agravar errores. Pero esa presunción no elimina la necesidad de responder a daños, dependencia y conflicto.
 
@@ -83,7 +83,6 @@ La pregunta final vuelve al comienzo: quién decide, con qué información y a c
 
 ## Lecturas y fuentes
 
-- Documento maestro: *pptLIB*, capítulos 26–28; el capítulo 26 se desarrolla aquí.
 - Ronald Coase, *The Problem of Social Cost* (1960).
 - [Elinor Ostrom, Beyond Markets and States (2010)](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641).
 - [Buchanan y Tullock, The Calculus of Consent (1962)](https://www.econlib.org/library/Buchanan/buchCv3.html).

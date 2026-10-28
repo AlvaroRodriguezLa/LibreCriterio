@@ -11,7 +11,7 @@ order: 9
 masterPages: "51–53"
 satellites: []
 thesis: "La sostenibilidad y la libertad exigen mostrar quién asume cada riesgo y cada coste de transición."
-related: ["la-nomina-que-no-ves","redistribuir-no-es-solo-repartir","el-capital-que-no-llega-a-nacer"]
+related: ["una-promesa-no-es-un-patrimonio","el-capital-que-no-llega-a-nacer","redistribuir-no-es-solo-repartir"]
 level: "Intermedio"
 featured: false
 evergreen: false
@@ -75,5 +75,4 @@ Un puente se evalúa por lo que soporta. También por cómo se repara cuando tod
 ```
 
 
-- Documento maestro: *pptLIB*, capítulo 18.
 - La deuda actuarial implícita y la deuda pública negociable son conceptos distintos y no se suman mecánicamente.

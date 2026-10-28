@@ -25,7 +25,7 @@ Una familia quiere que su hija aprenda. Un paciente necesita un tratamiento. En 
 
 La discusión suele condensarse en una palabra: público o privado. Pero esa oposición mezcla tres preguntas. ¿Quién paga? ¿Quién establece las reglas? ¿Quién presta el servicio? Es posible combinar respuestas distintas.
 
-La separación, presente en el documento maestro y en la propuesta educativa de Friedman, no garantiza un resultado superior por sí sola. **Permite comparar diseños en vez de discutir etiquetas.** También evita deducir de la importancia de un fin que deba producirlo una única organización.
+Separar ayuda, financiación y prestación permite examinar quién elige y quién responde cuando algo falla. La importancia de una necesidad no demuestra que una sola organización deba decidir cómo satisfacerla para todos.
 
 
 ```oneshot
@@ -76,7 +76,6 @@ No se trata de prometer un menú infinito ni de negar restricciones presupuestar
 
 ## Lecturas y fuentes
 
-- Documento maestro: *pptLIB*, capítulo 19.
 - [Milton Friedman, Free to Choose, reflexión sobre su propuesta educativa de 1955](https://www.hoover.org/research/free-choose).
 - *The Role of Government in Education* (1955), origen de su distinción entre financiación y administración.
 - Las comparaciones de esta pieza son conceptuales. No se usan porcentajes de escolarización ni resultados sanitarios sin homogeneizar poblaciones.

@@ -6,8 +6,10 @@
       "tu-vida-no-es-un-proyecto-del-poder",
       "un-contrato-que-nadie-puede-rechazar",
       "la-mayoria-no-lo-puede-todo",
+      "no-votar-tambien-es-una-decision",
       "el-poder-no-cambia-al-cambiar-de-bandera"
-    ]
+    ],
+    "id": "01"
   },
   {
     "title": "Cómo coordina una sociedad",
@@ -17,7 +19,8 @@
       "sin-precios-no-hay-brujula",
       "el-capital-que-no-llega-a-nacer",
       "inflacion-el-reloj-del-ahorro"
-    ]
+    ],
+    "id": "02"
   },
   {
     "title": "Seguir el recorrido del dinero",
@@ -26,8 +29,11 @@
       "la-nomina-que-no-ves",
       "redistribuir-no-es-solo-repartir",
       "pensiones-el-puente-entre-generaciones",
-      "la-politica-tambien-tiene-incentivos"
-    ]
+      "una-promesa-no-es-un-patrimonio",
+      "la-politica-tambien-tiene-incentivos",
+      "el-estado-siempre-encuentra-un-culpable"
+    ],
+    "id": "03"
   },
   {
     "title": "Probar las alternativas",
@@ -38,6 +44,7 @@
       "cooperar-sin-un-director-unico",
       "el-precio-del-alquiler-y-la-puerta-de-entrada",
       "las-objeciones-que-hay-que-responder"
-    ]
+    ],
+    "id": "04"
   }
 ]

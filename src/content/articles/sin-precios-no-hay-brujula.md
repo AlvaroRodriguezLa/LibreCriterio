@@ -25,13 +25,13 @@ Un ingeniero recibe cien toneladas de acero. Puede destinarlas a un puente, a ma
 
 **La pregunta económica es qué sacrificamos cuando elegimos.** Una obra puede quedar impecable y emplear recursos que otras personas necesitaban para un uso más valioso. La escasez obliga a comparar, incluso cuando el presupuesto permite pagar.
 
-El documento maestro presenta el argumento de Mises como una crítica al cálculo bajo socialización integral de los medios de producción. Conviene respetar ese ámbito. No equivale a demostrar que cualquier partida de gasto público carezca de información o que todo servicio estatal sea técnicamente imposible.
+Cuando nadie puede intercambiar medios de producción, se pierde una forma de comparar sus usos alternativos. La dificultad se vuelve especialmente profunda si todos esos medios quedan bajo un solo mando. Un servicio público que compra en mercados existentes no está en la misma situación: utiliza señales que no ha tenido que producir por sí solo.
 
 ## Lo que un precio añade a una cantidad
 
 Cien toneladas describen una existencia física. Un precio relaciona ese recurso con ofertas, demandas y alternativas. Cuando los bienes de capital pueden intercambiarse, las decisiones empresariales se confrontan con otras valoraciones y con presupuestos que no son ilimitados.
 
-La cadena misesiana puede resumirse así: propiedad e intercambio permiten formar precios; esos precios ayudan a comparar costes; beneficios y pérdidas ofrecen información sobre decisiones anteriores. Cada eslabón tiene condiciones y limitaciones. Un precio distorsionado por privilegios, rescates o costes impuestos a terceros transmite señales defectuosas.
+La relación puede resumirse así: propiedad e intercambio permiten formar precios; esos precios ayudan a comparar costes; beneficios y pérdidas ofrecen información sobre decisiones anteriores. Cada eslabón tiene condiciones y limitaciones. Un precio distorsionado por privilegios, rescates o costes impuestos a terceros transmite señales defectuosas.
 
 
 ```oneshot
@@ -69,7 +69,6 @@ La brújula no decide el destino de quienes viajan. Les ayuda a reconocer por d�
 
 ## Lecturas y fuentes
 
-- Documento maestro: *pptLIB*, capítulo 6 y capítulos 21–23.
 - [Ludwig von Mises, Socialism (1922)](https://www.econlib.org/library/Mises/msS.html), desarrollo del debate sobre cálculo.
 - Jesús Huerta de Soto, *Socialismo, cálculo económico y función empresarial* (1992), parte del corpus maestro.
 - Oskar Lange, *On the Economic Theory of Socialism* (1936–1937), interlocutor que debe leerse antes de dar el debate por cerrado.

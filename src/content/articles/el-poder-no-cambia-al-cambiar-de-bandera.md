@@ -23,7 +23,7 @@ imageFit: "contain"
 
 Un grupo protesta contra una máquina capaz de entrar en todas las casas y reorganizar la vida de sus habitantes. Cuando consigue conducirla, deja de pedir que se limite su alcance y empieza a discutir qué programa cargarle.
 
-La imagen resume una tentación política que el documento maestro atribuye a izquierdas y derechas estatistas: combatir el uso ajeno del poder mientras se preserva la facultad de emplearlo para fines propios.
+La imagen resume una tentación compartida por bandos enfrentados: combatir el uso ajeno del poder mientras se preserva la facultad de emplearlo para fines propios.
 
 El reproche liberal no exige afirmar que todos los programas son iguales. Impuestos, libertades civiles, comercio y seguridad pueden diferir mucho entre opciones. **La exigencia es aplicar el límite con independencia de quién gobierne.**
 
@@ -57,7 +57,7 @@ Pero el término no sustituye la demostración. Una medida debe identificar el d
 
 ## Cuando el poder se vuelve sagrado
 
-El documento maestro utiliza la idea de religión política con cautela. Como categoría histórica remite a formas de sacralización de la política; extenderla a todo desacuerdo contemporáneo la vacía de sentido.
+La política adquiere rasgos de fe cuando el grupo se considera moralmente puro, interpreta toda crítica como traición y trata sus fines como si estuvieran por encima de los límites que impone a los demás. Discrepar no basta para caer en esa actitud; creerse dispensado de responder por los propios medios sí la revela.
 
 La metáfora resulta útil para reconocer una actitud: convertir la discrepancia en culpa moral y el programa propio en una finalidad que no admite límites. Pero describir esa actitud no demuestra que una democracia corriente sea un régimen totalitario.
 
@@ -65,7 +65,7 @@ La crítica liberal debería resistir también su propia sacralización. Una esc
 
 ## Límites que no dependen de ganar
 
-Hayek escribió contra la identificación automática entre liberalismo y conservadurismo. El mensaje relevante para estos cuadernos es que la libertad protege el cambio que no controlamos, no solo un orden que nos resulta familiar.
+La libertad protege también los cambios que no controlamos y las costumbres que no nos resultan familiares. Defenderla exige renunciar a imponer incluso aquello que sentimos como propio.
 
 De ahí una disciplina práctica: imaginar cada propuesta aplicada por el rival, a favor de una causa que rechazamos y durante más tiempo del previsto. Si la herramienta se vuelve intolerable en esa escena, necesita límites antes de ponerse en marcha.
 
@@ -73,7 +73,6 @@ La libertad exige algo más difícil que escoger un conductor simpático. Exige 
 
 ## Lecturas y fuentes
 
-- Documento maestro: *pptLIB*, capítulos 24 y 25.
 - F. A. Hayek, *Why I Am Not a Conservative*, epílogo de *The Constitution of Liberty* (1960).
 - [John Stuart Mill, On Liberty](https://oll.libertyfund.org/titles/mill-on-liberty-and-the-subjection-of-women-1879-ed).
 - Emilio Gentile, literatura sobre religiones de la política, para evitar el uso indiscriminado de esa categoría.
