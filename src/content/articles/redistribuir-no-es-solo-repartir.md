@@ -19,15 +19,17 @@ draft: false
 imageFit: "contain"
 ---
 
-## La fuente y las tuberías
+## La ayuda no autoriza la apropiación
 
-Una red lleva agua desde un depósito hasta muchas casas. Para evaluarla no basta con medir lo que entra en la tubería principal: importan los destinos, las pérdidas, la presión y quién controla las llaves. Con la redistribución ocurre algo parecido.
+Querer aliviar una necesidad no concede la propiedad del trabajo de otro. Esa es la objeción de principio a la redistribución obligatoria. No depende de que la administración desperdicie todo lo recaudado ni desaparece cuando una transferencia mejora la vida de quien la recibe.
+
+Hay una pregunta sobre los resultados y otra sobre el consentimiento. Un programa puede superar una comparación estadística y seguir imponiendo a una persona pacífica una finalidad que no ha aceptado. La eficacia no fabrica ese sí.
 
 La imagen original de una transferencia de ricos a pobres contiene una parte real del sistema, pero no lo describe entero. Hay seguros intertemporales, servicios en especie, transferencias entre generaciones y beneficios a personas que no son pobres. También hay impuestos soportados por rentas bajas y medias.
 
-**Criticar esa complejidad no autoriza a negar que exista redistribución hacia abajo.** La versión fuerte del argumento liberal examina cuánto se consigue, por qué medios y a qué coste de autonomía. Puede reconocer resultados favorables y discutir al mismo tiempo el diseño que los produce.
+**Reconocer una transferencia hacia personas de menores ingresos no equivale a aprobar que se obtengan por la fuerza los recursos que la financian.** Describir con precisión el resultado evita que la crítica moral dependa de una afirmación empírica falsa.
 
-## El dato que obliga a afinar la tesis
+## Un resultado no es una autorización
 
 FEDEA estima que el conjunto de impuestos y prestaciones analizado redujo un 31,9 % la desigualdad de la renta de mercado de los hogares españoles en 2023. En esa reducción pesan especialmente las prestaciones monetarias; también intervienen servicios en especie e impuestos.
 
@@ -35,7 +37,7 @@ Ese resultado obliga a descartar una afirmación absoluta: que el sistema no red
 
 
 ```oneshot
-{"type":"stat-cards","title":"Un resultado que la crítica debe incorporar","stats":[{"value":"31,9 %","label":"Reducción estimada de desigualdad","description":"Efecto conjunto de impuestos y prestaciones en el estudio de FEDEA sobre hogares de 2023.","source":"FEDEA · Décimo informe, 2026"},{"value":"2023","label":"Año de los datos","description":"La fecha de publicación del estudio no es el año de renta analizado.","source":"FEDEA · Observatorio fiscal"}],"note":"No son puntos de Gini ni una medida del porcentaje de pobreza eliminado."}
+{"type":"stat-cards","title":"Un efecto distributivo no equivale a consentimiento","stats":[{"value":"31,9 %","label":"Reducción estimada de desigualdad","description":"Efecto conjunto de impuestos y prestaciones en el estudio de FEDEA sobre hogares de 2023.","source":"FEDEA · Décimo informe, 2026"},{"value":"2023","label":"Año de los datos","description":"La fecha de publicación del estudio no es el año de renta analizado.","source":"FEDEA · Observatorio fiscal"}],"note":"No son puntos de Gini ni una medida del porcentaje de pobreza eliminado."}
 ```
 
 

@@ -10,7 +10,7 @@ tags: ["Debates","libertad"]
 order: 17
 masterPages: "63–66; desarrollo del capítulo 26"
 satellites: []
-thesis: "Una defensa de la libertad debe explicar qué ocurre cuando las personas y las instituciones fallan."
+thesis: "Resolver problemas requiere acuerdos y responsabilidad; la dificultad de resolverlos no concede un derecho a dirigir vidas pacíficas."
 related: ["cooperar-sin-un-director-unico","un-derecho-no-es-un-proveedor","tu-vida-no-es-un-proyecto-del-poder"]
 level: "Avanzado"
 featured: false
@@ -19,71 +19,70 @@ draft: false
 imageFit: "contain"
 ---
 
-## La prueba del día difícil
+## Un problema no concede un dueño
 
-Una teoría puede parecer impecable cuando todos cumplen contratos, comprenden los riesgos y tienen alternativas. La evaluación importante llega cuando una fábrica contamina, una familia no puede pagar cuidados o una empresa controla la única vía de acceso.
+Hay personas que no pueden pagar cuidados, vecinos que discrepan sobre un camino y víctimas que necesitan reparación. Esos problemas existen antes de nuestras preferencias políticas. Merecen soluciones concretas, no una palabra tranquilizadora.
 
-La libertad también tiene que responder a situaciones difíciles: el daño, la dependencia y el conflicto no desaparecen por desear acuerdos voluntarios. **Una respuesta fuerte debe describir quién se hace cargo del problema y cómo se corrige si falla.**
+Pero de que haya una necesidad no se deduce que alguien adquiera la vida de los demás para resolverla. **La falta de una solución perfecta no crea un derecho a imponer fines a personas pacíficas.** Una defensa de la cooperación voluntaria debe buscar respuestas; no tiene que aceptar que toda dificultad sea un cheque en blanco para el poder.
 
-El criterio liberal conserva su punto de partida: toda coacción necesita justificación, y la concentración de poder puede agravar errores. Pero esa presunción no elimina la necesidad de responder a daños, dependencia y conflicto.
+El trabajo empieza al preguntar qué función hace falta y cómo pueden acordarla quienes la necesitan. Resolver disputas no exige que su árbitro gobierne todos los demás aspectos de la vida. Compartir un gasto no exige aceptar una cuenta ilimitada. Ayudar no exige convertir al ayudado en un menor permanente.
 
-## El humo que cruza la propiedad
+## Dos equipos pueden buscar un árbitro
 
-Un intercambio puede ser voluntario para comprador y vendedor y perjudicar a una tercera persona. Si una fábrica vierte residuos a una acequia, el precio de su producto puede omitir parte del coste real.
+Dos equipos de fútbol quieren jugar. Cada uno desconfía de que el otro decida las faltas. Pueden acordar un reglamento y elegir a un tercero independiente antes de empezar. La autoridad del árbitro procede de ese encargo y tiene un alcance: juzgar el partido.
 
-Derechos exigibles, responsabilidad por daños y negociación pueden corregir ciertos conflictos. Pero identificar afectados, probar causalidad y coordinar a miles de personas tiene costes. La propuesta asociada a Coase invita a comparar esos costes institucionales; no asegura que cualquier externalidad se resuelva sin fricción mediante un acuerdo privado.
+Si decide qué libros deben leer los jugadores o pretende cobrarles todos los años aunque dejen de competir, ha abandonado el acuerdo. La utilidad de arbitrar no le entrega la propiedad de los participantes.
 
-Una regulación puede ser un correctivo, y también puede estar mal informada o capturada. La comparación debe mirar daños evitados, costes de cumplimiento, alternativas y capacidad de revisión.
+La intuición sirve para pensar contratos de arbitraje, mediación y seguros: separar una función necesaria de la pretensión de monopolizarla territorialmente. Un partido pactado no resuelve por sí solo una agresión entre desconocidos; señala cómo empezar a construir reglas y procedimientos sin fabricar un soberano.
 
-## El bien que todos usan y pocos pagarían
+## El humo que nadie aceptó respirar
 
-Si es difícil excluir a quien no contribuye y el uso de una persona no reduce mucho el de otra, la financiación voluntaria puede enfrentar un problema de aprovechamiento gratuito. Es una dificultad real para determinadas formas de seguridad, información o infraestructura.
+Una fábrica no puede convertir su libertad de producir en permiso para dañar al vecino. Si contamina su agua o destruye su cosecha, hay una persona perjudicada aunque comprador y vendedor estén satisfechos.
 
-Las respuestas pueden incluir clubes, contratos, asociaciones, financiación colectiva o instituciones públicas limitadas. Ninguna etiqueta resuelve todas las variantes del problema. Un peaje funciona para ciertos usos; no para cualquier beneficio difuso.
+Una respuesta voluntaria puede combinar derechos definidos, peritajes independientes, seguros de responsabilidad y arbitraje para reclamar reparación. Una aseguradora que deba pagar daños tiene motivos para inspeccionar instalaciones y exigir prevención a sus asegurados. El coste deja de ocultarse en la propiedad ajena.
 
-El argumento liberal más sólido busca arreglos de menor coacción capaces de sostener la función. La propuesta de abolir un monopolio debe explicar también quién coordina disputas entre proveedores y cómo evita que una red de protección se convierta en una nueva dominación.
+Probar la causalidad y hacer cumplir la reparación son dificultades reales. Hay que diseñar procedimientos accesibles y capacidad de responder frente al agresor. Defender a una víctima no equivale a someter a personas pacíficas a cualquier proyecto anunciado como protección.
 
-## La persona que no puede elegir
+## El camino compartido
 
-Una persona con dependencia intensa o ingresos muy bajos puede disponer de pocas alternativas. La libertad de salida importa, pero no puede convertirse en una respuesta que presupone precisamente los recursos que faltan.
+Los propietarios de una urbanización pueden acordar el mantenimiento de calles mediante un contrato asociado a sus parcelas. Una asociación puede sostener iluminación, vigilancia o un sistema de alertas. Una cooperativa puede reunir aportaciones para una instalación que ninguno financiaría solo.
 
-Mutualismo y ayuda voluntaria aportan posibilidades. Quienes defienden una garantía pública mínima deben justificar su alcance. Quienes la rechazan deben demostrar cobertura suficiente incluso ante riesgos concentrados o necesidades costosas.
+El acuerdo necesita indicar costes, obligaciones, revisión y salida. No basta con pronunciar voluntario para que desaparezcan los conflictos. Si la asociación se atribuye facultades ilimitadas o impide abandonarla mediante amenazas ajenas al pacto, reproduce el problema que se pretendía evitar.
 
-Una propuesta no se vuelve humana por anunciar protección ni por anunciar libertad. Debe explicar acceso, continuidad, financiación y responsabilidad cuando alguien queda fuera.
+Los beneficios que alcanzan a no contribuyentes plantean otra dificultad. Se pueden combinar cuotas, servicios reservados, donaciones, patrocinios y acuerdos entre grupos. No todas las combinaciones funcionarán en todas las circunstancias. Esa tarea de descubrimiento no queda resuelta por imponer una organización única.
 
-## El monopolio que no viene de una licencia
 
-Algunos privilegios nacen de la regulación. Otros problemas de poder pueden relacionarse con redes, escala, información o dificultades de entrada que no desaparecen al derogar una norma.
+```oneshot
+{"type":"concept-flow","title":"Construir una respuesta sin entregar toda la vida","steps":[{"title":"Identificar","text":"Qué servicio o reparación se necesita."},{"title":"Acordar","text":"Quién participa, qué aporta y qué acepta."},{"title":"Separar","text":"Quién presta, verifica y resuelve disputas."},{"title":"Responder","text":"Cómo se repara el daño y se cambia de proveedor."}],"note":"Esquema conceptual de una propuesta, no una estimación de resultados."}
+```
 
-La defensa liberal de competencia exige examinar todas esas fuentes. Puede preferir abrir interoperabilidad, reducir costes de cambio o perseguir acuerdos restrictivos. Pero no debería definir cualquier poder privado como imposible antes de investigarlo.
 
-El monopolio público tampoco garantiza una corrección satisfactoria. La pregunta comparativa sigue abierta: qué remedio reduce el daño sin crear un poder menos controlable.
+## La ayuda que no deja sola a una persona
 
-## La transición también cuenta
+Los seguros sirven para compartir riesgos; las mutualidades permiten organizar esa protección entre sus miembros. La ayuda voluntaria puede atender a quien ya sufre un daño o no pudo asegurarse. Asociaciones, familias y fundaciones pueden especializarse y coordinarse para dar continuidad al apoyo.
 
-Suprimir una obligación puede dejar compromisos sin financiar. Reformar pensiones, educación o sanidad exige atender a personas que ya viven bajo las reglas anteriores. El estado final deseado no paga automáticamente el trayecto.
+No conviene fingir que toda persona dispone de una familia solvente. Una propuesta debe mostrar cómo llegará a quien carece de recursos y vínculos, cómo evitará abandonos y qué información permitirá detectar un fallo. La respuesta es construir redes de apoyo más capaces, no atribuir incapacidad general a todos para justificar su tutela.
 
-Una propuesta debería incluir calendario, protección transitoria, costes, financiación y criterios para detener o modificar el cambio. Afirmar que todo ajuste se resolverá con crecimiento futuro no sustituye esa contabilidad.
+La necesidad del otro nos interpela como personas. No nos convierte automáticamente en propietarios del trabajo de un tercero.
 
-| Problema | Respuesta liberal posible | Prueba pendiente |
-| --- | --- | --- |
-| Daños a terceros | Responsabilidad, derechos y reglas proporcionadas | Acceso a prueba, reparación y ejecución |
-| Pobreza y dependencia | Ayuda focalizada, mutualismo y apertura de oportunidades | Cobertura, financiación y continuidad |
-| Poder de mercado | Entrada, competencia y reducción de barreras | Alternativas efectivas y coste de cambio |
-| Decisión colectiva | Reglas constitucionales y descentralización | Protección del menos móvil y de las minorías |
-| Reforma institucional | Transición gradual y compromisos explícitos | Distribución de costes y escenarios adversos |
+## Que una empresa no se convierta en otro Estado
 
-## Una exigencia que debe aplicarse a todos
+Privatizar una organización conservando clientes obligatorios, privilegios y rescates no crea un mercado libre. Una empresa de seguridad que extorsiona deja de ofrecer protección y se convierte en agresora, aunque tenga accionistas.
 
-No es razonable comparar mercados reales con un Estado perfecto, ni mercados perfectos con administraciones reales. Ambos pueden fallar. Lo que debe compararse es qué información utilizan, qué incentivos crean y cómo reparan errores.
+La posibilidad de elegir, reclamar, asociarse y crear alternativas debe alcanzar también a los proveedores privados. No se trata de repartir el poder de imponer entre varias marcas. Se trata de sustituir relaciones de sometimiento por servicios limitados y responsabilidad por daños.
 
-Una defensa liberal madura puede sostener una preferencia clara por autonomía, competencia y asociación voluntaria y, al mismo tiempo, reconocer dónde necesita más evidencia. La confianza en una idea no exige fingir que el trabajo está terminado.
+Los problemas de escala, información y concentración necesitan vigilancia. La cooperación exige reglas; lo que rechaza es que una organización se declare autora de todas ellas y dispense a sus miembros de responder como cualquier otra persona.
 
-La pregunta final vuelve al comienzo: quién decide, con qué información y a costa de quién. Aplicarla también a las soluciones propias es la mejor forma de mantenerla viva.
+## Cambiar sin volver a utilizar a los demás
+
+Hay personas que dependen hoy de prestaciones y servicios existentes. Abrir alternativas exige atender compromisos, plazos y continuidad. Anunciar un horizonte de libertad no paga una atención pendiente ni devuelve años de ahorro.
+
+Una transición debe explicar qué patrimonio puede utilizar, qué contratos necesita y qué costes reales aparecen. No sería coherente defender la elección mientras se oculta a quién se está imponiendo la factura del cambio.
+
+El objetivo sigue siendo reconocible: que resolver una necesidad no obligue a entregar el resto de la vida a quien la administra. La cooperación tiene que hacerse concreta, y el poder no adquiere un derecho nuevo cada vez que encontramos una dificultad.
 
 ## Lecturas y fuentes
 
-- Ronald Coase, *The Problem of Social Cost* (1960).
-- [Elinor Ostrom, Beyond Markets and States (2010)](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641).
-- [Buchanan y Tullock, The Calculus of Consent (1962)](https://www.econlib.org/library/Buchanan/buchCv3.html).
-- La biblioteca incluye interlocutores y lecturas pendientes para ampliar estas pruebas, sin presentarlos como partidarios de una misma conclusión.
+- [Reglas de arbitraje de la Cámara de Comercio Internacional](https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2021-arbitration-rules/), ejemplo de elección contractual de un procedimiento y un tribunal. El arbitraje existente utiliza también marcos estatales para su reconocimiento y ejecución.
+- [Beyond Markets and States](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641), diversidad de acuerdos para gobernar recursos compartidos.
+- Los equipos, la urbanización y el seguro de la fábrica son ejemplos conceptuales. Las propuestas de una sociedad sin monopolio estatal no se presentan como una descripción de un sistema completo ya implantado.

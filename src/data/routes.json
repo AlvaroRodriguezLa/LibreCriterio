@@ -7,7 +7,9 @@
       "un-contrato-que-nadie-puede-rechazar",
       "la-mayoria-no-lo-puede-todo",
       "no-votar-tambien-es-una-decision",
-      "el-poder-no-cambia-al-cambiar-de-bandera"
+      "el-poder-no-cambia-al-cambiar-de-bandera",
+      "el-cargo-no-convierte-a-nadie-en-sagrado",
+      "cuando-el-partido-sustituye-a-la-conciencia"
     ],
     "id": "01"
   },
@@ -18,6 +20,7 @@
       "el-conocimiento-no-cabe-en-un-despacho",
       "sin-precios-no-hay-brujula",
       "el-capital-que-no-llega-a-nacer",
+      "el-permiso-de-quien-ya-ha-entrado",
       "inflacion-el-reloj-del-ahorro"
     ],
     "id": "02"
@@ -31,7 +34,8 @@
       "pensiones-el-puente-entre-generaciones",
       "una-promesa-no-es-un-patrimonio",
       "la-politica-tambien-tiene-incentivos",
-      "el-estado-siempre-encuentra-un-culpable"
+      "el-estado-siempre-encuentra-un-culpable",
+      "quien-puede-perdonar-a-sus-aliados"
     ],
     "id": "03"
   },
@@ -40,6 +44,9 @@
     "lead": "Servicios, cooperación y casos difíciles. Termina poniendo a prueba el argumento.",
     "slugs": [
       "un-derecho-no-es-un-proveedor",
+      "cuidar-sin-pedir-permiso-al-monopolio",
+      "aprender-sin-una-leccion-unica",
+      "un-arbitro-no-necesita-ser-un-soberano",
       "muchos-centros-mejores-salidas",
       "cooperar-sin-un-director-unico",
       "el-precio-del-alquiler-y-la-puerta-de-entrada",

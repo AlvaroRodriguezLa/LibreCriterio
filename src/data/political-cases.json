@@ -1,0 +1,495 @@
+{
+  "checked": "2026-10-28",
+  "cases": [
+    {
+      "id": "abalos-koldo",
+      "title": "Ábalos, Koldo y contratos de mascarillas",
+      "date": "2026-10-14",
+      "status": "Condena",
+      "fact": "El Supremo condenó en junio de 2026 al exministro y a su exasesor por corrupción vinculada a contratos de mascarillas; en octubre desestimó sus incidentes de nulidad.",
+      "scope": "La condena se refiere a los hechos juzgados y sus responsables. No condena por extensión al presidente, al partido ni a los investigados de otras piezas.",
+      "sources": [
+        {
+          "title": "Cadena SER, rechazo de nulidad (14/10/2026)",
+          "url": "https://cadenaser.com/nacional/2026/10/14/el-supremo-confirma-las-condenas-de-abalos-y-koldo-garcia-y-descarta-que-se-vulnerasen-sus-derechos-cadena-ser/"
+        },
+        {
+          "title": "La Vanguardia, sentencia íntegra (22/6/2026)",
+          "url": "https://www.lavanguardia.com/politica/20260622/11572595/sentencia-condena-exministro-abalos-koldo-garcia-victor-aldama-integra.html"
+        }
+      ]
+    },
+    {
+      "id": "begona-gomez",
+      "title": "Begoña Gómez y Cristina Álvarez",
+      "date": "2026-09-21",
+      "status": "Juicio abierto",
+      "fact": "El juez abrió juicio oral por presuntos delitos de tráfico de influencias y malversación, tras limitar la Audiencia Provincial los delitos que debían ser juzgados.",
+      "scope": "La apertura de juicio no declara culpabilidad. Fiscalía y defensas solicitan absolución; las medidas cautelares de junio fueron retiradas.",
+      "sources": [
+        {
+          "title": "RTVE, apertura de juicio oral (21/9/2026)",
+          "url": "https://www.rtve.es/noticias/20260921/juez-peinado-abre-juicio-oral-contra-begona-gomez-por-presuntos-delitos-trafico-influencias-malversacion/17233341.shtml"
+        }
+      ]
+    },
+    {
+      "id": "david-sanchez",
+      "title": "David Sánchez y contratación en la Diputación de Badajoz",
+      "date": "2026-10-08",
+      "status": "Condena recurrida",
+      "fact": "Fue condenado en julio a nueve años de inhabilitación por cooperación necesaria en prevaricación administrativa. Su defensa presentó recurso de apelación y reclama absolución.",
+      "scope": "La sentencia no es firme. El parentesco con el presidente no establece por sí mismo responsabilidad penal de este.",
+      "sources": [
+        {
+          "title": "RTVE, recurso de apelación (8/10/2026)",
+          "url": "https://www.rtve.es/noticias/20261008/defensa-david-sanchez-recurre-apelacion-sentencia-audiencia-provincial-badajoz-pide-su-absolucion/17258265.shtml"
+        },
+        {
+          "title": "RTVE, claves de la sentencia (14/7/2026)",
+          "url": "https://www.rtve.es/noticias/20260714/claves-entender-sentencia-david-sanchez-hermano-presidente-condenado-prevaricacion/17156475.shtml"
+        }
+      ]
+    },
+    {
+      "id": "santos-cerdan",
+      "title": "Santos Cerdán y obra pública",
+      "date": "2026-07-22",
+      "status": "Investigación",
+      "fact": "La investigación del caso Koldo examina presuntos amaños de obra pública y pagos o beneficios relacionados con Servinabar. El juez solicitó información bancaria de familiares tras un informe UCO.",
+      "scope": "Las atribuciones policiales están sometidas a investigación y contradicción. Cerdán niega los delitos.",
+      "sources": [
+        {
+          "title": "RTVE, diligencias bancarias (22/7/2026)",
+          "url": "https://www.rtve.es/noticias/20260722/juez-ismael-moreno-solicita-a-varios-bancos-informacion-cuentas-familia-santos-cerdan-por-caso-koldo/17166082.shtml"
+        },
+        {
+          "title": "RTVE, informe UCO (17/7/2026)",
+          "url": "https://amp.rtve.es/noticias/20260717/uco-determina-su-informe-santos-cerdan-dispuso-fuentes-ingresos-no-declaradas/17160145.shtml"
+        }
+      ]
+    },
+    {
+      "id": "leire-diez",
+      "title": "Leire Díez y presuntas maniobras contra investigaciones",
+      "date": "2026-10-23",
+      "status": "Investigación",
+      "fact": "Pedraz investiga presuntas maniobras para obstaculizar causas y ha requerido al PSOE documentación de abogados y consultoras.",
+      "scope": "Requerir documentos al partido no equivale a imputarlo. La decisión reseñada de octubre rechazó por ahora su imputación.",
+      "sources": [
+        {
+          "title": "RTVE, decisión sobre el PSOE (9/10/2026)",
+          "url": "https://stories.rtve.es/actualidad/newstory/mananeros/81ef7f5e2f13ed2826cf"
+        },
+        {
+          "title": "El País, requerimiento de documentación (23/10/2026)",
+          "url": "https://elpais.com/espana/2026-10-23/pedraz-rechaza-las-alegaciones-del-psoe-y-le-da-15-dias-para-entregar-los-contratos-de-sus-abogados.html"
+        }
+      ]
+    },
+    {
+      "id": "biedma",
+      "title": "Presuntas amenazas y acoso a la jueza Beatriz Biedma",
+      "date": "2026-10-28",
+      "status": "Investigación",
+      "fact": "La jueza declaró sentirse perseguida y angustiada. Una testigo atribuyó al exjuez Sáenz de Tejada referencias a eliminarla. Este fue citado como investigado el 28/10 por organización criminal, calumnias y contra la integridad moral.",
+      "scope": "Son testimonios e imputaciones en investigación. No consta una sentencia que acredite una orden de asesinato de Leire Díez, Sánchez o el PSOE.",
+      "sources": [
+        {
+          "title": "RTVE, declaración de Biedma (8/10/2026)",
+          "url": "https://www.rtve.es/noticias/20261008/juez-biedma-denuncia-este-jueves-audiencia-nacional-maniobras-su-contra-trama-ligada-a-leire-diez/17258342.shtml"
+        },
+        {
+          "title": "RTVE, citación de Sáenz de Tejada (28/10/2026)",
+          "url": "https://www.rtve.es/noticias/20261028/exjuez-investigado-actuar-presuntamente-contra-biedma-declara-caso-leire-diez/17286552.shtml"
+        },
+        {
+          "title": "Antena 3, cobertura informativa",
+          "url": "https://www.antena3.com/noticias/espana/uco-interroga-testigos-presuntas-maniobras-entorno-leire-diez-jueza-beatriz-biedma_202609306abd64c8413910078b9161e2.html"
+        }
+      ]
+    },
+    {
+      "id": "garcia-ortiz",
+      "title": "Fiscal general García Ortiz e indulto solicitado",
+      "date": "2026-10-09",
+      "status": "Condena e indulto solicitado",
+      "fact": "El ex fiscal general fue condenado por revelación de datos reservados a dos años de inhabilitación y multa. Justicia tramita peticiones de indulto y Sánchez declaró en octubre que no descartaba concederlo antes de las elecciones.",
+      "scope": "García Ortiz era fiscal, no juez. Una petición o un informe favorable no es un indulto concedido; no se ha localizado un decreto de concesión a la fecha de revisión.",
+      "sources": [
+        {
+          "title": "RTVE, tramitación (27/1/2026)",
+          "url": "https://www.rtve.es/noticias/20260127/ministerio-justicia-tramita-primera-peticion-indulto-para-ex-fiscal-general-del-estado-alvaro-garcia-ortiz/16912887.shtml"
+        },
+        {
+          "title": "RTVE, entrevista a Sánchez (9/10/2026)",
+          "url": "https://www.rtve.es/noticias/20261009/sanchez-asegura-no-descarta-indultar-exfiscal-general-del-estado-antes-elecciones/17259955.shtml"
+        }
+      ]
+    },
+    {
+      "id": "delcy",
+      "title": "Encuentro con Delcy Rodríguez en Barajas",
+      "date": "2021-04-13",
+      "status": "Archivo",
+      "fact": "La Audiencia de Madrid confirmó el archivo de la causa por la estancia de Delcy Rodríguez en Barajas y encuentro con Ábalos en enero de 2020, al no apreciar delito.",
+      "scope": "La causa originaria fue archivada. La controversia política y las versiones públicas pueden examinarse sin presentarlas como delito condenado.",
+      "sources": [
+        {
+          "title": "RTVE, archivo confirmado (13/4/2021)",
+          "url": "https://www.rtve.es/noticias/20210413/audiencia-madrid-confirma-archivo-delcygate/2085650.shtml"
+        }
+      ]
+    },
+    {
+      "id": "plus-ultra",
+      "title": "Rescate de Plus Ultra",
+      "date": "2026-07-21",
+      "status": "Investigación",
+      "fact": "La ayuda de 53 millones de 2021 fue objeto de una causa originaria archivada en 2023. Una investigación posterior examina intermediación y presuntas comisiones; Zapatero aparece como investigado en la cobertura de mayo de 2026. Hacienda defiende la legalidad del expediente.",
+      "scope": "El archivo de una causa anterior y la investigación posterior son expedientes distintos. La ayuda incluyó préstamos, no un regalo íntegro sin devolución.",
+      "sources": [
+        {
+          "title": "RTVE, posición de Hacienda y nueva causa (20/5/2026)",
+          "url": "https://www.rtve.es/noticias/20260520/hacienda-defiende-rescate-plus-ultra-cumplio-con-legalidad/17078299.shtml"
+        },
+        {
+          "title": "RTVE, testimonio sobre intermediación (21/7/2026)",
+          "url": "https://www.rtve.es/noticias/20260721/empresario-amigo-zapatero-julio-martinez-declara-ante-juez-tras-implicarle-rescate-a-plus-ultra/17163635.shtml"
+        }
+      ]
+    },
+    {
+      "id": "dana",
+      "title": "DANA y gestión de emergencias",
+      "date": "2026-06-04",
+      "status": "Gestión e investigación",
+      "fact": "Se investigan decisiones de la Generalitat valenciana en la DANA del 29/10/2024, con Pradas y Argüeso investigados. El TSJCV confirmó en abril de 2026 no abrir investigación a Mazón en la exposición recibida; en junio se admitió su personación para defensa.",
+      "scope": "La gestión autonómica y la actuación estatal deben atribuirse a decisiones y competencias concretas. No se imputa la catástrofe en bloque a un partido.",
+      "sources": [
+        {
+          "title": "RTVE, decisión TSJCV (27/4/2026)",
+          "url": "https://amp.rtve.es/noticias/20260427/tsj-valenciano-confirma-su-decision-no-investigar-a-mazon-causa-dana/17042973.shtml"
+        },
+        {
+          "title": "RTVE, personación Mazón (4/6/2026)",
+          "url": "https://www.rtve.es/noticias/20260604/jueza-catarroja-deja-sin-efecto-declaracion-como-testigo-carlos-mazon-estar-ya-personado/17100750.shtml"
+        },
+        {
+          "title": "RTVE, rechazo de investigar a Bernabé (5/5/2025)",
+          "url": "https://www.rtve.es/noticias/20250505/jueza-dana-rechazar-investigar-bernabe-elevar-causa-impute-mazon/16566858.shtml"
+        }
+      ]
+    },
+    {
+      "id": "toledo",
+      "title": "Alcance ferroviario de Urda, Toledo",
+      "date": "2026-10-28",
+      "status": "En desarrollo",
+      "fact": "El 28 de octubre se produjo un alcance entre trenes de Renfe e Iryo en el entorno de Urda y Los Yébenes, en Toledo, con fallecidos y heridos e interrupción de la línea Madrid–Andalucía. La información continúa actualizándose.",
+      "scope": "Las causas y responsabilidades no están establecidas en esta ficha. Se omiten balances provisionales y versiones iniciales como si fueran conclusiones.",
+      "sources": [
+        {
+          "title": "RTVE, comunicado inicial de Adif (28/10/2026)",
+          "url": "https://www.rtve.es/noticias/20261028/interrumpen-circulacion-linea-alta-velocidad-madrid-andalucia-por-alcance-entre-dos-trenes/17286647.shtml"
+        },
+        {
+          "title": "RTVE, directo 10:20 (28/10/2026)",
+          "url": "https://www.rtve.es/noticias/20261028/accidente-tren-directo-ultima-hora/17286720.shtml"
+        },
+        {
+          "title": "Antena 3, cobertura informativa",
+          "url": "https://www.antena3.com/noticias/sociedad/accidente-trenes-yebenes-ultima-hora-directo-choque-dos-trenes-alta-velocidad-obliga-interrumpir-circulacion_202610286ae1b1c8b55c427e2eb5ad6e.html"
+        },
+        {
+          "title": "Antena 3, imágenes y datos iniciales de la emergencia",
+          "url": "https://www.antena3.com/noticias/sociedad/video-primeras-imagenes-vagones-que-han-caido-terraplen-choque-trenes-toledo_202610286ae1bd5c6973466c29dfde2e.html"
+        }
+      ]
+    },
+    {
+      "id": "ceuta",
+      "title": "Crisis migratoria de Ceuta de julio de 2026",
+      "date": "2026-10-23",
+      "status": "Gestión e investigación",
+      "fact": "El Gobierno afrontó una llegada masiva los días 30 y 31 de julio. Sánchez admitió en septiembre que el Estado debía prepararse mejor. En octubre hubo desalojos y traslados de personas en situación precaria.",
+      "scope": "Hay avisos previos y críticas documentadas a la respuesta. No está acreditada por ello una omisión deliberada ni una ausencia total de actuaciones.",
+      "sources": [
+        {
+          "title": "RTVE, entrevista de Sánchez (9/9/2026)",
+          "url": "https://www.rtve.es/noticias/20260909/pedro-sanchez-entrevista-directo-mananeros-video-cronica/17217668.shtml"
+        },
+        {
+          "title": "RTVE, operativo El Príncipe (23/10/2026)",
+          "url": "https://www.rtve.es/noticias/20261023/policia-despliega-operativo-principe-ceuta-desalojar-migrantes-situacion-calle/17279771.shtml"
+        },
+        {
+          "title": "Congreso, Diario de Sesiones 3/9/2026, comparecencia Ceuta",
+          "url": "https://www.congreso.es/es/busqueda-de-publicaciones?_publicaciones_id_texto=%28DSCD-15-PL-201.CODI.%29&_publicaciones_legislatura=XV&_publicaciones_mode=mostrarTextoIntegro&p_p_id=publicaciones&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal"
+        }
+      ]
+    },
+    {
+      "id": "air-europa",
+      "title": "Rescate de Air Europa",
+      "date": "2026-07-03",
+      "status": "Investigación",
+      "fact": "El juez abrió diligencias por el préstamo público de 475 millones y citó a Bartolomé Lora como investigado. Lora admitió reuniones previas con Globalia y negó irregularidades. El préstamo fue cancelado a finales de 2025.",
+      "scope": "Una línea de investigación anulada y la causa abierta en 2026 no son lo mismo. El reembolso del préstamo no decide por sí solo la existencia de irregularidades.",
+      "sources": [
+        {
+          "title": "RTVE, apertura de diligencias (8/6/2026)",
+          "url": "https://www.rtve.es/noticias/20260608/juez-admite-querella-pp-vox-por-rescate-air-europa-cita-como-investigado-vicepresidente-sepi/17105500.shtml"
+        },
+        {
+          "title": "RTVE, declaración de Lora (3/7/2026)",
+          "url": "https://www.rtve.es/noticias/20260703/vicepresidente-sepi-reconoce-reuniones-con-air-europa-antes-se-abriera-plazo-para-rescate/17142312.shtml"
+        }
+      ]
+    },
+    {
+      "id": "adamuz",
+      "title": "Accidente ferroviario de Adamuz",
+      "date": "2026-09-03",
+      "status": "Investigación",
+      "fact": "La investigación técnica y judicial estudia una fractura o fallo en la soldadura como principal hipótesis del accidente de enero de 2026. Se han pedido aclaraciones y análisis periciales de materiales.",
+      "scope": "Una hipótesis técnica no es todavía una causa definitiva ni una condena a un cargo público.",
+      "sources": [
+        {
+          "title": "RTVE, informe de inspección (3/9/2026)",
+          "url": "https://www.rtve.es/noticias/20260903/informe-guardia-civil-accidente-adamuz-rotura-soldadura/17210521.shtml"
+        },
+        {
+          "title": "RTVE, petición de aclaraciones (2/3/2026)",
+          "url": "https://www.rtve.es/noticias/20260302/guardia-civil-pide-detalles-a-ciaf-sobra-incongruencias-soldadura-del-accidente-adamuz/16960998.shtml"
+        }
+      ]
+    },
+    {
+      "id": "covid",
+      "title": "Estados de alarma durante la pandemia",
+      "date": "2021-10-27",
+      "status": "Sentencias constitucionales",
+      "fact": "El Tribunal Constitucional estimó parcialmente recursos contra medidas del primer estado de alarma y contra la duración y delegación del segundo. Son fallos constitucionales sobre límites y control del poder.",
+      "scope": "Los fallos anulan aspectos concretos de las medidas y de su control. Son sentencias constitucionales, no condenas penales al presidente.",
+      "sources": [
+        {
+          "title": "Tribunal Constitucional, STC 183/2021",
+          "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/26843"
+        },
+        {
+          "title": "Tribunal Constitucional, memoria 2021 (STC 148/2021 y 183/2021)",
+          "url": "https://www.tribunalconstitucional.es/NotasDePrensaDocumentos/NP_2022_073/Memoria%20Tribunal%20Constitucional%202021.pdf"
+        }
+      ]
+    },
+    {
+      "id": "mediador",
+      "title": "Caso Mediador y Juan Bernardo Fuentes Curbelo",
+      "date": "2026-09-24",
+      "status": "Juicio abierto",
+      "fact": "La jueza abrió juicio oral contra catorce acusados en la pieza principal, entre ellos el exdiputado socialista Juan Bernardo Fuentes Curbelo, por presuntos sobornos para obtener ventajas administrativas, contratos, subvenciones o evitar sanciones.",
+      "scope": "La petición de penas no es una condena. El estado de otras piezas no se traslada automáticamente a la pieza principal.",
+      "sources": [
+        {
+          "title": "RTVE, apertura de juicio oral (24/9/2026)",
+          "url": "https://www.rtve.es/noticias/20260924/jueza-del-caso-mediador-envia-a-juicio-a-tito-berni-a-otros-13-acusados-por-pieza-principal-trama/17239484.shtml"
+        },
+        {
+          "title": "Europa Press, delitos y peticiones de pena (25/9/2026)",
+          "url": "https://www.europapress.es/islas-canarias/noticia-abren-juicio-oral-tito-berni-sobrino-mas-decena-personas-sobornos-caso-mediador-20260925110424.html"
+        }
+      ]
+    },
+    {
+      "id": "hidrocarburos",
+      "title": "Fraude de hidrocarburos, Villafuel y Aldama",
+      "date": "2026-09-23",
+      "status": "Investigación",
+      "fact": "La Audiencia Nacional investiga un presunto fraude de IVA de 182,5 millones en hidrocarburos. La UCO pidió rastrear y bloquear cuentas en Portugal vinculadas a la estructura que atribuye a Aldama y Claudio Rivas; además examina presuntas influencias para obtener una licencia de operador.",
+      "scope": "La condena de una persona en mascarillas no equivale a condena en hidrocarburos. Las declaraciones sobre terceros deben contrastarse en esta causa.",
+      "sources": [
+        {
+          "title": "RTVE, diligencias financieras (23/9/2026)",
+          "url": "https://amp.rtve.es/noticias/20260923/uco-pide-bloquear-cuentas-aldama-portugal-desviar-783-millones-fraude-hidrocarburos/17236546.shtml"
+        },
+        {
+          "title": "RTVE, declaraciones y contradicciones (19/2/2026)",
+          "url": "https://www.rtve.es/noticias/20260219/caso-hidrocarburos-aldama-juez-informacion-financiacion-ilegal-psoe/16945875.shtml"
+        }
+      ]
+    }
+  ],
+  "promises": [
+    {
+      "id": "amnistia",
+      "title": "Amnistía",
+      "beforeDate": "2022-11-10",
+      "before": "Sánchez rechazó aceptar la amnistía y la situó fuera de la legislación y la Constitución.",
+      "afterDate": "2024-06-11",
+      "after": "Publicación y entrada en vigor de la Ley Orgánica 1/2024 de amnistía, defendida por el PSOE.",
+      "context": "La posición de 2022 fue sustituida por el apoyo a una ley de amnistía en 2024. El juicio sobre ese cambio y la constitucionalidad de la ley son cuestiones distintas.",
+      "sources": [
+        {
+          "title": "Transcripción oficial de entrevista de 2022",
+          "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2022/prsp10112022.aspx"
+        },
+        {
+          "title": "Ley Orgánica 1/2024, BOE",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-11776"
+        }
+      ]
+    },
+    {
+      "id": "independentistas",
+      "title": "Pactos con independentistas",
+      "beforeDate": "2016-04-26",
+      "before": "Dijo que después del 26 de junio no pactaría con el PP ni con independentistas.",
+      "afterDate": "2023-11-09",
+      "after": "Acuerdo PSOE–Junts para investidura y gobernabilidad, incluyendo una ley de amnistía.",
+      "context": "La primera afirmación se refería al proceso electoral de 2016; el acuerdo es de 2023. La comparación documenta el abandono de una línea política, sin trasladar la frase a una campaña distinta.",
+      "sources": [
+        {
+          "title": "El País, declaración de 2016",
+          "url": "https://elpais.com/politica/2016/04/26/actualidad/1461656119_554764.html"
+        },
+        {
+          "title": "Texto íntegro del acuerdo PSOE–Junts",
+          "url": "https://www.newtral.es/wp-content/uploads/2023/11/231107-Acuerdo-PSOE-Junts.pdf"
+        }
+      ]
+    },
+    {
+      "id": "indultos-proces",
+      "title": "Cumplimiento de condenas e indultos",
+      "beforeDate": "2019-10-14",
+      "before": "Pidió íntegro cumplimiento de la sentencia del procés.",
+      "afterDate": "2021-06-22",
+      "after": "El Consejo de Ministros concedió indultos parciales a nueve condenados y mantuvo las inhabilitaciones.",
+      "context": "La controversia enfrenta el compromiso de cumplimiento íntegro con una medida de gracia posterior. El indulto modifica penas; no declara inocencia.",
+      "sources": [
+        {
+          "title": "RTVE, declaración de 2019",
+          "url": "https://www.rtve.es/noticias/20191014/gobierno-defiende-fortaleza-democracia-video-antes-conocerse-sentencia-del-proces/1981561.shtml"
+        },
+        {
+          "title": "Moncloa, concesión de indultos",
+          "url": "https://www.lamoncloa.gob.es/consejodeministros/Paginas/enlaces/220621-enlace-indultos.aspx"
+        },
+        {
+          "title": "Real Decreto 460/2021, Junqueras",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10467"
+        }
+      ]
+    },
+    {
+      "id": "podemos",
+      "title": "Coalición con Unidas Podemos",
+      "beforeDate": "2019-09-19",
+      "before": "Rechazó una coalición en los términos de Iglesias y afirmó que no dormiría tranquilo con ministros de su entorno.",
+      "afterDate": "2019-11-12",
+      "after": "Firmó con Iglesias un preacuerdo para un Gobierno progresista de coalición.",
+      "context": "En julio de 2019 ya se había negociado una coalición. La entrevista de septiembre rechazaba una fórmula concreta; dos meses después se firmó el preacuerdo.",
+      "sources": [
+        {
+          "title": "RTVE, entrevista de septiembre",
+          "url": "https://www.rtve.es/noticias/20190919/pedro-sanchez/1979643.shtml"
+        },
+        {
+          "title": "PSOE, documento firmado de preacuerdo",
+          "url": "https://www.psoe.es/actualidad/documentos-de-interes/preacuerdo-para-conformar-un-gobierno-progresista-de-coalicion/"
+        }
+      ]
+    },
+    {
+      "id": "bildu",
+      "title": "Acuerdos con EH Bildu",
+      "beforeDate": "2015",
+      "before": "Afirmó que no pactaría con Bildu en entrevista de Navarra Televisión.",
+      "afterDate": "2023-12-13",
+      "after": "PSN y EH Bildu firmaron un acuerdo para una moción de censura que llevó a Asiron a la alcaldía de Pamplona.",
+      "context": "El acuerdo de 2023 fue municipal. No equivale a la entrada de EH Bildu en el Consejo de Ministros.",
+      "sources": [
+        {
+          "title": "Newtral, entrevista original enlazada y contexto",
+          "url": "https://www.newtral.es/newtral-hemeroteca-pedro-sanchez-pactos-bildu/20201112/"
+        },
+        {
+          "title": "RTVE, pacto municipal",
+          "url": "https://www.rtve.es/play/videos/telenavarra/13-12-2023/7034658/"
+        }
+      ]
+    },
+    {
+      "id": "elecciones-2027",
+      "title": "Calendario electoral de 2027",
+      "beforeDate": "2026-09-09",
+      "before": "En entrevista oficial sostuvo que 2027 era el año de las elecciones, reservándose la fecha por interés general.",
+      "afterDate": "2026-10-05",
+      "after": "Anunció la disolución y elecciones generales para el 29 de noviembre de 2026.",
+      "context": "El adelanto electoral es una facultad legal. La comparación permite valorar la fiabilidad de la previsión o del compromiso anunciado un mes antes.",
+      "sources": [
+        {
+          "title": "Moncloa, transcripción de entrevista 9/9/2026",
+          "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2026/20260909-entrevista--mananeros-sanchez.aspx"
+        },
+        {
+          "title": "Moncloa, convocatoria 5/10/2026",
+          "url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051026-sanchez-convocatoria-elecciones.aspx?galv2r=0"
+        }
+      ]
+    }
+  ],
+  "ceuta": [
+    {
+      "date": "2026-07-29",
+      "fact": "CNI avisó a Delegación del Gobierno y Guardia Civil de llamamientos para entradas por mar y tierra el día 30; CENIF también detectó riesgos los días 28–29. Los documentos fueron desclasificados parcialmente en septiembre.",
+      "source": "https://www.rtve.es/noticias/20260909/gobierno-publica-informes-inteligencia-mes-previo-entrada-masiva-ceuta/17217776.shtml"
+    },
+    {
+      "date": "2026-07-30",
+      "fact": "Vivas solicitó emergencia y mando único; la entrada masiva se extendió a los días 30–31.",
+      "source": "https://www.rtve.es/noticias/20260826/contradicciones-gobierno-ceuta-robles-marlaska-cni-mando-unico/17203007.shtml"
+    },
+    {
+      "date": "2026-07-31",
+      "fact": "Sánchez visitó Ceuta y prometió recursos para la respuesta.",
+      "source": "https://www.rtve.es/noticias/20260826/contradicciones-gobierno-ceuta-robles-marlaska-cni-mando-unico/17203007.shtml"
+    },
+    {
+      "date": "2026-08-10",
+      "fact": "Gobierno canceló permisos de militares y guardias civiles destinados en Ceuta para reforzar efectivos.",
+      "source": "https://www.rtve.es/noticias/20260810/defensa-ordena-cancelar-permisos-militares-ceuta-13-agosto/17185606.shtml"
+    },
+    {
+      "date": "2026-08-17",
+      "fact": "Elma Saiz se reunió con Vivas y anunció espacios temporales para 1.500 personas.",
+      "source": "https://www.rtve.es/noticias/20260817/ceuta-sanchez-gobierno-crisis-migratoria/17192802.shtml"
+    },
+    {
+      "date": "2026-08-23",
+      "fact": "Se confirmaron las vacaciones de Sánchez en Lanzarote, dos reuniones por videoconferencia desde La Mareta y viajes de ministros a Ceuta. Se anunció la reunión del Consejo al completo para el día 25.",
+      "source": "https://www.rtve.es/noticias/20260823/crisis-ceuta-marca-seis-ministros-acudiran-congreso/17199240.shtml"
+    },
+    {
+      "date": "2026-08-25",
+      "fact": "Se declaró la situación de interés para la seguridad nacional y una coordinación encabezada por Ángel Víctor Torres, casi un mes después de la petición inicial de Vivas.",
+      "source": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/250826-rueda-prensa-ministros.aspx?qfr=15"
+    },
+    {
+      "date": "2026-08-31",
+      "fact": "Fiscalía registraba 23 procedimientos de agresión sexual, cinco con penetración, nueve víctimas menores. Entre ocho presuntos autores identificados, cuatro marroquíes, tres españoles y un belga. Las víctimas descritas eran migrantes.",
+      "source": "https://www.rtve.es/noticias/20260831/ceuta-registra-23-agresiones-sexuales-inicio-crisis-migratoria/17207403.shtml"
+    },
+    {
+      "date": "2026-09-22",
+      "fact": "Informe CGPJ referido a 30/7–14/9: 37 diligencias, 39 víctimas (38 mujeres y un varón), 14 menores entre las mujeres. 28 causas activas, ocho archivos provisionales, una acumulada. 18 presuntos autores sin identificar.",
+      "source": "https://www.rtve.es/noticias/20260922/organos-judiciales-ceuta-abrieron-37-procedimientos-por-agresion-sexual-entre-30-julio-14-septiembre/17235078.shtml"
+    },
+    {
+      "date": "2026-10-28",
+      "fact": "La investigación de la Audiencia Nacional trata de esclarecer también actuación marroquí y ha pedido nueva desclasificación. Declaraciones de testigos e informes policiales no son condenas.",
+      "source": "https://www.antena3.com/noticias/espana/ultima-hora-crisis-migratoria-ceuta-directo_202610286ae1975eb55c427e2eb59423.html"
+    }
+  ]
+}

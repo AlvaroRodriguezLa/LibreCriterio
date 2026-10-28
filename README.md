@@ -4,7 +4,8 @@ Publicación independiente sobre liberalismo, mercados y límites del poder, ada
 
 - Web pública: https://alvarorodriguezla.github.io/LibreCriterio/
 - Código: https://github.com/AlvaroRodriguezLa/LibreCriterio
-- 20 ensayos, 22 lecturas comentadas, 24 conceptos, cuatro rutas, cuatro modelos interactivos y una agenda de doce investigaciones.
+- Expediente con 17 casos documentados, seis contrastes de declaraciones y cronología de Ceuta.
+- 27 ensayos, 22 lecturas comentadas, 24 conceptos, cuatro rutas, cuatro modelos interactivos y una agenda de doce investigaciones.
 - Documento maestro: pptLIB.pdf, 75 páginas. Los Word son satélites; no se suben a Git ni a la web.
 
 ## Abrir el proyecto

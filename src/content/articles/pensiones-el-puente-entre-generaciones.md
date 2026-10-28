@@ -2,7 +2,7 @@
 title: "Pensiones: el puente entre generaciones"
 slug: "pensiones-el-puente-entre-generaciones"
 date: "2026-10-28"
-excerpt: "El reparto y la capitalización no eliminan los riesgos: los distribuyen de forma distinta. Una reforma seria debe explicar también quién sostiene el puente durante las obras."
+excerpt: "El joven que paga puede tener menos ingresos que el pensionista que recibe. Reparto, sostenibilidad y autonomía para preparar la vejez."
 image: "/images/pensiones-el-puente-entre-generaciones.svg"
 imageAlt: "Ilustración conceptual: Pensiones: el puente entre generaciones"
 category: "Fiscalidad"
@@ -10,7 +10,7 @@ tags: ["Fiscalidad","libertad"]
 order: 9
 masterPages: "51–53"
 satellites: []
-thesis: "La sostenibilidad y la libertad exigen mostrar quién asume cada riesgo y cada coste de transición."
+thesis: "La edad no determina quién es rico: una obligación entre generaciones puede exigir a quien tiene menos que financie a quien tiene más."
 related: ["una-promesa-no-es-un-patrimonio","el-capital-que-no-llega-a-nacer","redistribuir-no-es-solo-repartir"]
 level: "Intermedio"
 featured: false
@@ -19,60 +19,75 @@ draft: false
 imageFit: "contain"
 ---
 
-## El puente ya está ocupado
+## La solidaridad que llega con una obligación
 
-Imagina un puente por el que pasan tres generaciones. Una ya está llegando a la otra orilla y cuenta con la estructura existente. Otra la sostiene con su trabajo. La tercera tendrá que usarla cuando cambien el terreno y el caudal.
+Una persona joven cobra poco, paga alquiler y apenas logra reservar una parte de su sueldo. De sus ingresos y del coste de contratarla salen recursos que financian prestaciones actuales. Algunas llegan a personas con una renta y un patrimonio superiores a los suyos.
 
-Reformar las pensiones se parece a intervenir ese puente sin detener la circulación. No basta con dibujar una estructura mejor. Hay personas que organizaron su vida en torno a promesas vigentes y carecen de tiempo para reconstruir su ahorro.
+La escena deshace una identificación demasiado cómoda: trabajador no significa rico y pensionista no significa pobre. **Una transferencia entre edades no se convierte automáticamente en una transferencia desde quienes más tienen hacia quienes menos tienen.**
 
-La crítica liberal al reparto señala que la cotización corriente financia prestaciones corrientes, mientras el trabajador adquiere una expectativa de derechos sujeta a reglas futuras. **No se acumula necesariamente un patrimonio financiero individual equivalente a lo aportado.** Esa diferencia importa para autonomía, herencia y exposición al riesgo político.
+La cuestión moral permanece incluso si el destinatario necesita ayuda. Querer sostenerlo no convierte el trabajo ajeno en propiedad de quien administra el sistema. Y cuando quien paga tiene menos recursos que quien recibe, la retórica de la redistribución añade una contradicción a la obligación.
 
-## Una identidad antes que una promesa
+## Puede ocurrir; no describe a todas las personas
 
-En una simplificación, los ingresos del sistema dependen de cuántas personas cotizan y cuánto aporta cada una. El gasto depende del número de prestaciones y su importe. Productividad, salarios, empleo, demografía y reglas modifican la relación entre ambos lados.
+Hay pensionistas pobres y jóvenes con ingresos altos. La renta anual tampoco mide todo el patrimonio. Una persona puede recibir poco dinero y ser propietaria de una vivienda; otra puede tener un sueldo mayor y soportar deudas y alquiler. El análisis debe conservar esas diferencias.
 
-Esta identidad no prueba que el sistema vaya a desaparecer. Tampoco permite afirmar que cualquier aumento de gasto sea sostenible porque puede financiarse con impuestos generales. Cambiar la fuente de financiación desplaza el coste; no lo evapora.
+La estadística tributaria de 2024 permite una comparación ilustrativa: en territorio fiscal común, el salario íntegro anual medio de las personas de 26 a 35 años fue de 21.506 euros; las pensiones medias de quienes tenían entre 66 y 75 años fueron de 22.548 euros.
+
+Los importes son anuales y efectivos: incluyen empleos parciales o de parte del año, y el registro de pensiones abarca diversas clases, algunas privadas. No describen solo jubilación pública ni permiten concluir que todos los mayores sean ricos. Muestran que la edad no basta para decidir quién tiene más ingresos.
 
 
 ```oneshot
-{"type":"stat-cards","title":"Escenario de AIReF · informe de marzo de 2025","stats":[{"value":"12,7 %","label":"Gasto en pensiones / PIB · 2022","description":"Punto de partida del escenario citado.","source":"AIReF · Evaluación de la regla de gasto"},{"value":"16,1 %","label":"Gasto proyectado / PIB · 2050","description":"Proyección condicionada a supuestos económicos y demográficos.","source":"AIReF · Informe de 2025"},{"value":"+3,4 pp","label":"Diferencia entre ambos años","description":"Puntos de PIB; no un crecimiento de solo el 3,4 %.","source":"Cálculo sobre el escenario AIReF"}],"note":"Es un escenario publicado en 2025, no una observación de 2050 ni una promesa de precisión."}
+{"type":"stat-cards","title":"Ingresos íntegros anuales · territorio fiscal común, 2024","stats":[{"value":"21.506 €","label":"Salario medio · 26–35 años","description":"Ingreso efectivo anual; no equivalente de jornada completa todo el año.","source":"AEAT · Mercado de trabajo y pensiones 2024"},{"value":"22.548 €","label":"Pensiones medias · 66–75 años","description":"Incluye diferentes pensiones; no solo jubilación pública contributiva.","source":"AEAT · Mercado de trabajo y pensiones 2024"}],"note":"Comparación de ingresos por edad, no medición de patrimonio ni prueba de que toda transferencia pública sea de pobres a ricos. No mezcla pagas mensuales con anuales."}
 ```
 
 
-## Ahorrar cambia el riesgo, no lo suprime
+## Lo que cotizas no se guarda necesariamente para ti
 
-Un sistema capitalizado vincula prestaciones a activos acumulados y sus rendimientos. Puede ampliar propiedad individual, diversificar inversiones y reducir parte de la dependencia directa de decisiones presupuestarias futuras.
+En el reparto, las aportaciones actuales financian prestaciones actuales. El trabajador conserva derechos conforme a unas reglas, pero no acumula por ese solo hecho una cartera de activos a su nombre equivalente a todo lo aportado.
 
-Pero introduce otros riesgos: mercados, comisiones, inflación, longevidad, mala gestión y carreras laborales interrumpidas. Además, los activos financieros no producen cuidados o alimentos sin una economía real capaz de suministrarlos. Reparto y capitalización dependen de la producción futura, aunque organicen derechos y riesgos de maneras diferentes.
+La diferencia importa porque condiciona su independencia. No puede utilizar esa supuesta hucha para crear un negocio, responder a una urgencia o dejarla íntegra como herencia. Su prestación futura depende de empleo, ingresos y decisiones que todavía no se han producido.
 
-El debate serio compara combinaciones institucionales y distribución del riesgo. Convertir la capitalización en un sinónimo de seguridad completa sería tan imprudente como tratar una promesa política como garantía material absoluta.
+Eso no significa que los derechos sean jurídicamente inexistentes. Significa que una expectativa regulada y un patrimonio propio son cosas distintas. Confundirlas facilita vender una obligación presente como si fuese una compra de seguridad sin riesgo político.
 
-## La transición tiene una factura
+## La promesa encuentra una cuenta
 
-Si las cotizaciones nuevas pasan a cuentas individuales, ¿qué recursos pagan las pensiones de quienes ya están jubilados? Esta pregunta no refuta cualquier reforma; exige financiarla. Deuda, impuestos, reducción de otros gastos o cambios graduales implican costes para personas identificables.
+De manera simplificada, los ingresos dependen de cuántas personas aportan y cuánto aporta cada una. El gasto depende de cuántas cobran y cuánto recibe cada cual. Si cambia la relación entre ambos lados, alguien debe ajustar su consumo, su ahorro o sus compromisos.
 
-Una propuesta defendible debe detallar cohortes, calendario, derechos comprometidos y escenarios adversos. También debe explicar cómo proteger a quien cuidó familiares, sufrió discapacidad o tuvo ingresos insuficientes para ahorrar.
+Endeudarse desplaza parte de la factura. Subir cotizaciones reduce otros recursos disponibles. Recortar prestaciones o retrasar el acceso cambia lo prometido. Financiar con impuestos generales no elimina el coste: lo distribuye por otra vía.
 
-Las cuentas nocionales merecen una distinción adicional: pueden mejorar la transparencia de un reparto, pero no son por ello fondos invertidos a nombre de cada trabajador. Confundir una anotación de derechos con una cartera de activos vuelve a ocultar el mecanismo que se quiere discutir.
+El estudio de AIReF de mayo de 2026 proyecta, a políticas constantes, gasto en pensiones del 16,4 % del PIB en 2050. Advierte que cumplir formalmente la regla no garantiza sostenibilidad fiscal. No es una fecha de quiebra automática: es un escenario que muestra la presión de mantener los compromisos bajo determinados supuestos.
 
-## Menos guerra entre edades
 
-La elección pública ayuda a analizar incentivos electorales, pero no autoriza a tratar a todos los pensionistas como una clientela ni a todos los trabajadores como perjudicados idénticos. Hay jubilados pobres, jóvenes con patrimonio y diferencias grandes dentro de cada generación.
+```oneshot
+{"type":"concept-flow","title":"Una promesa que necesita recursos reales","steps":[{"title":"Aportar hoy","text":"El trabajo actual financia prestaciones actuales."},{"title":"Prometer mañana","text":"Quien aporta espera recibir en el futuro."},{"title":"Cambiar la relación","text":"Demografía, empleo y productividad alteran la cuenta."},{"title":"Ajustar","text":"Impuestos, deuda o prestaciones trasladan costes a personas concretas."}],"note":"Esquema conceptual de una propuesta, no una estimación de resultados."}
+```
 
-La crítica liberal gana fuerza si dirige su exigencia a reglas transparentes y compromisos sostenibles. La solidaridad no debería depender de que una mayoría pueda aplazar costes difíciles de ver. La autonomía tampoco se preserva trasladando todo el riesgo a quienes menos capacidad tienen para soportarlo.
 
-## Una reforma que se pueda examinar
+## El ahorro que deja de construirse
 
-La pregunta decisiva no es qué etiqueta promete más. Es qué combinación de protección mínima, ahorro, propiedad y ajuste distribuye mejor riesgos y responsabilidades. El programa debe poder explicarse con un balance, un calendario y una respuesta a la mala suerte.
+Si una parte importante de la capacidad de reservar recursos se consume en pagos obligatorios, queda menos margen para preparar un patrimonio propio. La confianza en que el Estado proveerá puede reducir además el incentivo a construirlo.
 
-Un puente se evalúa por lo que soporta. También por cómo se repara cuando todavía hay gente cruzándolo.
+La pérdida afecta también a la inversión. El dinero que no se reserva para herramientas, instalaciones y aprendizaje puede representar una capacidad productiva que no llega a existir. El [panadero que quería un horno mayor](../el-capital-que-no-llega-a-nacer/) muestra ese recorrido: sin recursos para invertir, sigue produciendo con los medios anteriores.
+
+El efecto agregado depende de muchas condiciones; no todo euro cotizado habría ido a una inversión productiva. Pero una promesa de prestación no reemplaza automáticamente el capital real que permite sostener un nivel de vida mayor.
+
+## Preparar la vejez sin entregar el futuro
+
+El ahorro individual, los seguros, las mutualidades y las aportaciones voluntarias pueden organizar compromisos de largo plazo. Conviene diversificar, vigilar costes y prever riesgos de longevidad, inflación y mala gestión. Ningún instrumento convierte el futuro en una certeza absoluta.
+
+También hace falta ayuda para quien no pudo reunir recursos, sufrió discapacidad o dedicó años a cuidados sin remuneración. Una sociedad voluntaria necesita describir redes y compromisos capaces de sostener esa atención. La crítica al sistema no autoriza a borrar a las personas que dependen de él.
+
+Permitir alternativas exige una transición con calendario y financiación visibles. Quienes ya están jubilados no recuperan cuarenta años de capacidad de ahorrar porque se anuncie otro modelo. Mantenerlos como rehenes de una promesa tampoco debería servir para imponer la misma dependencia a todas las generaciones siguientes.
+
+## Menos guerra entre edades, más autonomía
+
+El conflicto no debe dirigirse contra una persona por ser mayor. Debe dirigirse a una estructura que puede enfrentar al joven que necesita construir su vida con quien teme perder su sustento, y utilizar ambos temores para conservar poder.
+
+El criterio es individual: qué recursos tiene cada cual, qué aceptó y qué compromisos deben atenderse. La solidaridad no se demuestra celebrando que quien tiene menos financie por obligación a quien tiene más. Se demuestra atendiendo necesidades sin convertirlas en un título de propiedad sobre otras vidas.
 
 ## Lecturas y fuentes
 
-
-```oneshot
-{"type":"source-note","source":"AIReF · Informe de evaluación de la regla de gasto de pensiones, 2025","url":"https://www.airef.es/wp-content/uploads/2025/03/Informe_regla_de_gasto_de_pensiones/Informe.pdf","date":"2026-10-28","description":"Escenario de marzo de 2025: del 12,7 % del PIB en 2022 al 16,1 % en 2050.","methodology":"Las proyecciones dependen de productividad, empleo, migración, demografía y normativa. Se identifica la edición utilizada."}
-```
-
-
-- La deuda actuarial implícita y la deuda pública negociable son conceptos distintos y no se suman mecánicamente.
+- [AEAT, salarios por edad, 2024](https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2024/jrubik1d61a5d508bbd40a06cab8068be36ad28473df5c.html) y [pensiones por edad, 2024](https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2024/jrubikf364386328d95be1e584fc27588048aff2fbeb112.html), ingresos íntegros efectivos en territorio común.
+- [AEAT, metodología](https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2024/docs/mtp/markoff_metod_mtp2024.pdf), cobertura y límites de los promedios.
+- [AIReF, evaluación de la regla de gasto de pensiones, mayo de 2026](https://www.airef.es/wp-content/uploads/2026/05/Pensiones/AIReF.-Estudio-de-evaluacion-de-la-regla-de-gasto-de-pensiones.pdf), escenario condicionado. No se presenta una proyección como dato observado.
+- [Una promesa no es un patrimonio](../una-promesa-no-es-un-patrimonio/), guía de quince pasos del documental sobre pensiones y desarrollo de sus cuestiones filosóficas.

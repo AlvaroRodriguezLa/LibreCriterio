@@ -22,4 +22,13 @@ for(const route of routes){
   assert.doesNotMatch(html,/documento maestro|pptLIB/i,'Procedencia de trabajo expuesta');
  }
 }
-console.log('Rutas publicadas: los 20 pasos mantienen avance, retroceso y prefijo de GitHub Pages');
+console.log('Rutas publicadas: '+routes.reduce((n,r)=>n+r.slugs.length,0)+' pasos mantienen avance, retroceso y prefijo de GitHub Pages');
+
+const dossier=JSON.parse(await readFile('src/data/political-cases.json','utf8'));
+const dossierHtml=await readFile(path.join(root,'expedientes/index.html'),'utf8');
+const dossierIds=[...dossierHtml.matchAll(/\sid="([^"]+)"/g)].map(m=>m[1]);
+assert.equal(new Set(dossierIds).size,dossierIds.length,'Anclas duplicadas en expediente');
+for(const entry of dossier.cases)assert.ok(dossierIds.includes('caso-'+entry.id),'Ficha no publicada: '+entry.id);
+assert.ok(dossierIds.includes('ceuta'),'Cronología sin ancla');
+assert.doesNotMatch(dossierHtml,/agente principal|acceso web inicial/i,'Nota de trabajo expuesta');
+console.log('Expediente publicado: '+dossier.cases.length+' fichas y anclas únicas verificadas');

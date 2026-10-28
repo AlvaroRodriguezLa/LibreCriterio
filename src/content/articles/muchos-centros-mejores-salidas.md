@@ -43,7 +43,7 @@ Tampoco toda diferencia es una innovación. Puede haber favoritismo, barreras a 
 
 ## Votar con los pies
 
-Somin destaca que elegir dónde vivir o qué institución utilizar puede dar incentivos intensos para informarse, porque la decisión tiene consecuencias directas sobre la propia vida. Esa intuición conecta elección, salida y responsabilidad.
+Elegir dónde vivir o qué institución utilizar tiene consecuencias directas sobre la propia vida y puede dar motivos intensos para informarse. La posibilidad de salir conecta una preferencia con una decisión que realmente se puede tomar.
 
 El argumento no obliga a sustituir toda voz política por mudanzas. Que una persona pueda irse no significa que una norma injusta quede justificada para quienes permanecen. Tampoco significa que todas puedan marcharse en condiciones parecidas.
 

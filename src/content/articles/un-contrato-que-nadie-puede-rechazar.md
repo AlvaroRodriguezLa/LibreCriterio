@@ -23,9 +23,17 @@ imageFit: "contain"
 
 Una organización coloca vigilantes en tu calle. Nadie te ha pedido permiso. Al final del mes presenta una factura y explica que debes pagar porque estás más protegido. Si te niegas, los mismos vigilantes que debían cuidarte vendrán a ejecutar el cobro.
 
-Puedes agradecer que haya menos robos y seguir rechazando el trato. El beneficio recibido no reemplaza el consentimiento que faltaba. **No se adquiere un derecho sobre otra persona prestándole un servicio que no ha contratado.** Si así fuera, cualquiera podría fabricar obligaciones ajenas anunciando una utilidad.
+Que haya menos robos no obliga a aceptar el trato. El beneficio recibido no reemplaza el consentimiento que faltaba. **No se adquiere un derecho sobre otra persona prestándole un servicio que no ha contratado.** Si así fuera, cualquiera podría fabricar obligaciones ajenas anunciando una utilidad.
 
 La incomodidad crece cuando quien exige el pago también impide contratar protección a otro. Ya no ofrece una solución entre varias: decide que debes comprar la suya y establece las consecuencias de tu negativa.
+
+## El bocadillo no devuelve el consentimiento
+
+Si alguien te quita la cartera y después te compra un bocadillo con una parte del dinero, no ha convertido el robo en una compra voluntaria. Puedes comerte el bocadillo, necesitarlo e incluso disfrutarlo. Ninguna de esas cosas cambia cómo obtuvo tu dinero.
+
+**Llamar robo al impuesto expresa aquí un juicio moral: apropiarse de recursos de una persona pacífica contra su voluntad.** La ley utiliza categorías distintas y no tipifica el tributo como robo. Pero la aprobación de una ley no contesta la objeción: quienes la votan no eran propietarios de ese trabajo ni pueden fabricar el consentimiento que falta.
+
+No se trata de encontrar un bocadillo suficientemente bueno. Si la utilidad posterior bastase, cualquier apropiación podría legitimarse escogiendo después un destino atractivo para una parte del botín. El derecho a decidir desaparecería en cuanto otro prometiera gastar mejor.
 
 ## La mafia y la protección obligatoria
 
@@ -58,6 +66,14 @@ Alguien puede responder que usamos carreteras, hospitales o escuelas y que, por 
 No hace falta negar que esos servicios puedan ser valiosos. Precisamente porque importan, conviene separar su utilidad de la forma de obtener la colaboración de quienes los sostienen. Una necesidad compartida invita a buscar acuerdos; no convierte a cada vecino en una cuenta corriente a disposición de otro.
 
 La alternativa de marcharse tampoco crea retrospectivamente una firma. Abandonar tu casa, tus afectos y tu trabajo es un coste enorme. Una relación no se vuelve voluntaria solo porque puedas escapar de su territorio dejando atrás buena parte de tu vida.
+
+## Romper las piernas y ofrecer las muletas
+
+La imagen de un poder que te rompe las piernas y después te entrega muletas señala otra operación: crear o agravar una dependencia y presentar la asistencia posterior como motivo de gratitud.
+
+Pensemos en un caso hipotético. Una persona podría sostenerse abriendo un taller. Los permisos, costes fijos y restricciones de entrada vuelven inviable el proyecto antes de empezar. Después se le ofrece una ayuda y se la presenta como prueba de que necesita a quien puso las barreras. El empleo que no pudo crear queda fuera de la fotografía; la transferencia tiene una ceremonia de entrega.
+
+La metáfora no afirma que toda necesidad haya sido creada por el Estado. Denuncia un círculo concreto: obstaculizar la autonomía, administrar la dependencia y utilizar esa dependencia para justificar más tutela. Antes de elogiar las muletas conviene preguntar quién impide caminar y qué ocurriría si dejara de hacerlo.
 
 ## Un contrato necesita partes, límites y una negativa posible
 
