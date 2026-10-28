@@ -1,0 +1,1 @@
+export function GET({site}){const origin=site?.origin||'https://alvarorodriguezla.github.io';const base=import.meta.env.BASE_URL||'/';return new Response('User-agent: *\nAllow: /\nDisallow: '+base+'studio/\nSitemap: '+origin+base+'sitemap-index.xml\n',{headers:{'Content-Type':'text/plain'}});}

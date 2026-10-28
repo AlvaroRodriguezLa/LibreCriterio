@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.astro/
+.vercel/
+.env
+.env.*
+!.env.example
+.codex-attachments/
+tmp/
+research/*.txt
+public/social/
+__pycache__/
+research/
+.archify/
+output/

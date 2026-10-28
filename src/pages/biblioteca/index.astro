@@ -1,0 +1,5 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import books from '../../data/library.json';
+---
+<BaseLayout title="Biblioteca comentada"><section class="wrapper page-intro"><p class="eyebrow">22 LECTURAS / CLÁSICOS E INTERLOCUTORES</p><h1>Una tradición.<br/><em>Muchas voces.</em></h1><p>Qué leer, qué pregunta abre cada obra y dónde conviene discutirla. Las fichas distinguen textos accesibles, guías y referencias del corpus cuya lectura integral queda pendiente.</p></section><section class="wrapper book-grid">{books.map(b=><article class="book-card"><span class="book-kind">{b.area} · {b.year}</span><h2>{b.title}</h2><p><strong>{b.author}</strong></p><h3>Para qué leerlo</h3><p>{b.why}</p><h3>Una tensión que conservar</h3><p>{b.tension}</p><p class="eyebrow">{b.access}</p>{b.url&&<a class="text-button" href={b.url} target="_blank" rel="noopener noreferrer">Consultar referencia ↗</a>}</article>)}</section></BaseLayout>

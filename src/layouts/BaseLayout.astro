@@ -1,0 +1,20 @@
+---
+import '../styles/global.css';
+import { siteConfig } from '../config/site';
+import { sitePath } from '../lib/content';
+interface Props { title?:string; description?:string; canonical?:string; socialImage?:string; }
+const {title=siteConfig.name,description=siteConfig.description,canonical,socialImage}=Astro.props;
+const fullTitle=title===siteConfig.name?title:`${title} · ${siteConfig.name}`;
+const canonicalUrl=canonical||new URL(Astro.url.pathname,Astro.site||siteConfig.baseUrl).toString();
+const image=new URL(socialImage||sitePath('/social/home.png'),Astro.site||siteConfig.baseUrl).toString();
+---
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width"/><meta name="theme-color" content="#ece9e1"/>
+<title>{fullTitle}</title><meta name="description" content={description}/><link rel="canonical" href={canonicalUrl}/>
+<meta property="og:type" content={Astro.url.pathname.includes('/articulos/')?'article':'website'}/><meta property="og:title" content={fullTitle}/><meta property="og:description" content={description}/><meta property="og:url" content={canonicalUrl}/><meta property="og:image" content={image}/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content={fullTitle}/><meta name="twitter:description" content={description}/><meta name="twitter:image" content={image}/>
+<link rel="icon" href={sitePath('/favicon.svg')} type="image/svg+xml"/><link rel="stylesheet" href={sitePath('/article-blocks.css')}/><link rel="alternate" type="application/rss+xml" title="Libre Criterio" href={sitePath('/rss.xml')}/><slot name="head"/></head>
+<body><a class="skip-link" href="#contenido">Ir al contenido</a>
+<header class="site-header wrapper"><a class="wordmark" href={sitePath('/')} aria-label="Libre Criterio, inicio"><span class="brand-icon" aria-hidden="true">↗</span> LIBRE CRITERIO<span class="brand-sub">CUADERNOS DE LIBERTAD</span></a><nav aria-label="Navegación principal"><a href={sitePath('/archivo/')}>Ensayos</a><a href={sitePath('/rutas/')}>Por dónde empezar</a><a href={sitePath('/biblioteca/')}>Biblioteca</a><a href={sitePath('/laboratorio/')}>Laboratorio</a></nav></header>
+<main id="contenido"><slot/></main>
+<footer class="site-footer wrapper"><div><a class="wordmark" href={sitePath('/')}>LIBRE CRITERIO ↗</a><p>La libertad también se piensa.</p></div><div><a href={sitePath('/metodo/')}>Criterio editorial</a><a href={sitePath('/glosario/')}>Glosario</a><a href={sitePath('/agenda/')}>Próximas preguntas</a><a href={sitePath('/rss.xml')}>RSS</a></div><p>Ensayo, interpretación y evidencia.<br/>© {new Date().getFullYear()} · Álvaro Rodríguez</p></footer>
+</body></html>

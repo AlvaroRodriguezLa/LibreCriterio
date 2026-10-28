@@ -1,0 +1,4 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';import glossary from '../../data/glossary.json';
+---
+<BaseLayout title="Glosario"><section class="wrapper page-intro"><p class="eyebrow">24 CONCEPTOS / SIN ATAJOS</p><h1>Palabras para<br/><em>pensar mejor.</em></h1><p>Definiciones breves para acompañar los ensayos. La precisión importa especialmente cuando una palabra se convierte en argumento.</p></section><dl class="wrapper glossary">{glossary.map(([term,definition])=><div><dt>{term}</dt><dd>{definition}</dd></div>)}</dl></BaseLayout>

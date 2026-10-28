@@ -1,0 +1,4 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';import agenda from '../../data/agenda.json';
+---
+<BaseLayout title="Próximas preguntas"><section class="wrapper page-intro"><p class="eyebrow">AGENDA EDITORIAL / INVESTIGACIÓN PENDIENTE</p><h1>Lo que todavía<br/><em>merece una respuesta.</em></h1><p>Doce líneas para ampliar la publicación. Son propuestas de investigación: no artículos ya demostrados ni publicaciones programadas.</p></section><section class="wrapper book-grid">{agenda.map(([title,question,sources],i)=><article class="book-card"><p class="eyebrow">PREGUNTA {String(i+1).padStart(2,'0')}</p><h2>{title}</h2><p>{question}</p><h3>Por dónde investigar</h3><p>{sources}</p></article>)}</section></BaseLayout>

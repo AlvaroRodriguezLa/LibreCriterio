@@ -1,0 +1,43 @@
+[
+  {
+    "title": "La intuición de la libertad",
+    "lead": "Empieza por autonomía, límites y desacuerdo. No requiere formación económica.",
+    "slugs": [
+      "tu-vida-no-es-un-proyecto-del-poder",
+      "un-contrato-que-nadie-puede-rechazar",
+      "la-mayoria-no-lo-puede-todo",
+      "el-poder-no-cambia-al-cambiar-de-bandera"
+    ]
+  },
+  {
+    "title": "Cómo coordina una sociedad",
+    "lead": "Precios, información, inversión y el coste de impedir nuevos ensayos.",
+    "slugs": [
+      "el-conocimiento-no-cabe-en-un-despacho",
+      "sin-precios-no-hay-brujula",
+      "el-capital-que-no-llega-a-nacer",
+      "inflacion-el-reloj-del-ahorro"
+    ]
+  },
+  {
+    "title": "Seguir el recorrido del dinero",
+    "lead": "De la nómina a las prestaciones, con supuestos y bases de cálculo visibles.",
+    "slugs": [
+      "la-nomina-que-no-ves",
+      "redistribuir-no-es-solo-repartir",
+      "pensiones-el-puente-entre-generaciones",
+      "la-politica-tambien-tiene-incentivos"
+    ]
+  },
+  {
+    "title": "Probar las alternativas",
+    "lead": "Servicios, cooperación y casos difíciles. Termina poniendo a prueba el argumento.",
+    "slugs": [
+      "un-derecho-no-es-un-proveedor",
+      "muchos-centros-mejores-salidas",
+      "cooperar-sin-un-director-unico",
+      "el-precio-del-alquiler-y-la-puerta-de-entrada",
+      "las-objeciones-que-hay-que-responder"
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';import routes from '../../data/routes.json';import {getPublishedArticles,articlePath} from '../../lib/content';
+const articles=await getPublishedArticles();
+---
+<BaseLayout title="Por dónde empezar"><section class="wrapper page-intro"><p class="eyebrow">CUATRO RUTAS DE LECTURA</p><h1>Elige tu<br/><em>primera pregunta.</em></h1><p>Puedes leer los ensayos por separado o seguir uno de estos recorridos. Cada ruta reúne un argumento y sus consecuencias.</p></section><section class="wrapper route-grid">{routes.map((r,i)=><article class="route-card"><p class="eyebrow">RUTA 0{i+1}</p><h2>{r.title}</h2><p>{r.lead}</p><ol>{r.slugs.map(slug=>{const a=articles.find(a=>a.data.slug===slug);return a&&<li><a href={articlePath(slug)}>{a.data.title}</a></li>;})}</ol></article>)}</section></BaseLayout>

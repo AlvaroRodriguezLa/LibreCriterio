@@ -1,0 +1,10 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';import ArticleCard from '../../components/ArticleCard.astro';import {getPublishedArticles} from '../../lib/content';import {categoryConfig} from '../../config/site';
+const articles=(await getPublishedArticles()).sort((a,b)=>a.data.order-b.data.order);
+---
+<BaseLayout title="Todos los ensayos"><section class="wrapper page-intro"><p class="eyebrow">EL ARCHIVO / {articles.length} ENSAYOS</p><h1>Una idea lleva<br/>a <em>otra.</em></h1><p>Busca una pregunta, un autor o un concepto. Todos los artículos son de acceso libre.</p></section><section class="wrapper"><form class="search-tools" role="search" onsubmit="return false"><label>Buscar en los ensayos<input type="search" id="search" placeholder="Prueba: precios, democracia, pensiones…"/></label><label>Filtrar por tema<select id="category"><option value="">Todos los temas</option>{categoryConfig.map(c=><option value={c.source}>{c.label}</option>)}</select></label></form><p id="result-count" class="eyebrow" role="status" aria-live="polite">{articles.length} ensayos</p><div class="article-grid-list" id="results">{articles.map(article=><ArticleCard article={article}/>)}</div><p id="no-results" hidden>No hay ensayos que coincidan. Prueba otro término o tema.</p></section></BaseLayout>
+<script>
+const search=document.querySelector<HTMLInputElement>('#search')!;const category=document.querySelector<HTMLSelectElement>('#category')!;const norm=(s:string)=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+function filter(){let n=0;document.querySelectorAll<HTMLElement>('[data-search]').forEach(card=>{const visible=norm(card.dataset.search||'').includes(norm(search.value))&&(!category.value||card.dataset.category===category.value);card.hidden=!visible;if(visible)n++;});document.querySelector('#result-count')!.textContent=`${n} ${n===1?'ensayo':'ensayos'}`;(document.querySelector('#no-results') as HTMLElement).hidden=n>0;}
+search.addEventListener('input',filter);category.addEventListener('change',filter);
+</script>

@@ -1,0 +1,10 @@
+---
+import type {CollectionEntry} from 'astro:content';
+import {articlePath,categoryPath,sitePath,readingTime} from '../lib/content';
+import {categoryLabel} from '../config/site';
+interface Props {article:CollectionEntry<'articles'>;compact?:boolean;}
+const {article,compact=false}=Astro.props;const {data}=article;
+---
+<article class:list={['article-card',{compact}]} data-search={`${data.title} ${data.excerpt} ${data.tags.join(' ')}`} data-category={data.category}>
+<a class="card-image" href={articlePath(data.slug)} tabindex="-1" aria-hidden="true"><img src={sitePath(data.image)} alt="" loading="lazy" width="720" height="540"/></a>
+<div class="card-copy"><p class="eyebrow"><a href={categoryPath(data.category)}>{categoryLabel(data.category)}</a><span>{readingTime(article.body||'')} min</span></p><h3><a href={articlePath(data.slug)}>{data.title}</a></h3><p class="card-excerpt">{data.excerpt}</p><span class="card-arrow" aria-hidden="true">↗</span></div></article>
