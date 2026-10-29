@@ -57,6 +57,14 @@ Una ciudad financiera no equivale a un país grande. Cambian lo que produce, qui
 
 El mecanismo que interesa es más concreto: cuando las personas pueden elegir otras ofertas y los proveedores no pueden cerrarles el paso, perder su confianza tiene consecuencias. Hay que comprobar cómo opera en cada caso.
 
+## Cuando una bandera reúne también el mando
+
+En 1871, mientras las tropas alemanas sitiaban París, se proclamó un nuevo Imperio alemán. La unión política avanzó en medio de una guerra y conservó competencias para varios de sus territorios. La historia no demuestra que toda unión necesite violencia ni que la descentralización impida cualquier conflicto. Sí recuerda que una frontera más grande no es, por sí sola, una libertad nueva para las personas que viven dentro.
+
+Una autoridad que concentra la decisión puede reunir recursos, extender obligaciones y movilizar a más personas para un mismo fin. Quien celebra una bandera necesita preguntarse también quién decide, quién paga y qué salida conserva quien discrepa. Más tarde, los seguros sociales añadieron otra relación entre la población y el poder que establecía sus condiciones. Sus ayudas pueden ser reales; tampoco por eso desaparece la pregunta por la elección de quienes las financian.
+
+El tamaño pequeño no garantiza el respeto a nadie. La diferencia aparece cuando existen alternativas efectivas, límites a la agresión y posibilidad de abandonar una relación. Una comunidad cercana puede servirte mejor que una autoridad lejana; también puede convertirse en otro dueño si no te deja marchar.
+
 ## Compartir reglas sin uniformar la vida
 
 Un acuerdo que permite trabajar, comerciar o contratar entre lugares amplía las opciones. Uno que exige hacer todo de la misma manera las reduce. La diferencia importa más que la altura administrativa de quien dicta la regla.
@@ -70,6 +78,10 @@ Una red puede compartir información y pactar conexiones sin tener un dueño de 
 Así se limita el error sin convertir cada comunidad en una isla: conservar otras opciones, hacer visibles los resultados y compartir lo aprendido. Si un método falla, quienes lo sufren necesitan una salida; quienes no lo eligieron no tienen por qué quedar atrapados en el mismo experimento.
 
 ## Lecturas y fuentes
+
+- [Libertad Y Lo Que Surja · Otto von Bismarck](https://www.youtube.com/watch?v=VLi7JF_zTh8), crítica a la concentración del poder y los seguros sociales.
+- [Museo Histórico Alemán · Fundación del Imperio alemán durante la guerra](https://www.dhm.de/lemo/rueckblick/lemo-rueckblick-1871-reichsgruendung-im-krieg), unión de 1871 y competencias territoriales.
+- [Servicio científico del Bundestag · Historia de los seguros sociales](https://www.bundestag.de/resource/blob/410296/WD-1-022-12-pdf.pdf), leyes de enfermedad, accidentes y vejez entre 1883 y 1889.
 
 - Ilya Somin, *Free to Move: Foot Voting, Migration, and Political Freedom* (2020).
 - Charles Tiebout, *A Pure Theory of Local Expenditures* (1956), modelo con supuestos exigentes sobre movilidad e información.

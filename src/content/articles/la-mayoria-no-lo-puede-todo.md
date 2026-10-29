@@ -75,6 +75,8 @@ Que pierda tu partido no debería significar perder el derecho a vivir a tu mane
 
 ## Lecturas y fuentes
 
+- [Libertad Y Lo Que Surja · The 7 MISTAKES of LIBERALISM and DEMOCRACY - 2 IMPOSSIBLE Systems](https://www.youtube.com/watch?v=g3KgcnZNzNA).
+
 - [Sobre la libertad](https://oll.libertyfund.org/titles/mill-on-liberty-and-the-subjection-of-women-1879-ed), límites a la presión social y a la tiranía de la mayoría.
 - [Constitución española, artículos 66 y 67](https://www.senado.es/web/conocersenado/normas/constitucion/detalleconstitucioncompleta/index.html?lang=es_ES), funciones de las Cortes y prohibición del mandato imperativo.
 - El resultado 51–49 es un ejemplo hipotético, no el recuento de una elección concreta. La discusión de disciplina describe incentivos; no afirma que todos los diputados voten siempre igual ni que toda discrepancia termine en expulsión.

@@ -14,3 +14,9 @@ assert.ok(entries.some(e=>e.data.featured));
 assert.ok(Math.abs(58.6/1.21-48.429752)<.00001);assert.ok(Math.abs(100/1.03**10-74.409391)<.00001);
 for(const {body} of entries){assert.doesNotMatch(body,/documento maestro|pptLIB|el maestro|texto satélite/i,'Referencia de trabajo expuesta');assert.ok(body.includes('## Lecturas y fuentes'),'Ensayo sin fuentes');assert.ok(body.split(/\s+/).length>500,'Ensayo demasiado breve');}
 console.log('Contenido: '+entries.length+' ensayos, fuentes, portadas, rutas y relaciones coherentes');
+
+// Las fuentes audiovisuales se mantienen en bibliografía, no como referencia al proceso de transcripción dentro del ensayo.
+const requestedVideos=JSON.parse(await readFile('tools/youtube-sources.json','utf8')).videos;
+for(const video of requestedVideos){assert.ok(entries.some(({body})=>(body.split('## Lecturas y fuentes')[1]||'').includes('watch?v='+video.id)),'Falta fuente audiovisual '+video.id);}
+for(const {body} of entries){const prose=body.split('## Lecturas y fuentes')[0];assert.doesNotMatch(prose,/transcripci[oó]n|en (?:este|el) v[ií]deo|gu[ií]a del documental/i,'Referencia al proceso audiovisual dentro del ensayo');}
+console.log('Fuentes audiovisuales: '+requestedVideos.length+' enlaces localizados en bibliografía; prosa sin referencias al proceso de transcripción');

@@ -1,4 +1,8 @@
-# Verificación de Una vida propia · edición del 29 de octubre
+# Verificación de Una vida propia · ampliación a 40 capítulos
+
+En la ampliación posterior se han incorporado el ensayo personal sobre una vida menos pendiente de la política y un ensayo sobre progreso y capacidad de elección. Los 41 enlaces audiovisuales solicitados figuran en las fuentes de capítulos relacionados. El contenido del antiguo recorrido por minutos de pensiones se ha integrado en prosa y las fuentes permanecen al pie. Una comparación automática orientativa no encontró secuencias idénticas de nueve palabras entre los seis vídeos prioritarios y los cuerpos de los ensayos; no es garantía absoluta de originalidad.
+
+## Verificación histórica de la edición de 38 capítulos
 
 La edición ampliada reúne 38 capítulos en cinco partes y 26 lecturas, con seis referencias principales de los cinco autores solicitados. La base siguiente deja separadas las comprobaciones nuevas y la verificación histórica.
 

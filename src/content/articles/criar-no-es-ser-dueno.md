@@ -66,6 +66,10 @@ Tu hijo podrá agradecer lo que hiciste y elegir una vida que no esperabas. Esa 
 
 ## Lecturas y fuentes
 
+- [Juan Ramón Rallo · Los hijos no son del Estado](https://www.youtube.com/watch?v=ECioYubkBpo).
+- [Juan Ramón Rallo · Más allá del pin parental: ¿qué hacer contra los comportamientos incívicos?](https://www.youtube.com/watch?v=eLu3RqobTco).
+- [Juan Ramón Rallo · Más allá del pin parental: la prerrogativa del Estado a "reeducar" a sus ciudadanos](https://www.youtube.com/watch?v=g6LR2tzUIT8).
+
 - [Juan Ramón Rallo, encuentro con lectores del 14 de octubre de 2016](https://elconfidencial.dilmot.com/streams/responde-juan-ramon-rallo-1/embed), respuesta a la pregunta sobre educación obligatoria: deber parental de educar y alimentar. Consulta de pasajes indexados; no se afirma que todos los autores liberales coincidan en cada fundamento del deber de cuidado.
 - [Convención sobre los Derechos del Niño](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child), artículos 5, 12, 18 y 19: capacidades en evolución, derecho a ser escuchado, responsabilidades parentales y protección frente al maltrato. Texto primario consultado en pasajes indexados; se distinguen esos principios de la organización estatal prevista en el tratado.
 - [Juan Ramón Rallo, Lo que el liberalismo también es](https://juanramonrallo.com/lo-que-el-liberalismo-tambien-es/), artículo del autor sobre libertad personal y derechos de terceros; consulta de pasajes indexados.

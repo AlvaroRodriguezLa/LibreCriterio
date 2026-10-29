@@ -7,7 +7,7 @@ image: "/images/las-objeciones-que-hay-que-responder.svg"
 imageAlt: "Ilustración conceptual: Las objeciones que hay que responder"
 category: "Debates"
 tags: ["Debates","libertad"]
-order: 37
+order: 38
 masterPages: "63–66; desarrollo del capítulo 26"
 satellites: []
 thesis: "Resolver problemas requiere acuerdos y responsabilidad; la dificultad de resolverlos no concede un derecho a dirigir vidas pacíficas."

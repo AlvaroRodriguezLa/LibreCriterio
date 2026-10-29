@@ -1,5 +1,7 @@
 # Auditoría de ampliación · 29 de octubre de 2026
 
+**Corte histórico de 38 capítulos.** La edición posterior reúne 40, incluye el ensayo personal y ha integrado en la prosa la guía que aquí se menciona. Véase [el mapa actualizado de fuentes](FUENTES_AUDIOVISUALES.md).
+
 Documento interno. No modifica capítulos ni publica la web. Corte de lectura inicial y cierres: 29 de octubre de 2026. Estado técnico actualizado al cierre de esta edición.
 
 El recorrido local tiene **38 capítulos únicos en cinco partes**. De los 41 temas de la matriz de ampliación, **37 tienen desarrollo en el cuerpo, uno está desarrollado en notas, la preferencia bibliográfica está atendida con alcance declarado y dos siguen como procesos incompletos**. Los cinco parciales detectados en la primera pasada se han cerrado con texto concreto. No hay un tema argumental completamente sin ubicación; esto no significa que cada vídeo, caso o variante institucional esté estudiado e integrado.

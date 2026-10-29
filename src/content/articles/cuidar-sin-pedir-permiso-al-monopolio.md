@@ -90,6 +90,8 @@ Una sanidad al servicio del paciente permite elegir, cambiar, reclamar y apoyar 
 
 ## Lecturas y fuentes
 
+- [Juan Ramón Rallo · Singapur: ¿el mejor sistema sanitario del mundo?](https://www.youtube.com/watch?v=xWu9F73XYKo).
+
 - [Ministerio de Sanidad, listas de espera a diciembre de 2025, edición rectificada](https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/docs/LISTAS_PUBLICACION_Dic_2025_rectificado.pdf). Rectificación de septiembre de 2026; no se usan las cifras previas de 853.509 pacientes y 121 días.
 - [OCDE, Towards an Integrated Health Information System in Korea, 2022](https://www.oecd.org/en/publications/towards-an-integrated-health-information-system-in-korea_c4e6c88d-en/full-report/component-6.html), organización del aseguramiento y de los proveedores. El porcentaje de hospitales identifica esa edición.
 - La organización mediante contratos voluntarios descrita en el ensayo es una propuesta; no se atribuye íntegramente al modelo surcoreano.

@@ -62,6 +62,10 @@ La poca influencia marginal, el coste de información y el rechazo a imponer fin
 
 ## Lecturas y fuentes
 
+- [Libertad Y Lo Que Surja · The 7 MISTAKES of LIBERALISM and DEMOCRACY - 2 IMPOSSIBLE Systems](https://www.youtube.com/watch?v=g3KgcnZNzNA).
+
+- [Juan Ramón Rallo · Por qué no voto](https://www.youtube.com/watch?v=W4hCB0nGk6s).
+
 - [Voting and the calculus of consent](https://www.econlib.org/library/Buchanan/buchCv3.html), para examinar costes y reglas de las decisiones colectivas.
 - [La constitución sin autoridad](https://oll.libertyfund.org/titles/spooner-no-treason-no-vi-the-constitution-of-no-authority-1870), crítica a interpretar participación o residencia como consentimiento general.
 - Anthony Downs, *An Economic Theory of Democracy* (1957), información y pequeños incentivos individuales en elecciones masivas.

@@ -1,5 +1,7 @@
 # Integración de los seis vídeos prioritarios
 
+**Corte histórico de 38 capítulos.** La edición posterior incorpora un ensayo propio sobre progreso y una ampliación sobre centralización, y añade los seis enlaces a las fuentes de los capítulos relacionados.
+
 Corte final: 29 de octubre de 2026. Auditoría interna de **87 argumentos de seis fichas**, cotejados contra los 38 capítulos locales. No modifica la prosa ni publica. Se revisan todas las entradas arguments de las seis fichas; no se afirma una nueva escucha o identificación visual de sus voces. Las fichas contienen las listas exactas de segmentos y el hash de la transcripción leída.
 
 ## Resultado final

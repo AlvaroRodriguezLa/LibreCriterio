@@ -68,6 +68,9 @@ La discusión se vuelve concreta cuando dejamos de preguntar solo por el título
 
 ## Lecturas y fuentes
 
+- [Juan Ramón Rallo · ¿Monarquía o república?](https://www.youtube.com/watch?v=CilCch-3JuU).
+- [Juan Ramón Rallo · El vídeo de Javier Milei que ha recomendado Elon Musk](https://www.youtube.com/watch?v=9XnyO68q1uY).
+
 - [Parlament de Catalunya, diario de sesiones del 27 de octubre de 2017, sesión 44.2](https://www.parlament.cat/document/dspcp/238145.pdf), resultado de la votación. Se dan cifras exactas, sin describir la ausencia como media cámara exacta.
 - [Discurso de Javier Milei en Davos, 17 de enero de 2024](https://www.casarosada.gob.ar/informacion/discursos/50299-palabras-del-presidente-de-la-nacion-javier-milei-en-el-54-reunion-anual-del-foro-economico-mundial-de-davos), fuente de su crítica a la casta. La valoración de la irreverencia es editorial.
 - [Congreso, diario de sesiones del 9 de septiembre de 2026](https://www.congreso.es/es/busqueda-de-publicaciones?_publicaciones_id_texto=%28DSCD-15-PL-202.CODI.%29&_publicaciones_legislatura=XV&_publicaciones_mode=mostrarTextoIntegro&p_p_id=publicaciones&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal), llamadas al silencio e incidencias. Una llamada al orden no permite generalizar la conducta a todos sus miembros.

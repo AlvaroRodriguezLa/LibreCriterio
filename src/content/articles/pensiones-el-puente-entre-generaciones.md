@@ -89,9 +89,12 @@ El criterio es individual: qué recursos tiene cada cual, qué aceptó y qué co
 
 ## Lecturas y fuentes
 
+- [Juan Ramón Rallo · Sólo dicen la verdad fuera de la política: las pensiones son una estafa piramidal](https://www.youtube.com/watch?v=XrdCP3viocU).
+- [Juan Ramón Rallo · ¿Son sostenibles las pensiones públicas o son inevitables los recortes?](https://www.youtube.com/watch?v=YKC2gL72wlA).
+
 - [AEAT, salarios por edad, 2024](https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2024/jrubik1d61a5d508bbd40a06cab8068be36ad28473df5c.html) y [pensiones por edad, 2024](https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2024/jrubikf364386328d95be1e584fc27588048aff2fbeb112.html), ingresos íntegros efectivos en territorio común.
 - [AEAT, metodología](https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2024/docs/mtp/markoff_metod_mtp2024.pdf), cobertura y límites de los promedios.
 - [AIReF, evaluación de la regla de gasto de pensiones, mayo de 2026](https://www.airef.es/wp-content/uploads/2026/05/Pensiones/AIReF.-Estudio-de-evaluacion-de-la-regla-de-gasto-de-pensiones.pdf), escenario condicionado. No se presenta una proyección como dato observado.
-- [Una promesa no es un patrimonio](../una-promesa-no-es-un-patrimonio/), guía de quince pasos del documental sobre pensiones y desarrollo de sus cuestiones filosóficas.
+- [Una promesa no es un patrimonio](../una-promesa-no-es-un-patrimonio/), patrimonio, promesas y libertad para organizar la jubilación.
 
 - [Eurostat, pensiones en las cuentas nacionales](https://ec.europa.eu/eurostat/cache/metadata/en/nasa_10_pens_esms.htm), derechos devengados y diferencia respecto a la deuda pública.

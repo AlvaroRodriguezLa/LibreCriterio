@@ -70,6 +70,12 @@ Lo que no te entrega el desacuerdo es su decisión. Dejarla vivir de otra manera
 
 ## Lecturas y fuentes
 
+- [Wall Street Wolverine · ¿Qué ocurriría si se LEGALIZARAN las DROGAS?](https://www.youtube.com/watch?v=qYTp_22CI2M).
+- [Wall Street Wolverine · ¿LEGALIZAR la PROSTITUCIÓN? 🔞](https://www.youtube.com/watch?v=jH-VDwnV5Cc).
+- [Wall Street Wolverine · ¿LEGALIZAR LAS ARMAS?](https://www.youtube.com/watch?v=9TQyvCJQmdo).
+- [Wall Street Wolverine · ¿LEGALIZAR LAS DROGAS?](https://www.youtube.com/watch?v=BK4TgmPS06M).
+- [Libertad Y Lo Que Surja · México legalizando las Drogas ¿A favor o en Contra? - El Noticiero Giliprogre 40](https://www.youtube.com/watch?v=isjPBYUU1P8).
+
 - [Juan Ramón Rallo, Lo que el liberalismo también es](https://juanramonrallo.com/lo-que-el-liberalismo-tambien-es/), artículo original con apartados sobre drogas, libertad sexual y diferencia entre prostitución consentida y trata. Se consultaron pasajes indexados; no se atribuye a esta fuente un análisis de todos los supuestos del capítulo.
 - [Juan Ramón Rallo, Gestación subrogada: una vía para crear familias, no para destruirlas](https://juanramonrallo.com/gestacion-subrogada-una-via-para-crear-familias-no-para-destruirlas/), reflexión sobre autonomía personal, desaprobación moral y derechos de terceros, incluidos los menores. La materia concreta de esa controversia no se desarrolla aquí.
 - [Juan Ramón Rallo, Liberalismo. Los 10 principios básicos del orden político liberal](https://www.planetadelibros.com/libro-liberalismo/291862?soporte=373164), referencia de lectura sobre libertad personal y respeto recíproco; ficha editorial consultada, sin declarar lectura integral.

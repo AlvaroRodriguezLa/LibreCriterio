@@ -69,6 +69,8 @@ El dinero sirve a los proyectos de las personas. Ningún emisor adquiere su ahor
 
 ## Lecturas y fuentes
 
+- [Juan Ramón Rallo · El oro como el mejor dinero posible](https://www.youtube.com/watch?v=eSouexEJ2IY).
+
 - [David Hume, Of Interest](https://www.econlib.org/library/LFBooks/Hume/hmMPL.html?chapter_num=32), experimento de cinco libras aparecidas durante la noche en el bolsillo de cada británico. La duplicación proporcional de saldos del inicio es una adaptación hipotética propia, no una cita literal de Hume.
 - [David Hume, Of Money](https://www.econlib.org/library/LFBooks/Hume/hmMPL.html?chapter_num=31), intervalos de ajuste y recepción desigual del dinero. No sostiene que cualquier expansión sea neutral de inmediato.
 - [Satoshi Nakamoto, Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf), diseño original de la red, validación e introducción de unidades; sección 10 sobre privacidad. No se infiere de ese diseño una cotización, rentabilidad o seguridad de cada intermediario.

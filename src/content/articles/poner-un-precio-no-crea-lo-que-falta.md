@@ -68,6 +68,13 @@ Una norma puede escribir una cantidad. Para que puedas cobrarla o comprar a ese 
 
 ## Lecturas y fuentes
 
+- [Juan Ramón Rallo · Los salarios no suben por decreto](https://www.youtube.com/watch?v=7QCWJbj7TEQ).
+- [Juan Ramón Rallo · ¿Por qué el salario mínimo no funciona?](https://www.youtube.com/watch?v=PafTaBGoDLM).
+- [Juan Ramón Rallo · Por qué prohibir los despidos es un error](https://www.youtube.com/watch?v=cMI-d56xdGQ).
+- [Juan Ramón Rallo · Salario mínimo y precariedad laboral](https://www.youtube.com/watch?v=YUvPew8x95A).
+- [Juan Ramón Rallo · La infantilización de España: el derecho a trabajar de lo que se ha estudiado](https://www.youtube.com/watch?v=uGTrqN-YD6g).
+- [Juan Ramón Rallo · ¿Quién debería cobrar más: un youtuber o un cirujano?](https://www.youtube.com/watch?v=3jRb-EN5l4Y).
+
 - [Juan Ramón Rallo, El salario mínimo perjudica a las pymes](https://www.elcato.org/el-salario-minimo-perjudica-las-pymes), artículo del autor publicado el 1 de enero de 2020. Se usa su análisis de diferencias entre empresas; no se trasladan sus cifras como datos actuales.
 - [Juan Ramón Rallo, ¿Por qué los despiden si se están forrando?](https://juandemariana.org/por-que-los-despiden-si-se-estan-forrando/), artículo del 27 de mayo de 2011. Referencia para distinguir producción de riqueza y mantenimiento de una plantilla; consulta de pasajes indexados.
 - [Jesús Huerta de Soto, Guía de estudio y programa de Economía Política](https://www.jesushuertadesoto.com/wp-content/uploads/2014/12/Curso_Internet_JHS_ebook_pro.pdf), apartado sobre precios máximos, página impresa 344. Material docente que recoge el mecanismo y remite a sus lecturas; no estimación empírica para todos los mercados.

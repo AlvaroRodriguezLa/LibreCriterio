@@ -80,6 +80,8 @@ No todos los proyectos acertarán. La libertad de intentar incluye descubrir un 
 
 ## Lecturas y fuentes
 
+- [Juan Ramón Rallo · El libre mercado contra las élites y las plebes extractivas](https://www.youtube.com/watch?v=IbpwTRjdxi8).
+
 - [CNMC, manual para pymes y administraciones, 4 de marzo de 2026](https://blog.cnmc.es/2026/03/04/manual-de-instrucciones-para-pymes-y-administraciones-principales-creacion-crecimiento/), propuestas de simplificación y entrada. Son recomendaciones, no reformas que se den por aprobadas.
 - El capítulo de educación examina un caso de escala mínima: [requisitos universitarios del Real Decreto 640/2021](https://www.boe.es/buscar/act.php?id=BOE-A-2021-12613).
 - Los ejemplos de proyectos que no nacen describen costes de oportunidad. No se les asigna una cifra agregada sin una estimación causal.

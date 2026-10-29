@@ -75,6 +75,8 @@ Una vida compartida puede estar llena de reglas, obligaciones aceptadas y apoyo 
 
 ## Lecturas y fuentes
 
+- [Libertad Y Lo Que Surja · ¿Qué es el AnarcoCAPITALISMO o VOLUNTARISMO?](https://www.youtube.com/watch?v=etbYlJoLVRA).
+
 - [Elinor Ostrom, Beyond Markets and States: Polycentric Governance of Complex Economic Systems (2010)](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641).
 - David T. Beito, *From Mutual Aid to the Welfare State* (2000), para la historia de sociedades fraternales estadounidenses.
 - La ampliación con Ostrom aporta un interlocutor institucional; no se la presenta como defensora de la abolición de todo Estado.

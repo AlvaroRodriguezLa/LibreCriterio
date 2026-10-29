@@ -80,6 +80,8 @@ La seguridad debe preservar tu independencia. Cuando exige entregarla, empieza a
 
 ## Lecturas y fuentes
 
+- [Libertad Y Lo Que Surja · (ANARCHOCAPITALISM) Justice, laws and security. How would they work?](https://www.youtube.com/watch?v=LZJxcAhNLdQ).
+
 - [Ley 60/2003 de Arbitraje, artículos 9–14 y 24](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23646), acuerdo, designación y garantías del procedimiento. Su ámbito actual no comprende cualquier materia.
 - [Reglas de arbitraje ICC](https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2021-arbitration-rules/), elección y administración contractual de controversias.
 - La red de agencias y seguros es un modelo propuesto para examinar funciones e incentivos. No se afirma que ya exista un sistema completo que haya resuelto todos los problemas de ejecución, insolvencia y defensa de terceros.

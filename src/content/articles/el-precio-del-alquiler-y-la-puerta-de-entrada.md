@@ -81,6 +81,8 @@ El derecho a buscar una vida en la ciudad no debería quedar dividido entre quie
 
 ## Lecturas y fuentes
 
+- [Libertad Y Lo Que Surja · ¿Qué es la especulación? -  Mitos Desmentidos](https://www.youtube.com/watch?v=VLJm7F7sWBI).
+
 
 ```oneshot
 {"type":"source-note","source":"Diamond, McQuade y Qian · The Effects of Rent Control Expansion…","url":"https://www.nber.org/papers/w24181","date":"2026-10-28","description":"Working Paper 24181 (2018); publicación en American Economic Review 109(9), 2019.","methodology":"Diseño cuasiexperimental en San Francisco. La caída del 15 % corresponde a la oferta de los propietarios tratados, no a cualquier mercado."}

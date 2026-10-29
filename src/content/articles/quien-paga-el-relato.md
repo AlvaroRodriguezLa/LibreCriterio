@@ -72,6 +72,8 @@ No debes fidelidad a un relato por haber contribuido a pagarlo. La información 
 
 ## Lecturas y fuentes
 
+- [Juan Ramón Rallo · ¿Están justificadas las subvenciones al cine español?](https://www.youtube.com/watch?v=6a2abobuKXo).
+
 - [Ley 17/2006 de la radio y la televisión de titularidad estatal](https://www.boe.es/buscar/act.php?id=BOE-A-2006-9958), texto consolidado consultado, artículos 3 y 11: principios y elección. No se infiere una conducta concreta de todos sus profesionales a partir del mecanismo de nombramiento.
 - [Real Decreto 1214/1997 sobre organización del CIS](https://www.boe.es/buscar/act.php?id=BOE-A-1997-16372), texto consolidado, artículos 2 y 13: principios y presidencia. Se consultó la redacción que incorpora cambios hasta junio de 2026.
 - [CIS, estimación del estudio 3263, preelectoral de 2019](https://www.cis.es/documents/d/guest/3263_estimacion), pasajes indexados del documento metodológico. Es un ejemplo identificado por su fecha, no una descripción de todos los modelos posteriores.

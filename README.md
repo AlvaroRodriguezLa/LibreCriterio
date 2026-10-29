@@ -5,7 +5,7 @@ Publicación independiente sobre liberalismo, mercados y límites del poder, ada
 - Web pública: https://alvarorodriguezla.github.io/LibreCriterio/
 - Código: https://github.com/AlvaroRodriguezLa/LibreCriterio
 - Expediente con 17 casos documentados, seis contrastes de declaraciones y cronología de Ceuta.
-- 38 capítulos en cinco partes, 26 lecturas comentadas, 24 conceptos, cuatro modelos interactivos y una agenda de doce investigaciones.
+- 40 capítulos en cinco partes, 26 lecturas comentadas, 24 conceptos, cuatro modelos interactivos y una agenda de doce investigaciones.
 - Documento maestro: pptLIB.pdf, 75 páginas. Los Word son satélites; no se suben a Git ni a la web.
 
 ## Abrir el proyecto
@@ -70,4 +70,4 @@ Al añadir un capítulo al libro, incorpora su slug en routes.json y su transici
 
 ## Fuentes audiovisuales
 
-Recopilador gratuito y reanudable de la lista Lib: metadatos, subtítulos y reconocimiento local de audio cuando es necesario. El visor privado permite buscar por canal, consultar transcripciones y revisar argumentos con marcas de tiempo. Consulta [la guía de ejecución](docs/YOUTUBE_EN_MARCHA.md), [la investigación de herramientas](docs/TRANSCRIPCION_GRATUITA.md) y [el análisis de los seis vídeos prioritarios](docs/ANALISIS_VIDEOS_PRIORITARIOS.md). Los originales y audios permanecen en knowledge/, excluidos de Git.
+Recopilador gratuito y reanudable de la lista Lib: metadatos, subtítulos y reconocimiento local de audio cuando es necesario. El visor privado permite buscar por canal, consultar transcripciones y revisar argumentos con marcas de tiempo. Consulta [la guía de ejecución](docs/YOUTUBE_EN_MARCHA.md), [la investigación de herramientas](docs/TRANSCRIPCION_GRATUITA.md) y [el análisis de los seis vídeos prioritarios](docs/ANALISIS_VIDEOS_PRIORITARIOS.md) y [el mapa de fuentes por capítulo](docs/FUENTES_AUDIOVISUALES.md). Los originales y audios permanecen en knowledge/, excluidos de Git.

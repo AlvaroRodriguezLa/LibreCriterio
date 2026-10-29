@@ -71,6 +71,8 @@ Una sociedad puede tener planes, grandes organizaciones y proyectos comunes. Lo 
 
 ## Lecturas y fuentes
 
+- [Juan Ramón Rallo · ¿Cómo “diseñar” la mejor economía? ¿Desde arriba o desde abajo?](https://www.youtube.com/watch?v=3ICeX532MSI).
+
 - [F. A. Hayek, The Use of Knowledge in Society (1945)](https://www.econlib.org/library/Essays/hykKnw.html).
 - [Leonard E. Read, I, Pencil (1958)](https://www.econlib.org/library/Essays/rdPncl.html), una metáfora clásica de cooperación entre desconocidos.
 - Ronald Coase, *The Nature of the Firm* (1937), contrapunto sobre por qué surgen organizaciones dentro del mercado.
