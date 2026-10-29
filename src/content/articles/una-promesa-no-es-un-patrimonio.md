@@ -42,7 +42,11 @@ Una reforma bancaria que proponga utilizar determinados activos necesita identif
 
 La protección social española tenía antecedentes antes de la dictadura: el Instituto Nacional de Previsión se creó en 1908 y el Retiro Obrero Obligatorio en 1919. Las formas de financiación cambiaron después. No debemos reunir etapas distintas como si siempre hubieran funcionado igual.
 
-Tampoco el seguro alemán del siglo XIX fue idéntico al reparto actual. Incluyó contribuciones y reservas. Su interés para esta discusión es cómo la protección se vinculó a obligaciones y a una organización política, no utilizar una historia simplificada para resolver el argumento.
+La primera gran ley alemana de seguro obligatorio de vejez e invalidez no nació con la forma del sistema de reparto actual. Bismarck la impulsó en un momento en que el movimiento obrero y el Partido Socialdemócrata preocupaban al poder imperial. En 1881, al defender la protección estatal, dijo que quien esperaba una pensión estaba «más satisfecho y era más fácil de tratar». En 1889 explicó que los pequeños pensionistas tendrían interés en que al Estado le fuera bien y aprenderían a verlo como una institución benéfica. No hace falta atribuirle intenciones ocultas: dejó por escrito que la pensión también debía crear adhesión política.
+
+La ley aprobada en 1889 dio cobertura obligatoria a determinados trabajadores, exigía treinta años de cotización y fijó en setenta años la edad para cobrar la pensión de vejez. Se financiaba con aportaciones de trabajadores y empleadores y un subsidio público; era un sistema parcialmente capitalizado, no una copia del reparto español actual. La precisión histórica no suaviza el problema moral: una ayuda puede aliviar una necesidad y, al mismo tiempo, convertir al beneficiario en cliente político del poder que la concede y obliga a financiar.
+
+Ahí está la perversión que importa para este argumento. No consiste en que alguien auxiliara a los mayores. Consiste en usar esa protección para hacer a la población más dependiente y más leal al Estado. Que una institución entregue una parte de lo recaudado no borra que antes lo tomó ni convierte la obediencia en gratitud debida.
 
 Podemos criticar la imposición sin negar la ayuda que recibieron personas concretas. La utilidad de una prestación y el derecho a obligar a financiarla siguen siendo cuestiones diferentes.
 
@@ -60,6 +64,10 @@ Queremos que cada vez más personas puedan preparar su vida con recursos y acuer
 
 - [Seguridad Social, historia del sistema español](https://www.seg-social.es/wps/portal/wss/internet/Conocenos/HistoriaSeguridadSocial?changeLanguage=es_ES), antecedentes y evolución.
 - [Ley de 1 de septiembre de 1939](https://www.mites.gob.es/es/Guia/leyes/L010939.html), cambio del régimen de capitalización del retiro obrero.
+- [Alan M. Jacobs, “Investing in the State: The Origins of German Pensions, 1889”](https://doi.org/10.1017/CBO9780511921766.004), análisis académico de la protección social como estrategia de preservación estatal y de contención de la oposición socialista.
+- [Otto von Bismarck, declaraciones sobre pensiones de 1881 y 1889](https://www.uni-muenster.de/Geschichte/SWG-Online/sozialstaat/quellen/bismarck.htm), pasajes históricos reproducidos por la Universidad de Münster sobre adhesión política y lealtad al Reich.
+- [Ministerio Federal de Trabajo y Asuntos Sociales de Alemania, historia del seguro de pensiones](https://www.bmas.de/DE/Soziales/Rente-und-Altersvorsorge/Gesetzliche-Rentenversicherung/Geschichte-Gesetzliche-Rentenversicherung/geschichte-der-gesetzlichen-rentenversicherung.html), alcance, edad, cotizaciones y subsidio estatal del sistema inicial.
+- [Biblioteca de la Fundación Friedrich Ebert, cronología de la socialdemocracia alemana](https://library.fes.de/fulltext/bibliothek/chronik/band1/e235e446.html), aprobación de la ley en 1889, edad de 70 años, treinta años de cotización y objeciones socialdemócratas.
 - [Banco Mundial, Pension Reform and the Development of Pension Systems, recuadro A.1](https://documents1.worldbank.org/curated/en/629861468166150111/pdf/355210Pension0reform01OFFICIAL0USE1.pdf), contribuciones y capitalización en el diseño alemán original.
 - [Social Security Administration, el precedente alemán](https://www.ssa.gov/history/age65.html), edad inicial de jubilación y cambio posterior.
 
