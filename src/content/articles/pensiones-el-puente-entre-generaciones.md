@@ -35,11 +35,9 @@ La estadística tributaria de 2024 permite una comparación ilustrativa: en terr
 
 Los importes son anuales y efectivos: incluyen empleos parciales o de parte del año, y el registro de pensiones abarca diversas clases, algunas privadas. No describen solo jubilación pública ni permiten concluir que todos los mayores sean ricos. Muestran que la edad no basta para decidir quién tiene más ingresos.
 
-
 ```oneshot
 {"type":"stat-cards","title":"Ingresos íntegros anuales · territorio fiscal común, 2024","stats":[{"value":"21.506 €","label":"Salario medio · 26–35 años","description":"Ingreso efectivo anual; no equivalente de jornada completa todo el año.","source":"AEAT · Mercado de trabajo y pensiones 2024"},{"value":"22.548 €","label":"Pensiones medias · 66–75 años","description":"Incluye diferentes pensiones; no solo jubilación pública contributiva.","source":"AEAT · Mercado de trabajo y pensiones 2024"}],"note":"Comparación de ingresos por edad, no medición de patrimonio ni prueba de que toda transferencia pública sea de pobres a ricos. No mezcla pagas mensuales con anuales."}
 ```
-
 
 ## Lo que cotizas no se guarda necesariamente para ti
 
@@ -57,11 +55,9 @@ Endeudarse desplaza parte de la factura. Subir cotizaciones reduce otros recurso
 
 El estudio de AIReF de mayo de 2026 proyecta, a políticas constantes, gasto en pensiones del 16,4 % del PIB en 2050. Advierte que cumplir formalmente la regla no garantiza sostenibilidad fiscal. No es una fecha de quiebra automática: es un escenario que muestra la presión de mantener los compromisos bajo determinados supuestos.
 
-
 ```oneshot
 {"type":"concept-flow","title":"Una promesa que necesita recursos reales","steps":[{"title":"Aportar hoy","text":"El trabajo actual financia prestaciones actuales."},{"title":"Prometer mañana","text":"Quien aporta espera recibir en el futuro."},{"title":"Cambiar la relación","text":"Demografía, empleo y productividad alteran la cuenta."},{"title":"Ajustar","text":"Impuestos, deuda o prestaciones trasladan costes a personas concretas."}],"note":"Esquema conceptual de una propuesta, no una estimación de resultados."}
 ```
-
 
 El compromiso futuro tiene además un coste que no aparece igual que un bono en circulación. Estimar hoy las prestaciones prometidas exige supuestos sobre edades, empleo y crecimiento. Ese cálculo no es una deuda financiera negociable ni mide por sí solo la sostenibilidad. Las magnitudes no se suman como si fueran equivalentes: cuentan compromisos bajo bases distintas. Lo relevante es hacer visible quién sostendrá la promesa.
 
@@ -88,9 +84,6 @@ El conflicto no debe dirigirse contra una persona por ser mayor. Debe dirigirse 
 El criterio es individual: qué recursos tiene cada cual, qué aceptó y qué compromisos deben atenderse. Atender una necesidad no convierte a su administrador en dueño del trabajo con el que pretende cubrirla.
 
 ## Lecturas y fuentes
-
-- [Juan Ramón Rallo · Sólo dicen la verdad fuera de la política: las pensiones son una estafa piramidal](https://www.youtube.com/watch?v=XrdCP3viocU).
-- [Juan Ramón Rallo · ¿Son sostenibles las pensiones públicas o son inevitables los recortes?](https://www.youtube.com/watch?v=YKC2gL72wlA).
 
 - [AEAT, salarios por edad, 2024](https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2024/jrubik1d61a5d508bbd40a06cab8068be36ad28473df5c.html) y [pensiones por edad, 2024](https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2024/jrubikf364386328d95be1e584fc27588048aff2fbeb112.html), ingresos íntegros efectivos en territorio común.
 - [AEAT, metodología](https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2024/docs/mtp/markoff_metod_mtp2024.pdf), cobertura y límites de los promedios.

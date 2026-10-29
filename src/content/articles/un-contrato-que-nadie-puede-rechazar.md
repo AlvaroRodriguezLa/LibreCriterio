@@ -83,12 +83,6 @@ El nombre del uniforme no demuestra ni la justicia ni la injusticia de cada uso 
 
 ## Lecturas y fuentes
 
-- [Libertad Y Lo Que Surja · (ANARCHOCAPITALISM) Justice, laws and security. How would they work?](https://www.youtube.com/watch?v=LZJxcAhNLdQ).
-
-- [Juan Ramón Rallo · Tú no puedes comportarte como el Estado](https://www.youtube.com/watch?v=PlZzXJkva-c).
-- [Libertad Y Lo Que Surja · ¿Qué es el AnarcoCAPITALISMO o VOLUNTARISMO?](https://www.youtube.com/watch?v=etbYlJoLVRA).
-- [Juan Ramón Rallo · The State as a dominant mafia](https://www.youtube.com/watch?v=zKoJm1C77ss).
-
 - [La constitución sin autoridad](https://oll.libertyfund.org/titles/spooner-no-treason-no-vi-the-constitution-of-no-authority-1870), examen del consentimiento atribuido al ciudadano.
 - [Dictatorship, Democracy, and Development (1993)](https://www.cambridge.org/core/product/identifier/S0003055400100838/type/journal_article), modelo del bandido itinerante y del bandido estacionario. La narración de la aldea es un ejemplo propio inspirado en ese mecanismo.
 - Las comparaciones entre extorsión y tributación expresan un juicio filosófico sobre la coacción; no afirman que el impuesto tenga jurídicamente la tipificación del robo.

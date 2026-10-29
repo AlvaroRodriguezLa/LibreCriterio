@@ -82,8 +82,6 @@ Una educación libre acepta que aprender te lleve a discrepar de quienes te ense
 
 ## Lecturas y fuentes
 
-- [Libertad Y Lo Que Surja · Educación Privada VS Pública + Educación Finlandesa](https://www.youtube.com/watch?v=KQ7DP7A8jLc).
-
 - [Real Decreto 332/1992, autorizaciones de centros privados](https://www.boe.es/eli/es/rd/1992/04/03/332/con), principio de autorización administrativa de apertura y funcionamiento.
 
 - [Real Decreto 132/2010, requisitos mínimos de centros educativos](https://www.boe.es/buscar/act.php?id=BOE-A-2010-4132), instalaciones, personal y condiciones de los centros.

@@ -58,6 +58,5 @@ Confiar en la capacidad humana de mejorar no exige prometer que mañana todo sal
 
 ## Lecturas y fuentes
 
-- [Mentes Brillantes · Fernando Díaz Villanueva: Optimists with reason](https://www.youtube.com/watch?v=H61Brr6NnWQ).
 - [Organización Mundial de la Salud, mortalidad de menores de cinco años](https://www.who.int/news-room/fact-sheets/detail/child-mortality-under-5-years), estimaciones mundiales de 2024 y comparación con 2000; el progreso no se atribuye a una causa única.
 - [Oficina de Naciones Unidas para la Reducción del Riesgo de Desastres, sistemas de alerta](https://www.undrr.org/reports/global-status-mhews-2025), prevención y capacidad de respuesta. La familia junto al río es un ejemplo hipotético.

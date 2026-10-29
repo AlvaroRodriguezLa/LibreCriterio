@@ -68,9 +68,6 @@ Defender esa salida exige proteger a quien te disgusta, permitir otros medios y 
 
 ## Lecturas y fuentes
 
-- [Juan Ramón Rallo · Pablo Hasél y la libertad de expresión](https://www.youtube.com/watch?v=DkMdd420fzw).
-- [Juan Ramón Rallo · The censorship that is coming](https://www.youtube.com/watch?v=3GZm4o-W3FQ).
-
 - [Comité de Derechos Humanos, observación general 34 sobre opinión y expresión](https://www.ohchr.org/sites/default/files/english/bodies/hrc/docs/gc34.pdf), 2011. Referencia primaria para estudiar expresión y crítica de autoridades; este capítulo no resume el régimen jurídico de un país.
 - [BCE, preguntas frecuentes sobre el euro digital](https://www.ecb.europa.eu/euro/digital_euro/faqs/html/ecb.faq_digital_euro.en.html), actualización consultada del 17 de agosto de 2026, preguntas 4 y 20: complemento del efectivo y distinción entre dinero programable y pagos condicionales. Son características del diseño publicado, no garantías de todo desarrollo futuro.
 - [Reglamento europeo 2024/1183](https://eur-lex.europa.eu/eli/reg/2024/1183/oj/eng), modificación del Reglamento 910/2014 que introduce su artículo 5 bis, apartados 4, 15 y 16: divulgación selectiva, voluntariedad y condiciones contra el seguimiento. Debe distinguirse su texto de cada implementación.

@@ -66,8 +66,5 @@ La libertad no necesita que todos quieran lo mismo. Necesita que el desacuerdo c
 
 ## Lecturas y fuentes
 
-- [Juan Ramón Rallo · El liberalismo como la verdadera alternativa al populismo](https://www.youtube.com/watch?v=Jvld2VWTLmI).
-- [Juan Ramón Rallo · La igualdad como valor central del liberalismo](https://www.youtube.com/watch?v=Ip5eAy2X8rM).
-
 - [Javier Milei y Juan Ramón Rallo, presentación de El camino del libertario](https://www.casarosada.gob.ar/informacion/discursos/50495-el-presidente-javier-milei-presento-su-libro-el-camino-del-libertario-en-espana), presentación oficial del 17 de mayo de 2024. Se distingue la definición de libertad de la valoración de una medida o trayectoria política.
 - [Juan Ramón Rallo, Liberalismo. Los 10 principios básicos del orden político liberal](https://www.planetadelibros.com/libro-liberalismo/291862?soporte=373164), referencia editorial para ampliar principios, derechos y convivencia. La consulta de su ficha no se presenta como lectura integral.

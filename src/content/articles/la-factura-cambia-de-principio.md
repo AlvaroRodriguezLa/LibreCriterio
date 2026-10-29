@@ -66,8 +66,6 @@ La coherencia empieza por conservar ese límite ante cada ventanilla. Puedes que
 
 ## Lecturas y fuentes
 
-- [Juan Ramón Rallo · Tolls: yes or no?](https://www.youtube.com/watch?v=1879d6qKQM8).
-
 - [Comisión Europea, Road charging](https://transport.ec.europa.eu/transport-modes/road/road-charging_en), página oficial consultada: uso de los principios de pago por usuario y contaminación en el marco europeo. La aplicación de peajes no es obligatoria para todos los Estados miembros; no se afirma que cualquier peaje sea una relación voluntaria.
 - [Punto de Acceso General, Peajes y viñetas](https://administracion.gob.es/tu-espacio-europeo/derechos-obligaciones/ciudadanos/vehiculos/normas-trafico-viales/peajes-vinetas), información oficial actualizada el 19 de marzo de 2026. Referencia para diferenciar tramos con tarifa de toda la red; no se reproducen importes ni se calcula aquí una carga fiscal individual.
 - [Juan Ramón Rallo, Una revolución liberal para España](https://www.planetadelibros.com/libro-una-revolucion-liberal-para-espana/116522?soporte=118304), ficha y fragmento editorial consultados, con capítulos sobre infraestructuras, educación, cultura y sanidad. Referencia para estudiar alternativas; no se declara lectura integral ni se considera probada cualquier propuesta por figurar en el índice.

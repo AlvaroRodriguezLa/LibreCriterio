@@ -79,8 +79,6 @@ Contar el acero permite saber si el puente se sostendrá. Comparar lo que se sac
 
 ## Lecturas y fuentes
 
-- [Juan Ramón Rallo · ¿Cómo “diseñar” la mejor economía? ¿Desde arriba o desde abajo?](https://www.youtube.com/watch?v=3ICeX532MSI).
-
 - [Ludwig von Mises, Socialism (1922)](https://www.econlib.org/library/Mises/msS.html), desarrollo del debate sobre cálculo.
 - Jesús Huerta de Soto, *Socialismo, cálculo económico y función empresarial* (1992).
 - Oskar Lange, *On the Economic Theory of Socialism* (1936–1937), interlocutor que debe leerse antes de dar el debate por cerrado.

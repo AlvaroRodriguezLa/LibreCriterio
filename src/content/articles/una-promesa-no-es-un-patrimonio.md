@@ -74,14 +74,10 @@ Una propuesta de cambio puede incluir modificar las reglas bancarias y utilizar 
 
 ## Lecturas y fuentes
 
-- [Libertad Y Lo Que Surja · The WORST person in history, Otto Von Bismarck - Once upon a time... El Progre 05](https://www.youtube.com/watch?v=VLi7JF_zTh8).
-
-- [Ni es justicia ni es social: el sistema público de pensiones](https://www.youtube.com/watch?v=_ngdSg4VPIM), Value School, 2021.
 - [Seguridad Social, historia del sistema español](https://www.seg-social.es/wps/portal/wss/internet/Conocenos/HistoriaSeguridadSocial?changeLanguage=es_ES), antecedentes y evolución.
 - [Ley de 1 de septiembre de 1939](https://www.mites.gob.es/es/Guia/leyes/L010939.html), cambio del régimen de capitalización del retiro obrero.
 - [Banco Mundial, Pension Reform and the Development of Pension Systems, recuadro A.1](https://documents1.worldbank.org/curated/en/629861468166150111/pdf/355210Pension0reform01OFFICIAL0USE1.pdf), contribuciones y capitalización en el diseño alemán original.
 - [Social Security Administration, el precedente alemán](https://www.ssa.gov/history/age65.html), edad inicial de jubilación y cambio posterior.
-
 
 - [Presentación del proyecto](https://www.jesushuertadesoto.com/wp-content/uploads/2024/02/Cuaderno-13-ABRIL-2022-Ni-es-justicia-ni-es-social-WEB.pdf).
 - [Propuesta bancaria y transición](https://www.jesushuertadesoto.com/wp-content/uploads/2024/01/NBL-65-Nuevos-Ensayos_web.pdf), páginas 149–150 y 289–291.

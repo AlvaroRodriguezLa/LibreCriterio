@@ -79,7 +79,6 @@ Así se limita el error sin convertir cada comunidad en una isla: conservar otra
 
 ## Lecturas y fuentes
 
-- [Libertad Y Lo Que Surja · Otto von Bismarck](https://www.youtube.com/watch?v=VLi7JF_zTh8), crítica a la concentración del poder y los seguros sociales.
 - [Museo Histórico Alemán · Fundación del Imperio alemán durante la guerra](https://www.dhm.de/lemo/rueckblick/lemo-rueckblick-1871-reichsgruendung-im-krieg), unión de 1871 y competencias territoriales.
 - [Servicio científico del Bundestag · Historia de los seguros sociales](https://www.bundestag.de/resource/blob/410296/WD-1-022-12-pdf.pdf), leyes de enfermedad, accidentes y vejez entre 1883 y 1889.
 

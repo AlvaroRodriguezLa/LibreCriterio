@@ -66,12 +66,6 @@ Una comunidad puede aspirar a que quieras quedarte. Puede ofrecer seguridad, opo
 
 ## Lecturas y fuentes
 
-- [Libertad Y Lo Que Surja · The WORST person in history, Otto Von Bismarck - Once upon a time... El Progre 05](https://www.youtube.com/watch?v=VLi7JF_zTh8).
-
-- [Juan Ramón Rallo · Viva la competencia fiscal](https://www.youtube.com/watch?v=tjvjlcHrrM4).
-- [Juan Ramón Rallo · ¿Quién roba a quién?](https://www.youtube.com/watch?v=lUpWRSin5XI).
-- [Juan Ramón Rallo · El Muro de la Vergüenza socialista](https://www.youtube.com/watch?v=nnEH0qdhwaU).
-
 - [Juan Ramón Rallo, Comunidad, secesión y libertad: réplica a Roberto Centeno](https://juanramonrallo.com/comunidad-secesion-y-libertad-replica-a-roberto-centeno/), 6 de septiembre de 2017. Artículo original consultado: asociación y desasociación, y respeto de los derechos tanto de quienes quieren separarse como de quienes no quieren hacerlo.
 - [Miguel Anxo Bastos, Lo pequeño es posible. Cómo el tamaño define el futuro de una nación](https://www.planetadelibros.com/libro-lo-pequeno-es-posible/446958), ficha y sinopsis oficiales de la edición de 2026; referencia de lectura sobre escala política, sin declarar lectura integral del libro.
 - [Berlin Wall Foundation, The Berlin Wall](https://www.stiftung-berliner-mauer.de/en/topics/berlin-wall), historia publicada por la fundación del Memorial. Se consultó el contenido indexado sobre el cierre de 1961 y su finalidad de impedir la huida al Oeste. No se utiliza el episodio como prueba de que toda frontera tenga esa función.

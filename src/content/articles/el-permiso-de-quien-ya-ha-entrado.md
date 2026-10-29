@@ -50,11 +50,9 @@ El efecto depende de la medida y del sector. Un permiso limitado no actúa igual
 
 La pregunta que sí puede mantenerse es qué posibilidades cierra la decisión y quién obtiene una ventaja al cerrarlas. El coste no termina en la tasa: incluye los ensayos, los precios y el aprendizaje que no llegan a aparecer.
 
-
 ```oneshot
 {"type":"concept-flow","title":"El coste de impedir un ensayo","steps":[{"title":"Exigir","text":"Permisos y condiciones añaden costes previos."},{"title":"Filtrar","text":"Algunos proyectos no alcanzan a empezar."},{"title":"Conservar","text":"Los proveedores instalados encuentran menos alternativas."},{"title":"Perder","text":"Clientes y trabajadores no llegan a conocer otras opciones."}],"note":"Esquema conceptual de una propuesta, no una estimación de resultados."}
 ```
-
 
 ## Un mercado libre no es un lugar sin reglas
 
@@ -79,8 +77,6 @@ Quien protege un mercado del ensayo nuevo protege a menudo la comodidad de quien
 No todos los proyectos acertarán. La libertad de intentar incluye descubrir un error y asumir sus costes sin trasladarlos por la fuerza a los demás. Precisamente por eso hay que dejar abiertas las puertas: para que una mala decisión no encierre a todos en ella y una buena no dependa de conseguir antes un favor.
 
 ## Lecturas y fuentes
-
-- [Juan Ramón Rallo · El libre mercado contra las élites y las plebes extractivas](https://www.youtube.com/watch?v=IbpwTRjdxi8).
 
 - [CNMC, manual para pymes y administraciones, 4 de marzo de 2026](https://blog.cnmc.es/2026/03/04/manual-de-instrucciones-para-pymes-y-administraciones-principales-creacion-crecimiento/), propuestas de simplificación y entrada. Son recomendaciones, no reformas que se den por aprobadas.
 - El capítulo de educación examina un caso de escala mínima: [requisitos universitarios del Real Decreto 640/2021](https://www.boe.es/buscar/act.php?id=BOE-A-2021-12613).

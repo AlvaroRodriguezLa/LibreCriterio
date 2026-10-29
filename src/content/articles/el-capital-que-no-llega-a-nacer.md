@@ -85,8 +85,6 @@ Producir lo necesario en menos tiempo también abre margen para negociar más de
 
 ## Lecturas y fuentes
 
-- [Juan Ramón Rallo · ¿Por qué la productividad de España lleva 20 años estancada?](https://www.youtube.com/watch?v=nQhiJ4m6Xq8).
-
 - [Banco de España, presentación del Informe Anual 2024, 20 de mayo de 2025](https://www.bde.es/f/webbe/GAP/Secciones/SalaPrensa/IntervencionesPublicas/DirectoresGenerales/economia/Arc/Fic/IIPP-2025-05-20-gavilan-es-or.pdf), cuadro de evolución de las medidas de productividad.
 - [OCDE, Employment Outlook 2026: Spain](https://www.oecd.org/en/publications/oecd-employment-outlook-2026_9c4f5c3e-en/spain_1b574b65-en.html), salarios reales y productividad.
 - [Banco de España, la inversión productiva como motor del crecimiento](https://www.bde.es/wbe/en/noticias-eventos/blog/series/retos-economia-espanola/la-inversion-productiva-como-motor-del-crecimiento-el-reto-de-impulsar-la-inversion-empresarial.html), 29 de abril de 2025.
