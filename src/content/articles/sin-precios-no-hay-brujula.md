@@ -7,7 +7,7 @@ image: "/images/sin-precios-no-hay-brujula.svg"
 imageAlt: "Ilustración conceptual: Sin precios, la fábrica pierde su brújula"
 category: "Mercados"
 tags: ["Mercados","libertad"]
-order: 6
+order: 7
 masterPages: "17–20, 57–59"
 satellites: []
 thesis: "Una posibilidad técnica no demuestra que una inversión compense lo que desplaza."

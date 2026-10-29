@@ -7,7 +7,7 @@ image: "/images/el-poder-no-cambia-al-cambiar-de-bandera.svg"
 imageAlt: "Ilustración conceptual: El poder no cambia al cambiar de bandera"
 category: "Fundamentos"
 tags: ["Fundamentos","libertad"]
-order: 12
+order: 15
 masterPages: "60–63"
 satellites: []
 thesis: "Una causa compartida y una victoria política no conceden derechos sobre las vidas de quienes discrepan."
@@ -78,3 +78,7 @@ La libertad protege elecciones y cambios que no controlamos. Permite que la conv
 - F. A. Hayek, *Why I Am Not a Conservative*, epílogo de *The Constitution of Liberty* (1960).
 - [John Stuart Mill, On Liberty](https://oll.libertyfund.org/titles/mill-on-liberty-and-the-subjection-of-women-1879-ed).
 - Emilio Gentile, literatura sobre religiones de la política, para evitar el uso indiscriminado de esa categoría.
+
+### Un relato religioso sobre la tentación de mandar
+
+En [Lucas 4,5–8](https://conferenciaepiscopal.org/biblia/lucas/) el tentador ofrece los reinos y su poder a cambio de adoración. Huerta de Soto interpreta ese pasaje como una denuncia teológica del poder estatal en [Anarquía, Dios y el Papa Francisco, incluido en Nuevos ensayos de economía política](https://www.jesushuertadesoto.com/wp-content/uploads/2024/01/NBL-65-Nuevos-Ensayos_web.pdf), páginas impresas 93–95. Esa identificación es su interpretación: la afirmación sobre la propiedad de los reinos la pronuncia el tentador en el relato. No se presenta como prueba histórica de que todo Estado sirva al demonio ni como una conclusión compartida por toda tradición cristiana. La comparación pone el foco en la tentación de entregar límites morales a cambio de poder.

@@ -7,7 +7,7 @@ image: "/images/lo-provisional-que-se-queda.svg"
 imageAlt: "Ilustración conceptual: Lo provisional que se queda"
 category: "Poder"
 tags: ["Poder","libertad"]
-order: 15
+order: 20
 satellites: []
 thesis: "Las facultades temporales crean organizaciones e intereses que pueden conservarlas después de la urgencia."
 related: ["el-estado-siempre-encuentra-un-culpable","la-politica-tambien-tiene-incentivos","quien-puede-perdonar-a-sus-aliados"]

@@ -7,7 +7,7 @@ image: "/images/las-objeciones-que-hay-que-responder.svg"
 imageAlt: "Ilustración conceptual: Las objeciones que hay que responder"
 category: "Debates"
 tags: ["Debates","libertad"]
-order: 29
+order: 37
 masterPages: "63–66; desarrollo del capítulo 26"
 satellites: []
 thesis: "Resolver problemas requiere acuerdos y responsabilidad; la dificultad de resolverlos no concede un derecho a dirigir vidas pacíficas."
@@ -54,6 +54,8 @@ Los beneficios que alcanzan a no contribuyentes plantean otra dificultad. Se pue
 {"type":"concept-flow","title":"Construir una respuesta sin entregar toda la vida","steps":[{"title":"Identificar","text":"Qué servicio o reparación se necesita."},{"title":"Acordar","text":"Quién participa, qué aporta y qué acepta."},{"title":"Separar","text":"Quién presta, verifica y resuelve disputas."},{"title":"Responder","text":"Cómo se repara el daño y se cambia de proveedor."}],"note":"Esquema conceptual de una propuesta, no una estimación de resultados."}
 ```
 
+
+También se puede actuar antes de una catástrofe. Imagina una comunidad que paga sensores de crecida, revisa desagües y contrata refuerzos para edificios vulnerables. No ha eliminado la lluvia; ha reducido lo que puede destruir. Propietarios, técnicos y aseguradores pueden acordar esa prevención y comprobar si se cumple. El ejemplo describe una posibilidad: exige financiarla, mantenerla y atender a quienes quedan fuera, no dar por resuelto todo riesgo con un contrato.
 
 ## La ayuda que no deja sola a una persona
 

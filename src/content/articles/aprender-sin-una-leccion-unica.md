@@ -7,7 +7,7 @@ image: "/images/aprender-sin-una-leccion-unica.svg"
 imageAlt: "Ilustración conceptual: Aprender sin una lección única"
 category: "Instituciones"
 tags: ["Instituciones","libertad"]
-order: 24
+order: 30
 satellites: []
 thesis: "La importancia de educar no concede a una autoridad la propiedad del futuro de todos los alumnos."
 related: ["cuidar-sin-pedir-permiso-al-monopolio","el-permiso-de-quien-ya-ha-entrado","cooperar-sin-un-director-unico"]

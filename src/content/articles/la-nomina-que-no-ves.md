@@ -7,7 +7,7 @@ image: "/images/la-nomina-que-no-ves.svg"
 imageAlt: "Ilustración conceptual: La nómina que no ves"
 category: "Fiscalidad"
 tags: ["Fiscalidad","libertad"]
-order: 18
+order: 23
 masterPages: "46–47, 52"
 satellites: []
 thesis: "Ver la carga completa del trabajo permite medir sus efectos; la utilidad de lo financiado no sustituye el consentimiento."

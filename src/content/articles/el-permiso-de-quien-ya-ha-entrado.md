@@ -7,7 +7,7 @@ image: "/images/el-permiso-de-quien-ya-ha-entrado.svg"
 imageAlt: "Ilustración conceptual: El permiso de quien ya ha entrado"
 category: "Mercados"
 tags: ["Mercados","libertad"]
-order: 8
+order: 10
 satellites: []
 thesis: "Poder intentar una alternativa pacífica no debería depender de la comodidad de quienes ya ocupan el mercado."
 related: ["el-capital-que-no-llega-a-nacer","aprender-sin-una-leccion-unica","el-precio-del-alquiler-y-la-puerta-de-entrada"]

@@ -7,7 +7,7 @@ image: "/images/el-estado-siempre-encuentra-un-culpable.svg"
 imageAlt: "Ilustración conceptual: El Estado siempre encuentra un culpable"
 category: "Poder"
 tags: ["Poder","libertad"]
-order: 14
+order: 19
 satellites: []
 thesis: "Cambiar al gobernante no basta si las reglas permiten repetir el daño sin perder poder."
 related: ["la-politica-tambien-tiene-incentivos","la-mayoria-no-lo-puede-todo","un-derecho-no-es-un-proveedor"]

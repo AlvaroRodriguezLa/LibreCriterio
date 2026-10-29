@@ -7,7 +7,7 @@ image: "/images/no-votar-tambien-es-una-decision.svg"
 imageAlt: "Ilustración conceptual: No votar también es una decisión"
 category: "Poder"
 tags: ["Poder","libertad"]
-order: 17
+order: 22
 satellites: []
 thesis: "Participar en una votación no es un deber evidente cuando el resultado autoriza a imponer fines a otros."
 related: ["la-mayoria-no-lo-puede-todo","el-poder-no-cambia-al-cambiar-de-bandera","tu-vida-no-es-un-proyecto-del-poder"]

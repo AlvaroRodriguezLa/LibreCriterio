@@ -7,7 +7,7 @@ image: "/images/un-arbitro-no-necesita-ser-un-soberano.svg"
 imageAlt: "Ilustración conceptual: Un árbitro no necesita ser un soberano"
 category: "Instituciones"
 tags: ["Instituciones","libertad"]
-order: 25
+order: 32
 satellites: []
 thesis: "Encargar protección o arbitraje no concede a su proveedor un derecho ilimitado sobre la persona protegida."
 related: ["un-contrato-que-nadie-puede-rechazar","las-objeciones-que-hay-que-responder","cooperar-sin-un-director-unico"]

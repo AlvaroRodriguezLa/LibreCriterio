@@ -7,7 +7,7 @@ image: "/images/pensiones-el-puente-entre-generaciones.svg"
 imageAlt: "Ilustración conceptual: Pensiones: el puente entre generaciones"
 category: "Fiscalidad"
 tags: ["Fiscalidad","libertad"]
-order: 20
+order: 26
 masterPages: "51–53"
 satellites: []
 thesis: "La edad no determina quién es rico: una obligación entre generaciones puede exigir a quien tiene menos que financie a quien tiene más."

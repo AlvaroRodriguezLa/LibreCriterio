@@ -7,7 +7,7 @@ image: "/images/quien-puede-perdonar-a-sus-aliados.svg"
 imageAlt: "Ilustración conceptual: Quien puede perdonar a sus aliados"
 category: "Poder"
 tags: ["Poder","libertad"]
-order: 16
+order: 21
 satellites: []
 thesis: "Una corrección de la justicia no debería depender de ser útil a quien tiene el poder de perdonar."
 related: ["el-estado-siempre-encuentra-un-culpable","cuando-el-partido-sustituye-a-la-conciencia","un-arbitro-no-necesita-ser-un-soberano"]
@@ -33,6 +33,8 @@ En España, el indulto permite remitir o conmutar penas conforme a la ley. No de
 La Constitución reconoce el derecho de gracia con arreglo a la ley, prohíbe los indultos generales y excluye su aplicación a los supuestos de responsabilidad del presidente y demás miembros del Gobierno contemplados en el artículo 102. Es una facultad regulada, no una decisión personal sin trámite ni límite.
 
 La crítica alcanza precisamente a lo que esas reglas permiten: el Ejecutivo puede alterar el cumplimiento de una pena impuesta por un tribunal. No desaparece toda separación de poderes, pero existe una excepción en la que uno interviene sobre los efectos de la decisión de otro.
+
+Un control se debilita cuando el vigilado puede escoger al vigilante, condicionar sus recursos o cambiar las reglas después de recibir una respuesta incómoda. Separar los nombres de dos oficinas no basta si una conserva las llaves de la otra. La independencia se reconoce cuando investigar, resolver y hacer cumplir una responsabilidad no exige obtener el permiso de quien puede salir perjudicado.
 
 ## Perdonar un daño ajeno
 

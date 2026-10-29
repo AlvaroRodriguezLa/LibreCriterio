@@ -1,5 +1,98 @@
 [
   {
+    "id": "b22",
+    "priority": true,
+    "author": "Javier Milei",
+    "title": "El camino del libertario",
+    "year": "2022",
+    "area": "Libertad y poder",
+    "why": "Conocer de primera mano su defensa de la libertad y la relación entre divulgación de ideas y acción política.",
+    "tension": "Conviene distinguir los principios que defiende, su trayectoria y las decisiones concretas de gobierno; cada afirmación histórica o económica necesita su fuente.",
+    "url": "https://www.planetadelibros.com.ar/libro-el-camino-del-libertario/340316?soporte=343700",
+    "access": "Consultadas la ficha editorial y la presentación en diálogo con Rallo; lectura integral pendiente.",
+    "edition": "Planeta, edición argentina de 2022. Existe una edición española en Deusto de 2024.",
+    "additionalUrl": "https://www.casarosada.gob.ar/informacion/discursos/50495-el-presidente-javier-milei-presento-su-libro-el-camino-del-libertario-en-espana",
+    "additionalLabel": "Leer la presentación del autor"
+  },
+  {
+    "id": "b23",
+    "priority": true,
+    "author": "Manuel Llamas",
+    "title": "Socialismo, la ruina de España",
+    "subtitle": "Cómo empobrecer un país, expoliar a sus ciudadanos y destruir sus instituciones",
+    "year": "2025",
+    "area": "Instituciones españolas",
+    "why": "Examinar cómo impuestos, intervención y deterioro institucional afectan al ahorro, el trabajo y la autonomía personal.",
+    "tension": "Los diagnósticos y casos del libro exigen mantener fechas, indicadores y responsabilidades concretas; una etiqueta política no demuestra por sí sola una acusación.",
+    "url": "https://www.libertaddigital.com/libremercado/2025-03-26/manuel-llamas-nos-hemos-convertido-en-un-pais-de-tiesos-7234666/",
+    "linkLabel": "Consultar la presentación del libro",
+    "access": "Consultadas la entrevista de lanzamiento y la ficha bibliográfica distribuida por la editorial; lectura integral pendiente.",
+    "edition": "HarperCollins, 2025.",
+    "additionalUrl": "https://books.google.com/books/about/Socialismo_la_ruina_de_Espa%C3%B1a.html?id=u5NBEQAAQBAJ",
+    "additionalLabel": "Ver la ficha bibliográfica"
+  },
+  {
+    "id": "b8",
+    "author": "Jesús Huerta de Soto",
+    "title": "Socialismo, cálculo económico y función empresarial",
+    "year": "1992",
+    "area": "Conocimiento y coordinación",
+    "why": "Entender cómo la coacción y la dirección central pueden impedir descubrir información y oportunidades que conocen quienes actúan.",
+    "tension": "La definición de socialismo y el análisis del autor deben distinguirse de la comprobación de cada caso histórico.",
+    "url": "https://www.jesushuertadesoto.com/libros/socialismo-calculo-economico-y-funcion-empresarial/",
+    "access": "Consultados el índice del autor, la ficha editorial y pasajes localizados; lectura integral pendiente.",
+    "priority": true,
+    "edition": "Unión Editorial. Primera edición de 1992; ficha contrastada de la octava edición, 2026.",
+    "additionalUrl": "https://www.unioneditorial.net/socialismo-calculo-economico-y-funcion-empresarial-8-edicion-id-uel001074",
+    "additionalLabel": "Ver la edición contrastada"
+  },
+  {
+    "id": "b18",
+    "author": "Juan Ramón Rallo",
+    "title": "Liberalismo",
+    "year": "2019",
+    "area": "Soberanía individual",
+    "why": "Partir de la persona para pensar libertad, propiedad, contratos, reparación del daño y asociación voluntaria.",
+    "tension": "La obra incluye un gobierno limitado. Tomarla como referencia no significa atribuirle una defensa idéntica de todas las alternativas sin Estado.",
+    "url": "https://www.planetadelibros.com/libro-liberalismo/291862?soporte=373164",
+    "access": "Consultadas la ficha editorial y la sinopsis; lectura integral pendiente.",
+    "priority": true,
+    "subtitle": "Los 10 principios básicos del orden político liberal",
+    "edition": "Deusto, 2019. El enlace corresponde a la edición de bolsillo Booket de 2023."
+  },
+  {
+    "id": "b24",
+    "priority": true,
+    "author": "Juan Ramón Rallo",
+    "title": "Una revolución liberal para España",
+    "subtitle": "Anatomía de un país libre y próspero: ¿cómo sería y qué beneficios obtendríamos?",
+    "year": "2014",
+    "area": "Servicios y alternativas",
+    "why": "Explorar otras formas de organizar educación, sanidad, pensiones, infraestructuras y ayuda social.",
+    "tension": "El libro propone reducir el gobierno y una transición concreta. Sus alternativas sectoriales deben estudiarse sin confundirlas con una aprobación automática de todo el programa.",
+    "url": "https://www.planetadelibros.com/libro-una-revolucion-liberal-para-espana/116522?soporte=118304",
+    "access": "Consultados la ficha y el índice del fragmento editorial; lectura integral pendiente.",
+    "edition": "Deusto, 2014.",
+    "additionalUrl": "https://proassets.planetadelibros.com.mx/usuaris/libros_contenido/arxius/29/28198_Una_revolucion_liberal_para_Espanya.pdf",
+    "additionalLabel": "Abrir el fragmento editorial"
+  },
+  {
+    "id": "b25",
+    "priority": true,
+    "author": "Miguel Anxo Bastos",
+    "title": "Lo pequeño es posible",
+    "subtitle": "Cómo el tamaño define el futuro de una nación",
+    "year": "2026",
+    "area": "Descentralización y salida",
+    "why": "Repensar la escala del poder desde las personas y las comunidades, y examinar las posibilidades de unidades políticas más pequeñas.",
+    "tension": "Menor tamaño no equivale por sí solo a mayor libertad. La separación de un territorio debe distinguirse de la capacidad de cada persona para asociarse y salir.",
+    "url": "https://www.planetadelibros.com/libro-lo-pequeno-es-posible/446958?soporte=446959",
+    "access": "Consultadas la ficha y la sinopsis oficiales; lectura integral pendiente.",
+    "edition": "Deusto, 2026. Traducción de Santiago Calvo López; original de Através de 2025.",
+    "additionalUrl": "https://www.atraves-editora.com/produto/o-pequeno-e-possivel/",
+    "additionalLabel": "Consultar la edición original"
+  },
+  {
     "id": "b0",
     "author": "F. A. Hayek",
     "title": "The Use of Knowledge in Society",
@@ -8,7 +101,8 @@
     "why": "Por qué la información relevante está dispersa.",
     "tension": "La coordinación por precios requiere atender también a lo que sus señales no recogen.",
     "url": "https://www.econlib.org/library/Essays/hykKnw.html",
-    "access": "Texto primario accesible"
+    "access": "Texto primario accesible",
+    "priority": false
   },
   {
     "id": "b1",
@@ -19,7 +113,8 @@
     "why": "Distinguir cantidades físicas y comparación económica.",
     "tension": "La crítica de la planificación integral no prueba la inutilidad de cualquier gasto público.",
     "url": "https://www.econlib.org/library/Mises/msS.html",
-    "access": "Edición de la obra"
+    "access": "Edición de la obra",
+    "priority": false
   },
   {
     "id": "b2",
@@ -30,7 +125,8 @@
     "why": "Pensar las reglas antes de disputar resultados.",
     "tension": "Su programa constitucional no equivale a la abolición de toda decisión colectiva.",
     "url": "https://www.econlib.org/library/Buchanan/buchCv3.html",
-    "access": "Edición de la obra"
+    "access": "Edición de la obra",
+    "priority": false
   },
   {
     "id": "b3",
@@ -41,7 +137,8 @@
     "why": "Explorar gobernanza policéntrica y cooperación compartida.",
     "tension": "Las comunidades requieren reglas; no hay una solución válida para todo recurso.",
     "url": "https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641",
-    "access": "Artículo y ficha académica"
+    "access": "Artículo y ficha académica",
+    "priority": false
   },
   {
     "id": "b4",
@@ -52,7 +149,8 @@
     "why": "Pensar el disenso y los límites de imponer una forma de vida.",
     "tension": "Su liberalismo no debe confundirse con cada conclusión del libertarismo posterior.",
     "url": "https://oll.libertyfund.org/titles/mill-on-liberty-and-the-subjection-of-women-1879-ed",
-    "access": "Edición conjunta de 1879"
+    "access": "Edición conjunta de 1879",
+    "priority": false
   },
   {
     "id": "b5",
@@ -63,7 +161,8 @@
     "why": "Buscar las alternativas desplazadas por una decisión visible.",
     "tension": "Los contrafactuales necesitan estimación: la metáfora no autoriza cifras inventadas.",
     "url": "https://www.econlib.org/library/Bastiat/basEss.html",
-    "access": "Colección de ensayos"
+    "access": "Colección de ensayos",
+    "priority": false
   },
   {
     "id": "b6",
@@ -74,7 +173,8 @@
     "why": "Examinar la diferencia entre residencia y consentimiento.",
     "tension": "Rechazar una ficción contractual deja pendiente la construcción de reglas de convivencia.",
     "url": "https://oll.libertyfund.org/titles/spooner-no-treason-no-vi-the-constitution-of-no-authority-1870",
-    "access": "Edición accesible"
+    "access": "Edición accesible",
+    "priority": false
   },
   {
     "id": "b7",
@@ -85,18 +185,8 @@
     "why": "Examinar una propuesta de cooperación contractual también en seguridad y justicia.",
     "tension": "La coherencia normativa no sustituye pruebas de viabilidad y transición.",
     "url": "https://mises.org/library/book/new-liberty-libertarian-manifesto",
-    "access": "Obra accesible desde su editor"
-  },
-  {
-    "id": "b8",
-    "author": "Jesús Huerta de Soto",
-    "title": "Socialismo, cálculo económico y función empresarial",
-    "year": "1992",
-    "area": "Escuela Austriaca",
-    "why": "Conectar coacción institucional y descubrimiento empresarial.",
-    "tension": "Su definición amplia de socialismo es propia del marco del autor; debe identificarse.",
-    "url": "https://www.jesushuertadesoto.com/wp-content/uploads/2022/02/Libro-completo-Socialismo.pdf",
-    "access": "PDF en la web del autor"
+    "access": "Obra accesible desde su editor",
+    "priority": false
   },
   {
     "id": "b9",
@@ -107,7 +197,8 @@
     "why": "Separar financiación, reglas y administración.",
     "tension": "La elección necesita oferta accesible y evitar selección de usuarios.",
     "url": "https://www.hoover.org/research/free-choose",
-    "access": "Reflexión del autor sobre su propuesta"
+    "access": "Reflexión del autor sobre su propuesta",
+    "priority": false
   },
   {
     "id": "b10",
@@ -118,7 +209,8 @@
     "why": "Ampliar el repertorio histórico de protección social.",
     "tension": "Existencia de mutualidades no equivale a cobertura universal.",
     "url": "https://uncpress.org/9780807848418/from-mutual-aid-to-the-welfare-state/",
-    "access": "Ficha editorial; lectura integral pendiente"
+    "access": "Ficha editorial; lectura integral pendiente",
+    "priority": false
   },
   {
     "id": "b11",
@@ -129,7 +221,8 @@
     "why": "Entender las dificultades de agregar preferencias.",
     "tension": "El teorema depende de condiciones específicas y no invalida toda votación.",
     "url": "https://plato.stanford.edu/entries/arrows-theorem/",
-    "access": "Guía académica; no texto completo del libro"
+    "access": "Guía académica; no texto completo del libro",
+    "priority": false
   },
   {
     "id": "b12",
@@ -140,7 +233,8 @@
     "why": "Distinguir Estado mínimo, titularidades y rectificación.",
     "tension": "La adquisición justa y las injusticias heredadas son parte central del problema.",
     "url": "https://plato.stanford.edu/entries/libertarianism/",
-    "access": "Guía filosófica; referencia del corpus"
+    "access": "Guía filosófica; referencia del corpus",
+    "priority": false
   },
   {
     "id": "b13",
@@ -151,7 +245,8 @@
     "why": "Comprender beneficios concentrados y costes dispersos.",
     "tension": "No implica que toda organización pequeña gane siempre.",
     "url": "",
-    "access": "Referencia del corpus; ampliar lectura"
+    "access": "Referencia bibliográfica; lectura integral pendiente",
+    "priority": false
   },
   {
     "id": "b14",
@@ -162,7 +257,8 @@
     "why": "Analizar el coste de informarse y los incentivos electorales.",
     "tension": "La información indirecta y los valores del voto también importan.",
     "url": "",
-    "access": "Referencia del corpus; ampliar lectura"
+    "access": "Referencia bibliográfica; lectura integral pendiente",
+    "priority": false
   },
   {
     "id": "b15",
@@ -173,7 +269,8 @@
     "why": "Comparar arreglos institucionales y costes de transacción.",
     "tension": "La negociación sin costes es un supuesto de referencia, no una descripción universal.",
     "url": "",
-    "access": "Interlocutor añadido; lectura integral pendiente"
+    "access": "Interlocutor añadido; lectura integral pendiente",
+    "priority": false
   },
   {
     "id": "b16",
@@ -184,7 +281,8 @@
     "why": "Explorar sesgos y creencias políticas.",
     "tension": "Distinguir ignorancia, desacuerdo de valores y error sistemático.",
     "url": "",
-    "access": "Referencia del corpus; ampliar lectura"
+    "access": "Referencia bibliográfica; lectura integral pendiente",
+    "priority": false
   },
   {
     "id": "b17",
@@ -195,18 +293,8 @@
     "why": "Comparar voz electoral, movilidad y elección institucional.",
     "tension": "La salida es costosa y no todos pueden ejercerla igual.",
     "url": "",
-    "access": "Referencia del corpus; ampliar lectura"
-  },
-  {
-    "id": "b18",
-    "author": "Juan Ramón Rallo",
-    "title": "Liberalismo: los diez principios básicos del orden político liberal",
-    "year": "2019",
-    "area": "Debate hispano",
-    "why": "Conectar autonomía personal y marco político liberal.",
-    "tension": "La lectura doctrinal debe distinguirse de la comprobación empírica de políticas concretas.",
-    "url": "",
-    "access": "Referencia del corpus maestro"
+    "access": "Referencia bibliográfica; lectura integral pendiente",
+    "priority": false
   },
   {
     "id": "b19",
@@ -217,7 +305,8 @@
     "why": "Examinar recursos gastados en obtener privilegios.",
     "tension": "No todo gasto de representación ni toda regulación constituyen captura.",
     "url": "",
-    "access": "Referencia del corpus; ampliar lectura"
+    "access": "Referencia bibliográfica; lectura integral pendiente",
+    "priority": false
   },
   {
     "id": "b20",
@@ -228,7 +317,8 @@
     "why": "Completar la genealogía del concepto.",
     "tension": "Identificar el privilegio y sus efectos requiere evidencia.",
     "url": "",
-    "access": "Interlocutora añadida; ampliar lectura"
+    "access": "Interlocutora añadida; ampliar lectura",
+    "priority": false
   },
   {
     "id": "b21",
@@ -239,6 +329,7 @@
     "why": "Examinar derechos, autoridad y consentimiento tácito.",
     "tension": "Defender límites al gobierno deja abierta la discusión sobre qué facultades debería conservar.",
     "url": "",
-    "access": "Referencia del corpus maestro"
+    "access": "Referencia bibliográfica; lectura integral pendiente",
+    "priority": false
   }
 ]

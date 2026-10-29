@@ -1,4 +1,23 @@
-# Verificación de Una vida propia
+# Verificación de Una vida propia · edición del 29 de octubre
+
+La edición ampliada reúne 38 capítulos en cinco partes y 26 lecturas, con seis referencias principales de los cinco autores solicitados. La base siguiente deja separadas las comprobaciones nuevas y la verificación histórica.
+
+## Ampliación del 29 de octubre de 2026
+
+- Astro check: 61 archivos, cero errores, advertencias o sugerencias en los diagnósticos. El cargador local mostró avisos de IDs ya presentes en la caché al editar contenido; las pruebas comprueban la unicidad de los 38 capítulos y el índice.
+- Pruebas del proyecto: correctas, incluida la secuencia única de los 38 capítulos, portadas, fuentes y enlaces.
+- Compilación de Pages: correcta. Verificador: 56 páginas HTML y 3.192 enlaces o recursos locales comprobados.
+- Navegador: avance del capítulo 5 al 6 cruzando partes, biblioteca de 26 tarjetas en320px, capítulo monetario en320px con texto24px y fondo oscuro; sin desbordamiento horizontal de página en esas vistas. No se presenta como auditoría WCAG exhaustiva.
+- Recopilador: 16 pruebas iniciales de extracción/ASR y cuatro adicionales de integridad del visor; todas correctas. Los cuatro casos nuevos comprueban escape de datos en HTML, conservación de avances entre procesos, cobertura ordenada de segmentos y rechazo de lectura incompleta/secuencia invertida.
+- Visor local: búsqueda sin tildes, filtro por canal, apertura de texto completo y enlaces temporales comprobados. La validación de fichas comprueba evidencia y huella, no la verdad de la interpretación ni la identidad audiovisual.
+- La cola de transcripción sigue siendo un proceso local reanudable, independiente del despliegue. Los originales completos, audios, caché y modelos están excluidos de Git.
+
+La [auditoría de ampliación](AUDITORIA_AMPLIACION_2026-10-29.md) sitúa los 41 temas pedidos; la [matriz de vídeos prioritarios](INTEGRACION_VIDEOS_PRIORITARIOS.md) clasifica87 argumentos:33 cubiertos,29 cubiertos con matiz,12 datos sin verificar y13 discrepancias. No quedan propuestas conceptuales pendientes en esa matriz. Esto no equivale a integrar cada estadística o relato histórico como verdadero.
+
+Los 41 vídeos enlazados directamente tienen transcripción y revisión textual completa. El resto de la lista de72 conserva sus pendientes en knowledge/youtube/status.json; no se afirma que toda la lista esté analizada, que se hayan identificado todas las voces ni que se hayan leído íntegros todos los libros. Las cifras de avance del lote son variables: consultar el registro vivo y la guía [YOUTUBE_EN_MARCHA.md](YOUTUBE_EN_MARCHA.md).
+
+## Verificación histórica de la edición del 28 de octubre
+
 
 Fecha: 28 de octubre de 2026.
 

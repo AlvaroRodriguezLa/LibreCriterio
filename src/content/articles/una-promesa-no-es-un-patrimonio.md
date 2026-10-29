@@ -7,7 +7,7 @@ image: "/images/una-promesa-no-es-un-patrimonio.svg"
 imageAlt: "Ilustración conceptual: Una promesa no es un patrimonio"
 category: "Fiscalidad"
 tags: ["Fiscalidad","libertad"]
-order: 21
+order: 27
 satellites: []
 thesis: "Una prestación prometida no equivale a un patrimonio que puedas decidir cómo utilizar."
 related: ["pensiones-el-puente-entre-generaciones","el-capital-que-no-llega-a-nacer","redistribuir-no-es-solo-repartir"]

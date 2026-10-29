@@ -5,7 +5,7 @@ Publicación independiente sobre liberalismo, mercados y límites del poder, ada
 - Web pública: https://alvarorodriguezla.github.io/LibreCriterio/
 - Código: https://github.com/AlvaroRodriguezLa/LibreCriterio
 - Expediente con 17 casos documentados, seis contrastes de declaraciones y cronología de Ceuta.
-- 29 capítulos en cinco partes, 22 lecturas comentadas, 24 conceptos, cuatro modelos interactivos y una agenda de doce investigaciones.
+- 38 capítulos en cinco partes, 26 lecturas comentadas, 24 conceptos, cuatro modelos interactivos y una agenda de doce investigaciones.
 - Documento maestro: pptLIB.pdf, 75 páginas. Los Word son satélites; no se suben a Git ni a la web.
 
 ## Abrir el proyecto
@@ -62,6 +62,12 @@ Fuente del alojamiento: [GitHub Pages](https://docs.github.com/en/pages/getting-
 Una vida propia tiene un orden canónico en src/data/routes.json. El avance atraviesa las partes; chapter-bridges.json contiene el enlace narrativo entre capítulos. El lector ofrece tamaño, fuente, temas, concentración y posición local por sección. Las fuentes se despliegan al pie; su contenido se incluye al imprimir.
 
 - [Investigación de mercado, escritura y lectura](docs/INVESTIGACION_LECTURA.md).
-- [Auditoría de cobertura](docs/AUDITORIA_COBERTURA.md).
+- [Auditoría de cobertura de la edición anterior](docs/AUDITORIA_COBERTURA.md).
+- [Ampliación de 41 temas solicitados](docs/AUDITORIA_AMPLIACION_2026-10-29.md).
+- [Integración de los 87 argumentos de los seis vídeos prioritarios](docs/INTEGRACION_VIDEOS_PRIORITARIOS.md).
 
-Al añadir un capítulo al libro, incorpora su slug en routes.json y su transición en chapter-bridges.json, y ajusta la prueba de la edición si cambia el número previsto. La secuencia y el artículo se publican juntos para evitar capítulos sin lugar en el índice.
+Al añadir un capítulo al libro, incorpora su slug en routes.json y su transición en chapter-bridges.json, y conserva las pruebas de continuidad y cobertura del índice. La secuencia y el artículo se publican juntos para evitar capítulos sin lugar en el índice.
+
+## Fuentes audiovisuales
+
+Recopilador gratuito y reanudable de la lista Lib: metadatos, subtítulos y reconocimiento local de audio cuando es necesario. El visor privado permite buscar por canal, consultar transcripciones y revisar argumentos con marcas de tiempo. Consulta [la guía de ejecución](docs/YOUTUBE_EN_MARCHA.md), [la investigación de herramientas](docs/TRANSCRIPCION_GRATUITA.md) y [el análisis de los seis vídeos prioritarios](docs/ANALISIS_VIDEOS_PRIORITARIOS.md). Los originales y audios permanecen en knowledge/, excluidos de Git.

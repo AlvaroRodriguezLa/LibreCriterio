@@ -7,7 +7,7 @@ image: "/images/cuidar-sin-pedir-permiso-al-monopolio.svg"
 imageAlt: "Ilustración conceptual: Cuidar sin pedir permiso al monopolio"
 category: "Instituciones"
 tags: ["Instituciones","libertad"]
-order: 23
+order: 29
 satellites: []
 thesis: "Una necesidad sanitaria no convierte al paciente en pertenencia de un proveedor: la atención debe poder elegirse y responder por sus resultados."
 related: ["un-derecho-no-es-un-proveedor","aprender-sin-una-leccion-unica","un-arbitro-no-necesita-ser-un-soberano"]
@@ -45,6 +45,14 @@ Corea del Sur separa ampliamente aseguramiento y prestación. Según el informe 
 Su seguro nacional es público y obligatorio, y existen pagos de bolsillo. No es un sistema financiado enteramente mediante acuerdos voluntarios.
 
 La lección es concreta: **atender a una población no exige que el Estado sea dueño de los centros que la atienden**. Podemos aprender de esa diversidad de proveedores sin copiar el aseguramiento público obligatorio ni atribuir al modelo resultados que aquí no hemos demostrado.
+
+## Lo que aporta la comparación con Singapur
+
+Singapur distingue ahorro sanitario, seguro para gastos elevados y apoyos a quien necesita más ayuda. Su Ministerio de Salud describe el conjunto como subvenciones y tres instrumentos: MediSave, MediShield Life y MediFund. Ahorrar para una consulta habitual y cubrir un riesgo costoso son tareas diferentes.
+
+MediSave es obligatorio, existen subvenciones públicas y MediShield Life es un seguro básico nacional. No sería correcto presentarlo como un sistema enteramente voluntario. La idea que podemos examinar es separar funciones: disponer de una reserva propia, compartir riesgos mediante seguros y organizar ayudas concretas, en lugar de asumir que atender implica reunir todas las decisiones en un mismo proveedor.
+
+Aprender de una experiencia no obliga a copiar su imposición. Una alternativa libre tendría que convertir esas relaciones en compromisos aceptados y explicar cómo sostiene el cuidado de quien no ha podido ahorrar o asegurar una necesidad anterior.
 
 ## Cómo podría organizarse una alternativa
 
@@ -85,3 +93,7 @@ Una sanidad al servicio del paciente permite elegir, cambiar, reclamar y apoyar 
 - [Ministerio de Sanidad, listas de espera a diciembre de 2025, edición rectificada](https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/docs/LISTAS_PUBLICACION_Dic_2025_rectificado.pdf). Rectificación de septiembre de 2026; no se usan las cifras previas de 853.509 pacientes y 121 días.
 - [OCDE, Towards an Integrated Health Information System in Korea, 2022](https://www.oecd.org/en/publications/towards-an-integrated-health-information-system-in-korea_c4e6c88d-en/full-report/component-6.html), organización del aseguramiento y de los proveedores. El porcentaje de hospitales identifica esa edición.
 - La organización mediante contratos voluntarios descrita en el ensayo es una propuesta; no se atribuye íntegramente al modelo surcoreano.
+
+- [Ministerio de Salud de Singapur, Managing medical bills](https://www.moh.gov.sg/managing-expenses/keeping-healthcare-affordable/managing-medical-bills/), definición oficial de subvenciones, MediSave, MediShield Life y MediFund. Se distinguen las funciones del sistema y la obligatoriedad de algunos instrumentos; no se presenta como financiación voluntaria completa.
+
+- [Ministerio de Sanidad de Singapur, Health Facilities](https://www.moh.gov.sg/others/resources-and-statistics/health-facilities/), inventario por titularidad y tipo de centro. [Marco HCSA de regulación y licencias](https://www.moh.gov.sg/others/health-regulation/healthcare-services-regulation-and-licensing/), fuente oficial consultada el 29 de octubre de 2026. La coexistencia de proveedores se distingue de un mercado sin intervención.

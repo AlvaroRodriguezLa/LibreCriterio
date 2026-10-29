@@ -7,7 +7,7 @@ image: "/images/cuando-el-partido-sustituye-a-la-conciencia.svg"
 imageAlt: "Ilustración conceptual: Cuando el partido sustituye a la conciencia"
 category: "Poder"
 tags: ["Poder","libertad"]
-order: 13
+order: 17
 satellites: []
 thesis: "La lealtad deja de ser un juicio cuando ninguna conducta del propio partido puede cambiarla."
 related: ["el-cargo-no-convierte-a-nadie-en-sagrado","el-estado-siempre-encuentra-un-culpable","quien-puede-perdonar-a-sus-aliados"]

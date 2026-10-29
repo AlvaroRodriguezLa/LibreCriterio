@@ -7,7 +7,7 @@ image: "/images/redistribuir-no-es-solo-repartir.svg"
 imageAlt: "Ilustración conceptual: Redistribuir no es solo repartir"
 category: "Fiscalidad"
 tags: ["Fiscalidad","libertad"]
-order: 19
+order: 25
 masterPages: "47–49"
 satellites: ["La falsa promesa de la redistribución"]
 thesis: "Ayudar a una persona no concede el derecho a disponer de otra: los resultados y el consentimiento son cuestiones distintas."

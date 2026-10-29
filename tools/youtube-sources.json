@@ -1,0 +1,516 @@
+{
+  "schemaVersion": 1,
+  "playlist": "https://www.youtube.com/playlist?list=PLGndpsTZkaBk",
+  "referenceAuthors": [
+    "Javier Milei",
+    "Manuel Llamas",
+    "Jesús Huerta de Soto",
+    "Juan Ramón Rallo",
+    "Miguel Anxo Bastos"
+  ],
+  "videos": [
+    {
+      "id": "KQ7DP7A8jLc",
+      "url": "https://www.youtube.com/watch?v=KQ7DP7A8jLc",
+      "topics": [
+        "poder-cultural-medios"
+      ],
+      "contexts": [
+        "Uso gubernamental de RTVE, CIS, subvenciones al cine español y educación pública"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "6a2abobuKXo",
+      "url": "https://www.youtube.com/watch?v=6a2abobuKXo",
+      "topics": [
+        "poder-cultural-medios"
+      ],
+      "contexts": [
+        "Uso gubernamental de RTVE, CIS, subvenciones al cine español y educación pública"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "ECioYubkBpo",
+      "url": "https://www.youtube.com/watch?v=ECioYubkBpo",
+      "topics": [
+        "menores-crianza"
+      ],
+      "contexts": [
+        "Mala crianza de padres y protección del menor en una sociedad liberal"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "eLu3RqobTco",
+      "url": "https://www.youtube.com/watch?v=eLu3RqobTco",
+      "topics": [
+        "menores-crianza"
+      ],
+      "contexts": [
+        "Mala crianza de padres y protección del menor en una sociedad liberal"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "g6LR2tzUIT8",
+      "url": "https://www.youtube.com/watch?v=g6LR2tzUIT8",
+      "topics": [
+        "menores-crianza"
+      ],
+      "contexts": [
+        "Mala crianza de padres y protección del menor en una sociedad liberal"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "1879d6qKQM8",
+      "url": "https://www.youtube.com/watch?v=1879d6qKQM8",
+      "topics": [
+        "pago-por-uso"
+      ],
+      "contexts": [
+        "Coherencia del pago por uso: peajes, trenes y buses frente a RTVE, educación y sanidad"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "DkMdd420fzw",
+      "url": "https://www.youtube.com/watch?v=DkMdd420fzw",
+      "topics": [
+        "bandidos",
+        "expresion"
+      ],
+      "contexts": [
+        "Bandidos itinerantes y bandidos estacionarios",
+        "Libertad de expresión frente al gobierno; defender también el discurso que disgusta"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "tjvjlcHrrM4",
+      "url": "https://www.youtube.com/watch?v=tjvjlcHrrM4",
+      "topics": [
+        "movilidad-competencia-fiscal"
+      ],
+      "contexts": [
+        "Competencia fiscal, libertad de movimiento y votar con los pies"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "lUpWRSin5XI",
+      "url": "https://www.youtube.com/watch?v=lUpWRSin5XI",
+      "topics": [
+        "movilidad-competencia-fiscal"
+      ],
+      "contexts": [
+        "Competencia fiscal, libertad de movimiento y votar con los pies"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "nnEH0qdhwaU",
+      "url": "https://www.youtube.com/watch?v=nnEH0qdhwaU",
+      "topics": [
+        "muro-berlin"
+      ],
+      "contexts": [
+        "Muro de Berlín construido para impedir la salida de sus habitantes"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "CilCch-3JuU",
+      "url": "https://www.youtube.com/watch?v=CilCch-3JuU",
+      "topics": [
+        "monarquia-republica"
+      ],
+      "contexts": [
+        "Monarquía y república: facultades, elecciones, demagogia y legitimidad electoral"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "3GZm4o-W3FQ",
+      "url": "https://www.youtube.com/watch?v=3GZm4o-W3FQ",
+      "topics": [
+        "control-digital"
+      ],
+      "contexts": [
+        "Censura, control en redes, DNI digital y eliminación del efectivo"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "eSouexEJ2IY",
+      "url": "https://www.youtube.com/watch?v=eSouexEJ2IY",
+      "topics": [
+        "dinero-oro-bitcoin"
+      ],
+      "contexts": [
+        "Inflación como impuesto al ahorro; propiedades del dinero; oro y bitcoin"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "7QCWJbj7TEQ",
+      "url": "https://www.youtube.com/watch?v=7QCWJbj7TEQ",
+      "topics": [
+        "precios-salarios-empleo"
+      ],
+      "contexts": [
+        "Salario mínimo, despido y control de precios; ejemplos salario de 15.000 euros y Ferrari a 2 euros"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "PafTaBGoDLM",
+      "url": "https://www.youtube.com/watch?v=PafTaBGoDLM",
+      "topics": [
+        "precios-salarios-empleo"
+      ],
+      "contexts": [
+        "Salario mínimo, despido y control de precios; incentivos de contratación y producción"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "cMI-d56xdGQ",
+      "url": "https://www.youtube.com/watch?v=cMI-d56xdGQ",
+      "topics": [
+        "precios-salarios-empleo"
+      ],
+      "contexts": [
+        "Salario mínimo, despido y control de precios; incentivos de contratación y producción"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "YUvPew8x95A",
+      "url": "https://www.youtube.com/watch?v=YUvPew8x95A",
+      "topics": [
+        "precios-salarios-empleo"
+      ],
+      "contexts": [
+        "Salario mínimo, despido y control de precios; incentivos de contratación y producción"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "Jvld2VWTLmI",
+      "url": "https://www.youtube.com/watch?v=Jvld2VWTLmI",
+      "topics": [
+        "precios-salarios-empleo"
+      ],
+      "contexts": [
+        "Salario mínimo, despido y control de precios; incentivos de contratación y producción"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "XrdCP3viocU",
+      "url": "https://www.youtube.com/watch?v=XrdCP3viocU",
+      "topics": [
+        "bien-comun-democracia"
+      ],
+      "contexts": [
+        "Intereses individuales, bien común y dependencia del resultado democrático respecto al sistema de conteo"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "W4hCB0nGk6s",
+      "url": "https://www.youtube.com/watch?v=W4hCB0nGk6s",
+      "topics": [
+        "abstencion"
+      ],
+      "contexts": [
+        "Por qué no voto"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "nQhiJ4m6Xq8",
+      "url": "https://www.youtube.com/watch?v=nQhiJ4m6Xq8",
+      "topics": [
+        "productividad"
+      ],
+      "contexts": [
+        "Producción estancada y productividad"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "YKC2gL72wlA",
+      "url": "https://www.youtube.com/watch?v=YKC2gL72wlA",
+      "topics": [
+        "pensiones"
+      ],
+      "contexts": [
+        "Sostenibilidad de las pensiones"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "xWu9F73XYKo",
+      "url": "https://www.youtube.com/watch?v=xWu9F73XYKo",
+      "topics": [
+        "sanidad-singapur"
+      ],
+      "contexts": [
+        "Sistema sanitario de Singapur"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "IbpwTRjdxi8",
+      "url": "https://www.youtube.com/watch?v=IbpwTRjdxi8",
+      "topics": [
+        "competencia-consumidor"
+      ],
+      "contexts": [
+        "Competencia y servir al consumidor"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "Ip5eAy2X8rM",
+      "url": "https://www.youtube.com/watch?v=Ip5eAy2X8rM",
+      "topics": [
+        "procedimientos-consecuencias"
+      ],
+      "contexts": [
+        "Liberalismo procedimentalista frente a consecuencialista"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "9XnyO68q1uY",
+      "url": "https://www.youtube.com/watch?v=9XnyO68q1uY",
+      "topics": [
+        "abajo-arriba"
+      ],
+      "contexts": [
+        "Cambio liberal de abajo arriba: seducir, convencer, divulgación y lucha cultural"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "uGTrqN-YD6g",
+      "url": "https://www.youtube.com/watch?v=uGTrqN-YD6g",
+      "topics": [
+        "derechos-responsabilidad-oferta-demanda"
+      ],
+      "contexts": [
+        "Derechos y responsabilidades: vender lo que otros demandan; precios, vivienda, salarios y carreras"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "3jRb-EN5l4Y",
+      "url": "https://www.youtube.com/watch?v=3jRb-EN5l4Y",
+      "topics": [
+        "derechos-responsabilidad-oferta-demanda"
+      ],
+      "contexts": [
+        "Derechos y responsabilidades: vender lo que otros demandan; precios, vivienda, salarios y carreras"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "qYTp_22CI2M",
+      "url": "https://www.youtube.com/watch?v=qYTp_22CI2M",
+      "topics": [
+        "prostitucion-armas-drogas"
+      ],
+      "contexts": [
+        "Liberalismo, prostitución, armas y drogas"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "jH-VDwnV5Cc",
+      "url": "https://www.youtube.com/watch?v=jH-VDwnV5Cc",
+      "topics": [
+        "prostitucion-armas-drogas"
+      ],
+      "contexts": [
+        "Liberalismo, prostitución, armas y drogas"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "9TQyvCJQmdo",
+      "url": "https://www.youtube.com/watch?v=9TQyvCJQmdo",
+      "topics": [
+        "prostitucion-armas-drogas"
+      ],
+      "contexts": [
+        "Liberalismo, prostitución, armas y drogas"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "BK4TgmPS06M",
+      "url": "https://www.youtube.com/watch?v=BK4TgmPS06M",
+      "topics": [
+        "prostitucion-armas-drogas"
+      ],
+      "contexts": [
+        "Liberalismo, prostitución, armas y drogas"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "isjPBYUU1P8",
+      "url": "https://www.youtube.com/watch?v=isjPBYUU1P8",
+      "topics": [
+        "prostitucion-armas-drogas"
+      ],
+      "contexts": [
+        "Liberalismo, prostitución, armas y drogas"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "PlZzXJkva-c",
+      "url": "https://www.youtube.com/watch?v=PlZzXJkva-c",
+      "topics": [
+        "mismo-acto-distinta-etiqueta"
+      ],
+      "contexts": [
+        "Cárcel/secuestro; impuesto/robo; policía/fuerza; guerra/matar: examen moral sin privilegios por etiqueta estatal"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "VLJm7F7sWBI",
+      "url": "https://www.youtube.com/watch?v=VLJm7F7sWBI",
+      "topics": [
+        "especulacion-oferta-vivienda"
+      ],
+      "contexts": [
+        "Especuladores y vivienda: liberalizar suelo y construir para erosionar rentas de escasez"
+      ],
+      "priority": "normal",
+      "analysis": "extract-ideas-and-evidence"
+    },
+    {
+      "id": "LZJxcAhNLdQ",
+      "url": "https://www.youtube.com/watch?v=LZJxcAhNLdQ",
+      "topics": [
+        "analisis-integral"
+      ],
+      "contexts": [
+        "Entender el vídeo punto por punto y redactar una defensa perfeccionada de sus ideas liberales"
+      ],
+      "priority": "high",
+      "analysis": "full_argument_review"
+    },
+    {
+      "id": "g3KgcnZNzNA",
+      "url": "https://www.youtube.com/watch?v=g3KgcnZNzNA",
+      "topics": [
+        "analisis-integral"
+      ],
+      "contexts": [
+        "Entender el vídeo punto por punto y redactar una defensa perfeccionada de sus ideas liberales"
+      ],
+      "priority": "high",
+      "analysis": "full_argument_review"
+    },
+    {
+      "id": "etbYlJoLVRA",
+      "url": "https://www.youtube.com/watch?v=etbYlJoLVRA",
+      "topics": [
+        "analisis-integral"
+      ],
+      "contexts": [
+        "Entender el vídeo punto por punto y redactar una defensa perfeccionada de sus ideas liberales"
+      ],
+      "priority": "high",
+      "analysis": "full_argument_review"
+    },
+    {
+      "id": "VLi7JF_zTh8",
+      "url": "https://www.youtube.com/watch?v=VLi7JF_zTh8",
+      "topics": [
+        "analisis-integral"
+      ],
+      "contexts": [
+        "Entender el vídeo punto por punto y redactar una defensa perfeccionada de sus ideas liberales"
+      ],
+      "priority": "high",
+      "analysis": "full_argument_review"
+    },
+    {
+      "id": "3ICeX532MSI",
+      "url": "https://www.youtube.com/watch?v=3ICeX532MSI",
+      "topics": [
+        "analisis-integral"
+      ],
+      "contexts": [
+        "Entender el vídeo punto por punto y redactar una defensa perfeccionada de sus ideas liberales"
+      ],
+      "priority": "high",
+      "analysis": "full_argument_review"
+    },
+    {
+      "id": "H61Brr6NnWQ",
+      "url": "https://www.youtube.com/watch?v=H61Brr6NnWQ",
+      "topics": [
+        "analisis-integral"
+      ],
+      "contexts": [
+        "Entender el vídeo punto por punto y redactar una defensa perfeccionada de sus ideas liberales"
+      ],
+      "priority": "high",
+      "analysis": "full_argument_review"
+    }
+  ],
+  "policy": {
+    "captionsFirst": true,
+    "downloadAudioByDefault": false,
+    "paidServices": false,
+    "retainOriginalSegments": true,
+    "channelIsNotSpeaker": true,
+    "automaticSpeakerNames": false,
+    "publishTranscripts": false
+  }
+}

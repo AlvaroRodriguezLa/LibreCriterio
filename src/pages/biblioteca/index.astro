@@ -1,5 +1,90 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import books from '../../data/library.json';
+import sourceBooks from '../../data/library.json';
+
+type Book = {
+  id: string; author: string; title: string; subtitle?: string; year: string;
+  area: string; why: string; tension: string; url: string; access: string;
+  priority?: boolean; edition?: string; linkLabel?: string;
+  additionalUrl?: string; additionalLabel?: string;
+};
+const books = sourceBooks as Book[];
+const principal = books.filter(book => book.priority === true);
+const extensions = books.filter(book => book.priority !== true);
+const groups = [
+  {
+    id: 'referencias-principales', title: 'Referencias principales', books: principal,
+    lead: 'Soberanía individual, cooperación, límites del poder y alternativas voluntarias. Estas obras orientan las preguntas del proyecto y su forma de abordarlas.',
+  },
+  {
+    id: 'para-ampliar', title: 'Clásicos y ampliaciones', books: extensions,
+    lead: 'Otras voces para profundizar en conocimiento, consentimiento, incentivos y formas de cooperar. Los enlaces pueden llevar a una obra, un artículo o una guía; cada ficha identifica el acceso disponible.',
+  },
+];
 ---
-<BaseLayout title="Biblioteca comentada"><section class="wrapper page-intro"><p class="eyebrow">22 LECTURAS / CLÁSICOS E INTERLOCUTORES</p><h1>Una tradición.<br/><em>Muchas voces.</em></h1><p>Qué leer, qué pregunta abre cada obra y dónde conviene discutirla. Las fichas distinguen textos accesibles, guías y referencias del corpus cuya lectura integral queda pendiente.</p></section><section class="wrapper book-grid">{books.map(b=><article class="book-card"><span class="book-kind">{b.area} · {b.year}</span><h2>{b.title}</h2><p><strong>{b.author}</strong></p><h3>Para qué leerlo</h3><p>{b.why}</p><h3>Una tensión que conservar</h3><p>{b.tension}</p><p class="eyebrow">{b.access}</p>{b.url&&<a class="text-button" href={b.url} target="_blank" rel="noopener noreferrer">Consultar referencia ↗</a>}</article>)}</section></BaseLayout>
+<BaseLayout title="Biblioteca comentada" description="Milei, Llamas, Huerta de Soto, Rallo y Bastos como referencias principales, con clásicos y lecturas para ampliar.">
+  <section class="wrapper page-intro">
+    <p class="eyebrow">{books.length} LECTURAS · {principal.length} REFERENCIAS PRINCIPALES · {extensions.length} AMPLIACIONES</p>
+    <h1>Las ideas.<br/><em>Las fuentes.</em></h1>
+    <p>Qué pregunta abre cada obra, qué aporta al recorrido y qué se ha consultado. Milei, Llamas, Huerta de Soto, Rallo y Bastos ocupan el primer lugar; los clásicos siguen cerca para profundizar.</p>
+    <nav class="library-jump-links" aria-label="Secciones de la biblioteca">
+      <a href="#referencias-principales">Referencias principales ({principal.length}) ↓</a>
+      <a href="#para-ampliar">Clásicos y ampliaciones ({extensions.length}) ↓</a>
+    </nav>
+    <p class="library-consultation">La consulta de una ficha, un fragmento o una entrevista se indica como tal. Las referencias disponibles para ampliar no implican una lectura integral.</p>
+  </section>
+  {groups.map(group => (
+    <section class="wrapper library-section" id={group.id} aria-labelledby={group.id + '-title'}>
+      <header class="library-section-header">
+        <p class="eyebrow">{group.books.length} LECTURAS</p>
+        <h2 id={group.id + '-title'}>{group.title}</h2>
+        <p>{group.lead}</p>
+      </header>
+      <div class="book-grid">
+        {group.books.map(book => (
+          <article class="book-card" id={book.id} data-priority={book.priority ? 'true' : 'false'}>
+            <span class="book-kind">{book.area} · {book.year}</span>
+            <h3 class="book-title">{book.title}</h3>
+            {book.subtitle && <p class="book-subtitle">{book.subtitle}</p>}
+            <p class="book-author"><strong>{book.author}</strong></p>
+            {book.edition && <p class="book-edition">{book.edition}</p>}
+            <h4>Qué aporta</h4>
+            <p>{book.why}</p>
+            <h4>Al leerlo</h4>
+            <p>{book.tension}</p>
+            <div class="book-access">
+              <h4>{book.priority ? 'Consulta realizada' : 'Acceso y consulta'}</h4>
+              <p>{book.access}</p>
+            </div>
+            <div class="book-reference-links">
+              {book.url && <a class="text-button" href={book.url} aria-label={(book.linkLabel || 'Consultar la referencia') + ' de ' + book.title} target="_blank" rel="noopener noreferrer">{book.linkLabel || 'Consultar la referencia'} ↗</a>}
+              {book.additionalUrl && <a class="book-additional-link" href={book.additionalUrl} aria-label={(book.additionalLabel || 'Ampliar la referencia') + ' de ' + book.title} target="_blank" rel="noopener noreferrer">{book.additionalLabel || 'Ampliar la referencia'} ↗</a>}
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+  ))}
+</BaseLayout>
+<style>
+  .library-jump-links{display:flex;flex-wrap:wrap;gap:14px 28px;margin-top:28px;font:14px/1.6 var(--sans)}
+  .page-intro .library-consultation{font-size:14px;max-width:72ch;border-left:2px solid var(--rule);padding-left:16px;margin-top:26px}
+  .library-section{padding-block:24px 40px;scroll-margin-top:24px}
+  .library-section-header{max-width:76ch;margin-bottom:28px}
+  .library-section-header .eyebrow{margin-bottom:12px}
+  .library-section-header h2{font:400 clamp(30px,4vw,46px)/1.15 var(--serif);letter-spacing:-.025em;margin:0 0 16px}
+  .library-section-header>p:last-child{font:15px/1.75 var(--sans);color:var(--muted)}
+  .book-card{min-width:0;scroll-margin-top:24px}
+  .book-card .book-title{font:400 clamp(27px,3vw,34px)/1.2 var(--serif);margin:12px 0 14px;overflow-wrap:break-word}
+  .book-card .book-subtitle{font:18px/1.5 var(--serif);color:var(--ink);margin-top:-3px}
+  .book-card .book-author{color:var(--ink);margin-top:12px}
+  .book-card .book-edition{font-size:12px;line-height:1.7;margin:12px 0 22px}
+  .book-card h4{font:600 13px/1.5 var(--sans);margin:22px 0 6px}
+  .book-card h4+p{margin-top:0;line-height:1.75}
+  .book-access{border-top:1px solid var(--rule);margin-top:22px;padding-top:2px}
+  .book-access p{font-size:13px;line-height:1.75}
+  .book-reference-links{display:flex;flex-direction:column;align-items:flex-start;gap:16px;margin-top:22px}
+  .book-reference-links a{max-width:100%;min-height:44px;display:inline-flex;align-items:center;overflow-wrap:anywhere}
+  .book-additional-link{font:13px/1.6 var(--sans);padding-block:5px}
+  @media(max-width:700px){.library-section{padding-block:18px 28px}.library-section-header{margin-bottom:18px}.book-card .book-title{font-size:29px}.library-jump-links{flex-direction:column;gap:12px}}
+</style>

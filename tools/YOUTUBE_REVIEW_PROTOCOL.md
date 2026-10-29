@@ -1,0 +1,9 @@
+# Revisión de transcripciones
+
+La descarga es evidencia de palabras transcritas, no de hechos comprobados. Revisar la transcripción completa. No inferir quién habla a partir del canal. Los subtítulos automáticos no distinguen voces, no garantizan nombres/cifras y pueden perder audio de vídeos insertados.
+
+Guardar una ficha JSON por vídeo en knowledge/youtube/analysis/ID.json. Campos: schemaVersion=1, videoId, title, channel (metadatos), reviewedAt, reviewMode=transcript_only, readAllSegments=true, sourceTranscriptSha256, speakers (candidatos y grado de verificación), narrativeSequence (pasos en orden con start/end e idea), arguments (idea propia, tipo, actor/voz/posición, evidenceSegmentIds, assessment keep/qualify/reject/needs_verification,reason), examples, analogies, statistics (dato literal con unidad/periodo/contexto y evidenceSegmentIds; estado por verificar), criticisms, cases, contradictionsOrLimits, liberalIdeas, attributionWarnings, suggestedEssayUses, status=reviewed_transcript.
+
+No inventar. Los identificadores de evidencia deben existir en transcript.json. No declarar verificación audiovisual cuando solo se ha leído. Identificar citas adversarias y objeciones; un argumento pronunciado en una reacción no equivale a una postura del narrador. Si no se puede separar, marcar ambiguous. No corregir nombres o números silenciosamente: conservar lectura ASR y candidato normalizado con necesidad de contraste.
+
+Los seis vídeos prioritarios requieren narrativa secuencial de todos los bloques conceptuales; el resto, todas las ideas principales con ejemplos, críticas y datos. No rehacer literalmente un guion ajeno ni tratar conclusiones como probadas por simpatía ideológica. Redactar análisis transformativo. La soberanía individual, la ausencia de agresión y el consentimiento son el criterio editorial pedido; una conclusión empírica necesita contraste distinto.

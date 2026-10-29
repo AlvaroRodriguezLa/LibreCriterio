@@ -7,7 +7,7 @@ image: "/images/el-cargo-no-convierte-a-nadie-en-sagrado.svg"
 imageAlt: "Ilustración conceptual: El cargo no convierte a nadie en sagrado"
 category: "Poder"
 tags: ["Poder","libertad"]
-order: 11
+order: 14
 satellites: []
 thesis: "La dignidad de la persona no se convierte en superioridad moral por ocupar un cargo."
 related: ["el-poder-no-cambia-al-cambiar-de-bandera","la-mayoria-no-lo-puede-todo","cuando-el-partido-sustituye-a-la-conciencia"]
@@ -57,6 +57,14 @@ La mirada debe alcanzar también al dirigente que nos gusta. Si la irreverencia 
 Pedir nombres devuelve claridad. ¿Qué personas aceptaron la propuesta? ¿Quién puede abandonar el servicio? ¿Quién repara el daño? ¿Por qué conserva sus facultades quien vuelve a fallar? Son preguntas corrientes que la solemnidad no responde.
 
 El edificio puede ser hermoso y su historia merecer estudio. La persona que ocupa el asiento conserva toda su dignidad. Ninguna de las dos cosas exige que entreguemos el juicio propio a quien se sienta en él.
+
+## Una corona no crea consentimiento
+
+Cambiar un rey por un presidente no responde por sí solo a quién puede disponer de tu vida. Una autoridad heredada no obtiene tu aceptación por su apellido. Una autoridad elegida tampoco recibe la propiedad de quienes votaron a otro o decidieron no participar.
+
+Otra elección puede añadir promesas, campañas y la presión por conservar apoyos. La sucesión hereditaria introduce otros privilegios y otros riesgos. Sus diferencias importan, pero el límite moral no depende de decidir cuál te resulta más simpática. Una facultad de imponer fines a una persona pacífica sigue siendo una facultad de imponerlos.
+
+La discusión se vuelve concreta cuando dejamos de preguntar solo por el título del cargo: qué puede ordenar, qué ocurre si te niegas y qué decisiones recuperas al retirarle ese poder. Elegir a alguien no debería convertirlo en dueño de la elección ajena.
 
 ## Lecturas y fuentes
 

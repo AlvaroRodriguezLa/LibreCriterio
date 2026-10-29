@@ -73,6 +73,14 @@ La imagen de romper las piernas y ofrecer las muletas describe esa relación: pr
 
 No toda dificultad económica tiene ese origen. Para aplicarlo a un caso real hay que identificar la barrera y su efecto. Pero cuando la relación existe, agradecer la muleta no convierte en aceptable la pierna rota. Y necesitar apoyo hoy no concede a quien lo administra el derecho a impedir que mañana puedas caminar solo.
 
+## La etiqueta no cambia el acto
+
+Si alguien te encierra por discrepar pacíficamente, llamar cárcel al lugar no elimina que te esté reteniendo contra tu voluntad. Si se lleva tu dinero bajo amenaza para sus propios fines, un membrete no fabrica tu consentimiento. El juicio debe seguir a lo que se hace, también cuando lo hace una institución.
+
+Eso exige aplicar la misma distinción a todos. Detener una agresión y proteger a su víctima no equivale a encerrar a quien no ha agredido. Defenderse de un ataque no equivale a matar a personas ajenas a él. Una placa o una declaración de guerra tampoco borran los derechos de esas personas.
+
+El nombre del uniforme no demuestra ni la justicia ni la injusticia de cada uso de fuerza. La pregunta es qué daño se está deteniendo, contra quién se actúa y cómo responde quien se equivoca. Los actos no reciben una excepción moral por figurar en un presupuesto.
+
 ## Lecturas y fuentes
 
 - [La constitución sin autoridad](https://oll.libertyfund.org/titles/spooner-no-treason-no-vi-the-constitution-of-no-authority-1870), examen del consentimiento atribuido al ciudadano.

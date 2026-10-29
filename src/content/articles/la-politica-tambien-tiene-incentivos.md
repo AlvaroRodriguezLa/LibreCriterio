@@ -7,7 +7,7 @@ image: "/images/la-politica-tambien-tiene-incentivos.svg"
 imageAlt: "Ilustración conceptual: La política también tiene incentivos"
 category: "Poder"
 tags: ["Poder","libertad"]
-order: 10
+order: 13
 masterPages: "24–34"
 satellites: []
 thesis: "El poder separa decisiones y consecuencias, y puede premiar a quien acepta cruzar más límites para conservarlo."

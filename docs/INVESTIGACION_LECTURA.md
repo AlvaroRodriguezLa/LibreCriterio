@@ -6,11 +6,13 @@ La recomendación central es editar una obra con un hilo argumental y una contin
 
 ## Resultado aplicado
 
-El libro reúne 29 capítulos en cinco partes: libertad y propiedad; coordinación y capital; incentivos del poder; coste de la tutela; alternativas voluntarias. Las direcciones existentes se conservan. La secuencia atraviesa las fronteras de las partes y cada final presenta el asunto que viene después.
+La edición del 28 de octubre reunió 29 capítulos en cinco partes: libertad y propiedad; coordinación y capital; incentivos del poder; coste de la tutela; alternativas voluntarias. Las direcciones existentes se conservan. La secuencia atraviesa las fronteras de las partes y cada final presenta el asunto que viene después.
 
 La lectura usa una columna de hasta 65ch, 20px por defecto, interlineado 1,72 y alineación izquierda. El lector puede escoger 18, 20, 22 o 24px, serif o sans y fondo papel, blanco u oscuro. El modo de concentración recoge el argumento en una columna y mantiene el acceso al índice. La posición se ofrece para retomar por sección mediante una acción explícita; no hay salto automático. Los capítulos completados se marcan mediante un botón, nunca por haber desplazado la página. Preferencias y progreso se guardan solo en el navegador utilizado.
 
 Las fuentes y ampliaciones se despliegan al pie. Los límites que alteran la interpretación de una cifra permanecen junto a ella. El porcentaje mide el argumento principal, no las notas ni el pie de página; el tiempo estimado excluye JSON de diagramas y bibliografía. La navegación y el texto son HTML estático y siguen funcionando sin JavaScript.
+
+La ampliación del 29 de octubre conserva este diseño y extiende el recorrido a 38 capítulos. La cobertura de temas añadidos se documenta en AUDITORIA_AMPLIACION_2026-10-29.md. No se han repetido las comparaciones externas para presentar esa ampliación como un nuevo estudio de mercado.
 
 ## Comparación del mercado
 

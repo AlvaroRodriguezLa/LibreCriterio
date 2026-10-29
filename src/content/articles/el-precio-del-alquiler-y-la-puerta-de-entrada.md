@@ -7,7 +7,7 @@ image: "/images/el-precio-del-alquiler-y-la-puerta-de-entrada.svg"
 imageAlt: "Ilustración conceptual: El alquiler y la puerta de entrada"
 category: "Debates"
 tags: ["Debates","libertad"]
-order: 28
+order: 36
 masterPages: "58–59; desarrollo del capítulo 22"
 satellites: []
 thesis: "Proteger a quien ya alquila y facilitar la entrada de quien busca vivienda son resultados distintos que deben medirse juntos."
@@ -54,6 +54,14 @@ Suelo, licencias, infraestructuras, incertidumbre y tiempos de obra condicionan 
 Demografía, empleo, turismo, tipos de interés y capacidad constructiva intervienen también. Atribuir toda la crisis a una única norma confunde un mecanismo plausible con una explicación causal completa.
 
 Abrir la oferta exige contratos previsibles, capacidad de construir y servicios que hagan habitables los barrios. La libertad de edificar tampoco incluye dañar a terceros.
+
+## La mejor réplica a quien vive de la escasez
+
+Imagina que alguien compra viviendas esperando que cada vez sea más difícil construir y que la demanda siga creciendo. Su apuesta depende de que las alternativas no lleguen. Para erosionar esa ventaja, tiene sentido permitir que otros construyan, rehabiliten y ofrezcan más opciones donde se necesitan.
+
+Si aparece suficiente oferta, quien esperaba vender caro tendrá que competir con ella. Puede ganar menos o perder dinero. No es necesario garantizarle el precio que esperaba ni castigar cada compraventa por llevar la etiqueta de especulación. Lo que hay que retirar es la barrera que lo protege de los demás.
+
+El resultado no es instantáneo ni asegura que cada vivienda baje de precio: construir lleva tiempo y cambian los costes y la demanda. La relación es más sencilla: cuanto más fácil sea ofrecer una alternativa, más difícil será vivir de impedir que exista.
 
 ## La objeción de quien no puede esperar
 

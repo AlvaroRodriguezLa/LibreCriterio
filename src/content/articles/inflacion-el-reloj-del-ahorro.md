@@ -7,7 +7,7 @@ image: "/images/inflacion-el-reloj-del-ahorro.svg"
 imageAlt: "Ilustración conceptual: Inflación: el reloj que desgasta el ahorro"
 category: "Mercados"
 tags: ["Mercados","libertad"]
-order: 9
+order: 12
 masterPages: "55–57"
 satellites: []
 thesis: "La creación de dinero y su orden de entrada pueden redistribuir capacidad de compra sin pedir el consentimiento de quienes pierden."

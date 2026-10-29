@@ -8,7 +8,8 @@
       "tu-vida-no-es-un-proyecto-del-poder",
       "la-puerta-que-puedes-cerrar",
       "un-contrato-que-nadie-puede-rechazar",
-      "la-mayoria-no-lo-puede-todo"
+      "la-mayoria-no-lo-puede-todo",
+      "tu-libertad-cuando-me-disgusta"
     ]
   },
   {
@@ -19,8 +20,10 @@
     "slugs": [
       "el-conocimiento-no-cabe-en-un-despacho",
       "sin-precios-no-hay-brujula",
+      "poner-un-precio-no-crea-lo-que-falta",
       "el-capital-que-no-llega-a-nacer",
       "el-permiso-de-quien-ya-ha-entrado",
+      "el-dinero-no-es-la-riqueza",
       "inflacion-el-reloj-del-ahorro"
     ]
   },
@@ -33,7 +36,9 @@
       "la-politica-tambien-tiene-incentivos",
       "el-cargo-no-convierte-a-nadie-en-sagrado",
       "el-poder-no-cambia-al-cambiar-de-bandera",
+      "el-permiso-para-hablar-y-pagar",
       "cuando-el-partido-sustituye-a-la-conciencia",
+      "quien-paga-el-relato",
       "el-estado-siempre-encuentra-un-culpable",
       "lo-provisional-que-se-queda",
       "quien-puede-perdonar-a-sus-aliados",
@@ -47,6 +52,7 @@
     "opening": "El poder necesita recursos. Seguimos su recorrido desde el trabajo y el ahorro hasta las prestaciones, para distinguir una ayuda, una obligación y una promesa sobre el futuro.",
     "slugs": [
       "la-nomina-que-no-ves",
+      "la-factura-cambia-de-principio",
       "redistribuir-no-es-solo-repartir",
       "pensiones-el-puente-entre-generaciones",
       "una-promesa-no-es-un-patrimonio"
@@ -61,11 +67,14 @@
       "un-derecho-no-es-un-proveedor",
       "cuidar-sin-pedir-permiso-al-monopolio",
       "aprender-sin-una-leccion-unica",
+      "criar-no-es-ser-dueno",
       "un-arbitro-no-necesita-ser-un-soberano",
       "cooperar-sin-un-director-unico",
       "muchos-centros-mejores-salidas",
+      "irse-no-es-traicionar",
       "el-precio-del-alquiler-y-la-puerta-de-entrada",
-      "las-objeciones-que-hay-que-responder"
+      "las-objeciones-que-hay-que-responder",
+      "convencer-sin-ocupar-el-mando"
     ]
   }
 ]

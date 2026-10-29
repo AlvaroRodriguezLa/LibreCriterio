@@ -7,7 +7,7 @@ image: "/images/el-conocimiento-no-cabe-en-un-despacho.svg"
 imageAlt: "Ilustración conceptual: El conocimiento no cabe en un despacho"
 category: "Mercados"
 tags: ["Mercados","conocimiento"]
-order: 5
+order: 6
 masterPages: "14–17, 19"
 satellites: ["el documento sobre conocimiento y cálculo"]
 thesis: "Coordinar mejor no exige que una sola mente decida por todas."

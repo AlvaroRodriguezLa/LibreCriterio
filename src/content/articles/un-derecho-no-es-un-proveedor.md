@@ -7,7 +7,7 @@ image: "/images/un-derecho-no-es-un-proveedor.svg"
 imageAlt: "Ilustración conceptual: Un derecho no es un proveedor"
 category: "Instituciones"
 tags: ["Instituciones","libertad"]
-order: 22
+order: 28
 masterPages: "53–55"
 satellites: []
 thesis: "Las necesidades requieren cooperación y servicios concretos; no convierten a las personas en propiedad de una institución."
@@ -54,6 +54,14 @@ No basta con marcar una casilla si todas llevan al mismo servicio. Tampoco si de
 La distancia, el precio, la falta de información o de plazas también pueden dejarte sin alternativas. Abrir la entrada permite que aparezcan proyectos donde el proveedor instalado no responde. Tener permiso para elegir sirve de poco cuando no hay otra puerta.
 
 La libertad no elimina la escasez ni asegura una oferta infinita. Permite que quienes conocen una necesidad intenten atenderla sin someter cada solución a una autoridad que impone la misma respuesta para todos.
+
+## La comparación empieza antes de la factura
+
+A veces imaginamos una alternativa así: conservar el sueldo neto actual y pagar de nuevo toda la sanidad, la educación y la jubilación. Esa cuenta mantiene la recaudación de un modelo y añade el coste del otro. No está comparando dos formas de organizar los mismos recursos.
+
+Al retirar una financiación obligatoria, las personas conservarían recursos que antes entregaban. Tendrían que decidir qué atención, seguro o reserva pagar con ellos. También cambiarían proveedores, precios y oportunidades de entrada. La competencia podría abaratar algunas prestaciones y mejorar otras; su magnitud hay que comprobarla, no inventarla.
+
+No se deduce que todo hogar recibiría más de lo que necesita ni que cada servicio sería barato. Sí se deduce que el punto de partida no puede ser una familia a la que seguimos retirando lo mismo y a la que, además, dejamos sin la prestación. Hay que seguir juntos recursos, pagos y responsabilidades.
 
 ## La persona a la que le falta dinero
 

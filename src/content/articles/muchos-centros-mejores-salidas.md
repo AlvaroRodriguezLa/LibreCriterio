@@ -7,7 +7,7 @@ image: "/images/muchos-centros-mejores-salidas.svg"
 imageAlt: "Ilustración conceptual: Muchos centros, mejores salidas"
 category: "Instituciones"
 tags: ["Instituciones","libertad"]
-order: 27
+order: 34
 masterPages: "20–24"
 satellites: []
 thesis: "Descentralizar funciona mejor cuando combina alternativas accesibles, derechos comunes y responsabilidad por daños."
@@ -60,6 +60,8 @@ El mecanismo que interesa es más concreto: cuando las personas pueden elegir ot
 ## Compartir reglas sin uniformar la vida
 
 Un acuerdo que permite trabajar, comerciar o contratar entre lugares amplía las opciones. Uno que exige hacer todo de la misma manera las reduce. La diferencia importa más que la altura administrativa de quien dicta la regla.
+
+La fiscalidad muestra esa diferencia. Pactar cómo intercambiar información o evitar cobrar dos veces una misma operación puede facilitar la movilidad. Acordar que nadie ofrezca una carga menor reduce, en cambio, una alternativa de quienes pagan. La armonización puede reunir a recaudadores distintos bajo una misma condición; tener varios nombres en la puerta no conserva la competencia si todos han pactado retirar la misma salida.
 
 También existen problemas que cruzan fronteras. Un vertido aguas arriba afecta a quienes viven abajo. Dos redes de transporte necesitan coordinar conexiones. Algunas infraestructuras permiten repartir costes entre muchos usuarios. Estos vínculos piden acuerdos sobre responsabilidad, acceso y financiación; no conceden derecho a imponer cualquier fin a los afectados.
 

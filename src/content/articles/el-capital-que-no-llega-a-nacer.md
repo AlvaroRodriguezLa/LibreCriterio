@@ -7,7 +7,7 @@ image: "/images/el-capital-que-no-llega-a-nacer.svg"
 imageAlt: "Ilustración conceptual: El capital que no llega a nacer"
 category: "Mercados"
 tags: ["Mercados","libertad"]
-order: 7
+order: 9
 masterPages: "57–60"
 satellites: []
 thesis: "Detraer recursos destinados al ahorro puede impedir inversiones que ampliarían la producción y las posibilidades de vivir mejor."
@@ -68,6 +68,10 @@ La presentación del Informe Anual 2024 del Banco de España recoge para 1998–
 La nota española de la OCDE de julio de 2026 sitúa los salarios reales un 2 % por debajo del primer trimestre de 2021, pese a crecer un 2 % durante el último año. El sueldo puede subir en euros y seguir comprando menos si los precios han avanzado más.
 
 Estos datos no atribuyen toda la evolución a los impuestos. La innovación, la formación, la escala empresarial, la competencia y la asignación de recursos también importan. Explicar un mecanismo no demuestra por sí solo cuánto pesa entre todas las causas.
+
+## Tener medios para escoger
+
+Más recursos pueden permitirte tratar una enfermedad, ayudar a alguien o rechazar un empleo que te hace daño. No garantizan felicidad ni obligan a consumir más. Puedes preferir trabajar menos, vivir con sencillez o dedicar tiempo a algo que no se vende. Lo valioso es poder elegirlo: la austeridad escogida y la falta de medios para cubrir una necesidad no son la misma experiencia. Idealizar la pobreza desde fuera no devuelve a quien la sufre esas opciones.
 
 ## El futuro que se queda fuera de la cuenta
 

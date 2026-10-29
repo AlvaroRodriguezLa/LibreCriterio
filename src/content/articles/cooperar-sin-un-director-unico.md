@@ -7,7 +7,7 @@ image: "/images/cooperar-sin-un-director-unico.svg"
 imageAlt: "Ilustración conceptual: Cooperar sin un director único"
 category: "Instituciones"
 tags: ["Instituciones","libertad"]
-order: 26
+order: 33
 masterPages: "49–51, 65"
 satellites: []
 thesis: "La cooperación voluntaria necesita reglas y debe demostrar cómo protege también a quien tiene más difícil participar."

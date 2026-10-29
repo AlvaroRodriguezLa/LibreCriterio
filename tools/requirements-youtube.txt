@@ -1,0 +1,4 @@
+yt-dlp[default]==2026.10.26
+youtube-transcript-api==1.2.4
+truststore==0.10.5
+filelock==4.2.4
