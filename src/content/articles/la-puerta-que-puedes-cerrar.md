@@ -30,6 +30,14 @@ Puedes gastarlos, ahorrarlos, donarlos o invertirlos. También puedes compartir 
 
 La propiedad no exige que vivamos separados. Permite que compartir sea una decisión. Si una persona puede tomar cuanto considera conveniente, la otra ya no comparte: entrega lo que le exigen.
 
+## Robar es apropiarse también de tu tiempo
+
+Si trabajas semanas para comprar una bicicleta y alguien te la quita, no se lleva solo un objeto. Se queda con el resultado de horas que ya no puedes recuperar. Tú trabajaste para tus propios planes; el ladrón convierte ese esfuerzo en un beneficio suyo sin habértelo pedido ni ofrecerte nada a cambio.
+
+En ese sentido moral y limitado, robar es obligar a otro a trabajar gratis para ti: no porque lo hayas tenido bajo tu mando mientras trabajaba, sino porque te apropias después de lo que produjo para sí. No es idéntico a la esclavitud histórica, que sometía a la persona entera y durante largo tiempo. El atropello común es disponer por la fuerza del esfuerzo ajeno.
+
+Ocupar una vivienda ajena sin consentimiento ni título legítimo y excluir de ella a quien tiene derecho a usarla prolonga esa apropiación: el ocupante decide sobre el uso de un bien que otro obtuvo y conservó con trabajo y ahorro. Una disputa entre inquilino y propietario, o una reclamación frente a un despojo previo, exige revisar el contrato y los títulos; no se resuelve llamando «okupación» a cualquier desacuerdo. Pero cuando alguien se instala por la fuerza y niega al titular legítimo el uso de su casa, no está compartiendo: está imponiéndole una cesión que nunca aceptó.
+
 ## Ser propietario no te permite agredir
 
 Tu casa te permite cerrar la puerta. No te permite encerrar dentro a quien quiere salir. Tu empresa te permite ofrecer trabajo. No te permite engañar al trabajador ni incumplir el sueldo pactado. Tu terreno te permite cultivar. No te autoriza a verter residuos que destruyan el terreno vecino.
