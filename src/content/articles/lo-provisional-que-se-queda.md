@@ -1,15 +1,15 @@
 ---
-title: "Lo provisional que se queda"
+title: "El poder que llega con una crisis suele quedarse"
 slug: "lo-provisional-que-se-queda"
 date: "2026-10-28"
-excerpt: "Una crisis termina. La oficina, el presupuesto y las facultades creadas para atenderla pueden conservar quienes tienen interés en mantenerlas."
+excerpt: "Las medidas temporales crean presupuestos, beneficiarios y motivos para prolongarlas. La urgencia puede acabar sin que devuelvan las decisiones."
 image: "/images/lo-provisional-que-se-queda.svg"
-imageAlt: "Ilustración conceptual: Lo provisional que se queda"
+imageAlt: "Ilustración: El poder que llega con una crisis suele quedarse"
 category: "Poder"
 tags: ["Poder","libertad"]
-order: 20
+order: 21
 satellites: []
-thesis: "Las facultades temporales crean organizaciones e intereses que pueden conservarlas después de la urgencia."
+thesis: "Una crisis puede terminar sin que termine el poder que se concedió para afrontarla."
 related: ["el-estado-siempre-encuentra-un-culpable","la-politica-tambien-tiene-incentivos","quien-puede-perdonar-a-sus-aliados"]
 level: "Iniciación"
 featured: false
@@ -18,53 +18,41 @@ draft: false
 imageFit: "contain"
 ---
 
-## Después de la urgencia
+**Una crisis puede terminar sin que termine el poder que se concedió para afrontarla.** Se crea una oficina temporal, se autoriza una intervención excepcional o se aumenta un presupuesto. Pasado el peligro, aparecen razones para conservarlo: prevención, continuidad, empleos o nuevas necesidades.
 
-Una crisis lleva a crear una oficina temporal. Hay que actuar deprisa: se contrata personal, se abre un presupuesto y se permite tomar decisiones que antes exigían más controles. Se promete volver a la normalidad cuando pase el peligro.
+El ciudadano aceptó escuchar una respuesta urgente y encuentra después una estructura permanente. Cada ampliación empieza a utilizarse como el punto normal desde el que se discute la siguiente. Así puede crecer una organización sin que nadie haya decidido de una vez todo ese crecimiento.
 
-El peligro disminuye. La oficina ya tiene empleados, contratos y personas que reciben ayudas. Cerrarla deja de ser volver al punto de partida: ahora hay intereses organizados que perderían algo concreto si desaparece. Mantenerla cuesta pequeñas cantidades repartidas entre muchos pagadores.
+## Lo extraordinario consigue defensores permanentes
 
-La historia es hipotética, pero el mecanismo es reconocible. **Una facultad puede nacer como excepción y quedarse porque ha creado a quienes necesitan que continúe.** La urgencia abre una puerta; los beneficiarios posteriores pueden impedir que se cierre.
+Una oficina nueva contrata trabajadores, firma acuerdos y distribuye ayudas. Quienes dependen de ella tienen un motivo concreto para pedir su continuidad. Los contribuyentes, en cambio, soportan costes repartidos y necesitan tiempo para conocerlos.
 
-## Los peldaños de una acumulación
+La medida puede haber atendido un problema real. Eso no demuestra que deba durar indefinidamente ni conservar todas sus facultades. Hay que distinguir la necesidad original del interés posterior de quienes viven de la respuesta.
 
-Primero se amplía lo que el poder puede hacer. Después aparecen procedimientos, cargos y recursos para hacerlo. Más tarde, esa estructura encuentra tareas parecidas que podrían justificar su continuidad. La pregunta inicial cambia: de si hay que crearla a cómo podría prescindirse de algo que ya existe.
+Este crecimiento por peldaños no exige que las crisis sean provocadas deliberadamente. Basta con que cada urgencia facilite ampliar lo permitido y que retirar después lo ampliado resulte políticamente más difícil. También pueden producirse recortes. El mecanismo describe una presión, no una ley histórica sin excepciones.
 
-Incluso si se retiran algunas medidas, puede conservarse una parte de la ampliación. En la crisis siguiente se empieza desde ese nuevo nivel. Esa es la idea del efecto trinquete: un movimiento que permite avanzar con más facilidad de la que permite retroceder.
+## La ayuda puede construir una clientela
 
-No es una ley que describa todos los países ni exige que las crisis hayan sido provocadas deliberadamente. Basta con que una urgencia real facilite conceder facultades y que después resulte políticamente costoso retirarlas. Para comprobarlo en un caso concreto hay que seguir qué se creó, qué acabó y qué permaneció.
+Una asociación que depende de una subvención empieza a mirar a la oficina que la concede. Puede dedicar recursos a cumplir sus prioridades y evitar conflictos con ella. Si afirma representar a unos miembros que aportan poco de su financiación, su supervivencia quizá dependa más del concedente que de los representados.
 
-## La ayuda que también construye una clientela
+Ese conflicto puede afectar a sindicatos, patronales, medios y organizaciones sociales. Hay que examinar sus cuentas y condiciones concretas. El problema es la dirección de la dependencia: quién puede retirar el ingreso y a quién necesita convencer la organización.
 
-Una subvención puede resolver una necesidad y crear al mismo tiempo dependencia de la ventanilla que la concede. Quien organiza su actividad alrededor de ese ingreso tendrá razones para defenderlo. Esas razones no siempre coinciden con las de las personas a las que afirma representar.
+También el beneficiario puede acabar defendiendo el sistema del que depende porque teme quedarse sin la ayuda actual. Para recuperar autonomía necesitamos alternativas y una transición creíble. La dependencia creada no prueba que siempre debamos conservar a quien la administra.
 
-Imaginemos una asociación que dice hablar en nombre de trabajadores o empresas, pero obtiene una parte decisiva de sus recursos de un reparto político. Tendrá que responder a sus miembros y también conservar una buena relación con quien decide ese reparto. La segunda lealtad puede debilitar la primera.
+## Prometer hoy y pasar la cuenta después
 
-El mismo conflicto puede aparecer en sindicatos, patronales y medios de comunicación financiados mediante subvenciones o publicidad institucional. Recibir fondos no prueba por sí solo una obediencia comprada. Sí obliga a mirar qué criterios se aplican, quién puede perder ingresos y qué incentivos existen para criticar a quien los asigna.
+El calendario electoral recompensa anuncios visibles antes de votar. Una inauguración tiene una fecha y un portavoz. Los intereses de la deuda y el mantenimiento pueden llegar cuando el promotor ya no ocupa el cargo.
 
-## Inaugurar hoy, cobrar mañana
+Endeudarse permite utilizar recursos hoy a cambio de comprometer pagos futuros. No hace gratis el proyecto. Reparte la factura entre otras personas y otros años, algunos sin posibilidad de influir en la decisión original.
 
-El calendario electoral añade otra ventaja a la expansión. Una obra o una prestación puede verse antes de las elecciones. La deuda que ayuda a financiarla llegará durante años, quizá cuando ya gobierne otra persona y deban pagar quienes no pudieron participar en la decisión.
+La misma lógica aparece en una prestación prometida sin explicar cómo se sostendrá. Para juzgarla hay que mostrar ingresos, beneficiarios, plazos y riesgos. Decir que alguien merece recibir no produce los bienes ni identifica a quien deberá aportarlos.
 
-La recompensa está cerca y concentrada en un nombre. La factura queda lejos, repartida y mezclada con otras. Posponer una reforma difícil puede resultar rentable para quien solo necesita conservar el cargo una legislatura más.
+## Lo temporal necesita una devolución efectiva
 
-Endeudarse no elimina el coste de los recursos utilizados. Lo desplaza hacia otros pagos y otros momentos. La comparación debe incluir también lo que esos futuros pagadores dejarán de poder hacer. Una promesa no se vuelve gratuita porque el recibo no llegue el día de la inauguración.
+Una fecha de caducidad, cuentas públicas y revisión independiente pueden limitar una estructura existente. Son controles útiles si permiten terminar realmente lo que ya no cumple su función. Una prórroga automática convierte la caducidad en decoración.
 
-## Cuando el fracaso pide más autoridad
+Estos controles tampoco fabrican el consentimiento que faltaba al imponer la medida. Sirven para reducir facultades y hacer visibles sus costes. El criterio liberal va más lejos: cada ampliación del mando retira decisiones a personas concretas, y recuperar esas decisiones no debería depender de demostrar que serán utilizadas como desea la oficina.
 
-Si un programa no cumple lo anunciado, una respuesta posible es revisarlo o cerrarlo. Otra consiste en afirmar que necesitaba más dinero, más personal o una competencia adicional. El error se convierte entonces en un argumento para ampliar al mismo decisor.
-
-A veces faltarán recursos; otras veces fallará la organización o la tarea no deberá continuar. Lo revelador es si existe alguna prueba que permita reducir el programa o si cualquier resultado conduce a mantenerlo. Una institución que siempre necesita más ha encontrado una defensa contra la evaluación.
-
-Cambiar a su director no responde a esa pregunta. Puede reemplazar a una persona y conservar la misma relación entre quien manda, quien recibe y quien paga. Así se enlazan la continuidad del aparato y la expansión de sus facultades.
-
-## Que lo temporal tenga una salida
-
-Para quien desee limitar una estructura existente, la fecha de caducidad, la publicidad de sus compromisos y la revisión independiente permiten examinar qué debería terminar. La reversibilidad cuenta porque una promesa verbal se olvida con más facilidad que una facultad ya organizada.
-
-Esos controles no crean el consentimiento de quien nunca aceptó la imposición. Son formas de reducir la persistencia de una relación que debe seguir juzgándose por cómo trata a las personas. Una emergencia no convierte en propiedad pública el resto de sus vidas.
-
-La cuestión decisiva llega después de los anuncios: cuando pasa la urgencia, quién devuelve la decisión y quién conserva la llave. Si nadie tiene que devolverla, lo provisional ha dejado de ser un plazo. Se ha convertido en una forma de crecer.
+Después de una crisis debemos preguntar quién devuelve qué. Qué datos deja de recoger, qué prohibición retira, qué presupuesto termina y qué decisión vuelve a la persona afectada. Si la respuesta es siempre «todavía no», lo provisional se ha convertido en otra manera de decir permanente.
 
 ## Lecturas y fuentes
 

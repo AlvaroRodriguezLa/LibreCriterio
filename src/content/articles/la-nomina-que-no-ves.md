@@ -1,16 +1,16 @@
 ---
-title: "La nómina que no ves"
+title: "Cuánto pagas antes y después de cobrar"
 slug: "la-nomina-que-no-ves"
 date: "2026-10-28"
-excerpt: "El coste de contratarte, el salario bruto y el dinero que llega a tu cuenta son tres cifras distintas. Confundirlas oculta una parte importante de la fiscalidad."
+excerpt: "El coste de tu trabajo, el sueldo bruto y el neto son bases distintas. Después de cobrar todavía llegan otros impuestos."
 image: "/images/la-nomina-que-no-ves.svg"
-imageAlt: "Ilustración conceptual: La nómina que no ves"
+imageAlt: "Ilustración: Cuánto pagas antes y después de cobrar"
 category: "Fiscalidad"
 tags: ["Fiscalidad","libertad"]
-order: 23
+order: 24
 masterPages: "46–47, 52"
 satellites: []
-thesis: "Ver la carga completa del trabajo permite medir sus efectos; la utilidad de lo financiado no sustituye el consentimiento."
+thesis: "Lo que el Estado retira de tu trabajo no aparece entero en la diferencia entre tu sueldo bruto y tu ingreso bancario."
 related: ["redistribuir-no-es-solo-repartir","pensiones-el-puente-entre-generaciones","inflacion-el-reloj-del-ahorro"]
 level: "Iniciación"
 featured: false
@@ -19,68 +19,56 @@ draft: false
 imageFit: "contain"
 ---
 
-## Lo que cuesta contratarte y lo que recibes
+**Lo que el Estado retira de tu trabajo no aparece entero en la diferencia entre tu sueldo bruto y tu ingreso bancario.** Antes está la cotización empresarial. Después llegan los impuestos al consumo y otras cargas. Para discutir cuánto pagas necesitamos seguir la cuenta completa.
 
-Miras el ingreso de tu nómina. Tu empresa mira cuánto le cuesta contratarte. No estáis viendo la misma cantidad: entre ambas aparecen impuestos y cotizaciones repartidos en casillas diferentes.
+El nombre de una casilla puede ocultar parte del coste. «A cargo de la empresa» identifica al obligado legal a ingresar una cotización; no demuestra que ese pago sea ajeno a lo que cuesta contratarte ni que no influya en el empleo y en la remuneración.
 
-El coste laboral incluye las cotizaciones a cargo de la empresa. El salario bruto es otra cifra. Después de las retenciones correspondientes queda el neto que llega a tu cuenta. Separarlas permite ver qué parte de los recursos vinculados al trabajo queda disponible para tus planes.
+## Tu contrato cuesta más que tu salario bruto
 
-**Hacer visible esa cuenta no convierte el cobro obligatorio en un acuerdo.** Un servicio útil no produce el consentimiento que falta. La cuenta responde cuánto se detrae; la utilidad no autoriza a tomarlo de quien no aceptó entregarlo.
+Imagina que una empresa dedica una cantidad total a mantener un puesto. Una parte llega como salario bruto y otra se ingresa como cotización empresarial. Del bruto se descuentan además las cotizaciones del trabajador y el impuesto que corresponda. Lo que queda es el neto.
 
-## Quién paga en el papel y quién soporta el coste
+Estas bases son diferentes. Comparar el neto únicamente con el bruto deja fuera una parte del coste laboral. Compararlo con el coste total permite ver cuántos recursos se utilizan para que llegue esa cantidad a la persona contratada.
 
-Una cotización puede figurar a nombre de la empresa y afectar también a salarios, empleo o precios. Su carga económica depende de la negociación, la productividad, la competencia y del tiempo del que dispongan las partes para ajustar sus decisiones.
+Eso no significa que eliminar mañana una cotización aumentaría automáticamente tu sueldo en la misma cifra. El reparto económico depende de negociación, competencia, empleo y tiempo de ajuste. La cuenta muestra la carga existente; la evolución posterior requiere examinar esas condiciones.
 
-Por eso conviene conocer el coste completo sin prometer que eliminar una partida elevaría mañana el sueldo por ese mismo importe. La cantidad pagada formalmente y su efecto final no son necesariamente idénticos.
+```oneshot
+{"type":"concept-flow","title":"No son tres bases iguales","steps":[{"title":"Coste laboral","text":"Incluye las cotizaciones empresariales."},{"title":"Salario bruto","text":"Es la base visible de buena parte de la nómina."},{"title":"Salario neto","text":"La renta disponible antes de consumir o ahorrar."}]}
+```
 
-Ver ambas cosas mejora la discusión: impide que una casilla oculte una carga y que una consigna prometa una devolución que no ha calculado.
+## De cada cien euros, sigue lo que llega
 
-## Una comparación con el mismo perfil
+La OCDE utiliza la cuña fiscal para comparar el coste laboral total con la renta neta de perfiles concretos. En *Taxing Wages 2026*, el perfil de una persona soltera, sin hijos y con salario medio en España presenta para 2025 una cuña del 41,4 %, frente al 35,1 % medio de la OCDE.
 
-La cuña fiscal compara el coste laboral total con la renta neta. Incluye el impuesto sobre la renta y las cotizaciones de empleado y empleador, descontando las prestaciones monetarias familiares que correspondan.
-
-Para comparar países hace falta mantener el perfil. Los datos siguientes describen a una persona soltera, sin hijos, que cobra el salario medio. No describen cualquier nómina ni todos los impuestos de un hogar. El año de los datos es 2025; la edición del informe es de 2026.
+Para ese perfil, de cien euros de coste laboral quedarían 58,6 de neto. No es la nómina de cualquier trabajador ni la carga total de cualquier familia. Mantener el perfil evita convertir una comparación útil en una cifra personal inventada.
 
 ```oneshot
 {"type":"stat-cards","title":"Un perfil comparable · año 2025","stats":[{"value":"41,4 %","label":"Cuña fiscal en España","description":"Persona soltera, sin hijos, con salario medio. Porcentaje del coste laboral total.","source":"OCDE · Taxing Wages 2026"},{"value":"35,1 %","label":"Media OCDE","description":"Mismo perfil de trabajador y misma métrica.","source":"OCDE · Taxing Wages 2026"},{"value":"58,6 €","label":"Neto de cada 100 € de coste","description":"Complemento aritmético de la cuña española; antes de gravar el consumo.","source":"Cálculo: 100 − 41,4"}],"note":"No es una estimación de tu nómina ni incluye todos los impuestos de un hogar."}
 ```
 
-## Seguir cien euros
+Ahora supón que esos 58,6 euros se gastan íntegramente en productos al 21 % de IVA. El valor antes del impuesto sería aproximadamente 48,43 euros: se calcula dividiendo entre 1,21. El resto corresponde al IVA incluido en el precio final.
 
-Normalicemos ese coste laboral en cien euros. Con la cuña española del perfil elegido, 41,4 corresponden a impuestos y cotizaciones netos de las prestaciones consideradas. Quedan 58,6 de renta neta antes de consumir o ahorrar.
+Es una cuenta ilustrativa. Hay tipos distintos, productos exentos y dinero que se ahorra en lugar de gastarse. Sirve para entender que cobrar el neto no significa haber terminado de pagar. Tampoco permite sumar porcentajes aplicados sobre bases diferentes como si fueran una sola tasa.
 
-Supongamos ahora que se gastan íntegramente en bienes al 21 % de IVA. Su valor antes de IVA sería 58,6 dividido entre 1,21: aproximadamente 48,43 euros. El IVA incluido sería 10,17 euros.
+## Que vuelva un servicio no convierte el cobro en una elección
 
-La operación importa: restar el 21 % del precio final daría una cifra incorrecta, porque el tipo se aplica al precio antes del impuesto. Tampoco se pueden sumar sin más porcentajes calculados sobre bases distintas.
+Lo recaudado financia servicios, prestaciones, transferencias y gastos de administración. Parte llega efectivamente a los ciudadanos. Hay que juzgar qué reciben, cuánto cuesta y qué otras posibilidades desplazó ese uso.
 
-Este ejemplo aísla un recorrido. Una cesta real puede incluir tipos diferentes, bienes exentos o renta que se ahorra. No representa todos los impuestos ni un contrato concreto. Esos supuestos deben acompañar a la cifra, para que el ejemplo explique en lugar de exagerar.
+La objeción al impuesto sigue siendo el cobro obligatorio. Recibir una prestación no demuestra que aceptaste contratarla ni que elegiste a su proveedor. Un buen resultado puede explicar por qué alguien querría pagar; no firma en nombre de quien se negó.
 
-```oneshot
-{"type":"concept-flow","title":"No son tres bases iguales","steps":[{"title":"Coste laboral","text":"Incluye las cotizaciones empresariales."},{"title":"Salario bruto","text":"Es la base visible de buena parte de la nómina."},{"title":"Salario neto","text":"La renta disponible antes de consumir o ahorrar."}],"note":"Esquema conceptual: las flechas describen un mecanismo, no una prueba causal universal."}
-```
+Además, cuanto menos puedes reservar para organizar tu propia salud, formación o vejez, más difícil resulta prescindir de los servicios financiados con lo retirado. Después esa dependencia puede utilizarse como argumento para seguir retirándolo: «sin esto, no podrías pagarlo». La comparación deja fuera los recursos que ya no conservas.
 
-## La cuenta y la finalidad
+## Una reforma también debe enseñar sus cuentas
 
-Lo recaudado financia servicios, seguros y transferencias. Parte vuelve a hogares y parte paga a trabajadores o proveedores. Conocer el destino es necesario para evaluar sus efectos. No hace que cada persona haya aceptado entregarlo.
+Criticar la carga fiscal no autoriza a prometer que cualquier familia podrá pagar cualquier servicio con la devolución de una cantidad media. Hay personas con necesidades muy costosas y compromisos vigentes que habrá que atender.
 
-La distinción evita dos atajos. Ni todo el dinero desaparece dentro de una oficina ni el valor de una prestación convierte en consentida la apropiación que la financia. Se puede describir una mejora material y mantener la objeción al cobro forzoso.
+Una propuesta seria debe explicar qué cobros retira, qué recursos conserva cada perfil, qué alternativas pueden ofrecerse y cómo se financia la transición. El sistema actual debe mostrar con la misma claridad sus costes, sus obligaciones futuras y los resultados que consigue.
 
-Además, cuanto menos puede reservar una persona para sus propios fines, más depende de las decisiones de quien administra los recursos detraídos. La carga tiene efectos sobre consumo y ahorro, y también sobre la posibilidad de construir una vida independiente.
-
-## Reformar sin esconder otra factura
-
-Hay compromisos existentes y personas que dependen de ellos. Una propuesta de cambio debe explicar qué modifica, qué recursos utiliza y cómo atiende la transición. Prometer una rebaja mientras se desplaza el coste a otros dejaría incompleta la cuenta.
-
-La misma claridad se exige al sistema actual. Una nómina comprensible y un presupuesto trazable permiten reconocer quién aporta, quién recibe y qué se ha decidido. No hace falta inflar una estadística para mostrar la magnitud de la obligación.
-
-El neto que ves en la cuenta es solo una parte del recorrido. Conocer el resto permite juzgarlo con cifras que significan algo y sin confundir una relación impuesta con una compra.
+Empezar por tu nómina hace visible algo sencillo: el dinero público procede de trabajo y recursos que tenían otros usos posibles. Hablar de quién debe administrarlo exige reconocer primero a las personas que lo producen y que hoy no pueden rechazar la factura.
 
 ## Lecturas y fuentes
-
 
 ```oneshot
 {"type":"source-note","source":"OCDE · Taxing Wages 2026, Overview","url":"https://www.oecd.org/en/publications/taxing-wages-2026_3a5169ef-en/full-report/overview_d93131c3.html","date":"2026-10-28","description":"Tabla 1.1: España 41,4 % y media OCDE 35,1 % en 2025.","methodology":"Soltero sin hijos al salario medio; porcentaje del coste laboral. Cálculos ilustrativos redondeados a dos decimales."}
 ```
-
 
 - Las cifras de este ensayo corresponden a 2025. La edición del informe es de 2026.

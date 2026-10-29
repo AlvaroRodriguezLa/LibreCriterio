@@ -1,16 +1,16 @@
 ---
-title: "Un derecho no es un proveedor"
+title: "Sin Estado también puede haber servicios"
 slug: "un-derecho-no-es-un-proveedor"
 date: "2026-10-28"
-excerpt: "La importancia de curar, enseñar o proteger no concede a un proveedor un derecho sobre quienes necesitan el servicio o sobre quienes habrán de pagarlo."
+excerpt: "Necesitar atención, enseñanza o protección no demuestra que un proveedor obligatorio sea indispensable. Examinemos financiación, contratos, elección y ayuda."
 image: "/images/un-derecho-no-es-un-proveedor.svg"
-imageAlt: "Ilustración conceptual: Un derecho no es un proveedor"
+imageAlt: "Ilustración: Sin Estado también puede haber servicios"
 category: "Instituciones"
 tags: ["Instituciones","libertad"]
-order: 28
+order: 29
 masterPages: "53–55"
 satellites: []
-thesis: "Las necesidades requieren cooperación y servicios concretos; no convierten a las personas en propiedad de una institución."
+thesis: "Que necesitemos sanidad, educación o seguridad no demuestra que necesitemos al Estado como proveedor obligatorio."
 related: ["cooperar-sin-un-director-unico","redistribuir-no-es-solo-repartir","las-objeciones-que-hay-que-responder"]
 level: "Intermedio"
 featured: false
@@ -19,73 +19,45 @@ draft: false
 imageFit: "contain"
 ---
 
-## Necesitar atención no obliga a pertenecer a una organización
+**Que necesitemos sanidad, educación o seguridad no demuestra que necesitemos al Estado como proveedor obligatorio.** La necesidad identifica un trabajo que hacer. Todavía falta decidir cómo financiarlo, quién lo prestará y cómo responderá si lo hace mal.
 
-Tu hija necesita aprender. Tú necesitas una operación. Un vecino necesita protección frente a una amenaza. Lo que buscáis es enseñanza, atención y seguridad; ninguno necesita sostener un organigrama por sí mismo.
+Si tu hija necesita aprender, necesitas docentes y un proyecto educativo. Si enfermas, necesitas conocimiento médico, instalaciones y cuidados. Si alguien te amenaza, necesitas protección. Ninguna de esas funciones aparece por pronunciar el nombre de una institución. Las realizan personas con recursos que pueden organizarse de maneras distintas.
 
-Sin embargo, la discusión suele dar un salto: como el servicio importa, una organización debe poder cobrarlo obligatoriamente y decidir su forma para todos. La necesidad del paciente o del alumno se convierte en una autorización que nadie ha dado.
+## Un servicio no tiene por qué ser una sola organización
 
-**Necesitar un servicio no convierte a nadie en propietario de quien lo presta ni de quien habrá de pagarlo.** Podemos pedir colaboración, ofrecer recursos y organizar ayuda. No podemos disponer de la vida o del trabajo ajenos porque nuestro objetivo sea valioso.
+Una mutualidad puede reunir aportaciones, una clínica atender a sus miembros y un tercero revisar una reclamación. Quien paga no tiene por qué ser dueño del centro. Quien presta tampoco tiene por qué juzgar por sí solo todos sus errores.
 
-## El derecho y el medio no son la misma cosa
+Separar esas funciones permite comparar proveedores y exigir cumplimiento. Un seguro puede contratar con varios centros; un fondo de becas puede pagar plazas en escuelas diferentes; dos partes pueden elegir un árbitro sin contratarle también la protección de su casa.
 
-Que alguien necesite atención no obliga a conservar usuarios cautivos. Tampoco la calidad de los profesionales convierte una financiación impuesta en un acuerdo.
-
-Puedes reconocer que un centro te ha tratado bien y querer otro. Puedes ayudar a una familia y pedir aportaciones sin atribuirte el derecho a exigirlas a quienes no aceptan.
-
-Un servicio útil sigue sin producir el consentimiento que falta. Los resultados ayudan a decidir qué contratar; no dan derecho a imponer esa decisión a los demás. Rechazar la imposición tampoco exige prometer que toda empresa privada será mejor.
-
-## Quién paga, quién presta y quién responde
-
-Una mutualidad puede reunir cuotas, un centro prestar atención y un tercero verificar que se cumple lo prometido. Las tres funciones no tienen que pertenecer a una sola organización.
-
-El financiador puede comparar proveedores; el usuario, reclamar por una cobertura incumplida. Quien certifica pierde confianza si encubre daños. La competencia exige que los errores tengan consecuencias para sus responsables.
-
-La palabra privado no garantiza nada de eso. Una empresa con clientes obligatorios, barreras contra sus rivales o pérdidas cargadas a contribuyentes ajenos conserva privilegios incompatibles con un acuerdo libre.
+Nada de eso garantiza por su nombre un buen servicio. Un proveedor privado con clientes obligatorios y rivales prohibidos también puede atender mal. Lo que buscamos son contratos claros, posibilidad de cambiar y responsabilidad por el incumplimiento.
 
 ```oneshot
-{"type":"concept-flow","title":"Un servicio no tiene por qué absorber todas las decisiones","steps":[{"title":"Acordar aportaciones","text":"Cuotas, primas, donaciones o pagos aceptados."},{"title":"Elegir atención","text":"Proveedores distintos ofrecen servicios concretos."},{"title":"Verificar","text":"Información, auditoría y responsabilidad por lo prometido."},{"title":"Cambiar","text":"Se puede reclamar, salir y apoyar otra alternativa."}],"note":"Esquema conceptual de una propuesta, no una estimación de resultados."}
+{"type":"concept-flow","title":"Un servicio no tiene por qué absorber todas las decisiones","steps":[{"title":"Acordar aportaciones","text":"Cuotas, primas, donaciones o pagos aceptados."},{"title":"Elegir atención","text":"Proveedores distintos ofrecen servicios concretos."},{"title":"Verificar","text":"Información, auditoría y responsabilidad por lo prometido."},{"title":"Cambiar","text":"Se puede reclamar, salir y apoyar otra alternativa."}]}
 ```
 
-## Elegir tiene que cambiar algo
+## No hagamos la cuenta después de haber retirado el dinero
 
-No basta con marcar una casilla si todas llevan al mismo servicio. Tampoco si debes seguir pagando obligatoriamente al proveedor que abandonas. Salir tiene que modificar la relación.
+Una objeción habitual imagina esta escena: conservas tu sueldo neto actual y, además, debes pagar toda la salud, la escuela y la jubilación. Así parece evidente que no podrías hacerlo. Pero ese neto ya es el resultado de financiar obligatoriamente parte del sistema actual.
 
-La distancia, el precio, la falta de información o de plazas también pueden dejarte sin alternativas. Abrir la entrada permite que aparezcan proyectos donde el proveedor instalado no responde. Tener permiso para elegir sirve de poco cuando no hay otra puerta.
+Una comparación honesta debe incluir los recursos que conservarías al retirar cobros, las necesidades de tu hogar y las ofertas que podrían aparecer con otras reglas. También necesita estudiar cómo la competencia, la inversión y las barreras afectan a los costes. No podemos dar por fijo el precio actual de un mercado muy intervenido y cambiar únicamente el pagador.
 
-La libertad no elimina la escasez ni asegura una oferta infinita. Permite que quienes conocen una necesidad intenten atenderla sin someter cada solución a una autoridad que impone la misma respuesta para todos.
+Eso tampoco permite afirmar que cada hogar recibiría suficiente para cualquier necesidad. Un tratamiento muy costoso puede superar lo que una familia ahorraría. Precisamente por eso debemos pensar en seguros, mutualidades y fondos de ayuda, no solo en compras individuales al contado.
 
-## La comparación empieza antes de la factura
+## Elegir tiene que permitir trasladar recursos
 
-A veces imaginamos una alternativa así: conservar el sueldo neto actual y pagar de nuevo toda la sanidad, la educación y la jubilación. Esa cuenta mantiene la recaudación de un modelo y añade el coste del otro. No está comparando dos formas de organizar los mismos recursos.
+Si abandonas un servicio pero debes seguir financiándolo, tu decisión apenas presiona a quien lo presta. Si puedes contratar otro, el proveedor tiene motivos para escuchar lo que necesitas y corregir lo que no funciona.
 
-Al retirar una financiación obligatoria, las personas conservarían recursos que antes entregaban. Tendrían que decidir qué atención, seguro o reserva pagar con ellos. También cambiarían proveedores, precios y oportunidades de entrada. La competencia podría abaratar algunas prestaciones y mejorar otras; su magnitud hay que comprobarla, no inventarla.
+La oferta debe poder crecer. Una supuesta elección entre dos nombres que obedecen el mismo molde o no admiten nuevos competidores deja muy poco margen. También necesitas información comprensible y vías para reclamar. Comparar debe ser posible para una persona corriente, no exigir una investigación profesional antes de cada decisión.
 
-No se deduce que todo hogar recibiría más de lo que necesita ni que cada servicio sería barato. Sí se deduce que el punto de partida no puede ser una familia a la que seguimos retirando lo mismo y a la que, además, dejamos sin la prestación. Hay que seguir juntos recursos, pagos y responsabilidades.
+La libertad no elimina la distancia, la escasez ni el riesgo. Permite buscar respuestas diferentes y corregir sin esperar a cambiar un ministerio. La alternativa debe demostrar su utilidad consiguiendo participantes, no heredando una clientela cautiva.
 
-## La persona a la que le falta dinero
+## Quien no puede pagar necesita una respuesta concreta
 
-Decirle a una familia sin recursos que puede elegir no paga su atención. Necesita apoyos concretos: becas, seguros, mutualidades, fondos de ayuda o asociaciones que mantengan sus compromisos.
+Decirle a una persona pobre que es libre para contratar no paga su atención. Necesitamos compromisos: quién financiará una beca, qué fondo cubrirá una enfermedad previa y qué recursos estarán disponibles para una discapacidad permanente.
 
-Algunas necesidades aparecen antes de contratar un seguro. Algunos daños desbordan a una red pequeña. Los fondos tendrían que coordinarse, diversificar riesgos y establecer quién responde en cada caso. La ayuda voluntaria necesita recursos y organización; no se vuelve suficiente por llevar ese nombre.
+Las donaciones, las asociaciones, los seguros y la ayuda mutua sirven para tareas distintas. Un seguro reparte riesgos; un fondo solidario puede atender una necesidad ya conocida que nadie aseguraría como si fuera futura. Confundirlos deja huecos que una propuesta seria debe reconocer y cubrir.
 
-Una promesa política tampoco garantiza atención efectiva. Hay que examinar la cobertura real de cada propuesta sin convertir sus carencias en un permiso para disponer de personas pacíficas. No tener una solución perfecta no entrega el trabajo ajeno a quien prometa tenerla.
-
-## Cómo hacer concreta la propuesta
-
-En [sanidad](../cuidar-sin-pedir-permiso-al-monopolio/), elegir exige información, seguros, continuidad y centros capaces de competir atendiendo mejor. Corea del Sur muestra una amplia prestación privada, pero mantiene un seguro público obligatorio. Separar ambas funciones no convierte automáticamente su financiación en voluntaria.
-
-En [educación](../aprender-sin-una-leccion-unica/), abrir la entrada a métodos, centros y acreditaciones diferentes permitiría que familias y alumnos buscaran proyectos propios. La alternativa no puede depender de copiar un único formato.
-
-En [seguridad y justicia](../un-arbitro-no-necesita-ser-un-soberano/), proteger, arbitrar y reparar podrían encargarse a entidades distintas. Los conflictos con agresores y terceros necesitan procedimientos que protejan también a quien no contrató. No pueden resolverse inventándole un consentimiento.
-
-## La finalidad sigue perteneciendo a las personas
-
-Un proveedor debe atender una necesidad, no adquirir a quienes la tienen. Una ayuda debe abrir posibilidades, no convertir la dependencia en un argumento para dar más poder a su administrador.
-
-Podemos construir organizaciones complejas y duraderas mediante acuerdos. El límite sigue siendo el mismo: ninguna persona se vuelve material de un proyecto porque este lleve un nombre noble.
-
-Aprender, curarte o protegerte no debe costarte la facultad de decidir sobre el resto de tu vida.
+En los próximos capítulos examinaremos sanidad, enseñanza y protección con ese criterio. La discusión no termina al decir «que lo haga el mercado». Empieza al mostrar cómo podrían colaborar las personas sin que alguien adquiera un derecho general sobre su trabajo. Necesitar ayuda no debe convertirte en propiedad de quien la organiza.
 
 ## Lecturas y fuentes
 

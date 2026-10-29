@@ -1,16 +1,16 @@
 ---
-title: "Sin precios, la fábrica pierde su brújula"
+title: "Sin precios no sabemos qué merece la pena producir"
 slug: "sin-precios-no-hay-brujula"
 date: "2026-10-28"
-excerpt: "Con cien toneladas de acero puedes construir varias cosas. La cuestión es qué tendrás que dejar sin hacer al elegir una."
+excerpt: "Saber construir algo no demuestra que convenga hacerlo. Cada proyecto utiliza recursos que otros también necesitan."
 image: "/images/sin-precios-no-hay-brujula.svg"
-imageAlt: "Ilustración conceptual: Sin precios, la fábrica pierde su brújula"
+imageAlt: "Ilustración: Sin precios no sabemos qué merece la pena producir"
 category: "Mercados"
 tags: ["Mercados","libertad"]
 order: 7
 masterPages: "17–20, 57–59"
 satellites: []
-thesis: "Una posibilidad técnica no demuestra que una inversión compense lo que desplaza."
+thesis: "Saber construir un puente no significa saber si conviene gastar en él los recursos disponibles."
 related: ["el-conocimiento-no-cabe-en-un-despacho","el-capital-que-no-llega-a-nacer","las-objeciones-que-hay-que-responder"]
 level: "Intermedio"
 featured: false
@@ -19,63 +19,45 @@ draft: false
 imageFit: "contain"
 ---
 
-## Qué hacer con cien toneladas de acero
+**Saber construir un puente no significa saber si conviene gastar en él los recursos disponibles.** Los mismos materiales pueden servir para una fábrica, viviendas o maquinaria agrícola. Elegir el puente significa renunciar a esas otras posibilidades.
 
-Un ingeniero dispone de cien toneladas de acero. Puede usarlas para un puente, para maquinaria agrícola o para una nave. Calcula resistencias, materiales y horas de trabajo. Las tres opciones son posibles, pero elegir una deja las otras sin esos recursos.
+Este es el problema del cálculo económico. Una sociedad necesita decidir qué producir y cómo hacerlo con recursos limitados. No basta con contar toneladas de acero y horas de trabajo. Hay que comparar usos distintos que compiten por esos mismos medios.
 
-La dificultad ya no es técnica. **Hace falta comparar lo que cada proyecto ofrece con lo que impide realizar.** Tener medios para construir algo no demuestra que ese sea su uso más valioso.
+## Cada proyecto deja otro sin recursos
 
-Las cantidades físicas no responden por sí solas. Un inventario dice cuánto acero hay. No reúne las necesidades, los planes y las renuncias de todas las personas que podrían utilizarlo.
+Imagina que disponemos de cien toneladas de acero. Un ingeniero demuestra que puede levantar una pasarela magnífica. Otro puede utilizarlo en máquinas que aumenten la producción de alimentos. Ambos proyectos son técnicamente posibles. Esa información todavía no nos dice cuál merece la inversión.
 
-## Lo que añade un precio
+Cuando personas y empresas pueden comprar y vender los materiales y las máquinas, sus ofertas forman precios. Cada proyecto tiene que conseguir recursos que otros también quieren. Sus promotores comparan esos costes con lo que esperan recibir de los compradores.
 
-Cuando se intercambian materiales y bienes de capital, distintos proyectos compiten por obtenerlos. Sus ofertas forman precios. Quien necesita acero tiene que contar con lo que otras personas están dispuestas a entregar por él.
-
-Esos precios permiten comparar costes monetarios, incluso entre recursos muy diferentes. Después, los ingresos y las pérdidas dan información sobre el resultado. El cálculo relaciona una decisión con alternativas que el ingeniero quizá nunca llegó a conocer.
-
-Funciona peor cuando se ocultan costes o se protege al que falla. Un rescate puede trasladar pérdidas al contribuyente. Una licencia exclusiva puede impedir ofertas rivales. La contaminación puede dejar una parte de la factura en alguien que no participó. En esos casos, la cuenta del productor no recoge todo lo que su decisión cuesta.
+El resultado sigue siendo incierto. Pero después llegan ventas, pérdidas y ganancias que permiten corregirlo. Si nadie quiere pagar lo suficiente por lo producido, continuar utilizando los mismos recursos tiene un coste para los demás proyectos que podrían haberlos aprovechado.
 
 ```oneshot
-{"type":"concept-flow","title":"Del recurso al cálculo","steps":[{"title":"Intercambio","text":"Distintos proyectos compiten por recursos."},{"title":"Precios","text":"Se comparan costes monetarios de alternativas."},{"title":"Resultados","text":"Ingresos y pérdidas obligan a revisar planes."}],"note":"Esquema conceptual: las flechas describen un mecanismo, no una prueba causal universal."}
+{"type":"concept-flow","title":"Del recurso al cálculo","steps":[{"title":"Intercambio","text":"Distintos proyectos compiten por recursos."},{"title":"Precios","text":"Se comparan costes monetarios de alternativas."},{"title":"Resultados","text":"Ingresos y pérdidas obligan a revisar planes."}]}
 ```
 
-## El puente y lo que quedó sin construir
+## Inaugurar no demuestra que una obra mereciera la pena
 
-Imaginemos un puente vistoso que apenas se utiliza. Para valorarlo hay que conocer demanda, acceso, seguridad, mantenimiento y usos futuros. La fotografía de la inauguración no contiene esa comparación.
+Un gobernante puede enseñar un aeropuerto, un edificio o un puente y decir: «Esto lo hemos hecho nosotros». Lo que la foto no muestra es lo que dejó de construirse con ese dinero. Tampoco muestra el mantenimiento futuro ni quién tendrá que pagarlo.
 
-Tampoco contiene la máquina que no se compró, la reparación aplazada o la deuda que habrá que atender. Ese conjunto de alternativas sacrificadas es el coste de oportunidad: lo que ya no puede hacerse con los mismos recursos.
+Ese es el coste de oportunidad: aquello a lo que renunciamos al elegir. Existe aunque no recibamos una factura separada. Si el puente apenas se utiliza, el problema incluye el acero, el trabajo y el ahorro que no pudieron dedicarse a otra cosa.
 
-Una obra puede generar beneficios difíciles de cobrar a cada usuario. Eso merece entrar en su evaluación, junto con los costes. No convierte en voluntaria su financiación si se cobró por la fuerza. La comparación económica ayuda a decidir entre proyectos; no concede derecho a disponer del dinero de quienes tendrán que pagarlos.
+Puede haber beneficios difíciles de cobrar individualmente. Habrá que identificarlos y compararlos con los costes. Eso ayuda a juzgar el proyecto. No concede permiso para tomar por la fuerza el dinero de quienes lo rechazan. La evaluación económica y el consentimiento responden a cuestiones distintas.
 
-## Cuando un solo mando sustituye los intercambios
+## Si todo pertenece a un mando, faltan intercambios
 
-Si nadie puede comprar y vender los medios de producción porque todos pertenecen a un único mando, desaparece una fuente de precios con los que compararlos. El problema alcanza entonces al conjunto de decisiones sobre qué producir y cómo.
+Cuando una sola autoridad controla los medios de producción y nadie puede comprarlos o venderlos por cuenta propia, desaparecen los intercambios de los que saldrían muchos de esos precios. La oficina tiene inventarios y puede hacer operaciones matemáticas. Le falta parte de la información que pretende calcular.
 
-No es la misma situación que la de una administración que compra en mercados existentes. Esta utiliza señales producidas por intercambios externos. La distinción permite precisar qué información utiliza cada organización.
+Una administración que compra acero en un mercado existente se encuentra en otra situación: utiliza precios formados fuera de ella. Eso no garantiza que gaste bien, pero explica por qué no debemos confundir cualquier compra pública con una economía donde todo está centralizado.
 
-Se han propuesto precios administrativos que subirían o bajarían por prueba y error. La pregunta es si ese procedimiento reproduce el descubrimiento y las consecuencias de intercambiar, o si necesita recibir desde fuera la información que pretende generar.
+Se pueden inventar precios administrativos y revisarlos según los excedentes y las colas. La dificultad sigue siendo reproducir el descubrimiento de alternativas, la competencia por los recursos y las consecuencias de equivocarse. Escribir números en una tabla no crea por sí solo esos procesos.
 
-## El algoritmo necesita saber qué está resolviendo
+## Calcular mejor también ayuda a quien quiere ayudar
 
-Una herramienta matemática puede comparar muchas opciones cuando dispone de objetivos y restricciones. Pero los objetivos de las personas cambian, aparecen recursos nuevos y algunas alternativas solo se descubren al intentar llevarlas a cabo.
+Una asociación que atiende enfermos necesita comparar medicamentos, instalaciones y horas de personal. Que su finalidad sea solidaria no vuelve ilimitados sus recursos. Conocer los costes le permite sostener más atención o conservarla durante más tiempo.
 
-Un presupuesto calculado no sustituye la libertad de hacer esa prueba. Tampoco reemplaza la responsabilidad de quien decide. Si el proyecto falla y otro paga sin poder rechazarlo, falta una consecuencia que el cálculo numérico no crea.
+La rentabilidad tampoco mide toda necesidad humana. Una persona puede necesitar un tratamiento y no tener dinero. Eso exige organizar ayuda; no borrar el coste del tratamiento. Un ordenador puede facilitar las comparaciones, pero necesita objetivos e información y no puede descubrir de antemano cada alternativa nueva.
 
-El algoritmo puede ampliar las opciones que se comparan. No crea los objetivos ni las alternativas todavía sin descubrir.
-
-## Lo que la rentabilidad no mide
-
-La demanda depende también del dinero disponible. Alguien puede necesitar mucho un tratamiento y no poder pagarlo. El beneficio de una empresa no agota, por tanto, las necesidades humanas ni dice por sí solo qué ayuda merece una persona.
-
-Esa dificultad requiere formas de cooperación: seguros, mutualidades, donaciones o acuerdos para sostener recursos compartidos. También exige reclamar reparación por daños, perseguir el fraude y permitir que entren competidores. Cada respuesta debe mostrar qué hace y con qué recursos cuenta.
-
-El cálculo sirve para que esas decisiones no ignoren lo que desplazan. Una organización solidaria tiene recursos limitados igual que una empresa. Conocer sus costes le permite ayudar con más continuidad; no decide por ella qué fines elegir.
-
-## Poder reconocer un error
-
-Una inversión necesita información sobre las alternativas y una forma de rectificar. Si se juzga solo por haber sido construida, cualquier gasto puede presentarse como éxito.
-
-Contar el acero permite saber si el puente se sostendrá. Comparar lo que se sacrifica permite preguntar si conviene construirlo. Ninguna de las dos respuestas autoriza a utilizar a otras personas sin su consentimiento.
+La propuesta es someter los proyectos a cuentas y correcciones reales. Quien quiere usar acero, trabajo o ahorro tiene que explicar qué ofrece a cambio y asumir lo que ocurra si se equivoca. La intención del promotor y la espectacularidad de la inauguración nunca bastan.
 
 ## Lecturas y fuentes
 

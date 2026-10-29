@@ -1,16 +1,16 @@
 ---
-title: "La mayoría no lo puede todo"
+title: "La mayoría no puede disponer de tu vida"
 slug: "la-mayoria-no-lo-puede-todo"
 date: "2026-10-28"
-excerpt: "Ganar una votación no concede la propiedad de la vida del que la pierde. Una reflexión sobre mayorías ajustadas, obediencia de partido y representación."
+excerpt: "Ganar una votación no entrega los derechos de quien pierde. Además, contar votos y representar preferencias son problemas distintos."
 image: "/images/la-mayoria-no-lo-puede-todo.svg"
-imageAlt: "Ilustración conceptual: La mayoría no lo puede todo"
+imageAlt: "Ilustración: La mayoría no puede disponer de tu vida"
 category: "Poder"
 tags: ["Poder","libertad"]
 order: 4
 masterPages: "34–44"
 satellites: ["la crítica de la democracia y del poder político"]
-thesis: "El número de apoyos no transforma una imposición sobre personas pacíficas en un acuerdo voluntario."
+thesis: "Que mucha gente quiera decidir sobre tu vida no le da derecho a hacerlo."
 related: ["tu-vida-no-es-un-proyecto-del-poder","muchos-centros-mejores-salidas","un-contrato-que-nadie-puede-rechazar"]
 level: "Intermedio"
 featured: false
@@ -19,59 +19,43 @@ draft: false
 imageFit: "contain"
 ---
 
-## Un recuento no fabrica derechos
+**Que mucha gente quiera decidir sobre tu vida no le da derecho a hacerlo.** Si tres vecinos votan quedarse con el sueldo de un cuarto, han contado sus preferencias. No han demostrado que el sueldo les pertenezca. Lo que ninguno puede exigir por separado tampoco aparece mágicamente al reunir votos.
 
-Si tres vecinos deciden apropiarse del sueldo de un cuarto, el tres a uno describe su fuerza numérica. No demuestra que tengan derecho a hacerlo. Ninguno poseía por separado el trabajo ajeno; reunir sus preferencias no crea esa propiedad.
+Votar tiene sentido dentro de acuerdos aceptados: los miembros de un club pueden decidir por mayoría el horario de sus reuniones. El problema empieza cuando esa regla se utiliza para imponer obligaciones a personas que nunca aceptaron pertenecer al club ni entregar esas decisiones.
 
-**La mayoría no convierte a una persona en instrumento de las demás.** Votar puede servir para fijar el horario de una asociación cuyos miembros aceptaron ese procedimiento. Decidir dentro de un acuerdo no equivale a imponerlo a quienes nunca participaron en él.
+## El 51 % no se convierte en dueño del 49 %
 
-El límite no depende de lo cerca que esté el resultado. Una sola persona conserva su vida aunque todas las demás quieran dirigirla.
+Imagina unas elecciones con un resultado de 51 a 49. Los ganadores pueden presentar el programa como «lo que ha decidido el país». Casi la mitad de los votantes eligió otra cosa. Además están quienes se abstuvieron y quienes ni siquiera podían votar. Una mayoría parlamentaria añade todavía las reglas de reparto de escaños y los acuerdos entre partidos.
 
-## La crueldad de poder decidirlo todo
+Ninguna de esas operaciones convierte la victoria en consentimiento individual. Y el límite vale aunque la mayoría sea mucho mayor: una persona conserva sus derechos aunque todos los demás voten contra ella.
 
-Imagina que tu religión, tu trabajo, tus ahorros o la educación de tus hijos dependieran de ganar la siguiente votación. Cada derrota podría convertirse en una invasión de tu vida. Ya no bastaría con encontrar personas dispuestas a colaborar: necesitarías impedir que otros ocupasen la palanca desde la que pueden obligarte.
-
-La facultad de imponer transforma diferencias soportables en amenazas. El vecino que quiere vivir de otra manera pasa a ser alguien que podría prohibirte la tuya. Decir al perdedor que tendrá otra oportunidad dentro de cuatro años no devuelve el tiempo intervenido mientras espera.
-
-Conservar espacios donde cada cual decide permite algo más humano que la victoria permanente: convivir sin tener que derrotarse en todo.
-
-## Un país partido casi por la mitad
-
-En una elección hipotética, una opción obtiene el 51 % de los votos y otra el 49 %. Bajo determinadas reglas, la primera gana. Eso no significa que el 49 % haya aceptado su programa ni que exista un único proyecto compartido por el país.
-
-Además, votos emitidos, electores y habitantes son poblaciones distintas. Hay abstenciones, menores y personas sin derecho a participar. Coaliciones y circunscripciones añaden otra distancia entre apoyos y escaños. Una mayoría parlamentaria no equivale necesariamente a una mayoría de votos, mucho menos al consentimiento de todos los afectados.
-
-Cuando el vencedor dice «hemos decidido», incluye en esa frase a millones de personas que pueden haber rechazado precisamente lo que piensa imponerles. El plural no hace desaparecer su negativa.
+Poner tu trabajo, tus ahorros o la educación de tus hijos a disposición de la siguiente mayoría obliga a vivir pendiente de derrotar al vecino. Su diferencia contigo se convierte en una amenaza porque puede utilizar el poder para prohibirte vivir como quieres. Cuantas más decisiones recupera cada persona, menos necesita ganar una guerra electoral permanente.
 
 ```oneshot
-{"type":"concept-flow","title":"Lo que el recuento no puede sustituir","steps":[{"title":"Contar","text":"Se mide el apoyo a unas opciones."},{"title":"Ganar","text":"Unas reglas convierten apoyos en cargos o decisiones."},{"title":"Encontrar un límite","text":"La victoria no concede la propiedad de las vidas ajenas."}],"note":"Esquema del argumento; no representa una estimación estadística."}
+{"type":"concept-flow","title":"Lo que el recuento no puede sustituir","steps":[{"title":"Contar","text":"Se mide el apoyo a unas opciones."},{"title":"Ganar","text":"Unas reglas convierten apoyos en cargos o decisiones."},{"title":"Encontrar un límite","text":"La victoria no concede la propiedad de las vidas ajenas."}]}
 ```
 
-## El resultado también depende de cómo se pregunte
+## El resultado cambia con las reglas
 
-Tres personas quieren elegir entre un parque, una biblioteca y una pista deportiva. La primera prefiere parque, después biblioteca y después pista. La segunda elige biblioteca, pista y parque. La tercera elige pista, parque y biblioteca.
+Tres amigos quieren elegir entre un parque, una biblioteca y una pista. Ana prefiere parque, biblioteca y pista, en ese orden. Bruno prefiere biblioteca, pista y parque. Carla prefiere pista, parque y biblioteca.
 
-Si enfrentan parque y biblioteca, gana el parque por dos votos. Si enfrentan después ese parque con la pista, gana la pista. Pero si empiezan enfrentando biblioteca y pista, gana la biblioteca; al enfrentarla después con el parque, acaba ganando el parque.
+El parque gana a la biblioteca por dos votos. La biblioteca gana a la pista por dos. Y la pista gana al parque por dos. Sus preferencias individuales son claras, pero el grupo produce un círculo. Si se vota por eliminatorias, quien decide el orden puede cambiar el ganador sin cambiar una sola opinión.
 
-Nadie ha cambiado de opinión. Ha cambiado el orden de las preguntas. Quien fija la agenda puede influir en qué alternativa termina presentada como voluntad del grupo.
+Este ejemplo muestra un problema concreto de la supuesta voluntad colectiva. No existe una fórmula que reúna sin dificultades todas las preferencias bajo cualquier condición. Los teoremas sobre votación precisan esas condiciones; no dicen que sea imposible organizar cualquier decisión compartida. Sí nos obligan a dejar de tratar un resultado como si una persona llamada «el pueblo» hubiera hablado con una sola voz.
 
-Algo parecido exige mirar las reglas que convierten votos en escaños: dónde se agrupan, qué umbrales existen y cómo se reparten. El resultado nace de preferencias y procedimientos. No descubre una persona colectiva que ya pensaba una sola cosa.
+## Muchos diputados pueden seguir una sola orden
 
-## Muchos escaños, pocas voluntades
+Si todos los diputados de un partido terminan votando lo que indica su dirección, ¿cuánta decisión independiente representan tantos escaños? El diputado sabe que su puesto en la próxima lista, su promoción y el apoyo del aparato pueden depender de obedecer. Quien discrepa se arriesga al aislamiento o a quedar fuera.
 
-La representación promete que muchas personas deliberarán y controlarán al gobierno. Si cada grupo termina votando lo que ordena su dirección, ¿cuánto juicio independiente queda detrás de tantos asientos?
+La prohibición constitucional del mandato imperativo no elimina esos incentivos. Tampoco significa que cada diputado obedezca siempre o que no trabaje en comisiones y tareas de control. El problema es que contar muchas personas sentadas no demuestra que existan otras tantas voces libres.
 
-Volver a una lista, recibir responsabilidades o conservar el apoyo del aparato puede depender de la obediencia. Discrepar puede costar sanciones internas, aislamiento o expulsión. La presión no necesita convertirse en una orden jurídicamente vinculante para pesar sobre quien vota.
+Además, una papeleta viene en un paquete: sanidad, vivienda, impuestos, educación y política exterior. Puedes apoyar una propuesta y rechazar las demás. Al votar no contratas cada servicio por separado ni conservas el derecho a abandonarlo cuando incumple.
 
-En España la Constitución prohíbe el mandato imperativo de los parlamentarios. Esa libertad jurídica no elimina su dependencia política. Los escaños también tienen tareas de comisión, control y representación territorial; contar manos que repiten una instrucción no demuestra que esas tareas se estén cumpliendo.
+## El límite debe existir antes de votar
 
-## El paquete que nadie ha elegido entero
+La solución no consiste en esperar que siempre gane una mayoría bondadosa. Consiste en que haya decisiones que ninguna mayoría pueda apropiarse. Tu religión, tu trabajo o tus relaciones pacíficas no deberían estar disponibles para el vencedor.
 
-Una papeleta agrupa vivienda, impuestos, sanidad, guerra y educación. Puedes apoyar una propuesta y rechazar otras cinco. Puedes votar para evitar a otro candidato. Nada de eso expresa una aprobación individual de cada medida que el vencedor incorporará a su mandato.
-
-La alternativa al paquete obligatorio es devolver decisiones a relaciones donde aceptar una cosa no exija someter toda la vida. Elegir un centro, un proveedor o una asociación permite acuerdos distintos sin conquistar primero el gobierno.
-
-Que pierda tu partido no debería significar perder el derecho a vivir a tu manera. Que gane tampoco te concede la vida de quien no te acompañó.
+Cuando personas distintas pueden escoger escuelas, asociaciones y proyectos diferentes, dejan de necesitar un único resultado obligatorio. Cada acuerdo puede tener sus reglas para decidir. Lo que sus miembros no pueden hacer es convertir ese acuerdo en una orden para quienes nunca lo aceptaron. Perder una votación no debería significar perder el derecho a vivir a tu manera.
 
 ## Lecturas y fuentes
 

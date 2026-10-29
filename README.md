@@ -71,3 +71,5 @@ Al añadir un capítulo al libro, incorpora su slug en routes.json y su transici
 ## Fuentes audiovisuales
 
 Recopilador gratuito y reanudable de la lista Lib: metadatos, subtítulos y reconocimiento local de audio cuando es necesario. El visor privado permite buscar por canal, consultar transcripciones y revisar argumentos con marcas de tiempo. Consulta [la guía de ejecución](docs/YOUTUBE_EN_MARCHA.md), [la investigación de herramientas](docs/TRANSCRIPCION_GRATUITA.md) y [el análisis de los seis vídeos prioritarios](docs/ANALISIS_VIDEOS_PRIORITARIOS.md) y [el mapa de fuentes por capítulo](docs/FUENTES_AUDIOVISUALES.md). Los originales y audios permanecen en knowledge/, excluidos de Git.
+
+La edición de voz y estructura de los 40 capítulos se documenta en [Reescritura directa del libro](docs/REESCRITURA_DIRECTA.md).

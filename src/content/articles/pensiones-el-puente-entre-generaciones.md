@@ -1,16 +1,16 @@
 ---
-title: "Pensiones: el puente entre generaciones"
+title: "Las pensiones de hoy las paga el trabajo de hoy"
 slug: "pensiones-el-puente-entre-generaciones"
 date: "2026-10-28"
-excerpt: "El joven que paga puede tener menos ingresos que el pensionista que recibe. Reparto, sostenibilidad y autonomía para preparar la vejez."
+excerpt: "El reparto necesita ingresos presentes para cumplir promesas. La edad no dice quién tiene más recursos ni elimina la cuenta futura."
 image: "/images/pensiones-el-puente-entre-generaciones.svg"
-imageAlt: "Ilustración conceptual: Pensiones: el puente entre generaciones"
+imageAlt: "Ilustración: Las pensiones de hoy las paga el trabajo de hoy"
 category: "Fiscalidad"
 tags: ["Fiscalidad","libertad"]
-order: 26
+order: 27
 masterPages: "51–53"
 satellites: []
-thesis: "La edad no determina quién es rico: una obligación entre generaciones puede exigir a quien tiene menos que financie a quien tiene más."
+thesis: "En un sistema de reparto, las pensiones actuales se pagan principalmente con ingresos actuales."
 related: ["una-promesa-no-es-un-patrimonio","el-capital-que-no-llega-a-nacer","redistribuir-no-es-solo-repartir"]
 level: "Intermedio"
 featured: false
@@ -19,69 +19,49 @@ draft: false
 imageFit: "contain"
 ---
 
-## La solidaridad que llega con una obligación
+**En un sistema de reparto, las pensiones actuales se pagan principalmente con ingresos actuales. Tu cotización no se guarda íntegra en una cuenta que te pertenece.** Financiar hoy una prestación te da derechos bajo unas reglas, pero tu cobro futuro dependerá de los recursos y de las reglas que existan entonces.
 
-Una persona joven cobra poco, paga alquiler y apenas logra reservar una parte de su sueldo. De sus ingresos y del coste de contratarla salen recursos que financian prestaciones actuales. Algunas llegan a personas con una renta y un patrimonio superiores a los suyos.
+Esta diferencia importa especialmente para quien empieza a trabajar. Puede estar pagando alquiler, cobrar poco y financiar una pensión superior a su sueldo. Trabajador no significa rico y pensionista no significa pobre. La solidaridad entre edades no garantiza que cada traslado vaya de quien tiene más a quien tiene menos.
 
-La escena deshace una identificación demasiado cómoda: trabajador no significa rico y pensionista no significa pobre. **Una transferencia entre edades no se convierte automáticamente en una transferencia desde quienes más tienen hacia quienes menos tienen.**
+## La cuenta necesita suficientes personas produciendo
 
-Ayudar no convierte el trabajo ajeno en propiedad de quien administra el sistema. Cuando el pagador tiene menos recursos que el receptor, la promesa de redistribuir hacia abajo tampoco describe esa relación.
+De forma simplificada, los ingresos dependen del número de cotizantes y de cuánto aporta cada uno. Los gastos dependen del número de pensionistas y de lo que cobra cada uno. Si esas dos cuentas se separan, alguien tiene que asumir la diferencia.
 
-## Puede ocurrir; no describe a todas las personas
+Se puede subir cotizaciones o impuestos, aumentar la edad de acceso, reducir prestaciones o recurrir a deuda. Más empleo y productividad también pueden mejorar los ingresos. Ninguna palabra solemne evita tener que hacer ese ajuste cuando los compromisos superan los recursos.
 
-Hay pensionistas pobres y jóvenes con ingresos altos. La renta anual tampoco mide todo el patrimonio. Una persona puede recibir poco dinero y ser propietaria de una vivienda; otra puede tener un sueldo mayor y soportar deudas y alquiler. El análisis debe conservar esas diferencias.
+El estudio de AIReF de mayo de 2026 proyectaba, con las políticas consideradas constantes, un gasto en pensiones del 16,4 % del PIB en 2050. Es una proyección con supuestos, no una fecha automática de quiebra. Señala una presión que debe explicarse sin prometer que todo seguirá igual y nadie tendrá que pagar más.
 
-La estadística tributaria de 2024 permite una comparación ilustrativa: en territorio fiscal común, el salario íntegro anual medio de las personas de 26 a 35 años fue de 21.506 euros; las pensiones medias de quienes tenían entre 66 y 75 años fueron de 22.548 euros.
+```oneshot
+{"type":"concept-flow","title":"Una promesa que necesita recursos reales","steps":[{"title":"Aportar hoy","text":"El trabajo actual financia prestaciones actuales."},{"title":"Prometer mañana","text":"Quien aporta espera recibir en el futuro."},{"title":"Cambiar la relación","text":"Demografía, empleo y productividad alteran la cuenta."},{"title":"Ajustar","text":"Impuestos, deuda o prestaciones trasladan costes a personas concretas."}]}
+```
 
-Los importes son anuales y efectivos: incluyen empleos parciales o de parte del año, y el registro de pensiones abarca diversas clases, algunas privadas. No describen solo jubilación pública ni permiten concluir que todos los mayores sean ricos. Muestran que la edad no basta para decidir quién tiene más ingresos.
+## Un joven puede financiar a alguien con más ingresos
+
+La estadística tributaria de 2024 ofrece una comparación ilustrativa: el salario íntegro anual medio de las personas de 26 a 35 años fue de 21.506 euros y las pensiones medias de quienes tenían de 66 a 75 años, de 22.548, en territorio fiscal común.
+
+Los registros incluyen situaciones diferentes: empleos parciales o de parte del año y distintas clases de pensiones, algunas privadas. No miden patrimonio ni prueban que todos los jóvenes sean más pobres. Sí impiden identificar automáticamente pensión con pobreza y sueldo con capacidad sobrada para pagar.
 
 ```oneshot
 {"type":"stat-cards","title":"Ingresos íntegros anuales · territorio fiscal común, 2024","stats":[{"value":"21.506 €","label":"Salario medio · 26–35 años","description":"Ingreso efectivo anual; no equivalente de jornada completa todo el año.","source":"AEAT · Mercado de trabajo y pensiones 2024"},{"value":"22.548 €","label":"Pensiones medias · 66–75 años","description":"Incluye diferentes pensiones; no solo jubilación pública contributiva.","source":"AEAT · Mercado de trabajo y pensiones 2024"}],"note":"Comparación de ingresos por edad, no medición de patrimonio ni prueba de que toda transferencia pública sea de pobres a ricos. No mezcla pagas mensuales con anuales."}
 ```
 
-## Lo que cotizas no se guarda necesariamente para ti
+Si queremos atender a quien lo necesita, importa su situación real. Hay mayores con muy pocos recursos que requieren ayuda y mayores con patrimonio considerable. También jóvenes con ingresos altos y jóvenes que no pueden ahorrar. La edad por sí sola no resuelve esa evaluación.
 
-En el reparto, las aportaciones actuales financian prestaciones actuales. El trabajador conserva derechos conforme a unas reglas, pero no acumula por ese solo hecho una cartera de activos a su nombre equivalente a todo lo aportado.
+## La cotización obligatoria también ocupa el lugar de otro ahorro
 
-No puede usar esa supuesta hucha para abrir un negocio o dejarla íntegra como herencia. Su prestación depende de empleo, ingresos y decisiones futuras.
+Lo que hoy debes destinar al reparto ya no puedes reservarlo para una cartera propia, un seguro o un negocio. Esa pérdida de margen puede hacerte más dependiente de la promesa futura. No todo euro cotizado habría acabado en una buena inversión, pero tampoco carecía de usos alternativos.
 
-Los derechos existen conforme a unas reglas. Lo que no existe por ello es una cartera propia equivalente a lo aportado.
+El [ejemplo del panadero y su horno](../el-capital-que-no-llega-a-nacer/) ayuda a ver el coste: ahorrar puede aumentar la producción que sostendrá el consumo de mañana. El reparto transfiere ingresos presentes; una inversión busca crear capacidad productiva futura. Ambos necesitan que mañana existan bienes y personas capaces de producirlos.
 
-## La promesa encuentra una cuenta
+Una promesa política tampoco es inmune al riesgo. Sus condiciones pueden cambiar. La capitalización tiene otros riesgos, como pérdidas, inflación y comisiones. Elegir requiere conocerlos, en lugar de presentar uno de los sistemas como garantía absoluta.
 
-De manera simplificada, los ingresos dependen de cuántas personas aportan y cuánto aporta cada una. El gasto depende de cuántas cobran y cuánto recibe cada cual. Si cambia la relación entre ambos lados, alguien debe ajustar su consumo, su ahorro o sus compromisos.
+## Cambiar exige sostener los compromisos ya creados
 
-Endeudarse desplaza parte de la factura. Subir cotizaciones reduce otros recursos disponibles. Recortar prestaciones o retrasar el acceso cambia lo prometido. Financiar con impuestos generales no elimina el coste: lo distribuye por otra vía.
+Quien organizó su vejez bajo las reglas actuales no recupera cuarenta años cuando anunciamos otras. Una transición debe enseñar plazos, recursos y obligaciones. Permitir que nuevos trabajadores construyan patrimonio no hace desaparecer la atención que necesitan los jubilados actuales.
 
-El estudio de AIReF de mayo de 2026 proyecta, a políticas constantes, gasto en pensiones del 16,4 % del PIB en 2050. Advierte que cumplir formalmente la regla no garantiza sostenibilidad fiscal. No es una fecha de quiebra automática: es un escenario que muestra la presión de mantener los compromisos bajo determinados supuestos.
+Ahorro, seguros, mutualidades y ayuda voluntaria permiten pensar alternativas. Quien no pudo reunir recursos necesita apoyos expresos. La discusión debe dirigirse contra la obligación y el diseño que enfrenta a las generaciones, no contra una persona por ser mayor.
 
-```oneshot
-{"type":"concept-flow","title":"Una promesa que necesita recursos reales","steps":[{"title":"Aportar hoy","text":"El trabajo actual financia prestaciones actuales."},{"title":"Prometer mañana","text":"Quien aporta espera recibir en el futuro."},{"title":"Cambiar la relación","text":"Demografía, empleo y productividad alteran la cuenta."},{"title":"Ajustar","text":"Impuestos, deuda o prestaciones trasladan costes a personas concretas."}],"note":"Esquema conceptual de una propuesta, no una estimación de resultados."}
-```
-
-El compromiso futuro tiene además un coste que no aparece igual que un bono en circulación. Estimar hoy las prestaciones prometidas exige supuestos sobre edades, empleo y crecimiento. Ese cálculo no es una deuda financiera negociable ni mide por sí solo la sostenibilidad. Las magnitudes no se suman como si fueran equivalentes: cuentan compromisos bajo bases distintas. Lo relevante es hacer visible quién sostendrá la promesa.
-
-## El ahorro que deja de construirse
-
-Si una parte importante de la capacidad de reservar recursos se consume en pagos obligatorios, queda menos margen para preparar un patrimonio propio. La confianza en que el Estado proveerá puede reducir además el incentivo a construirlo.
-
-El [horno que no llega a comprarse](../el-capital-que-no-llega-a-nacer/) muestra el coste productivo: con menos recursos reservados pueden faltar las herramientas que permitirían producir más.
-
-El efecto agregado depende de muchas condiciones; no todo euro cotizado habría ido a una inversión productiva. Pero una promesa de prestación no reemplaza automáticamente el capital real que permite sostener un nivel de vida mayor.
-
-## Preparar la vejez sin entregar el futuro
-
-El ahorro individual, los seguros, las mutualidades y las aportaciones voluntarias pueden organizar compromisos de largo plazo. Conviene diversificar, vigilar costes y prever riesgos de longevidad, inflación y mala gestión. Ningún instrumento convierte el futuro en una certeza absoluta.
-
-También hace falta ayuda para quien no pudo reunir recursos, sufrió discapacidad o dedicó años a cuidados sin remuneración. Una sociedad voluntaria necesita describir redes y compromisos capaces de sostener esa atención. La crítica al sistema no autoriza a borrar a las personas que dependen de él.
-
-Permitir alternativas exige una transición con calendario y financiación visibles. Quienes ya están jubilados no recuperan cuarenta años de capacidad de ahorrar porque se anuncie otro modelo. Mantenerlos como rehenes de una promesa tampoco debería servir para imponer la misma dependencia a todas las generaciones siguientes.
-
-## Menos guerra entre edades, más autonomía
-
-El conflicto no debe dirigirse contra una persona por ser mayor. Debe dirigirse a una estructura que puede enfrentar al joven que necesita construir su vida con quien teme perder su sustento, y utilizar ambos temores para conservar poder.
-
-El criterio es individual: qué recursos tiene cada cual, qué aceptó y qué compromisos deben atenderse. Atender una necesidad no convierte a su administrador en dueño del trabajo con el que pretende cubrirla.
+La sostenibilidad no consiste en que una institución continúe cobrando y pagando cualquier cantidad. Consiste en explicar qué podrá recibir cada persona, quién deberá aportarlo y cuánto margen conservará para preparar su vida. Una promesa sin esa cuenta traslada el problema a quien venga después.
 
 ## Lecturas y fuentes
 

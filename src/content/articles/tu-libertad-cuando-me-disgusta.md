@@ -1,15 +1,15 @@
 ---
-title: "Tu libertad cuando me disgusta"
+title: "Drogas, prostitución y armas: la libertad que incomoda"
 slug: "tu-libertad-cuando-me-disgusta"
 date: "2026-10-29"
-excerpt: "Adultos, decisiones y riesgos: desaprobar una vida no entrega el derecho a dirigirla. Consentimiento, protección de menores y responsabilidad por daños."
+excerpt: "Respetar decisiones ajenas no exige aprobarlas. Consentimiento, responsabilidad y límites ante el daño a otras personas."
 image: "/images/tu-libertad-cuando-me-disgusta.svg"
-imageAlt: "Ilustración conceptual: Tu libertad cuando me disgusta"
+imageAlt: "Ilustración: Drogas, prostitución y armas: la libertad que incomoda"
 category: "Fundamentos"
 tags: ["Fundamentos","libertad"]
 order: 5
 satellites: []
-thesis: "Respetar la libertad ajena exige distinguir desaprobación, riesgo asumido y daño impuesto a terceros."
+thesis: "Defender la libertad exige permitir decisiones que te parecen malas."
 related: ["tu-vida-no-es-un-proyecto-del-poder","el-poder-no-cambia-al-cambiar-de-bandera","un-arbitro-no-necesita-ser-un-soberano"]
 level: "Iniciación"
 featured: false
@@ -18,55 +18,39 @@ draft: false
 imageFit: "contain"
 ---
 
-## La decisión que no harías tuya
+**Defender la libertad exige permitir decisiones que te parecen malas.** Aceptar lo que te gusta cuesta poco. La prueba llega cuando un adulto quiere consumir una droga, vender un servicio sexual o tener un arma y tú preferirías que no lo hiciera.
 
-Tu vecino lleva una vida que desapruebas. Mantiene relaciones por dinero, consume una sustancia que tú rechazas o guarda un arma que no querrías tener cerca. Puedes pensar que se equivoca. La cuestión empieza cuando decides que tu rechazo debe convertirse en una orden sobre su vida.
+Puedes discutir su decisión, advertirle de los riesgos y negarte a colaborar. También puedes protegerte frente a una agresión. Lo que no puedes hacer es convertir tu desaprobación en un derecho a dirigir su cuerpo. Esa misma facultad, en otras manos, permitiría prohibirte lo que tú consideras una vida normal.
 
-**La libertad se pone a prueba cuando protege una elección que te disgusta.** Para defenderla no necesitas recomendar esa elección ni fingir que carece de riesgos. Necesitas reconocer que la persona que la toma conserva su vida, incluso cuando no consigue tu aprobación.
+## Una relación sexual necesita consentimiento
 
-## El cuerpo sigue perteneciendo a quien lo habita
+Si dos adultos capaces de decidir acuerdan una relación sexual a cambio de dinero, el pago no entrega al resto de la sociedad la propiedad de sus cuerpos. Podemos tener opiniones distintas sobre ese acuerdo. Ninguna opinión sustituye la voluntad de quienes participan.
 
-Dos adultos capaces de decidir aceptan una relación sexual. Uno busca placer y el otro una remuneración. El motivo económico puede resultarte degradante; otras personas desaprueban esas mismas relaciones cuando no hay matrimonio, amor o intención de tener hijos.
+El consentimiento tiene que existir de verdad. La trata, la amenaza, el engaño y la violencia lo destruyen. Cobrar no convierte una agresión en un servicio ni permite a un cliente exigir algo que la otra persona rechazó. Defender la libertad sexual obliga a proteger el derecho a negarse antes y durante la relación.
 
-Si cada desaprobación otorgara el derecho a impedir, la intimidad quedaría en manos de quien lograra imponer su moral. Respetar la decisión ajena permite que personas con criterios distintos sigan siendo dueñas de su cuerpo.
+Los menores requieren otra protección porque todavía desarrollan su capacidad para decidir y dependen de adultos. No se puede utilizar una supuesta firma para borrar un abuso. Tampoco los padres tienen la propiedad de su intimidad o de su futuro.
 
-Ese respeto exige consentimiento efectivo. Un pago no concede un sí permanente ni permite ignorar una negativa posterior. Una deuda, un documento retenido o una amenaza tampoco convierten la obediencia en un acuerdo. La coacción y la trata dañan precisamente la libertad que aquí se defiende.
+## Consumir una droga no te convierte en propiedad del Estado
 
-Los menores son personas que necesitan protección y desarrollan su autonomía. Su vulnerabilidad no entrega su cuerpo a quienes los crían ni a quienes gobiernan. Un adulto no puede presentar su aprovechamiento de esa vulnerabilidad como un intercambio entre iguales.
+Una sustancia puede producir dependencia y daños graves. Esos riesgos justifican informar, investigar, ofrecer tratamiento y ayudar a quien quiere dejarla. No hacen que el cuerpo de un adulto pase a pertenecer a un gobernante.
 
-## Poder elegir también incluye poder pedir ayuda
+Además, prohibir el intercambio no elimina automáticamente la demanda. Puede desplazarla a vendedores clandestinos, dificultar conocer la composición y hacer más arriesgado pedir ayuda. Eso exige examinar sustancias y circunstancias concretas; no prometer que legalizar cualquier cosa resolverá todos sus problemas.
 
-Una persona consume una sustancia a pesar de tus advertencias. Puedes ofrecer información, compañía o ayuda para dejarla. No necesitas considerarla incapaz de decidir por el mero hecho de haber escogido algo que tú evitarías.
+La responsabilidad sigue existiendo. Consumir no te autoriza a conducir poniendo a otros en peligro, a maltratar a tu familia ni a exigir que cualquier persona financie las consecuencias. Se pueden contratar seguros, pactar condiciones y organizar ayuda. También puedes rechazar el consumo en tu casa o en tu negocio.
 
-La dependencia puede estrechar sus opciones y hacer difícil sostener una decisión. Eso vuelve valiosa la ayuda que recupera su autonomía. Familiares, asociaciones y servicios de atención pueden acompañarla sin convertir la preocupación en una propiedad sobre ella.
+## Un arma no concede autoridad sobre nadie
 
-Prohibir una compraventa no hace desaparecer el deseo de comprar. Si la relación pasa a la clandestinidad, el comprador tiene más dificultades para comparar composición, reclamar lo prometido y recurrir a un tercero sin exponerse él mismo. Resolver disputas mediante intimidación puede ganar terreno frente a contratos y garantías abiertos. Este es un mecanismo que debe examinarse en cada mercado; no significa que permitir la venta elimine la dependencia ni cualquier daño. La propuesta es poder informar, contratar y exigir responsabilidad sin perseguir un intercambio entre adultos por el mero hecho de existir.
+Poseer un arma y amenazar a una persona son actos distintos. Una herramienta puede utilizarse para defenderse o para agredir. La responsabilidad debe atender al uso, a la custodia y al peligro concreto que se crea, en lugar de dar por culpable a cualquiera que quiera protegerse.
 
-Tampoco estás obligado a financiar cualquier consecuencia de su elección. Se pueden pactar seguros, condiciones de convivencia y formas de ayuda. Tu libertad para colaborar también cuenta. Si la persona no está en condiciones de comprender o rechazar un acto concreto, una firma o un pago no resuelven por sí solos esa falta de consentimiento.
+Esto exige responder por un disparo negligente, por una amenaza y por daños a terceros. También permite acordar condiciones de acceso: el dueño de un local puede decidir que no se entre armado. Tu libertad para poseer algo no incluye obligar a otra persona a admitirlo en su propiedad.
 
-## El riesgo no borra la frontera con los demás
+No hace falta prometer una sociedad sin accidentes para defender estos límites. Ninguna institución puede garantizarla. Sí hace falta impedir que la defensa propia se convierta en una excusa para dominar al vecino.
 
-Tu decisión sobre una sustancia no incluye conducir poniendo a otros ante un peligro concreto. Tu decisión sobre un objeto no incluye amenazar a un vecino. La libertad de asumir un riesgo propio no concede permiso para imponer cualquier riesgo a quienes no lo han aceptado.
+## Respetar no significa aprobar ni pagar
 
-Con las armas conviene mantener esa distinción. Poseer un objeto capaz de causar daño y emplearlo para intimidar a alguien son actos diferentes. Quien lo maneja debe responder por el peligro concreto que crea y por los daños que causa. Una herramienta de defensa no entrega a su dueño autoridad sobre otras personas.
+Puedes considerar triste una decisión y seguir reconociendo que pertenece a quien la toma. Puedes dejar una relación, no comprar un producto y no financiar una actividad que rechazas. Los demás tampoco tienen derecho a tu aprobación, tu compañía o tu dinero.
 
-Ninguna convivencia elimina todo riesgo. Hace falta identificar la conducta, el peligro y las personas afectadas. De otro modo, la posibilidad remota de que algo salga mal permitiría prohibir cualquier actividad que un tercero mire con desconfianza.
-
-## Tu casa y tus acuerdos también tienen límites
-
-Puedes decidir que en tu local no se consuman determinadas sustancias o no se entre con armas. Quien quiera utilizarlo tendrá que aceptar sus condiciones o buscar otro. Respetar su libertad no exige entregarle un espacio que te pertenece.
-
-También puedes dejar de contratar un servicio, rechazar una invitación o terminar una relación. Nadie tiene derecho a tu compañía, a tu compra o a tu aprobación por haber elegido una manera de vivir. La convivencia voluntaria permite acercarse y separarse sin convertir la discrepancia en persecución.
-
-Cuando existe una víctima, la respuesta debe atender al daño: protegerla, detener la agresión y reclamar reparación. Un contrato entre dos personas no puede trasladar la cuenta a un tercero que nunca aceptó participar. Quien vende tampoco queda liberado de responder por un engaño o una promesa incumplida.
-
-## Una regla que puedas aceptar al cambiar de lugar
-
-Tal vez hoy tu moral sea la más extendida. Mañana puede imponerse otra que considere intolerable tu vida. La misma facultad que deseabas para corregir al vecino podría emplearse para corregirte a ti.
-
-No necesitas esperar ese cambio para reconocer el límite. La otra persona ya es dueña de su vida. Puedes discutir con ella, ofrecerle mejores razones, proteger a quien esté siendo agredido y organizar ayuda para quien la quiera.
-
-Lo que no te entrega el desacuerdo es su decisión. Dejarla vivir de otra manera conserva el espacio en el que también tú puedes vivir a la tuya.
+Esa separación hace posible convivir sin compartir una moral completa. Podemos mantener desacuerdos profundos y tratarnos mediante acuerdos. Si aparece una víctima, actuamos frente al daño. Si solo aparece una conducta que nos disgusta, conservamos la discusión y dejamos a la otra persona decidir. La libertad protege precisamente ese espacio en el que no mandas tú y tampoco manda tu adversario.
 
 ## Lecturas y fuentes
 

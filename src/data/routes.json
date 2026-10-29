@@ -1,9 +1,9 @@
 [
   {
     "id": "01",
-    "title": "Tu vida y sus límites",
-    "lead": "Elegir, disponer de lo propio y convivir con quien discrepa.",
-    "opening": "Antes de decidir qué debería hacer una institución, hay una cuestión anterior: qué parte de tu vida puede reclamar otra persona. Empezamos por la libertad, la propiedad y el consentimiento.",
+    "title": "Tu vida te pertenece",
+    "lead": "Libertad, propiedad, consentimiento y límites de la mayoría.",
+    "opening": "Empezamos con una afirmación: nadie es dueño de tu vida. Después la aplicamos al trabajo, a lo que tienes, al cobro obligatorio y a las decisiones que otros quieren prohibir.",
     "slugs": [
       "tu-vida-no-es-un-proyecto-del-poder",
       "la-puerta-que-puedes-cerrar",
@@ -14,24 +14,25 @@
   },
   {
     "id": "02",
-    "title": "Cooperar sin un director",
-    "lead": "Cómo se encuentran los planes de personas que quieren cosas distintas.",
-    "opening": "Respetar vidas distintas deja una tarea: coordinar lo que cada cual sabe y necesita. Los precios, el ahorro y la posibilidad de ensayar hacen posible una cooperación que nadie tiene que dirigir entera.",
+    "title": "Cómo cooperamos sin un director",
+    "lead": "Precios, trabajo, ahorro, competencia, vivienda y dinero.",
+    "opening": "Si nadie dirige toda la sociedad, ¿cómo sabemos qué producir? Lo veremos con un pescadero, un horno, una vivienda y el dinero que utilizamos para intercambiar.",
     "slugs": [
       "el-conocimiento-no-cabe-en-un-despacho",
       "sin-precios-no-hay-brujula",
       "poner-un-precio-no-crea-lo-que-falta",
       "el-capital-que-no-llega-a-nacer",
       "el-permiso-de-quien-ya-ha-entrado",
+      "el-precio-del-alquiler-y-la-puerta-de-entrada",
       "el-dinero-no-es-la-riqueza",
       "inflacion-el-reloj-del-ahorro"
     ]
   },
   {
     "id": "03",
-    "title": "Lo que el poder premia",
-    "lead": "Incentivos, lealtades y facultades que sobreviven a sus ocupantes.",
-    "opening": "Coordinar no es lo mismo que mandar. Ahora miramos qué cambia cuando una organización puede exigir recursos y obediencia, qué conductas premia y por qué sustituir a sus responsables puede dejar intacto el problema.",
+    "title": "Por qué el poder se protege a sí mismo",
+    "lead": "Despilfarro, partidos, propaganda, control y responsabilidad.",
+    "opening": "El político también tiene intereses. Examinamos qué premia su carrera, por qué algunos votantes lo defienden siempre y cómo los fracasos pueden dejar intactas las facultades del Estado.",
     "slugs": [
       "la-politica-tambien-tiene-incentivos",
       "el-cargo-no-convierte-a-nadie-en-sagrado",
@@ -47,9 +48,9 @@
   },
   {
     "id": "04",
-    "title": "El precio de la tutela",
-    "lead": "De la nómina al reparto y de la promesa al patrimonio.",
-    "opening": "El poder necesita recursos. Seguimos su recorrido desde el trabajo y el ahorro hasta las prestaciones, para distinguir una ayuda, una obligación y una promesa sobre el futuro.",
+    "title": "Quién paga los impuestos y las promesas",
+    "lead": "Nómina, financiación de servicios, redistribución y pensiones.",
+    "opening": "Seguimos el dinero desde tu trabajo hasta el gasto. Preguntamos quién aporta, quién recibe y qué ocurre cuando lo prometido necesita más recursos de los que habrá disponibles.",
     "slugs": [
       "la-nomina-que-no-ves",
       "la-factura-cambia-de-principio",
@@ -60,9 +61,9 @@
   },
   {
     "id": "05",
-    "title": "Hacer sitio a las alternativas",
-    "lead": "Cuidar, enseñar, proteger y resolver conflictos mediante acuerdos.",
-    "opening": "La crítica deja una tarea práctica: organizar servicios sin convertir a quien los necesita en una clientela cautiva. Empezamos por funciones concretas y terminamos con los casos que ponen a prueba cualquier propuesta.",
+    "title": "Cómo construir alternativas libres",
+    "lead": "Sanidad, educación, justicia, ayuda y derecho a marcharse.",
+    "opening": "La crítica debe ofrecer propuestas. Vamos a concretar cómo podrían financiarse y prestarse servicios elegidos, quién respondería por sus fallos y cómo ayudar a quien no puede pagarlos.",
     "slugs": [
       "un-derecho-no-es-un-proveedor",
       "cuidar-sin-pedir-permiso-al-monopolio",
@@ -72,7 +73,6 @@
       "cooperar-sin-un-director-unico",
       "muchos-centros-mejores-salidas",
       "irse-no-es-traicionar",
-      "el-precio-del-alquiler-y-la-puerta-de-entrada",
       "el-progreso-tambien-es-poder-elegir",
       "las-objeciones-que-hay-que-responder",
       "convencer-sin-ocupar-el-mando",
