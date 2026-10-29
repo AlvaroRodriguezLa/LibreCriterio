@@ -22,6 +22,8 @@ imageFit: "contain"
 
 La política utiliza esos símbolos para presentar el mando como algo que merece respeto por sí mismo. El ciudadano entra como administrado; el gobernante aparece como encarnación del país. Conviene devolver la relación a personas concretas: quién ha decidido, qué ha hecho y quién paga las consecuencias.
 
+La ceremonia también puede volver respetable una orden que, pronunciada fuera del hemiciclo, reconoceríamos enseguida como una imposición. El edificio, la banda y el lenguaje solemne no transforman el carácter de quien manda. Una institución merece examen por las reglas que aplica y por los límites que respeta, no por el aura que fabrica alrededor de sus cargos.
+
 ## El Congreso también puede comportarse como una clase descontrolada
 
 Interrupciones, gritos, descalificaciones y consignas de partido no se vuelven admirables porque sucedan en un parlamento. Cuando ocurren, muestran la distancia entre la solemnidad del escenario y la conducta de sus ocupantes.
@@ -59,3 +61,4 @@ No necesitamos otra figura sagrada en la cúspide. Necesitamos recuperar decisio
 - [Parlament de Catalunya, diario de sesiones del 27 de octubre de 2017, sesión 44.2](https://www.parlament.cat/document/dspcp/238145.pdf), resultado de la votación. Se dan cifras exactas, sin describir la ausencia como media cámara exacta.
 - [Discurso de Javier Milei en Davos, 17 de enero de 2024](https://www.casarosada.gob.ar/informacion/discursos/50299-palabras-del-presidente-de-la-nacion-javier-milei-en-el-54-reunion-anual-del-foro-economico-mundial-de-davos), fuente de su crítica a la casta. La valoración de la irreverencia es editorial.
 - [Congreso, diario de sesiones del 9 de septiembre de 2026](https://www.congreso.es/es/busqueda-de-publicaciones?_publicaciones_id_texto=%28DSCD-15-PL-202.CODI.%29&_publicaciones_legislatura=XV&_publicaciones_mode=mostrarTextoIntegro&p_p_id=publicaciones&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal), llamadas al silencio e incidencias. Una llamada al orden no permite generalizar la conducta a todos sus miembros.
+- [Antonio Escohotado, El espíritu de la comedia](https://www.anagrama-ed.es/libro/argumentos/el-espiritu-de-la-comedia/9788433913487/A_118), crítica de la representación y los ritos del poder político. Se incorpora como mirada sobre la escenografía del mando, no como adhesión a todas las posiciones del autor.

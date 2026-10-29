@@ -23,6 +23,8 @@ imageFit: "contain"
 
 Esta diferencia importa especialmente para quien empieza a trabajar. Puede estar pagando alquiler, cobrar poco y financiar una pensión superior a su sueldo. Trabajador no significa rico y pensionista no significa pobre. La solidaridad entre edades no garantiza que cada traslado vaya de quien tiene más a quien tiene menos.
 
+Hay dos preguntas distintas. Una es si el sistema puede pagar lo que promete. Otra, anterior, es si alguien tiene derecho a obligarte a financiarlo. Mostrar que una prestación ayuda o que las cuentas pueden cuadrar responde a la primera; no responde por sí solo a la segunda. Una persona puede elegir sostener a sus padres, a sus vecinos o a quien lo necesita. Que elija hacerlo tiene un significado que desaparece cuando otro decide por ella y presenta la obligación como consentimiento.
+
 ## La cuenta necesita suficientes personas produciendo
 
 De forma simplificada, los ingresos dependen del número de cotizantes y de cuánto aporta cada uno. Los gastos dependen del número de pensionistas y de lo que cobra cada uno. Si esas dos cuentas se separan, alguien tiene que asumir la diferencia.
@@ -58,6 +60,8 @@ Una promesa política tampoco es inmune al riesgo. Sus condiciones pueden cambia
 ## Cambiar exige sostener los compromisos ya creados
 
 Quien organizó su vejez bajo las reglas actuales no recupera cuarenta años cuando anunciamos otras. Una transición debe enseñar plazos, recursos y obligaciones. Permitir que nuevos trabajadores construyan patrimonio no hace desaparecer la atención que necesitan los jubilados actuales.
+
+Por eso cualquier propuesta de salida debe pasar una cuenta sencilla y completa: qué se sigue pagando a quienes ya se jubilaron; qué parte de las aportaciones futuras deja de entrar; de dónde sale el dinero que cubre esa diferencia; y qué riesgos y derechos conserva cada persona durante el cambio. La deuda no es una hucha, un activo no puede contarse sin su pasivo y una rentabilidad supuesta no paga por adelantado una pensión. Si una propuesta llama «gratuita» a la transición, todavía no ha explicado quién asume su coste.
 
 Ahorro, seguros, mutualidades y ayuda voluntaria permiten pensar alternativas. Quien no pudo reunir recursos necesita apoyos expresos. La discusión debe dirigirse contra la obligación y el diseño que enfrenta a las generaciones, no contra una persona por ser mayor.
 

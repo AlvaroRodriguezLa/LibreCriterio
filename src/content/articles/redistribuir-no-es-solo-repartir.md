@@ -23,6 +23,8 @@ imageFit: "contain"
 
 Para saber qué ocurre hay que seguir el recorrido: quién aporta, quién recibe, con qué condiciones y durante cuánto tiempo. «Redistribución» describe un traslado. La palabra no demuestra por sí sola que ese traslado sea justo ni que llegue a quien más lo necesita.
 
+También conviene mirar de dónde vienen nuestras ideas sobre propiedad y comercio. A lo largo de la historia, distintas corrientes han presentado la propiedad privada como abuso y el intercambio como una relación sospechosa; otras han defendido que poder conservar, ofrecer y cambiar lo propio permite cooperar sin pedir permiso a un repartidor central. No hace falta meter todas esas posiciones en una sola caja. La pregunta útil es más concreta: cuando una doctrina promete igualdad, qué reglas propone, quién podrá aplicarlas y qué ocurre con quien no acepta el reparto.
+
 ## La persona que paga también existe
 
 Las rentas bajas y medias pagan impuestos al consumir y cargas vinculadas al trabajo. Una ayuda puede mejorar la situación del receptor mientras reduce el margen de ahorro de otra familia que también va justa.
@@ -30,6 +32,8 @@ Las rentas bajas y medias pagan impuestos al consumir y cargas vinculadas al tra
 El receptor tampoco es siempre un hogar pobre. Puede ser una empresa subvencionada, un proveedor con un contrato ventajoso o una asociación que vive de la ventanilla pública. Hay que distinguir esas transferencias de la ayuda a una necesidad severa.
 
 Un mismo hogar puede aportar en una etapa y recibir en otra. Por eso una fotografía de un año no resume toda la vida. Ingresos, patrimonio, tamaño familiar y necesidades también cambian la comparación. Repartir según una etiqueta amplia puede beneficiar a alguien acomodado y dejar fuera a otra persona con dificultades.
+
+Las pensiones muestran lo fácil que es ocultar esta diferencia bajo una consigna. Se puede llamar «solidaridad» a un traslado entre generaciones y no preguntar qué grupos lo financian ni qué ingresos tienen. En algunos tramos de edad, las medias de las pensiones superan las de los salarios; eso no describe a cada persona, pero sí cuestiona la idea de que el flujo siempre va de ricos a pobres. Para ver las cifras y sus límites, sigue el capítulo [Las pensiones de hoy las paga el trabajo de hoy](../pensiones-el-puente-entre-generaciones/).
 
 ## Una ayuda útil no demuestra que hubiera consentimiento
 
@@ -68,3 +72,5 @@ La crítica liberal no exige desentenderse del pobre. Exige reconocerlo como per
 ```oneshot
 {"type":"source-note","source":"FEDEA · Décimo informe del Observatorio fiscal","url":"https://fedea.net/decimo-informe-del-observatorio-sobre-el-reparto-de-los-impuestos-y-prestaciones-entre-los-hogares-espanoles/","date":"2026-10-28","description":"Publicado el 20 de abril de 2026, con datos de hogares de 2023.","methodology":"El 31,9 % es una reducción relativa de desigualdad atribuida al conjunto analizado; no equivale al efecto de cada programa."}
 ```
+
+- [Antonio Escohotado, Los enemigos del comercio. Una historia moral de la propiedad](https://www.planetadelibros.com/libro-los-enemigos-del-comercio/219640), recorrido histórico de las ideas y movimientos enfrentados a la propiedad y el comercio. Se toma como interlocutor para estudiar argumentos en su contexto, no como prueba automática de que toda redistribución tenga el mismo efecto.

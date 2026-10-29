@@ -50,6 +50,8 @@ Podemos criticar la imposición sin negar la ayuda que recibieron personas concr
 
 La transición requiere atender a quienes ya confiaron en compromisos existentes y permitir que otros preparen su futuro de manera distinta. Necesita financiación identificable, no un rendimiento supuesto que borre cualquier dificultad.
 
+Una transición no se resuelve con una palabra —capitalizar, privatizar o reformar—, sino enseñando el recorrido del dinero. Si una parte de las aportaciones deja de financiar a los pensionistas actuales, esa obligación no se evapora: habrá que cubrirla con ingresos, deuda, activos o cambios pactados en las prestaciones. Cada opción tiene pagadores, plazos y riesgos distintos. Una reforma honesta los nombra antes de prometer libertad futura.
+
 Habrá personas que no puedan ahorrar bastante por enfermedad, discapacidad o ingresos insuficientes. Su ayuda debe organizarse de forma expresa. No basta con decir que todo el mundo debería tener patrimonio. Pero esa necesidad tampoco justifica impedir al resto construirlo por su cuenta.
 
 Queremos que cada vez más personas puedan preparar su vida con recursos y acuerdos que comprendan y controlen. Una ayuda debe ampliar esa capacidad. Si para recibir seguridad tienes que entregar permanentemente la posibilidad de decidir, la protección ha terminado convirtiéndose en dependencia.
@@ -61,5 +63,4 @@ Queremos que cada vez más personas puedan preparar su vida con recursos y acuer
 - [Banco Mundial, Pension Reform and the Development of Pension Systems, recuadro A.1](https://documents1.worldbank.org/curated/en/629861468166150111/pdf/355210Pension0reform01OFFICIAL0USE1.pdf), contribuciones y capitalización en el diseño alemán original.
 - [Social Security Administration, el precedente alemán](https://www.ssa.gov/history/age65.html), edad inicial de jubilación y cambio posterior.
 
-- [Presentación del proyecto](https://www.jesushuertadesoto.com/wp-content/uploads/2024/02/Cuaderno-13-ABRIL-2022-Ni-es-justicia-ni-es-social-WEB.pdf).
 - [Propuesta bancaria y transición](https://www.jesushuertadesoto.com/wp-content/uploads/2024/01/NBL-65-Nuevos-Ensayos_web.pdf), páginas 149–150 y 289–291.

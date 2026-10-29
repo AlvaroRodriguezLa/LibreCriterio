@@ -28,6 +28,8 @@ Puedes considerar falsa una afirmación, demostrar su error y dejar de apoyar al
 
 Amenazar a alguien o defraudarlo plantea una responsabilidad concreta. El análisis debe señalar la conducta y el daño. Una categoría vaga de opinión peligrosa puede utilizarse para perseguir casi cualquier oposición si quien manda conserva la facultad de interpretarla a conveniencia.
 
+La ley puede proteger a una persona frente a una amenaza y, en cambio, proteger el prestigio de un cargo frente al desacuerdo. Para distinguirlo, preguntemos quién fue amenazado, engañado o lesionado y de qué manera. Si la única respuesta es que alguien ofendió o desafió a la autoridad, el poder está tratando su propia dignidad como si fuera un derecho ajeno que debemos respetar por la fuerza.
+
 Un medio privado también decide qué publica en su espacio. No tienes derecho a que otro financie o difunda tu mensaje. La cuestión cambia cuando un poder impide crear medios alternativos o utiliza una posición privilegiada para excluir toda salida.
 
 ## Identificarte no debería revelar toda tu vida
@@ -57,6 +59,7 @@ Hablar, identificarse y pagar son actividades básicas. Si todas requieren autor
 ## Lecturas y fuentes
 
 - [Comité de Derechos Humanos, observación general 34 sobre opinión y expresión](https://www.ohchr.org/sites/default/files/english/bodies/hrc/docs/gc34.pdf), 2011. Referencia primaria para estudiar expresión y crítica de autoridades; este capítulo no resume el régimen jurídico de un país.
+- [Antonio Escohotado, Majestades, crímenes y víctimas](https://www.anagrama-ed.es/libro/cronicas/majestades-crimenes-y-victimas/9788433925077/CR_7), estudio sobre la frontera entre moral y derecho y la persecución de conductas sin una víctima directa. Se usa como interlocutor para exigir que se identifique el daño, no como afirmación de que toda prohibición carezca de víctimas.
 - [BCE, preguntas frecuentes sobre el euro digital](https://www.ecb.europa.eu/euro/digital_euro/faqs/html/ecb.faq_digital_euro.en.html), actualización consultada del 17 de agosto de 2026, preguntas 4 y 20: complemento del efectivo y distinción entre dinero programable y pagos condicionales. Son características del diseño publicado, no garantías de todo desarrollo futuro.
 - [Reglamento europeo 2024/1183](https://eur-lex.europa.eu/eli/reg/2024/1183/oj/eng), modificación del Reglamento 910/2014 que introduce su artículo 5 bis, apartados 4, 15 y 16: divulgación selectiva, voluntariedad y condiciones contra el seguimiento. Debe distinguirse su texto de cada implementación.
 - [Supervisor Europeo de Protección de Datos, Digital identity wallet](https://www.edps.europa.eu/data-protection/technology-monitoring/techsonar/digital-identity-wallet), riesgos de identificación excesiva y perfiles según el diseño.
